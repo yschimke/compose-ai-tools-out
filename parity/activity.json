@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-22T21:57:22.399Z",
+  "generatedAt": "2026-09-22T22:30:24.474Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5597ea69fe7649753d865a0bb6053ab8e59e85ab",
+        "subject": "chore(main): release 2.22.1 (#5551)",
+        "at": "2026-09-22T23:11:28+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9ac0bda6b84a64845a3e18b87e462df187aadab0",
         "subject": "build: publish wear catalog to output repository (#5550)",
@@ -474,14 +482,6 @@
         "sha": "6651e4b4d37bb7160765d9455ad019aec329cfbd",
         "subject": "feat(deps): take daemon 3.8.0 and contracts 3.0.0, and their builders (#5484)",
         "at": "2026-09-16T22:11:39+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d21ef6200adf93f5acab50264d73b79852a8aba4",
-        "subject": "feat(build): publish a BOM for every coordinate this repository ships (#5483)",
-        "at": "2026-09-16T21:59:37+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
