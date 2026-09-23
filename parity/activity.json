@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-22T23:09:02.877Z",
+  "generatedAt": "2026-09-23T06:39:14.941Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "d8e420ce3f3dcbb6e743f8be40606aa233f62537",
+        "subject": "chore(main): release 2.22.3 (#5557)",
+        "at": "2026-09-23T07:21:31+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "477ff93a507532621bda3be44b2d7e676d0a831e",
+        "subject": "fix: publish preview artifacts to output repositories (#5556)",
+        "at": "2026-09-23T07:10:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cfaad354e408870ebaa940508b44be21652ef011",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.22.2 (#5555)",
+        "at": "2026-09-23T00:04:00+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "eedbdf1b8d66e5a6e55dc5c55de185398bda8d24",
         "subject": "chore(main): release 2.22.2 (#5554)",
@@ -459,30 +483,6 @@
         "subject": "fix(build): read the publish baseline from Central, and fix the recovery path (#5490)",
         "at": "2026-09-17T06:22:27+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8656f772b6ec47d385f206687109bff270d6adbb",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.18.0 (#5489)",
-        "at": "2026-09-16T22:39:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1ce35f745509fedd761803cde18d31cf3e0712c7",
-        "subject": "fix(build): stop the publish plan killing the release from the included build (#5487)",
-        "at": "2026-09-16T23:18:54+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "39ad1f76aa0d8bc525a9b0a0bfc4acb5ac11cdc0",
-        "subject": "chore(main): release 2.18.0 (#5482)",
-        "at": "2026-09-16T23:02:19+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
