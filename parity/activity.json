@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T22:32:13.131Z",
+  "generatedAt": "2026-09-24T22:55:19.181Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "da3c79876fd8bf47e7801ef763ac983ea437473c",
+        "subject": "fix(deps): update rc-players to 1.75.0 (#5572)",
+        "at": "2026-09-24T23:47:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e320bee7f11aff717b53447a95de91583827690a",
         "subject": "ci(renovate): bump rc-players' BOM and checkout pin in one PR (#5570)",
@@ -474,14 +482,6 @@
         "sha": "5d46535239d5a830adcb4226acd43eeeddd26777",
         "subject": "fix(deps): update dependency ee.schimke.composeai:data-layoutinspector-core to v3.1.1 (#5505)",
         "at": "2026-09-19T08:49:12+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0c35bbd8353a17cfa3ee5a407c0de32891595622",
-        "subject": "chore(deps): update dependency yschimke/rc-players to v1.67.0 (#5506)",
-        "at": "2026-09-19T07:02:41Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
