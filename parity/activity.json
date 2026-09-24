@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T21:44:01.756Z",
+  "generatedAt": "2026-09-24T22:14:48.703Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e320bee7f11aff717b53447a95de91583827690a",
+        "subject": "ci(renovate): bump rc-players' BOM and checkout pin in one PR (#5570)",
+        "at": "2026-09-24T23:06:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b2cab0effb5f5c890f34c693f84f16b34026815a",
+        "subject": "chore(main): release 2.24.0 (#5571)",
+        "at": "2026-09-24T23:05:22+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ed1b9fafce5d1c663d3af257d53fb3098fc031b4",
+        "subject": "feat: generate member reads and calls on an explicit chain receiver (#5569)",
+        "at": "2026-09-24T23:04:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "75101c349fd65900441999f6e5c544a4c83ae76d",
         "subject": "chore(ci): update the design-artifacts export driver to v2.23.0 (#5568)",
@@ -459,30 +483,6 @@
         "subject": "chore(deps): update dependency yschimke/rc-players to v1.67.0 (#5506)",
         "at": "2026-09-19T07:02:41Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ea688b600ad1ec4929d5588d003cd0dca42bb676",
-        "subject": "chore(deps): update agp to v9.4.1 (#5503)",
-        "at": "2026-09-19T07:01:39Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "69b1fd7ee028693998d97b1f6b2512d524153ae0",
-        "subject": "fix(deps): update rc-players to v1.66.0 (#5507)",
-        "at": "2026-09-19T07:00:54Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5ff20306f6589c2c4c6f06d91eb789ba23ad73b3",
-        "subject": "test(samples): disable the animated AGSL raymarch preview while the daemon OOM is open (#5502)",
-        "at": "2026-09-18T23:46:54+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
