@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T20:24:21.689Z",
+  "generatedAt": "2026-09-24T21:19:32.743Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "75101c349fd65900441999f6e5c544a4c83ae76d",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.23.0 (#5568)",
+        "at": "2026-09-24T21:02:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "39dcae804e7e17f5bed0457d4942c36fd043f303",
+        "subject": "chore(main): release 2.23.0 (#5567)",
+        "at": "2026-09-24T21:49:51+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d76c1286a9c8291e401969fc3d93daf3544e5f6f",
+        "subject": "feat: move CapturingWearWidgetPreview to Glance Wear alpha19's preview API (#5566)",
+        "at": "2026-09-24T21:25:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7d7ff9e2b23201696082070056f9a95767cfad89",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.22.4 (#5564)",
+        "at": "2026-09-24T21:16:50+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d52bf8d9e7b2b3b1d0ed964071828c4de96880fb",
         "subject": "ci: publish integration and compose-m3 branches to compose-ai-tools-out (#5565)",
@@ -451,38 +483,6 @@
         "subject": "test(samples): disable the animated AGSL raymarch preview while the daemon OOM is open (#5502)",
         "at": "2026-09-18T23:46:54+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "52fb8693039bc77fc65609e7fbe9cd75b9ff5631",
-        "subject": "fix(cli): accurate launcher flag notes, and design verbs pick up the stored grant (#5501)",
-        "at": "2026-09-18T23:25:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "60538c380790825a226f146e61eafa1f7fc7052b",
-        "subject": "fix(deps): update rc-players to v1.65.0 (#5499)",
-        "at": "2026-09-17T18:46:13Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c48744c941ee2e30f1eea728b5afba9a950a35ee",
-        "subject": "fix(deps): update compose-preview-contracts (#5498)",
-        "at": "2026-09-17T18:45:26Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a96fcb5ac84202246e4361f42dc288fd2df2b573",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.8.3 (#5497)",
-        "at": "2026-09-17T18:44:07Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
