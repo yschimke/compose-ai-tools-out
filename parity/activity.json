@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-25T06:02:23.639Z",
+  "generatedAt": "2026-09-25T21:14:48.718Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "57d56e06948f9f9c115ebbe73966097869f6bf97",
+        "subject": "chore(main): release 2.26.0 (#5579)",
+        "at": "2026-09-25T21:46:36+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "eb18a9e27f9c53a41acd0c3f3401a2476b0cbe7b",
+        "subject": "feat(screen-generator): name a slot lambda's parameter and read it (#5581)",
+        "at": "2026-09-25T21:45:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6b2fdad7cb3bc22143de8ed86b205acb047bc7ba",
+        "subject": "fix(bundle-coordinates): retry a throttled download and name the cause when resolution fails (#5580)",
+        "at": "2026-09-25T21:03:14+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c37a0a72c4cf7e592abc1f79260c87aada26f4ea",
+        "subject": "fix(release): narrow the publish plan's shared-input rule to catalog consumers (#5577)",
+        "at": "2026-09-25T09:08:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aeb8880511cd29df1d754f5a8d8e34c21827e4ba",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.25.0 (#5578)",
+        "at": "2026-09-25T08:07:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f4e988df939b590e4e66eb2667f3cafe41dac40f",
         "subject": "chore(main): release 2.25.0 (#5574)",
@@ -443,46 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.3.0 (#5516)",
         "at": "2026-09-20T06:35:46Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1b9f3feb836a0c1ccdfbee29aa6470b73e109002",
-        "subject": "feat: carry a catalog's editing-canvas mock into ui-builder.json (#5514)",
-        "at": "2026-09-19T15:14:29+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e0eb4a36d81d54ccbc8f71c19c8a45a3369b6e32",
-        "subject": "docs: refresh model board pull (2026-09-19) (#5513)",
-        "at": "2026-09-19T15:13:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "90da07f2168e4f75931b69c8b000be6d8b49b9e4",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-player-compose to v1.67.0 (#5515)",
-        "at": "2026-09-19T13:57:08Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3f7809e628e93d4c5fb0be3f1a1fae121c9ee4c6",
-        "subject": "fix: model-board bootstrap installs and requires opencode V2 (#5512)",
-        "at": "2026-09-19T12:43:34+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8b76e0c3bc61b5c8162c0f2f2a330317e24bc69c",
-        "subject": "feat: house model lineup doc, leaderboard refresh and opencode bootstrap (#5511)",
-        "at": "2026-09-19T11:03:37+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
