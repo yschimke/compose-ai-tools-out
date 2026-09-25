@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T22:55:19.181Z",
+  "generatedAt": "2026-09-25T06:02:23.639Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "f4e988df939b590e4e66eb2667f3cafe41dac40f",
+        "subject": "chore(main): release 2.25.0 (#5574)",
+        "at": "2026-09-25T06:33:29+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "236969177f71d24965df489e1d25160f2977ab36",
+        "subject": "feat: idiomatic imports and call spelling in generated screens (#5575)",
+        "at": "2026-09-25T06:31:35+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1291da2264de2c38ce1db09d0aba72a9da67657b",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.24.0 (#5573)",
+        "at": "2026-09-24T22:59:26Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "da3c79876fd8bf47e7801ef763ac983ea437473c",
         "subject": "fix(deps): update rc-players to 1.75.0 (#5572)",
@@ -459,30 +483,6 @@
         "subject": "feat: house model lineup doc, leaderboard refresh and opencode bootstrap (#5511)",
         "at": "2026-09-19T11:03:37+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f1e5c3f109cdee3968d7dcaa7d66d1afb37d7679",
-        "subject": "fix(deps): consume the contracts line through its published BOM (#5509)",
-        "at": "2026-09-19T10:27:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "34e087f80af38c669e3bc65a620293f5a13a78f6",
-        "subject": "fix(cli): launcher allowlists cover the server's documented flags (#5508)",
-        "at": "2026-09-19T09:33:25+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5d46535239d5a830adcb4226acd43eeeddd26777",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:data-layoutinspector-core to v3.1.1 (#5505)",
-        "at": "2026-09-19T08:49:12+01:00",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
