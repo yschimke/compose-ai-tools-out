@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T12:08:20.354Z",
+  "generatedAt": "2026-09-26T16:05:37.034Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "866633ce29e78ddc62678c3286233feb7f17f731",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.27.0 (#5592)",
+        "at": "2026-09-26T16:48:35+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "784013694fad8f240dd87b4cd8c4ece3ad1dbe69",
+        "subject": "chore(main): release 2.27.0 (#5589)",
+        "at": "2026-09-26T16:40:01+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6544552b7e90ab7dee3bd9abe2838eacaa610878",
+        "subject": "feat(discovery): infer Glimmer component callsites (#5590)",
+        "at": "2026-09-26T15:35:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1f4c951819b6ded3aa91c9c0575a7854d9675cce",
+        "subject": "docs: add per-harness plugin install commands (#5591)",
+        "at": "2026-09-26T14:46:34+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "58ffe4f5534dbc4bf89fc7e2995cbdf162f1c2d3",
+        "subject": "feat(cli): launch the preview server's `a2ui` command (#5587)",
+        "at": "2026-09-26T14:08:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0f65227dcae4ac4ab85889cb1cff20fd83ff5817",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.26.1 (#5588)",
+        "at": "2026-09-26T12:02:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "44e304be24d8fa781d235584ac8b7bce6fe1f757",
         "subject": "chore(main): release 2.26.1 (#5586)",
@@ -435,54 +483,6 @@
         "subject": "fix(ui-builder): diagnose resolved canvas policy (#5525)",
         "at": "2026-09-20T14:32:46+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5192358c0781ce7877e2a5207cf69e60bab6b009",
-        "subject": "feat(design-artifacts): check out catalog renderer sources (#5523)",
-        "at": "2026-09-20T14:10:35+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "475d2fe976846fdb9f12c2d24ed57704fa3ed346",
-        "subject": "feat(ui-builder): publish catalog render contracts (#5522)",
-        "at": "2026-09-20T14:10:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ae306ae26bf42db73e2a8b4f5c5d1902f38b448f",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.20.0 (#5521)",
-        "at": "2026-09-20T11:52:12Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "061de87d496b78d4f6058d111106b7403c1ffd50",
-        "subject": "chore(main): release 2.20.0 (#5520)",
-        "at": "2026-09-20T12:43:21+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4bf890fa9c0982147e779c9e49ef79a2da4442f9",
-        "subject": "feat: publish catalog-owned UI builder runtimes (#5519)",
-        "at": "2026-09-20T12:31:06+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "df803ee3c320b7678fc3c40c6ebb7a75bf5cf6a3",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.19.0 (#5518)",
-        "at": "2026-09-20T08:40:30Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
