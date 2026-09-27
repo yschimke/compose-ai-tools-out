@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-27T08:50:49.950Z",
+  "generatedAt": "2026-09-27T15:29:47.916Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "075426faef5b27e99abd7110bde4d043ba81f1d4",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.28.1 (#5605)",
+        "at": "2026-09-27T15:21:16Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2ca6c74439fdcce83ff5d8fbc5852a8bc8dea09c",
+        "subject": "chore(main): release 2.28.1 (#5604)",
+        "at": "2026-09-27T16:12:22+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7d24017d14b2b57a4ebccaeb5bfec609f0827156",
+        "subject": "fix(cli): refresh the cached MCP server when a newer release exists (#5603)",
+        "at": "2026-09-27T15:55:09+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d247ca82dcb625ef22b2184bcc6f481cf760f639",
+        "subject": "docs: install compose-preview and compose-ui-builder by default (#5601)",
+        "at": "2026-09-27T12:36:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ad91c1c2a959a46959b013f7b50151347fc8b183",
+        "subject": "docs: default to npx skills add, curl as fallback (#5600)",
+        "at": "2026-09-27T12:09:52+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f4d0873fddfbf0373b50fa73546f748845269c80",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.28.0 (#5599)",
+        "at": "2026-09-27T10:40:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d2c1a55ef8e1f0c36f666541a69a846ebec4bb86",
         "subject": "chore(main): release 2.28.0 (#5594)",
@@ -434,54 +482,6 @@
         "sha": "40a7a8c7224bfda17eb2af10d1bbc6e8e3132885",
         "subject": "feat: publish catalog source export adapters (#5537)",
         "at": "2026-09-22T11:59:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8a79bc6cd32d0e11079ba1828e775baa6887e14b",
-        "subject": "chore(main): release 2.21.2 (#5531)",
-        "at": "2026-09-22T11:49:01+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b149183ac0fb3f20e688457c0bd67d809d3dd365",
-        "subject": "fix: exercise provisioned bundle sidecars in E2E (#5536)",
-        "at": "2026-09-22T11:48:31+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5c73afac8e8eb1dcd92e65c4bc5c87a288064155",
-        "subject": "chore(deps): bump the actions-minor group with 6 updates (#5533)",
-        "at": "2026-09-22T10:17:41+01:00",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "353b5d598bf28b0858e24591366242a3454a17e8",
-        "subject": "fix: discover components in remote material projects (#5535)",
-        "at": "2026-09-22T10:08:34+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4671a5398876c69de0d7f58917dbfcb8be882b99",
-        "subject": "fix: accept Remote Compose runtime metadata (#5534)",
-        "at": "2026-09-22T10:07:54+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c51f9d97c6f5ab5430a2b64a66603c7125a979f0",
-        "subject": "fix(install): retry bootstrap downloads (#5529)",
-        "at": "2026-09-20T18:49:20+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
