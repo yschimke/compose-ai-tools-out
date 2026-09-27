@@ -7,7 +7,7 @@
     "ref": "main",
     "module": "samples:design-catalog-wear-m3"
   },
-  "generatedAt": "2026-09-27T18:34:51.102Z",
+  "generatedAt": "2026-09-27T20:10:08.593Z",
   "mappings": [
     {
       "componentId": "Button/Filled",
@@ -35,8 +35,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/button-filled__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Button/Tonal",
@@ -64,8 +63,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/button-tonal__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Button/Outlined",
@@ -93,8 +91,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/button-outlined__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Button/Child",
@@ -122,8 +119,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/button-child__ideal__default.svg"
+      ]
     },
     {
       "componentId": "EdgeButton/smallRound",
@@ -151,8 +147,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/edgebutton-smallround.svg"
+      ]
     },
     {
       "componentId": "EdgeButton/largeRound",
@@ -180,8 +175,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/edgebutton-largeround.svg"
+      ]
     },
     {
       "componentId": "EdgeButton/xlRound",
@@ -209,8 +203,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/edgebutton-xlround.svg"
+      ]
     },
     {
       "componentId": "IconButton",
@@ -238,8 +231,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/iconbutton__ideal__default.svg"
+      ]
     },
     {
       "componentId": "CompactButton",
@@ -267,8 +259,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/compactbutton__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ButtonGroup",
@@ -296,8 +287,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/buttongroup__ideal__default.svg"
+      ]
     },
     {
       "componentId": "SwitchButton/On",
@@ -325,8 +315,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/switchbutton-on.svg"
+      ]
     },
     {
       "componentId": "Card",
@@ -354,8 +343,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/card__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/Outlined",
@@ -383,8 +371,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/card-outlined__ideal__default.svg"
+      ]
     },
     {
       "componentId": "TitleCard",
@@ -412,8 +399,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/titlecard__ideal__default.svg"
+      ]
     },
     {
       "componentId": "AppCard",
@@ -441,8 +427,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/appcard__ideal__default.svg"
+      ]
     },
     {
       "componentId": "TransformingLazyColumn/smallRound",
@@ -470,8 +455,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/transforminglazycolumn-smallround.svg"
+      ]
     },
     {
       "componentId": "TransformingLazyColumn/largeRound",
@@ -499,8 +483,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/transforminglazycolumn-largeround.svg"
+      ]
     },
     {
       "componentId": "TransformingLazyColumn/xlRound",
@@ -528,8 +511,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/transforminglazycolumn-xlround.svg"
+      ]
     },
     {
       "componentId": "Template/TimeText/smallRound",
@@ -557,8 +539,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/template-timetext-smallround.svg"
+      ]
     },
     {
       "componentId": "Template/TimeText/largeRound",
@@ -586,8 +567,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/template-timetext-largeround.svg"
+      ]
     },
     {
       "componentId": "Template/TimeText/xlRound",
@@ -615,8 +595,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/template-timetext-xlround.svg"
+      ]
     },
     {
       "componentId": "Template/PageIndicator/smallRound",
@@ -644,8 +623,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/template-pageindicator-smallround.svg"
+      ]
     },
     {
       "componentId": "Template/PageIndicator/largeRound",
@@ -673,8 +651,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/template-pageindicator-largeround.svg"
+      ]
     },
     {
       "componentId": "Template/PageIndicator/xlRound",
@@ -702,8 +679,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/template-pageindicator-xlround__ideal__default__xlround.svg"
+      ]
     },
     {
       "componentId": "Progress/Circular",
@@ -731,8 +707,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/progress-circular__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Progress/Circular/Indeterminate",
@@ -760,8 +735,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/progress-circular-indeterminate.svg"
+      ]
     },
     {
       "componentId": "Text/MaxLines-Truncated",
@@ -789,8 +763,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/text-maxlines-truncated__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Icon",
@@ -818,8 +791,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/icon__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Typography",
@@ -847,8 +819,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/typography__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ColorScheme",
@@ -876,8 +847,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/colorscheme__ideal__default.svg"
+      ]
     }
   ]
 }
