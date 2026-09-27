@@ -3444,7 +3444,7 @@
     "functionName": "RemoteAnimatedCircularProgressIndicatorEmbeddedPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteAnimatedCircularProgressIndicatorEmbeddedPreview-b1500f26.png",
-    "sha256": "0eb2e5114e58245efb0352101ed27a12758e15b13549c80bc3cc9ca79ecdcc2e",
+    "sha256": "fcce3b6841fa7a1ade3eb9064d2b154f07241e93bfa90087ec2710a9e4ecca6b",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteAnimatedCircularProgressIndicatorStandardPreview": {
@@ -3452,7 +3452,7 @@
     "functionName": "RemoteAnimatedCircularProgressIndicatorStandardPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteAnimatedCircularProgressIndicatorStandardPreview-012dea9c.png",
-    "sha256": "0eb2e5114e58245efb0352101ed27a12758e15b13549c80bc3cc9ca79ecdcc2e",
+    "sha256": "fcce3b6841fa7a1ade3eb9064d2b154f07241e93bfa90087ec2710a9e4ecca6b",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonEnabledPreview": {
@@ -3492,7 +3492,7 @@
     "functionName": "RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview-53123345.gif",
-    "sha256": "fd0891797da6895623c69f86b38127aaf90ab154da59de1ae2e1dcc316f5fa70",
+    "sha256": "f319de6387bec38108f96715744a3eb95866207dcb515367327204a74d77fb0d",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteIndeterminateCircularProgressIndicatorStandardPreview": {
@@ -3500,7 +3500,7 @@
     "functionName": "RemoteIndeterminateCircularProgressIndicatorStandardPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteIndeterminateCircularProgressIndicatorStandardPreview-ce0e723c.gif",
-    "sha256": "fd0891797da6895623c69f86b38127aaf90ab154da59de1ae2e1dcc316f5fa70",
+    "sha256": "f319de6387bec38108f96715744a3eb95866207dcb515367327204a74d77fb0d",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteShaderGradientPreview": {
