@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T16:05:37.034Z",
+  "generatedAt": "2026-09-27T08:50:49.950Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "d2c1a55ef8e1f0c36f666541a69a846ebec4bb86",
+        "subject": "chore(main): release 2.28.0 (#5594)",
+        "at": "2026-09-27T09:22:04+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4525b47892833aa2c68be9d7fc6e9a6e390ea031",
+        "subject": "fix(ci): restore Compose Preview workflow permissions (#5598)",
+        "at": "2026-09-27T09:14:00+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f6b54f7d55aa49a5caa6b63cb65418e563186fb4",
+        "subject": "fix(docs): point MCP downloads to server releases (#5596)",
+        "at": "2026-09-27T08:38:25+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "800d449137be337654a25fade49f9b453c24cf91",
+        "subject": "build(deps): update contracts to 3.12.0 (#5597)",
+        "at": "2026-09-27T08:37:12+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "62de53626d5337475788d719ba123f50ff0254ca",
+        "subject": "fix(release): keep plugin examples on published line (#5595)",
+        "at": "2026-09-26T23:42:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "02985b74bc6c2cfef298b8abf3463c811f37fefd",
+        "subject": "feat(cli): install OpenCode MCP configuration (#5593)",
+        "at": "2026-09-26T22:35:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "866633ce29e78ddc62678c3286233feb7f17f731",
         "subject": "chore(ci): update the design-artifacts export driver to v2.27.0 (#5592)",
@@ -434,54 +482,6 @@
         "sha": "c51f9d97c6f5ab5430a2b64a66603c7125a979f0",
         "subject": "fix(install): retry bootstrap downloads (#5529)",
         "at": "2026-09-20T18:49:20+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "922d7630b105fffcb3f5eb006237684f435219eb",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.21.1 (#5530)",
-        "at": "2026-09-20T18:49:10+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6cdf95b56357e97d791a0936327888363420f594",
-        "subject": "chore(main): release 2.21.1 (#5528)",
-        "at": "2026-09-20T18:20:53+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6597c8d1265e394f8a2e1bb260d3375e56d36fde",
-        "subject": "fix(release): skip unchanged Maven publications (#5527)",
-        "at": "2026-09-20T17:49:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9d09cf319740496541ad81338c31d5852e8f706e",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.21.0 (#5526)",
-        "at": "2026-09-20T16:42:09Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8bbabeba44222e83a681f8fd5ddc45f813a21605",
-        "subject": "chore(main): release 2.21.0 (#5524)",
-        "at": "2026-09-20T14:33:30+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f33566d6d081881850a5b955f18310f6ff9b63fa",
-        "subject": "fix(ui-builder): diagnose resolved canvas policy (#5525)",
-        "at": "2026-09-20T14:32:46+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
