@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-27T15:29:47.916Z",
+  "generatedAt": "2026-09-27T18:34:55.304Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "fcba9a615627c16758679505a031c22d7ee15de9",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.28.2 (#5609)",
+        "at": "2026-09-27T18:28:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4b5fb2a1835d8655d0c58cd682cf2cbe2b1cc265",
+        "subject": "chore(main): release 2.28.2 (#5608)",
+        "at": "2026-09-27T19:19:33+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "abc994bba6f675bcb0913e843e4676fa7238ae8e",
+        "subject": "fix(mcp): register a stable launcher and repair versioned MCP entries (#5606)",
+        "at": "2026-09-27T19:18:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "075426faef5b27e99abd7110bde4d043ba81f1d4",
         "subject": "chore(ci): update the design-artifacts export driver to v2.28.1 (#5605)",
@@ -458,30 +482,6 @@
         "sha": "24d7689918dba0c5f95a07672c402165fe5c4b38",
         "subject": "ci: tolerate unsupported Kotlin CodeQL extraction (#5540)",
         "at": "2026-09-22T12:30:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b455f5644ea8a8450e7cf10db3a2d25468881245",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.21.2 (#5542)",
-        "at": "2026-09-22T11:27:18Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fa0e5f6b8ddb2b5fca0844a3a5ea47df7a4e73f1",
-        "subject": "ci: allow known gitleaks test fixtures (#5538)",
-        "at": "2026-09-22T12:00:31+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "40a7a8c7224bfda17eb2af10d1bbc6e8e3132885",
-        "subject": "feat: publish catalog source export adapters (#5537)",
-        "at": "2026-09-22T11:59:21+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
