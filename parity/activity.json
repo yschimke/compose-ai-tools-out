@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-28T13:08:51.313Z",
+  "generatedAt": "2026-09-29T22:55:32.312Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5c2c949a379f2c2394a1e80ad4b6d1ef7ac0f307",
+        "subject": "chore(deps): bump the actions-minor group with 5 updates (#5618)",
+        "at": "2026-09-29T23:48:22+01:00",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "84ba8a22e766c6e37a62a6fecb469e5fcd91ff34",
         "subject": "chore(ci): update the design-artifacts export driver to v2.28.4 (#5619)",
@@ -475,14 +483,6 @@
         "subject": "fix(catalog): publish semantics-only annotation layers (#5553)",
         "at": "2026-09-22T23:45:51+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "232de4aa3a5e27773078fc6885a87124574feede",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.22.1 (#5552)",
-        "at": "2026-09-22T23:26:28+01:00",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
