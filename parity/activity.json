@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T06:19:18.911Z",
+  "generatedAt": "2026-09-30T07:04:27.427Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "cdb78714aa266317a19c09bd913b10aed3cf3542",
+        "subject": "fix(deps): update design-parity export toolchain to v1.2.0 (#5631)",
+        "at": "2026-09-30T06:42:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e2dd807f2126e9299521b175c2e9cf609a35c215",
         "subject": "chore(deps): bump fast-uri from 3.1.5 to 3.1.8 in /scripts/design-artifacts in the npm_and_yarn group across 1 directory (#5621)",
@@ -475,14 +483,6 @@
         "subject": "chore(main): release 2.22.3 (#5557)",
         "at": "2026-09-23T07:21:31+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "477ff93a507532621bda3be44b2d7e676d0a831e",
-        "subject": "fix: publish preview artifacts to output repositories (#5556)",
-        "at": "2026-09-23T07:10:46+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
