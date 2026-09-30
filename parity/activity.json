@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T11:09:21.265Z",
+  "generatedAt": "2026-09-30T15:47:16.177Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "b7fde993df5ce55a8cebdd394bd20a08cb636e51",
+        "subject": "feat(rc-render-jvm): render the cmp-jvm lane through the CMP player (#5636)",
+        "at": "2026-09-30T16:37:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "57842a3475cba9d0d911b3048e21d5bd02679bdd",
+        "subject": "feat: show the ROND axis in the typography inspect label (#5637)",
+        "at": "2026-09-30T16:36:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2c23c70ea40c0ecc42b2c37c4fcd8bbd2067fb3f",
+        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.196 (#5628)",
+        "at": "2026-09-30T11:16:20Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d8d6970ea95978a632e54cbbea7e759075a9b2a9",
+        "subject": "fix: label typography inspect with the wght axis, not the declared font weight (#5635)",
+        "at": "2026-09-30T12:03:13+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "bebd6448aa37448090f069433ba4bca7d809d1ef",
         "subject": "fix(rc-compare): name the three RC lanes after the player that draws them (#5634)",
@@ -451,38 +483,6 @@
         "subject": "chore(main): release 2.24.0 (#5571)",
         "at": "2026-09-24T23:05:22+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ed1b9fafce5d1c663d3af257d53fb3098fc031b4",
-        "subject": "feat: generate member reads and calls on an explicit chain receiver (#5569)",
-        "at": "2026-09-24T23:04:11+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "75101c349fd65900441999f6e5c544a4c83ae76d",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.23.0 (#5568)",
-        "at": "2026-09-24T21:02:28Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "39dcae804e7e17f5bed0457d4942c36fd043f303",
-        "subject": "chore(main): release 2.23.0 (#5567)",
-        "at": "2026-09-24T21:49:51+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d76c1286a9c8291e401969fc3d93daf3544e5f6f",
-        "subject": "feat: move CapturingWearWidgetPreview to Glance Wear alpha19's preview API (#5566)",
-        "at": "2026-09-24T21:25:58+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
