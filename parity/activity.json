@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T15:47:16.177Z",
+  "generatedAt": "2026-09-30T17:40:57.046Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "2cb465616abebf99f27a194a0db188bc5fe97ed0",
+        "subject": "feat(design-artifacts): run render assertions in the export workflow (#5643)",
+        "at": "2026-09-30T18:29:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7acb7cdd4d24009a7d441b09a2d5e8c0802ceb67",
+        "subject": "fix(ci): never root a delivery branch from a delta-only publish (#5642)",
+        "at": "2026-09-30T17:36:27+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "820e812a6aab4c070b64051cb8ee6ddac71712e3",
+        "subject": "fix(cli): find both Antigravity MCP configs and skip the global entry when the plugin provides it (#5641)",
+        "at": "2026-09-30T17:28:56+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ee244cb1c5d107f012486a68ee34fed1077f6477",
+        "subject": "feat: show non-default variable axes, font features and RTL in the typography label (#5639)",
+        "at": "2026-09-30T17:05:59+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "33076499ffc5019fcc16c2ec4e0a7402b2150207",
+        "subject": "fix(ci): pin the AdaptiveJetStream consumer patch's xr to 1.0.0-beta01 (#5640)",
+        "at": "2026-09-30T16:54:05+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b7fde993df5ce55a8cebdd394bd20a08cb636e51",
         "subject": "feat(rc-render-jvm): render the cmp-jvm lane through the CMP player (#5636)",
@@ -442,46 +482,6 @@
         "sha": "f4e988df939b590e4e66eb2667f3cafe41dac40f",
         "subject": "chore(main): release 2.25.0 (#5574)",
         "at": "2026-09-25T06:33:29+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "236969177f71d24965df489e1d25160f2977ab36",
-        "subject": "feat: idiomatic imports and call spelling in generated screens (#5575)",
-        "at": "2026-09-25T06:31:35+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1291da2264de2c38ce1db09d0aba72a9da67657b",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.24.0 (#5573)",
-        "at": "2026-09-24T22:59:26Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "da3c79876fd8bf47e7801ef763ac983ea437473c",
-        "subject": "fix(deps): update rc-players to 1.75.0 (#5572)",
-        "at": "2026-09-24T23:47:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e320bee7f11aff717b53447a95de91583827690a",
-        "subject": "ci(renovate): bump rc-players' BOM and checkout pin in one PR (#5570)",
-        "at": "2026-09-24T23:06:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b2cab0effb5f5c890f34c693f84f16b34026815a",
-        "subject": "chore(main): release 2.24.0 (#5571)",
-        "at": "2026-09-24T23:05:22+01:00",
         "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
