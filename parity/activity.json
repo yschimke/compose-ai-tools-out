@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-29T22:55:32.312Z",
+  "generatedAt": "2026-09-30T06:19:18.911Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e2dd807f2126e9299521b175c2e9cf609a35c215",
+        "subject": "chore(deps): bump fast-uri from 3.1.5 to 3.1.8 in /scripts/design-artifacts in the npm_and_yarn group across 1 directory (#5621)",
+        "at": "2026-09-30T07:12:06+01:00",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "179d6c3b9da7688ae4a70b2206f94ad28c7ca8bf",
+        "subject": "fix(cli): accept and forward update --no-modify-path to install.sh (#5623)",
+        "at": "2026-09-30T07:07:56+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "11cebe4afdfc8b7c43cf4dc0c5f47fdca9a314b0",
+        "subject": "fix(ci): repair agp8-min script path and resolve preview-annotations via the daemon BOM (#5622)",
+        "at": "2026-09-30T06:51:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5c2c949a379f2c2394a1e80ad4b6d1ef7ac0f307",
         "subject": "chore(deps): bump the actions-minor group with 5 updates (#5618)",
@@ -458,30 +482,6 @@
         "sha": "477ff93a507532621bda3be44b2d7e676d0a831e",
         "subject": "fix: publish preview artifacts to output repositories (#5556)",
         "at": "2026-09-23T07:10:46+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cfaad354e408870ebaa940508b44be21652ef011",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.22.2 (#5555)",
-        "at": "2026-09-23T00:04:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eedbdf1b8d66e5a6e55dc5c55de185398bda8d24",
-        "subject": "chore(main): release 2.22.2 (#5554)",
-        "at": "2026-09-22T23:51:51+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e1279c530dcaa4ff47500d4072676721800a3c8d",
-        "subject": "fix(catalog): publish semantics-only annotation layers (#5553)",
-        "at": "2026-09-22T23:45:51+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
