@@ -540,7 +540,7 @@
     "functionName": "EmojiCompatComparisonPreview",
     "module": "samples:android",
     "renderBasename": "EmojiCompatComparisonPreview_EmojiCompat_comparison-5e4b0382.png",
-    "sha256": "ff556edaef54889a147606d06bebff44ac6bf7a3f13f3b7c8a2b65f9460ce0ab",
+    "sha256": "5d33a1c32197296aa1a3c7e59b100c3c78d1ff86c9c15a3514201e3e736247a5",
     "sourceFile": "src/main/kotlin/com/example/sampleandroid/EmojiCompatComparisonPreview.kt"
   },
   "samples:android/com.example.sampleandroid.FontPreviewShowcaseKt.FontWrapperShowcasePreview_Dark": {
