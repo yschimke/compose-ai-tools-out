@@ -1,11 +1,75 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T07:04:27.427Z",
+  "generatedAt": "2026-09-30T11:09:21.265Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "bebd6448aa37448090f069433ba4bca7d809d1ef",
+        "subject": "fix(rc-compare): name the three RC lanes after the player that draws them (#5634)",
+        "at": "2026-09-30T12:02:34+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1c9560ec7dfcd5aa88ed62c481d71cfe1de294d2",
+        "subject": "fix(deps): update roborazzi to v1.76.0 (#5632)",
+        "at": "2026-09-30T07:03:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fab130386e9018a2bdb536ad42174cd4b01b403c",
+        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.8.0 (#5630)",
+        "at": "2026-09-30T06:59:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "474a87810d8c3068d4e7cd45c0ccc0ab318534ce",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.9.2 (#5627)",
+        "at": "2026-09-30T06:59:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0b85e44faceb130d00e3edc6fb8011d25e95726c",
+        "subject": "fix(deps): update metro to v1.4.5 (#5629)",
+        "at": "2026-09-30T06:58:06Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b6e02803bcd8cd9fdf3bff63ef46a3c6ea08ebd7",
+        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-alpha29 (#5626)",
+        "at": "2026-09-30T06:56:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fd98ac8d36eb9abe796385aff0dcdf8f1246cf9a",
+        "subject": "fix(deps): update androidx (#5624)",
+        "at": "2026-09-30T06:54:12Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "14e222fe80fb579213814c6051d9a5eb9db6ea9e",
+        "subject": "fix(deps): update androidx-wear to v1.7.0 (#5625)",
+        "at": "2026-09-30T06:50:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "cdb78714aa266317a19c09bd913b10aed3cf3542",
         "subject": "fix(deps): update design-parity export toolchain to v1.2.0 (#5631)",
@@ -419,70 +483,6 @@
         "subject": "feat: move CapturingWearWidgetPreview to Glance Wear alpha19's preview API (#5566)",
         "at": "2026-09-24T21:25:58+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7d7ff9e2b23201696082070056f9a95767cfad89",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.22.4 (#5564)",
-        "at": "2026-09-24T21:16:50+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d52bf8d9e7b2b3b1d0ed964071828c4de96880fb",
-        "subject": "ci: publish integration and compose-m3 branches to compose-ai-tools-out (#5565)",
-        "at": "2026-09-24T21:13:02+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "70e1f4ac04ffc06aa04c5071e151d50da8fa03d2",
-        "subject": "chore(main): release 2.22.4 (#5561)",
-        "at": "2026-09-24T21:08:47+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "093f7315be0cd3f564915b302e6d9023879f816e",
-        "subject": "fix: keep extracted renderer .class files off the render classpath (#5563)",
-        "at": "2026-09-24T21:04:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9030f5a1f1c34a2a1c239f2030f9c40bb0af7336",
-        "subject": "fix: isolate preview publishing credentials (#5560)",
-        "at": "2026-09-23T12:18:02+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e48d59da6755f33d3eb761b4a26976c759a85a6e",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.22.3 (#5559)",
-        "at": "2026-09-23T08:09:10Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4c5f696e42669a7a16188fc00735c4fba5b27fa9",
-        "subject": "build: publish preview branches to output repository (#5558)",
-        "at": "2026-09-23T07:38:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d8e420ce3f3dcbb6e743f8be40606aa233f62537",
-        "subject": "chore(main): release 2.22.3 (#5557)",
-        "at": "2026-09-23T07:21:31+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
