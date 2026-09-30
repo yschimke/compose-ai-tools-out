@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T17:40:57.046Z",
+  "generatedAt": "2026-09-30T21:47:10.550Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "51ffbb7486203042627a2e8d020df8ffdac379f5",
+        "subject": "chore(main): release 2.29.0 (#5616)",
+        "at": "2026-09-30T22:18:08+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e2fa0c7b023729cb666d43b39e9ba0da6b06c610",
+        "subject": "chore(deps): bump compose-preview-contracts to 3.13.1 (#5646)",
+        "at": "2026-09-30T22:15:31+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6fbdcc77a23e0ef3397966092af8e9f16ff531e2",
+        "subject": "fix(deps): update rc-players to v2.0.2 (#5645)",
+        "at": "2026-09-30T18:36:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e5f70dc5f941121701805d343db21332f2c3c923",
+        "subject": "fix(cli): stop the server child when the launcher is killed (#5644)",
+        "at": "2026-09-30T18:32:56+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2cb465616abebf99f27a194a0db188bc5fe97ed0",
         "subject": "feat(design-artifacts): run render assertions in the export workflow (#5643)",
@@ -451,38 +483,6 @@
         "subject": "feat(screen-generator): name a slot lambda's parameter and read it (#5581)",
         "at": "2026-09-25T21:45:42+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6b2fdad7cb3bc22143de8ed86b205acb047bc7ba",
-        "subject": "fix(bundle-coordinates): retry a throttled download and name the cause when resolution fails (#5580)",
-        "at": "2026-09-25T21:03:14+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c37a0a72c4cf7e592abc1f79260c87aada26f4ea",
-        "subject": "fix(release): narrow the publish plan's shared-input rule to catalog consumers (#5577)",
-        "at": "2026-09-25T09:08:29+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "aeb8880511cd29df1d754f5a8d8e34c21827e4ba",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.25.0 (#5578)",
-        "at": "2026-09-25T08:07:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f4e988df939b590e4e66eb2667f3cafe41dac40f",
-        "subject": "chore(main): release 2.25.0 (#5574)",
-        "at": "2026-09-25T06:33:29+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
