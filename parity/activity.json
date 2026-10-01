@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T09:54:56.334Z",
+  "generatedAt": "2026-10-01T10:01:23.034Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "3653485940e6df0f03b875473b6c2796f2e93f61",
+        "subject": "perf(rc-compare): render the parity documents concurrently (#5656)",
+        "at": "2026-10-01T10:53:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "40aef1996f718dcdb8c147e5342237fa8b488940",
         "subject": "chore(main): release 2.30.0 (#5650)",
@@ -475,14 +483,6 @@
         "subject": "chore(main): release 2.27.0 (#5589)",
         "at": "2026-09-26T16:40:01+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6544552b7e90ab7dee3bd9abe2838eacaa610878",
-        "subject": "feat(discovery): infer Glimmer component callsites (#5590)",
-        "at": "2026-09-26T15:35:16+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
