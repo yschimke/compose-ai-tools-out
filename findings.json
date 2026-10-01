@@ -2942,11 +2942,11 @@
       "cleanBasename": "RemoteAnimatedCircularProgressIndicatorEmbeddedPreview-b1500f26.png",
       "findings": [
         {
-          "boundsInScreen": "0,0,525,525",
+          "boundsInScreen": "168,168,357,357",
           "level": "ERROR",
           "message": "This item may not have a label readable by screen readers.",
           "type": "SpeakableTextPresentCheck",
-          "viewDescription": "androidx.compose.remote.player.view.RemoteComposePlayer"
+          "viewDescription": "android.widget.Button"
         }
       ],
       "functionName": "RemoteAnimatedCircularProgressIndicatorEmbeddedPreview",
@@ -2961,11 +2961,11 @@
       "cleanBasename": "RemoteAnimatedCircularProgressIndicatorStandardPreview-012dea9c.png",
       "findings": [
         {
-          "boundsInScreen": "0,0,525,525",
+          "boundsInScreen": "168,168,357,357",
           "level": "ERROR",
           "message": "This item may not have a label readable by screen readers.",
           "type": "SpeakableTextPresentCheck",
-          "viewDescription": "androidx.compose.remote.player.view.RemoteComposePlayer"
+          "viewDescription": "android.widget.Button"
         }
       ],
       "functionName": "RemoteAnimatedCircularProgressIndicatorStandardPreview",
@@ -2997,15 +2997,7 @@
     {
       "annotatedBasename": "RemoteButtonWithBorderPreview-298b3408.a11y.png",
       "cleanBasename": "RemoteButtonWithBorderPreview-298b3408.png",
-      "findings": [
-        {
-          "boundsInScreen": "0,0,525,525",
-          "level": "ERROR",
-          "message": "This item may not have a label readable by screen readers.",
-          "type": "SpeakableTextPresentCheck",
-          "viewDescription": "androidx.compose.remote.player.view.RemoteComposePlayer"
-        }
-      ],
+      "findings": [],
       "functionName": "RemoteButtonWithBorderPreview",
       "module": "remotecompose",
       "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithBorderPreview",
@@ -3016,15 +3008,7 @@
     {
       "annotatedBasename": "RemoteButtonWithNamedLabelPreview-f3014b8f.a11y.png",
       "cleanBasename": "RemoteButtonWithNamedLabelPreview-f3014b8f.png",
-      "findings": [
-        {
-          "boundsInScreen": "0,0,525,525",
-          "level": "ERROR",
-          "message": "This item may not have a label readable by screen readers.",
-          "type": "SpeakableTextPresentCheck",
-          "viewDescription": "androidx.compose.remote.player.view.RemoteComposePlayer"
-        }
-      ],
+      "findings": [],
       "functionName": "RemoteButtonWithNamedLabelPreview",
       "module": "remotecompose",
       "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithNamedLabelPreview",
@@ -3054,15 +3038,7 @@
     {
       "annotatedBasename": "RemoteShaderGradientPreview-6739688f.a11y.png",
       "cleanBasename": "RemoteShaderGradientPreview-6739688f.png",
-      "findings": [
-        {
-          "boundsInScreen": "0,0,525,525",
-          "level": "ERROR",
-          "message": "This item may not have a label readable by screen readers.",
-          "type": "SpeakableTextPresentCheck",
-          "viewDescription": "androidx.compose.remote.player.view.RemoteComposePlayer"
-        }
-      ],
+      "findings": [],
       "functionName": "RemoteShaderGradientPreview",
       "module": "remotecompose",
       "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteShaderGradientPreview",
@@ -3073,15 +3049,7 @@
     {
       "annotatedBasename": "RemoteWidgetSquirclePreview_Remote_Widget_Squircle-2f39ed33.a11y.png",
       "cleanBasename": "RemoteWidgetSquirclePreview_Remote_Widget_Squircle-2f39ed33.png",
-      "findings": [
-        {
-          "boundsInScreen": "0,0,504,504",
-          "level": "ERROR",
-          "message": "This item may not have a label readable by screen readers.",
-          "type": "SpeakableTextPresentCheck",
-          "viewDescription": "androidx.compose.remote.player.view.RemoteComposePlayer"
-        }
-      ],
+      "findings": [],
       "functionName": "RemoteWidgetSquirclePreview",
       "module": "remotecompose",
       "previewId": "com.example.sampleremotecompose.WearWidgetPreviewsKt.RemoteWidgetSquirclePreview_Remote Widget Squircle",

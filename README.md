@@ -1,6 +1,6 @@
 # Accessibility Report
 
-_Auto-generated from `compose-preview/a11y/main`. 296 preview(s) across 18 module(s) · 17 error(s) · 4 warning(s) · 30 info._
+_Auto-generated from `compose-preview/a11y/main`. 296 preview(s) across 18 module(s) · 13 error(s) · 4 warning(s) · 30 info._
 
 Browse inline; image URLs are pinned to the commit SHA on the baseline branch so links keep resolving after merge.
 
@@ -1549,7 +1549,7 @@ _No findings._
 
 | # | Level | Rule | Element | Message |
 |--:|---|---|---|---|
-| 1 | ERROR | SpeakableTextPresentCheck | androidx.compose.remote.player.view.RemoteComposePlayer | This item may not have a label readable by screen readers. |
+| 1 | ERROR | SpeakableTextPresentCheck | android.widget.Button | This item may not have a label readable by screen readers. |
 
 ### `RemoteAnimatedCircularProgressIndicatorStandardPreview`
 
@@ -1557,7 +1557,7 @@ _No findings._
 
 | # | Level | Rule | Element | Message |
 |--:|---|---|---|---|
-| 1 | ERROR | SpeakableTextPresentCheck | androidx.compose.remote.player.view.RemoteComposePlayer | This item may not have a label readable by screen readers. |
+| 1 | ERROR | SpeakableTextPresentCheck | android.widget.Button | This item may not have a label readable by screen readers. |
 
 ### `RemoteButtonEnabledPreview`
 
@@ -1571,17 +1571,13 @@ _No findings._
 
 <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteButtonWithBorderPreview-298b3408.a11y.png" width="400" />
 
-| # | Level | Rule | Element | Message |
-|--:|---|---|---|---|
-| 1 | ERROR | SpeakableTextPresentCheck | androidx.compose.remote.player.view.RemoteComposePlayer | This item may not have a label readable by screen readers. |
+_No findings._
 
 ### `RemoteButtonWithNamedLabelPreview`
 
 <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteButtonWithNamedLabelPreview-f3014b8f.a11y.png" width="400" />
 
-| # | Level | Rule | Element | Message |
-|--:|---|---|---|---|
-| 1 | ERROR | SpeakableTextPresentCheck | androidx.compose.remote.player.view.RemoteComposePlayer | This item may not have a label readable by screen readers. |
+_No findings._
 
 ### `RemoteButtonWithShapePreview`
 
@@ -1595,17 +1591,13 @@ _No findings._
 
 <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteShaderGradientPreview-6739688f.a11y.png" width="400" />
 
-| # | Level | Rule | Element | Message |
-|--:|---|---|---|---|
-| 1 | ERROR | SpeakableTextPresentCheck | androidx.compose.remote.player.view.RemoteComposePlayer | This item may not have a label readable by screen readers. |
+_No findings._
 
 ### `RemoteWidgetSquirclePreview`
 
 <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteWidgetSquirclePreview_Remote_Widget_Squircle-2f39ed33.a11y.png" width="400" />
 
-| # | Level | Rule | Element | Message |
-|--:|---|---|---|---|
-| 1 | ERROR | SpeakableTextPresentCheck | androidx.compose.remote.player.view.RemoteComposePlayer | This item may not have a label readable by screen readers. |
+_No findings._
 
 ## sdk-matrix
 
