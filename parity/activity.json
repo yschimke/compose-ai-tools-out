@@ -1,11 +1,75 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T21:47:10.550Z",
+  "generatedAt": "2026-10-01T09:54:56.334Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "40aef1996f718dcdb8c147e5342237fa8b488940",
+        "subject": "chore(main): release 2.30.0 (#5650)",
+        "at": "2026-10-01T10:28:03+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a7a3935fb3166709e69607f2dedbb73a1de56a36",
+        "subject": "docs: add contracts and ui-builder to the Maven release footprint (#5655)",
+        "at": "2026-10-01T10:01:35+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fb2e3c09a5b6ff3b2ee5053930d5c86f42d1709a",
+        "subject": "feat(cli): name the launcher to the MCP server in COMPOSE_PREVIEW_CLI (#5653)",
+        "at": "2026-10-01T09:56:34+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2a944c266058c96fb47be2340e72b002bc8fccd7",
+        "subject": "docs: measure the Maven release footprint since publish plans (#5654)",
+        "at": "2026-10-01T09:52:09+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2b9e3ed6fbf2513fcc09e907dfcf8607cd921eeb",
+        "subject": "fix(cli): don't register a duplicate Claude Code server when the plugin is installed (#5652)",
+        "at": "2026-10-01T09:01:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6e19aedfccbe3956fc65bf8bd32e89138c574500",
+        "subject": "fix(deps): update compose-preview-daemon to 3.11.0 and contracts to 3.14.0 (#5651)",
+        "at": "2026-10-01T09:00:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "25f12262e3577e2fba49b26533a63e6bbc2eeab3",
+        "subject": "fix(ci): pin download-artifact correctly and pass the token for run-id (#5649)",
+        "at": "2026-10-01T08:13:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "64ab819dbec04060b49026ab665aed68bc25f37a",
+        "subject": "chore(ci): move the design-artifacts driver pin to v2.29.0 (#5647)",
+        "at": "2026-10-01T05:48:33+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "51ffbb7486203042627a2e8d020df8ffdac379f5",
         "subject": "chore(main): release 2.29.0 (#5616)",
@@ -418,70 +482,6 @@
         "sha": "6544552b7e90ab7dee3bd9abe2838eacaa610878",
         "subject": "feat(discovery): infer Glimmer component callsites (#5590)",
         "at": "2026-09-26T15:35:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1f4c951819b6ded3aa91c9c0575a7854d9675cce",
-        "subject": "docs: add per-harness plugin install commands (#5591)",
-        "at": "2026-09-26T14:46:34+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "58ffe4f5534dbc4bf89fc7e2995cbdf162f1c2d3",
-        "subject": "feat(cli): launch the preview server's `a2ui` command (#5587)",
-        "at": "2026-09-26T14:08:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0f65227dcae4ac4ab85889cb1cff20fd83ff5817",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.26.1 (#5588)",
-        "at": "2026-09-26T12:02:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "44e304be24d8fa781d235584ac8b7bce6fe1f757",
-        "subject": "chore(main): release 2.26.1 (#5586)",
-        "at": "2026-09-26T12:51:49+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4b20a19913c2c945973aa611b0ad49a5bf32e844",
-        "subject": "fix(render-host): start playground snippet JVMs with a minimal environment (#5585)",
-        "at": "2026-09-26T11:45:50+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2fdd1ec4011a9c7fa70f22118e3d59ee291212f9",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.26.0 (#5582)",
-        "at": "2026-09-26T01:00:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "57d56e06948f9f9c115ebbe73966097869f6bf97",
-        "subject": "chore(main): release 2.26.0 (#5579)",
-        "at": "2026-09-25T21:46:36+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eb18a9e27f9c53a41acd0c3f3401a2476b0cbe7b",
-        "subject": "feat(screen-generator): name a slot lambda's parameter and read it (#5581)",
-        "at": "2026-09-25T21:45:42+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
