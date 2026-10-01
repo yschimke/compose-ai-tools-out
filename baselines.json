@@ -3468,7 +3468,7 @@
     "functionName": "RemoteButtonWithBorderPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteButtonWithBorderPreview-298b3408.png",
-    "sha256": "a0900a7fe72d183c83c97deec12abfe2c1b30c7cbe1a40dd36906fee4a4942e3",
+    "sha256": "539dfbfe7c99f28843aa7e00538fe71845f5f3dc3ecd69ecf30204460da09f1a",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithNamedLabelPreview": {
@@ -3476,7 +3476,7 @@
     "functionName": "RemoteButtonWithNamedLabelPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteButtonWithNamedLabelPreview-f3014b8f.png",
-    "sha256": "4ca83fad1074c17084a632b1f951c4526a45d89be91e2d139f1f38397c58c167",
+    "sha256": "83452eb6f1ccc041c18e0bd77b58cceeb837e94f56572ae6e514be98bbb24af1",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithShapePreview": {
@@ -3492,7 +3492,7 @@
     "functionName": "RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview-53123345.gif",
-    "sha256": "be0f5be7841e309922a5bb01aeae8bc290d5297c92b2f051655b416312b33d91",
+    "sha256": "f319de6387bec38108f96715744a3eb95866207dcb515367327204a74d77fb0d",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteIndeterminateCircularProgressIndicatorStandardPreview": {
@@ -3500,7 +3500,7 @@
     "functionName": "RemoteIndeterminateCircularProgressIndicatorStandardPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteIndeterminateCircularProgressIndicatorStandardPreview-ce0e723c.gif",
-    "sha256": "be0f5be7841e309922a5bb01aeae8bc290d5297c92b2f051655b416312b33d91",
+    "sha256": "f319de6387bec38108f96715744a3eb95866207dcb515367327204a74d77fb0d",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteShaderGradientPreview": {
@@ -3508,7 +3508,7 @@
     "functionName": "RemoteShaderGradientPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteShaderGradientPreview-6739688f.png",
-    "sha256": "fc0ba94173d63faadf5a83c702072ddaee1bdf1a4c893ae3a69c40161363ed0c",
+    "sha256": "59cab913c3b74e996765d6ecad820a159b213598719f97fbb7f5fb2b61123f1e",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.WearWidgetPreviewsKt.RemoteWidgetSquirclePreview_Remote Widget Squircle": {
@@ -3516,7 +3516,7 @@
     "functionName": "RemoteWidgetSquirclePreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteWidgetSquirclePreview_Remote_Widget_Squircle-2f39ed33.png",
-    "sha256": "a89de7f4f104ec39ef91707ba4eaa6c61bdb6d944b34f911d727376d527e05cc",
+    "sha256": "4a3f034f077deb269708b4871a3313788a3e63e38d806c32ae7a4062447838fb",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/WearWidgetPreviews.kt"
   },
   "samples:remotecompose/shapecatalog__Remote_theme": {
