@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T09:39:08.221Z",
+  "generatedAt": "2026-10-02T09:57:10.858Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8718dd4fde36e2a4b6948b08d041ee90c825248f",
+        "subject": "fix(serve): name Remote Compose players by implementation; cmp-android is the CMP player (#5669)",
+        "at": "2026-10-02T10:47:06+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "95f8bd68d0842d8eb087f07ac7d4e296397e7624",
         "subject": "fix(design-artifacts): reject a display.hero naming a @CatalogVariant function (#5668)",
@@ -475,14 +483,6 @@
         "subject": "chore(main): release 2.28.1 (#5604)",
         "at": "2026-09-27T16:12:22+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7d24017d14b2b57a4ebccaeb5bfec609f0827156",
-        "subject": "fix(cli): refresh the cached MCP server when a newer release exists (#5603)",
-        "at": "2026-09-27T15:55:09+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
