@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "bc8977df1252b9c8e00058dda99c4f21273f8f9a",
+    "generatedFrom": "aa66787ae1515b0d63f2ef7bcc8b8f965742933b",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -3919,6 +3919,13 @@
             "path": "renders/samples:cmp/AutoDetectDurationAnimatedPreview_Animated_Auto_Detect_Duration-fa7980ab.gif",
             "versions": [
                 {
+                    "blob": "8664d05e89755c8ca8c404b7ea0bf1806732d1cf",
+                    "commit": "aa66787ae1515b0d63f2ef7bcc8b8f965742933b",
+                    "date": "2026-10-02T12:56:52Z",
+                    "sourceSha": "099e7c7c",
+                    "commits": 1
+                },
+                {
                     "blob": "b5713ba640c4bba671034b2b73fe3ef53dd89ed6",
                     "commit": "57c557fa40f0a076e733f6fd2a573787061bb7e8",
                     "date": "2026-09-14T22:37:48Z",
@@ -3926,7 +3933,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -3949,6 +3956,13 @@
             "path": "renders/samples:cmp/ShadowStickerGutteredAnimatedPreview_Shadow_guttered_motion-3dbada81.gif",
             "versions": [
                 {
+                    "blob": "11cfd7edabf30740764fb77e9ae4e08f10b0e54e",
+                    "commit": "aa66787ae1515b0d63f2ef7bcc8b8f965742933b",
+                    "date": "2026-10-02T12:56:52Z",
+                    "sourceSha": "099e7c7c",
+                    "commits": 1
+                },
+                {
                     "blob": "c70edd3cdcb008da19a413f8e57f6ff3e1e2f974",
                     "commit": "57c557fa40f0a076e733f6fd2a573787061bb7e8",
                     "date": "2026-09-14T22:37:48Z",
@@ -3956,7 +3970,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -4909,6 +4923,13 @@
             "path": "renders/samples:cmp/ShaderFbmAnimatedPreview_Shader_Gallery_fBm_Clouds_animated-dfc4241c.gif",
             "versions": [
                 {
+                    "blob": "9ae4cff1148a760a0158f44810fa218fd7adb629",
+                    "commit": "aa66787ae1515b0d63f2ef7bcc8b8f965742933b",
+                    "date": "2026-10-02T12:56:52Z",
+                    "sourceSha": "099e7c7c",
+                    "commits": 1
+                },
+                {
                     "blob": "6e79787a5e15e97915cd0f9592c1843f9fa92d45",
                     "commit": "57c557fa40f0a076e733f6fd2a573787061bb7e8",
                     "date": "2026-09-14T22:37:48Z",
@@ -4916,7 +4937,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -4939,6 +4960,13 @@
             "path": "renders/samples:cmp/ShaderJuliaAnimatedPreview_Shader_Gallery_Julia_Set_animated-1a96bf57.gif",
             "versions": [
                 {
+                    "blob": "3fb8306942a3e76fea8e5e63907a81b1500b9852",
+                    "commit": "aa66787ae1515b0d63f2ef7bcc8b8f965742933b",
+                    "date": "2026-10-02T12:56:52Z",
+                    "sourceSha": "099e7c7c",
+                    "commits": 1
+                },
+                {
                     "blob": "e6b71728af7de1bad67e7127aee68f838ec33909",
                     "commit": "57c557fa40f0a076e733f6fd2a573787061bb7e8",
                     "date": "2026-09-14T22:37:48Z",
@@ -4946,7 +4974,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -4969,6 +4997,13 @@
             "path": "renders/samples:cmp/ShaderRaymarchAnimatedPreview_Shader_Gallery_Raymarch_SDF_animated-05596e54.gif",
             "versions": [
                 {
+                    "blob": "5f475bb1ce1477783094886826f53e3a1031e5ea",
+                    "commit": "aa66787ae1515b0d63f2ef7bcc8b8f965742933b",
+                    "date": "2026-10-02T12:56:52Z",
+                    "sourceSha": "099e7c7c",
+                    "commits": 1
+                },
+                {
                     "blob": "3618fccec0e413ef330883323432d2e1fcfe2434",
                     "commit": "57c557fa40f0a076e733f6fd2a573787061bb7e8",
                     "date": "2026-09-14T22:37:48Z",
@@ -4976,7 +5011,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -5014,6 +5049,13 @@
             "path": "renders/samples:cmp/RuntimeShaderAnimatedBlobPreview_Runtime_Shader_Animated_Blob-76f00020.gif",
             "versions": [
                 {
+                    "blob": "72256835a441a748f1bc9962e18d4d58ee40721c",
+                    "commit": "aa66787ae1515b0d63f2ef7bcc8b8f965742933b",
+                    "date": "2026-10-02T12:56:52Z",
+                    "sourceSha": "099e7c7c",
+                    "commits": 1
+                },
+                {
                     "blob": "3a19ae716d49e7c3df550e8acecbe80d7a826e48",
                     "commit": "57c557fa40f0a076e733f6fd2a573787061bb7e8",
                     "date": "2026-09-14T22:37:48Z",
@@ -5021,7 +5063,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
