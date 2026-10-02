@@ -1836,7 +1836,7 @@
     "functionName": "AutoDetectDurationAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "AutoDetectDurationAnimatedPreview_Animated_Auto_Detect_Duration-fa7980ab.gif",
-    "sha256": "8fbf4ce71961735d1c42ff2a8bdc3e93d9917f3502f1aa138348e971af345091",
+    "sha256": "88d7c41a2adcdf98a8bf351940a397580658a26d346ffb9a4f45582389778feb",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/AnimatedPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.CaptureGutterPreviewsKt.ShadowStickerCroppedPreview_Shadow cropped": {
@@ -1852,7 +1852,7 @@
     "functionName": "ShadowStickerGutteredAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "ShadowStickerGutteredAnimatedPreview_Shadow_guttered_motion-3dbada81.gif",
-    "sha256": "e07bd7b026ce7aea40619988fab2038227a5ea256794bc4c5e9db6a719e7ad3f",
+    "sha256": "20a9551a4d9cf308dbc2c3a345a2db57dbe837f9a3be172443dcf4c18248c163",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/CaptureGutterPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.CaptureGutterPreviewsKt.ShadowStickerGutteredPreview_Shadow guttered": {
@@ -2364,7 +2364,7 @@
     "functionName": "ShaderFbmAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "ShaderFbmAnimatedPreview_Shader_Gallery_fBm_Clouds_animated-dfc4241c.gif",
-    "sha256": "30293b7323ec350187a732b3520712a41a7e72af024e3fb2beffdb45fa2f6079",
+    "sha256": "d6f69e79b61b5ae5fe9793655e0d5d6566785ba2b06ded1716b0e73ebe4a291f",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShaderGalleryPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShaderGalleryPreviewsKt.ShaderFbmPreview_Shader Gallery \u2014 fBm Clouds": {
@@ -2380,7 +2380,7 @@
     "functionName": "ShaderJuliaAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "ShaderJuliaAnimatedPreview_Shader_Gallery_Julia_Set_animated-1a96bf57.gif",
-    "sha256": "5e5035b1b2b9fe41abb43824ecdcc9230ef42b2fec610f6a0db35f3784435476",
+    "sha256": "f0a85b873f99b5915034041cf1dd0fcb2ff5854673b23a834aa55bf7a42d3079",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShaderGalleryPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShaderGalleryPreviewsKt.ShaderJuliaPreview_Shader Gallery \u2014 Julia Set": {
@@ -2396,7 +2396,7 @@
     "functionName": "ShaderRaymarchAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "ShaderRaymarchAnimatedPreview_Shader_Gallery_Raymarch_SDF_animated-05596e54.gif",
-    "sha256": "520ac1d324aa485764e9efe68b14d2c0d1d5a9d31c1167ac2ddae8d7adf0c226",
+    "sha256": "2da8ef5961f16120f50cd4ea9f43536db3473af4f7dd4357a529100d1af872c9",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShaderGalleryPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShaderGalleryPreviewsKt.ShaderRaymarchPreview_Shader Gallery \u2014 Raymarch SDF": {
@@ -2420,7 +2420,7 @@
     "functionName": "RuntimeShaderAnimatedBlobPreview",
     "module": "samples:cmp",
     "renderBasename": "RuntimeShaderAnimatedBlobPreview_Runtime_Shader_Animated_Blob-76f00020.gif",
-    "sha256": "98c9acf3efb093cae2cc7b05b90663fc702d9c6be1e3dd3a25572e1aa153e593",
+    "sha256": "141e28e2d6de55e3e53695b695034555ef114c4609dc08882f68da5d016a74ee",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShaderPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShaderPreviewsKt.RuntimeShaderGradientBlobPreview_Runtime Shader \u2014 Gradient Blob": {
