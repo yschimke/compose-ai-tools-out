@@ -1816,17 +1816,6 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "ExpandableMenuInteractionPreview_Interaction_Expandable_Menu-5a286a51.a11y.png",
-      "cleanBasename": "ExpandableMenuInteractionPreview_Interaction_Expandable_Menu-5a286a51.png",
-      "findings": [],
-      "functionName": "ExpandableMenuInteractionPreview",
-      "module": "cmp",
-      "previewId": "com.example.samplecmp.InteractionPreviewsKt.ExpandableMenuInteractionPreview_Interaction \u2014 Expandable Menu",
-      "rendersDir": "cmp",
-      "sourceFile": "src/main/kotlin/com/example/samplecmp/InteractionPreviews.kt",
-      "variant": ""
-    },
-    {
       "annotatedBasename": "FontScale100Preview_Font_scale_1_0x-966325ac.a11y.png",
       "cleanBasename": "FontScale100Preview_Font_scale_1_0x-966325ac.png",
       "findings": [],
@@ -2498,12 +2487,12 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "SwitchOn_Dark-d0f22b72.a11y.png",
-      "cleanBasename": "SwitchOn_Dark-d0f22b72.png",
+      "annotatedBasename": "SwitchOn_Dark_VARIANT_off-70b9de89.a11y.png",
+      "cleanBasename": "SwitchOn_Dark_VARIANT_off-70b9de89.png",
       "findings": [],
       "functionName": "SwitchOn",
       "module": "design-catalog-m3",
-      "previewId": "com.example.designcatalogm3.CatalogSelectionKt.SwitchOn_Dark",
+      "previewId": "com.example.designcatalogm3.CatalogSelectionKt.SwitchOn_Dark_VARIANT_off",
       "rendersDir": "design-catalog-m3",
       "sourceFile": "src/main/kotlin/com/example/designcatalogm3/CatalogSelection.kt",
       "variant": ""
@@ -2828,12 +2817,12 @@
       "variant": "wearos_large_round"
     },
     {
-      "annotatedBasename": "SwitchButtonOn-3f3536cc.a11y.png",
-      "cleanBasename": "SwitchButtonOn-3f3536cc.png",
+      "annotatedBasename": "SwitchButtonOn_VARIANT_off-218d1a68.a11y.png",
+      "cleanBasename": "SwitchButtonOn_VARIANT_off-218d1a68.png",
       "findings": [],
       "functionName": "SwitchButtonOn",
       "module": "design-catalog-wear-m3",
-      "previewId": "com.example.designcatalogwearm3.CatalogPreviewsKt.SwitchButtonOn",
+      "previewId": "com.example.designcatalogwearm3.CatalogPreviewsKt.SwitchButtonOn_VARIANT_off",
       "rendersDir": "design-catalog-wear-m3",
       "sourceFile": "src/main/kotlin/com/example/designcatalogwearm3/CatalogPreviews.kt",
       "variant": ""
