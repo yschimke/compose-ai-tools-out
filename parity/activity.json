@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T11:04:28.475Z",
+  "generatedAt": "2026-10-02T15:36:58.150Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "918e32d38d77791dd9ff6afd5c17f2739228dff0",
+        "subject": "fix(serve): label the CMP player lanes by implementation (CMP JVM / Wasm / Android) (#5677)",
+        "at": "2026-10-02T16:30:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4a0c4747c5472ace0faf6376e84729a266952392",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.32.1 (#5676)",
+        "at": "2026-10-02T15:23:38Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d1b83538299667194b297a90d6b583f5fff6127b",
+        "subject": "chore(main): release 2.32.1 (#5672)",
+        "at": "2026-10-02T16:13:34+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "099e7c7c8a0ab0ff5f26d59eacee532fa01b85b5",
+        "subject": "fix(deps): compose-preview-daemon 3.12.0 (#5670)",
+        "at": "2026-10-02T13:40:25+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d430b2e9294783ee99574423957bdfea58bc8f98",
+        "subject": "ci(release): comment the Maven publish plan on the release PR (#5673)",
+        "at": "2026-10-02T11:57:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "32a463eddb286e8abb37f942fd6f63a4a6241aa1",
         "subject": "fix(design-artifacts): accept a variant-function hero when the publish has a live path (#5675)",
@@ -442,46 +482,6 @@
         "sha": "e43cd0377ecebf98bed8a19a0dc453e88d0396cc",
         "subject": "fix(deps): update metro to v1.4.4 (#5613)",
         "at": "2026-09-28T01:00:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ca022cb2cd762dc6da4b28b5d625624ef97a1622",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.28.3 (#5612)",
-        "at": "2026-09-27T22:47:27Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a4c682f1a2002211159001f640d9958bcf58fc88",
-        "subject": "chore(main): release 2.28.3 (#5610)",
-        "at": "2026-09-27T20:50:08+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6fa945491d40b3d2f076c0f85c5ce4452a823c8c",
-        "subject": "fix(deps): update the preview daemon to 3.9.1 (#5611)",
-        "at": "2026-09-27T20:33:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "367287c480e063337705714b64912600d6bf6241",
-        "subject": "fix: point the in-process compile at the classes dir the daemon loads (#5607)",
-        "at": "2026-09-27T19:51:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fcba9a615627c16758679505a031c22d7ee15de9",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.28.2 (#5609)",
-        "at": "2026-09-27T18:28:08Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
