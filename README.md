@@ -1,6 +1,6 @@
 # Accessibility Report
 
-_Auto-generated from `compose-preview/a11y/main`. 296 preview(s) across 18 module(s) · 13 error(s) · 4 warning(s) · 30 info._
+_Auto-generated from `compose-preview/a11y/main`. 295 preview(s) across 18 module(s) · 13 error(s) · 4 warning(s) · 30 info._
 
 Browse inline; image URLs are pinned to the commit SHA on the baseline branch so links keep resolving after merge.
 
@@ -875,12 +875,6 @@ _No findings._
 
 _No findings._
 
-### `ExpandableMenuInteractionPreview`
-
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/cmp/ExpandableMenuInteractionPreview_Interaction_Expandable_Menu-5a286a51.a11y.png" width="400" />
-
-_No findings._
-
 ### `FontScale100Preview`
 
 <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/cmp/FontScale100Preview_Font_scale_1_0x-966325ac.a11y.png" width="400" />
@@ -1291,7 +1285,7 @@ _No findings._
 
 ### `SwitchOn`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/design-catalog-m3/SwitchOn_Dark-d0f22b72.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/design-catalog-m3/SwitchOn_Dark_VARIANT_off-70b9de89.a11y.png" width="400" />
 
 _No findings._
 
@@ -1481,7 +1475,7 @@ _No findings._
 
 ### `SwitchButtonOn`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/design-catalog-wear-m3/SwitchButtonOn-3f3536cc.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/design-catalog-wear-m3/SwitchButtonOn_VARIANT_off-218d1a68.a11y.png" width="400" />
 
 _No findings._
 
