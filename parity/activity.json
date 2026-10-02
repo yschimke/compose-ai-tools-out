@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T09:57:10.858Z",
+  "generatedAt": "2026-10-02T10:23:15.076Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "9fe722f8d5bc575eb249206d29d6acf023d92b39",
+        "subject": "fix(render-host): update the ABI dump for the renamed Remote Compose player ids (#5671)",
+        "at": "2026-10-02T11:04:12+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "735036fa05692110a5204b2aee3adecb5f42a563",
+        "subject": "chore(main): release 2.32.0 (#5665)",
+        "at": "2026-10-02T10:55:29+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8718dd4fde36e2a4b6948b08d041ee90c825248f",
         "subject": "fix(serve): name Remote Compose players by implementation; cmp-android is the CMP player (#5669)",
@@ -467,22 +483,6 @@
         "subject": "fix(mcp): register a stable launcher and repair versioned MCP entries (#5606)",
         "at": "2026-09-27T19:18:42+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "075426faef5b27e99abd7110bde4d043ba81f1d4",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.28.1 (#5605)",
-        "at": "2026-09-27T15:21:16Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2ca6c74439fdcce83ff5d8fbc5852a8bc8dea09c",
-        "subject": "chore(main): release 2.28.1 (#5604)",
-        "at": "2026-09-27T16:12:22+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
