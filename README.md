@@ -266,7 +266,7 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `FontScale150Preview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:cmp/FontScale150Preview_Font_scale_1_5x-8dbcc4ab.png" width="150" /> |
 | `FontScale200Preview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:cmp/FontScale200Preview_Font_scale_2_0x-cb8aeba5.png" width="150" /> |
 | `ExpandableMenuInteractionPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:cmp/ExpandableMenuInteractionPreview_Interaction_Expandable_Menu-5a286a51.png" width="150" /> |
-| `ExpandableMenuInteractionPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:cmp/ExpandableMenuInteractionPreview_Interaction_Expandable_Menu-5a286a51.apng" width="150" /> |
+| `ExpandableMenuInteractionPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:cmp/ExpandableMenuInteractionPreview_Interaction_Expandable_Menu-5a286a51.apng.png" width="150" /> |
 | `KeyboardDemoPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:cmp/KeyboardDemoPreview_Keyboard_Demo-08ecc5ac.png" width="150" /> |
 | `LottieSpinQuarterPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:cmp/LottieSpinQuarterPreview-d4eed04d.png" width="150" /> |
 | `LottieSpinStartPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:cmp/LottieSpinStartPreview-5e829e09.png" width="150" /> |
@@ -392,10 +392,10 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `SliderMid` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SliderMid_Dark-24bfe6c2.png" width="150" /> |
 | `SliderMid` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SliderMid_Light-3bf7d374.png" width="150" /> |
 | `SwitchOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SwitchOn_Dark-d0f22b72.png" width="150" /> |
-| `SwitchOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SwitchOn_Dark-d0f22b72.apng" width="150" /> |
+| `SwitchOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SwitchOn_Dark-d0f22b72.apng.png" width="150" /> |
 | `SwitchOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SwitchOn_Dark_VARIANT_off-70b9de89.png" width="150" /> |
 | `SwitchOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SwitchOn_Light-c16813d5.png" width="150" /> |
-| `SwitchOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SwitchOn_Light-c16813d5.apng" width="150" /> |
+| `SwitchOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SwitchOn_Light-c16813d5.apng.png" width="150" /> |
 | `SwitchOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/SwitchOn_Light_VARIANT_off-64481b2d.png" width="150" /> |
 | `ShapeMorph` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/ShapeMorph_Dark-bbb7ab23.png" width="150" /> |
 | `ShapeMorph` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-m3/ShapeMorph_Light-5232ac83.png" width="150" /> |
@@ -461,7 +461,7 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `ScalingListSticker` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-wear-m3/ScalingListSticker_Large_Round-58cc4bcc.png" width="150" /> |
 | `ScalingListSticker` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-wear-m3/ScalingListSticker_Small_Round-4e49f384.png" width="150" /> |
 | `SwitchButtonOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-wear-m3/SwitchButtonOn-3f3536cc.png" width="150" /> |
-| `SwitchButtonOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-wear-m3/SwitchButtonOn-3f3536cc.apng" width="150" /> |
+| `SwitchButtonOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-wear-m3/SwitchButtonOn-3f3536cc.apng.png" width="150" /> |
 | `SwitchButtonOn` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-wear-m3/SwitchButtonOn_VARIANT_off-218d1a68.png" width="150" /> |
 | `TextMaxLinesTruncated` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-wear-m3/TextMaxLinesTruncated-7f494e93.png" width="150" /> |
 | `TimeTextScaffoldTemplate` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:design-catalog-wear-m3/TimeTextScaffoldTemplate_Extra_Large_Round-7a8d053e.png" width="150" /> |
