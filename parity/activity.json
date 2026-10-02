@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T10:23:15.076Z",
+  "generatedAt": "2026-10-02T11:04:28.475Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "32a463eddb286e8abb37f942fd6f63a4a6241aa1",
+        "subject": "fix(design-artifacts): accept a variant-function hero when the publish has a live path (#5675)",
+        "at": "2026-10-02T11:57:05+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ca8f4a04303346ec6aabe13c976ac31b7b670494",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.32.0 (#5674)",
+        "at": "2026-10-02T10:56:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9fe722f8d5bc575eb249206d29d6acf023d92b39",
         "subject": "fix(render-host): update the ABI dump for the renamed Remote Compose player ids (#5671)",
@@ -467,22 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.28.2 (#5609)",
         "at": "2026-09-27T18:28:08Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4b5fb2a1835d8655d0c58cd682cf2cbe2b1cc265",
-        "subject": "chore(main): release 2.28.2 (#5608)",
-        "at": "2026-09-27T19:19:33+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "abc994bba6f675bcb0913e843e4676fa7238ae8e",
-        "subject": "fix(mcp): register a stable launcher and repair versioned MCP entries (#5606)",
-        "at": "2026-09-27T19:18:42+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
