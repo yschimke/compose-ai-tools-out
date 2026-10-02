@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T12:49:48.360Z",
+  "generatedAt": "2026-10-02T09:39:08.221Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "95f8bd68d0842d8eb087f07ac7d4e296397e7624",
+        "subject": "fix(design-artifacts): reject a display.hero naming a @CatalogVariant function (#5668)",
+        "at": "2026-10-02T10:31:20+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3d1eb61a6b0f4771a5cd14039ceecb2d0cc0eb7e",
+        "subject": "fix(apply): read comment-mode baselines from artifact-repository (#5667)",
+        "at": "2026-10-02T10:28:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8f3319e32c94d71050e2288446cb4db16344b37c",
+        "subject": "fix(deps): update rc-players to 2.0.4 so cmp-jvm draws density-relative documents at the render density (#5666)",
+        "at": "2026-10-02T09:45:30+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "91d761120ab5399ba7c671e4829b1360f48a8d98",
+        "subject": "chore: prune design evidence that nothing references (#5662)",
+        "at": "2026-10-02T08:40:15+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0cb2de622900028c9a679122986d63b8ccbdf88b",
+        "subject": "feat(cli): honour ~/.compose-preview/settings.json and add show --link (#5664)",
+        "at": "2026-10-01T23:36:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5fc2180fcac300688ae09d9147d8bf65eab7364a",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.31.0 (#5663)",
+        "at": "2026-10-01T18:31:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "72296f1b0e5dbb4cedd441525fdaaec7c1242f79",
         "subject": "chore(main): release 2.31.0 (#5659)",
@@ -434,54 +482,6 @@
         "sha": "7d24017d14b2b57a4ebccaeb5bfec609f0827156",
         "subject": "fix(cli): refresh the cached MCP server when a newer release exists (#5603)",
         "at": "2026-09-27T15:55:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d247ca82dcb625ef22b2184bcc6f481cf760f639",
-        "subject": "docs: install compose-preview and compose-ui-builder by default (#5601)",
-        "at": "2026-09-27T12:36:28+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ad91c1c2a959a46959b013f7b50151347fc8b183",
-        "subject": "docs: default to npx skills add, curl as fallback (#5600)",
-        "at": "2026-09-27T12:09:52+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f4d0873fddfbf0373b50fa73546f748845269c80",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.28.0 (#5599)",
-        "at": "2026-09-27T10:40:31Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d2c1a55ef8e1f0c36f666541a69a846ebec4bb86",
-        "subject": "chore(main): release 2.28.0 (#5594)",
-        "at": "2026-09-27T09:22:04+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4525b47892833aa2c68be9d7fc6e9a6e390ea031",
-        "subject": "fix(ci): restore Compose Preview workflow permissions (#5598)",
-        "at": "2026-09-27T09:14:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f6b54f7d55aa49a5caa6b63cb65418e563186fb4",
-        "subject": "fix(docs): point MCP downloads to server releases (#5596)",
-        "at": "2026-09-27T08:38:25+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
