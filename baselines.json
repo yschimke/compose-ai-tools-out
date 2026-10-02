@@ -591,6 +591,22 @@
     "sha256": "ee13791aa7bf9fcff8c89f376a26529034f23882f4e873d68a61909dc3e709e7",
     "sourceFile": "src/main/kotlin/com/example/sampleandroid/KeyboardDemoPreview.kt"
   },
+  "samples:android/com.example.sampleandroid.MotionTimingPreviewsKt.LinearSweepApngAnimatedPreview_Motion timing \u2014 linear sweep (APNG)": {
+    "captureLabel": "",
+    "functionName": "LinearSweepApngAnimatedPreview",
+    "module": "samples:android",
+    "renderBasename": "LinearSweepApngAnimatedPreview_Motion_timing_linear_sweep_APNG-5ddec584.apng",
+    "sha256": "20d57fe0dc8977dd872a46f4f2bb97b308fa8c52068b61cc768e2a7fef97c568",
+    "sourceFile": "src/main/kotlin/com/example/sampleandroid/MotionTimingPreviews.kt"
+  },
+  "samples:android/com.example.sampleandroid.MotionTimingPreviewsKt.LinearSweepGifAnimatedPreview_Motion timing \u2014 linear sweep (GIF)": {
+    "captureLabel": "",
+    "functionName": "LinearSweepGifAnimatedPreview",
+    "module": "samples:android",
+    "renderBasename": "LinearSweepGifAnimatedPreview_Motion_timing_linear_sweep_GIF-fa648788.gif",
+    "sha256": "32d3ac6237ed7711e1dab342ce7fb81476995c42958d0c6a5ec8c8852dd484b9",
+    "sourceFile": "src/main/kotlin/com/example/sampleandroid/MotionTimingPreviews.kt"
+  },
   "samples:android/com.example.sampleandroid.NavHostPreviewKt.NavHostHomePreview_NavHost \u2014 Home": {
     "captureLabel": "",
     "functionName": "NavHostHomePreview",
@@ -1460,7 +1476,7 @@
     "functionName": "ShaderFbmAnimatedPreview",
     "module": "samples:android",
     "renderBasename": "ShaderFbmAnimatedPreview_Shader_Gallery_fBm_Clouds_animated_AGSL-e6e1f455.gif",
-    "sha256": "16547542f89d2677e0d74770210907e5f6db456da83280173ea3befe7d049d46",
+    "sha256": "ae5aac99a5e4defe6307394c90314b5d0c8ed02eafdc7110e4a39a74f4398e7a",
     "sourceFile": "src/main/kotlin/com/example/sampleandroid/ShaderGalleryPreviews.kt"
   },
   "samples:android/com.example.sampleandroid.ShaderGalleryPreviewsKt.ShaderFbmPreview_Shader Gallery \u2014 fBm Clouds (AGSL)": {
@@ -1476,7 +1492,7 @@
     "functionName": "ShaderJuliaAnimatedPreview",
     "module": "samples:android",
     "renderBasename": "ShaderJuliaAnimatedPreview_Shader_Gallery_Julia_Set_animated_AGSL-840566ec.gif",
-    "sha256": "e873586b1ef8a09d7ef101618f8c6e6e50d11cdd96f3377ba3b50e5a9becfced",
+    "sha256": "19476ac38583184852eb4aedebea39bab85009e8aceddc8fa00349d8b09f863b",
     "sourceFile": "src/main/kotlin/com/example/sampleandroid/ShaderGalleryPreviews.kt"
   },
   "samples:android/com.example.sampleandroid.ShaderGalleryPreviewsKt.ShaderJuliaPreview_Shader Gallery \u2014 Julia Set (AGSL)": {
@@ -1508,7 +1524,7 @@
     "functionName": "RuntimeShaderAnimatedBlobPreview",
     "module": "samples:android",
     "renderBasename": "RuntimeShaderAnimatedBlobPreview_Runtime_Shader_Animated_Blob_AGSL-d7fdffff.gif",
-    "sha256": "4e31c874fed8bb8143fbe804009567a5eba2c8871ca4fe6f74f3b3202dfbe2b7",
+    "sha256": "baab5e5399c1799782faa926a729e6d759796775cd84f9fd19ee888a00ca0601",
     "sourceFile": "src/main/kotlin/com/example/sampleandroid/ShaderPreviews.kt"
   },
   "samples:android/com.example.sampleandroid.ShaderPreviewsKt.RuntimeShaderGradientBlobPreview_Runtime Shader \u2014 Gradient Blob (AGSL)": {
@@ -1724,7 +1740,7 @@
     "functionName": "lottie/spin.json",
     "module": "samples:android",
     "renderBasename": "lottie__lottie_spin_animated.png",
-    "sha256": "3561b0e517840e55a545aa564dca4c392980b153c3f703a5a90bb7a2716c3450",
+    "sha256": "459bd52a6b917978f12c365b8540ca45c5028c373f17a77fc48e6a3863ebb1e1",
     "sourceFile": null
   },
   "samples:android/svg__svg_badge": {
@@ -1836,7 +1852,7 @@
     "functionName": "AutoDetectDurationAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "AutoDetectDurationAnimatedPreview_Animated_Auto_Detect_Duration-fa7980ab.gif",
-    "sha256": "88d7c41a2adcdf98a8bf351940a397580658a26d346ffb9a4f45582389778feb",
+    "sha256": "66317cd23bf32d3b0822aafefb09cca78cb90881827021cc124e90ee59678591",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/AnimatedPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.CaptureGutterPreviewsKt.ShadowStickerCroppedPreview_Shadow cropped": {
@@ -1852,7 +1868,7 @@
     "functionName": "ShadowStickerGutteredAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "ShadowStickerGutteredAnimatedPreview_Shadow_guttered_motion-3dbada81.gif",
-    "sha256": "20a9551a4d9cf308dbc2c3a345a2db57dbe837f9a3be172443dcf4c18248c163",
+    "sha256": "1330970c53debbb3fc31f32b5ca29153d8c2e89c05bf64a7655c0ae10fd9a70f",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/CaptureGutterPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.CaptureGutterPreviewsKt.ShadowStickerGutteredPreview_Shadow guttered": {
@@ -1900,7 +1916,7 @@
     "functionName": "ExpandableMenuInteractionPreview",
     "module": "samples:cmp",
     "renderBasename": "ExpandableMenuInteractionPreview_Interaction_Expandable_Menu-5a286a51.apng",
-    "sha256": "4986e59d718fc885964f7ea0dbc82ad54b0bed1213f0e9c42a81c54852ea6245",
+    "sha256": "4838620e0090b2ce1a974813d2afeef99f4ff15ac4871e63ccffa8119866cdb9",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/InteractionPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.KeyboardDemoPreviewKt.KeyboardDemoPreview_Keyboard Demo": {
@@ -2364,7 +2380,7 @@
     "functionName": "ShaderFbmAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "ShaderFbmAnimatedPreview_Shader_Gallery_fBm_Clouds_animated-dfc4241c.gif",
-    "sha256": "d6f69e79b61b5ae5fe9793655e0d5d6566785ba2b06ded1716b0e73ebe4a291f",
+    "sha256": "d3344fc56edf5d28836be1cc516673cca6de1e0b7e5c9c6ef7f0a38f3881d1a5",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShaderGalleryPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShaderGalleryPreviewsKt.ShaderFbmPreview_Shader Gallery \u2014 fBm Clouds": {
@@ -2380,7 +2396,7 @@
     "functionName": "ShaderJuliaAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "ShaderJuliaAnimatedPreview_Shader_Gallery_Julia_Set_animated-1a96bf57.gif",
-    "sha256": "f0a85b873f99b5915034041cf1dd0fcb2ff5854673b23a834aa55bf7a42d3079",
+    "sha256": "596678a38be4cb1df7b8ff19b25a89f7fa1b4fe084d0a40673e2f4c835c2d6ef",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShaderGalleryPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShaderGalleryPreviewsKt.ShaderJuliaPreview_Shader Gallery \u2014 Julia Set": {
@@ -2396,7 +2412,7 @@
     "functionName": "ShaderRaymarchAnimatedPreview",
     "module": "samples:cmp",
     "renderBasename": "ShaderRaymarchAnimatedPreview_Shader_Gallery_Raymarch_SDF_animated-05596e54.gif",
-    "sha256": "2da8ef5961f16120f50cd4ea9f43536db3473af4f7dd4357a529100d1af872c9",
+    "sha256": "22dcc0ca8c4b55da4b3d20d37dc87cb6abab521efd990bef58341a2cef138073",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShaderGalleryPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShaderGalleryPreviewsKt.ShaderRaymarchPreview_Shader Gallery \u2014 Raymarch SDF": {
@@ -2420,7 +2436,7 @@
     "functionName": "RuntimeShaderAnimatedBlobPreview",
     "module": "samples:cmp",
     "renderBasename": "RuntimeShaderAnimatedBlobPreview_Runtime_Shader_Animated_Blob-76f00020.gif",
-    "sha256": "141e28e2d6de55e3e53695b695034555ef114c4609dc08882f68da5d016a74ee",
+    "sha256": "d18664e00cd6c968e0736080798c51deb529a1e78437bae3c533f5659e263a8e",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShaderPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShaderPreviewsKt.RuntimeShaderGradientBlobPreview_Runtime Shader \u2014 Gradient Blob": {
@@ -2476,7 +2492,7 @@
     "functionName": "lottie/spin.json",
     "module": "samples:cmp",
     "renderBasename": "lottie__lottie_spin_animated.png",
-    "sha256": "3561b0e517840e55a545aa564dca4c392980b153c3f703a5a90bb7a2716c3450",
+    "sha256": "459bd52a6b917978f12c365b8540ca45c5028c373f17a77fc48e6a3863ebb1e1",
     "sourceFile": null
   },
   "samples:cmp/svg__svg_badge": {
@@ -2748,7 +2764,7 @@
     "functionName": "SwitchOn",
     "module": "samples:design-catalog-m3",
     "renderBasename": "SwitchOn_Dark-d0f22b72.apng",
-    "sha256": "10750a5663aa6816ade9be5a077ddf21b900454d11f122ca3357b801b9de6f44",
+    "sha256": "39109796a1495428bdb3334df7baaf542aafc03c10e162539465a44c9d766265",
     "sourceFile": "src/main/kotlin/com/example/designcatalogm3/CatalogSelection.kt"
   },
   "samples:design-catalog-m3/com.example.designcatalogm3.CatalogSelectionKt.SwitchOn_Dark_VARIANT_off": {
@@ -2772,7 +2788,7 @@
     "functionName": "SwitchOn",
     "module": "samples:design-catalog-m3",
     "renderBasename": "SwitchOn_Light-c16813d5.apng",
-    "sha256": "2d3d9de626f641d912ef66bd521f0f643d5a8a65d8eb25cf7dac0d671eada053",
+    "sha256": "51733ae6ff3794bc02c88393a26b1a574be97719e6fcc08b6df251623e3aa404",
     "sourceFile": "src/main/kotlin/com/example/designcatalogm3/CatalogSelection.kt"
   },
   "samples:design-catalog-m3/com.example.designcatalogm3.CatalogSelectionKt.SwitchOn_Light_VARIANT_off": {
@@ -3116,7 +3132,7 @@
     "functionName": "IndeterminateCircularProgressGif",
     "module": "samples:design-catalog-wear-m3",
     "renderBasename": "IndeterminateCircularProgressGif-9750d5f5.gif",
-    "sha256": "618830830b8f4e7838643a54bc1a98366010ff604dafd38573a27f93a8ae090e",
+    "sha256": "f45bf78e5064728125171af44b687a2bb565c2a5b0459c4d7ebae58c2126408b",
     "sourceFile": "src/main/kotlin/com/example/designcatalogwearm3/CatalogPreviews.kt"
   },
   "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.IndeterminateCircularProgressSticker": {
@@ -3204,7 +3220,7 @@
     "functionName": "SwitchButtonOn",
     "module": "samples:design-catalog-wear-m3",
     "renderBasename": "SwitchButtonOn-3f3536cc.apng",
-    "sha256": "6abf9a29557ef90ee98db8c62414e2ba04ed5db872e0153cd1da7f9924beb634",
+    "sha256": "dfc7a24c49e325035cb93eb5b5aa14f5a7ba761005621f9a955e5bdc21dd1c5c",
     "sourceFile": "src/main/kotlin/com/example/designcatalogwearm3/CatalogPreviews.kt"
   },
   "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.SwitchButtonOn_VARIANT_off": {
@@ -3492,7 +3508,7 @@
     "functionName": "RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview-53123345.gif",
-    "sha256": "f319de6387bec38108f96715744a3eb95866207dcb515367327204a74d77fb0d",
+    "sha256": "90f44b5ea5d6f9e787a24d4f8a8b2299de3331c8f76eb1e6ce3936d7039cc110",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteIndeterminateCircularProgressIndicatorStandardPreview": {
@@ -3500,7 +3516,7 @@
     "functionName": "RemoteIndeterminateCircularProgressIndicatorStandardPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteIndeterminateCircularProgressIndicatorStandardPreview-ce0e723c.gif",
-    "sha256": "f319de6387bec38108f96715744a3eb95866207dcb515367327204a74d77fb0d",
+    "sha256": "90f44b5ea5d6f9e787a24d4f8a8b2299de3331c8f76eb1e6ce3936d7039cc110",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteShaderGradientPreview": {
