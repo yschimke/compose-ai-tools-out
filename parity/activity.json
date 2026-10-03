@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T11:14:50.894Z",
+  "generatedAt": "2026-10-03T11:26:01.989Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "958cec8c7f3cf80b264070cfe9fdd24a411ed09e",
+        "subject": "feat: themeModules generates theme providers into every listed module (#5693)",
+        "at": "2026-10-03T12:07:36+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bbc5b4bb914f69fc040958c3da3728d8fa273024",
+        "subject": "fix(bundle): keep the rc-players players in Remote Compose bundles (#5691)",
+        "at": "2026-10-03T12:05:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "366a09002d6760ac5b8cf2f648f0a6132fad123a",
         "subject": "feat: opt-in theme pinning so a selected theme recolours previews that theme themselves (#5690)",
@@ -466,22 +482,6 @@
         "sha": "1c9560ec7dfcd5aa88ed62c481d71cfe1de294d2",
         "subject": "fix(deps): update roborazzi to v1.76.0 (#5632)",
         "at": "2026-09-30T07:03:54Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fab130386e9018a2bdb536ad42174cd4b01b403c",
-        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.8.0 (#5630)",
-        "at": "2026-09-30T06:59:56Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "474a87810d8c3068d4e7cd45c0ccc0ab318534ce",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.9.2 (#5627)",
-        "at": "2026-09-30T06:59:19Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
