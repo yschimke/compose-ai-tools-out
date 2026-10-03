@@ -55,14 +55,6 @@ The render task completed but no PNG was produced for these previews. Entries wi
 | `RowPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android-daemon-bench/RowPreview_Row-721b21da.png" width="150" /> |
 | `StackPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android-daemon-bench/StackPreview_Stack-610a3aaa.png" width="150" /> |
 
-## samples:android-library
-
-| Preview | Image |
-|---------|-------|
-| `HtmlShowNotesPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android-library/HtmlShowNotesPreview_HTML_show_notes-981c6f3a.png" width="150" /> |
-| `LibraryBoxPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android-library/LibraryBoxPreview_Library_Box-618f033c.png" width="150" /> |
-| `LibraryGreetingPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android-library/LibraryGreetingPreview_Library_Greeting-a06571e3.png" width="150" /> |
-
 ## samples:android-live-lane
 
 | Preview | Image |
