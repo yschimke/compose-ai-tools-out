@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T08:33:14.594Z",
+  "generatedAt": "2026-10-03T09:14:47.091Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "db5111db03f8f020c83a64802b57f77b8beb1dc4",
+        "subject": "chore(main): release 2.32.4 (#5688)",
+        "at": "2026-10-03T10:07:15+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "023e52bf899ba045a8ca627e2b47a33d469f1fca",
+        "subject": "fix(deps): compose-preview-daemon 3.13.1 (#5687)",
+        "at": "2026-10-03T10:06:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e4b4048fb41ff5fd03e29c22dbb78bb104281a9e",
+        "subject": "chore(main): release 2.32.3 (#5685)",
+        "at": "2026-10-03T09:43:03+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "028460463476c5d64cd51e7f754a8e2cadfb6317",
+        "subject": "build(bom): import the daemon and contracts BOMs (#5686)",
+        "at": "2026-10-03T09:36:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4bbe145330fcf0442e09ab9e0dbbc6577f842ef6",
         "subject": "fix(gradle-plugin): resolve injected daemon modules through the daemon BOM (#5684)",
@@ -451,38 +483,6 @@
         "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-alpha29 (#5626)",
         "at": "2026-09-30T06:56:14Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fd98ac8d36eb9abe796385aff0dcdf8f1246cf9a",
-        "subject": "fix(deps): update androidx (#5624)",
-        "at": "2026-09-30T06:54:12Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "14e222fe80fb579213814c6051d9a5eb9db6ea9e",
-        "subject": "fix(deps): update androidx-wear to v1.7.0 (#5625)",
-        "at": "2026-09-30T06:50:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cdb78714aa266317a19c09bd913b10aed3cf3542",
-        "subject": "fix(deps): update design-parity export toolchain to v1.2.0 (#5631)",
-        "at": "2026-09-30T06:42:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e2dd807f2126e9299521b175c2e9cf609a35c215",
-        "subject": "chore(deps): bump fast-uri from 3.1.5 to 3.1.8 in /scripts/design-artifacts in the npm_and_yarn group across 1 directory (#5621)",
-        "at": "2026-09-30T07:12:06+01:00",
-        "author": "dependabot[bot]",
         "previewIds": [],
         "components": []
       }
