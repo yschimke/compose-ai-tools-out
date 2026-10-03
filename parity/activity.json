@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T12:13:25.555Z",
+  "generatedAt": "2026-10-03T13:34:45.395Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "15b8080eb5435ca6ceaba93230bc28a0bd41b9c6",
+        "subject": "fix(deps): rc-players 2.1.2 (#5695)",
+        "at": "2026-10-03T14:28:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9ae67d52e4dd63b2e9c9dc3de05a1f447ae678f4",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.33.0 (#5696)",
+        "at": "2026-10-03T12:29:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "24f53756c5b3d6963198042a46ebe6e3670d99ee",
         "subject": "chore(main): release 2.33.0 (#5692)",
@@ -466,22 +482,6 @@
         "sha": "57842a3475cba9d0d911b3048e21d5bd02679bdd",
         "subject": "feat: show the ROND axis in the typography inspect label (#5637)",
         "at": "2026-09-30T16:36:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2c23c70ea40c0ecc42b2c37c4fcd8bbd2067fb3f",
-        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.196 (#5628)",
-        "at": "2026-09-30T11:16:20Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d8d6970ea95978a632e54cbbea7e759075a9b2a9",
-        "subject": "fix: label typography inspect with the wght axis, not the declared font weight (#5635)",
-        "at": "2026-09-30T12:03:13+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
