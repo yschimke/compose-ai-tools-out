@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T09:54:13.674Z",
+  "generatedAt": "2026-10-03T11:14:50.894Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "366a09002d6760ac5b8cf2f648f0a6132fad123a",
+        "subject": "feat: opt-in theme pinning so a selected theme recolours previews that theme themselves (#5690)",
+        "at": "2026-10-03T11:47:20+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b4239f5d4aeb4b8c2724dc2057b81dd4a0703cf2",
         "subject": "chore(ci): update the design-artifacts export driver to v2.32.4 (#5689)",
@@ -474,14 +482,6 @@
         "sha": "474a87810d8c3068d4e7cd45c0ccc0ab318534ce",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.9.2 (#5627)",
         "at": "2026-09-30T06:59:19Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0b85e44faceb130d00e3edc6fb8011d25e95726c",
-        "subject": "fix(deps): update metro to v1.4.5 (#5629)",
-        "at": "2026-09-30T06:58:06Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
