@@ -54,9 +54,9 @@ dark scheme.
 | Editable design vectors (figma-svg) | **13** |
 | Components with a11y greenlines | **4** |
 | Library | `org.jetbrains.compose.material3:material3`<br>`androidx.compose.material3.adaptive:adaptive (planned)` |
-| Renderer | compose-preview 2.32.2-SNAPSHOT |
+| Renderer | compose-preview 2.32.3-SNAPSHOT |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-10-02 |
+| Generated | 2026-10-03 |
 
 ## Components by group
 
