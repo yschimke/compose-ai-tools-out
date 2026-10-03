@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T09:14:47.091Z",
+  "generatedAt": "2026-10-03T09:54:13.674Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "b4239f5d4aeb4b8c2724dc2057b81dd4a0703cf2",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.32.4 (#5689)",
+        "at": "2026-10-03T09:17:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "db5111db03f8f020c83a64802b57f77b8beb1dc4",
         "subject": "chore(main): release 2.32.4 (#5688)",
@@ -474,14 +482,6 @@
         "sha": "0b85e44faceb130d00e3edc6fb8011d25e95726c",
         "subject": "fix(deps): update metro to v1.4.5 (#5629)",
         "at": "2026-09-30T06:58:06Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b6e02803bcd8cd9fdf3bff63ef46a3c6ea08ebd7",
-        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-alpha29 (#5626)",
-        "at": "2026-09-30T06:56:14Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
