@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T11:26:01.989Z",
+  "generatedAt": "2026-10-03T12:13:25.555Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "24f53756c5b3d6963198042a46ebe6e3670d99ee",
+        "subject": "chore(main): release 2.33.0 (#5692)",
+        "at": "2026-10-03T12:22:56+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0160fd25b1fa3d772ce4250796567c16e80e36ba",
+        "subject": "fix(deps): update compose-preview-daemon to 3.13.2 (#5694)",
+        "at": "2026-10-03T12:18:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "958cec8c7f3cf80b264070cfe9fdd24a411ed09e",
         "subject": "feat: themeModules generates theme providers into every listed module (#5693)",
@@ -467,22 +483,6 @@
         "subject": "fix: label typography inspect with the wght axis, not the declared font weight (#5635)",
         "at": "2026-09-30T12:03:13+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bebd6448aa37448090f069433ba4bca7d809d1ef",
-        "subject": "fix(rc-compare): name the three RC lanes after the player that draws them (#5634)",
-        "at": "2026-09-30T12:02:34+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1c9560ec7dfcd5aa88ed62c481d71cfe1de294d2",
-        "subject": "fix(deps): update roborazzi to v1.76.0 (#5632)",
-        "at": "2026-09-30T07:03:54Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
