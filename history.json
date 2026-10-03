@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "c476f8af7592bf136384926e231b2e2ef02a70b3",
+    "generatedFrom": "e4068a269318ef9c8af8955a4c3c2eb84c96a88d",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -329,51 +329,6 @@
             "versions": [
                 {
                     "blob": "089ea4fc50f5d63be87c138bd1d1cf0799c95042",
-                    "commit": "38de7e9ad4166cf04be90e34c90eec4988b694b1",
-                    "date": "2026-08-14T10:40:34Z",
-                    "sourceSha": "5b91ca7c",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "samples:android-library/com.example.samplelibrary.AndroidViewPreviewsKt.HtmlShowNotesPreview_HTML show notes": {
-            "path": "renders/samples:android-library/HtmlShowNotesPreview_HTML_show_notes-981c6f3a.png",
-            "versions": [
-                {
-                    "blob": "2a0a0e185f702fb9d8a7be89d339c476306c80d6",
-                    "commit": "38de7e9ad4166cf04be90e34c90eec4988b694b1",
-                    "date": "2026-08-14T10:40:34Z",
-                    "sourceSha": "5b91ca7c",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "samples:android-library/com.example.samplelibrary.LibraryPreviewsKt.LibraryBoxPreview_Library Box": {
-            "path": "renders/samples:android-library/LibraryBoxPreview_Library_Box-618f033c.png",
-            "versions": [
-                {
-                    "blob": "ce88b10198b3209c921e423fe21164b3d3df269a",
-                    "commit": "38de7e9ad4166cf04be90e34c90eec4988b694b1",
-                    "date": "2026-08-14T10:40:34Z",
-                    "sourceSha": "5b91ca7c",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "samples:android-library/com.example.samplelibrary.LibraryPreviewsKt.LibraryGreetingPreview_Library Greeting": {
-            "path": "renders/samples:android-library/LibraryGreetingPreview_Library_Greeting-a06571e3.png",
-            "versions": [
-                {
-                    "blob": "bf201046782bcc706a1c31d01bc077db4eaf2681",
                     "commit": "38de7e9ad4166cf04be90e34c90eec4988b694b1",
                     "date": "2026-08-14T10:40:34Z",
                     "sourceSha": "5b91ca7c",
