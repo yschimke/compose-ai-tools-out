@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T00:04:31.317Z",
+  "generatedAt": "2026-10-03T08:33:14.594Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "4bbe145330fcf0442e09ab9e0dbbc6577f842ef6",
+        "subject": "fix(gradle-plugin): resolve injected daemon modules through the daemon BOM (#5684)",
+        "at": "2026-10-03T09:12:31+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fba5c835ca764aa1d05e8bbe700b53d9a6b4c20d",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.32.2 (#5683)",
+        "at": "2026-10-03T01:50:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "754d518cffec0db4a407dd537efffac2d27ded58",
         "subject": "chore(main): release 2.32.2 (#5678)",
@@ -467,22 +483,6 @@
         "subject": "chore(deps): bump fast-uri from 3.1.5 to 3.1.8 in /scripts/design-artifacts in the npm_and_yarn group across 1 directory (#5621)",
         "at": "2026-09-30T07:12:06+01:00",
         "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "179d6c3b9da7688ae4a70b2206f94ad28c7ca8bf",
-        "subject": "fix(cli): accept and forward update --no-modify-path to install.sh (#5623)",
-        "at": "2026-09-30T07:07:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "11cebe4afdfc8b7c43cf4dc0c5f47fdca9a314b0",
-        "subject": "fix(ci): repair agp8-min script path and resolve preview-annotations via the daemon BOM (#5622)",
-        "at": "2026-09-30T06:51:42+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
