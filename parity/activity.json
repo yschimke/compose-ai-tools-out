@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T16:05:13.840Z",
+  "generatedAt": "2026-10-03T00:04:31.317Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "754d518cffec0db4a407dd537efffac2d27ded58",
+        "subject": "chore(main): release 2.32.2 (#5678)",
+        "at": "2026-10-03T00:44:15+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9f71b70318809201deca5dc29ef53acc3faa8e10",
+        "subject": "fix(preview-diff): compare motion timing even when the frame hash matches (#5682)",
+        "at": "2026-10-03T00:42:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0b572fe25ef1c9b363e66ac828ecc453fd2f27fd",
+        "subject": "fix(deps): compose-preview-daemon 3.13.0 (#5681)",
+        "at": "2026-10-03T00:12:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "69e5855db48f1dcee4ddddc76ec58ddbf1a8a6ce",
+        "subject": "fix(preview-diff): treat motion format and timing changes as changes (#5680)",
+        "at": "2026-10-02T19:36:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ee1c6d296b6ba55b60580b652a06fb653fecbb9f",
+        "subject": "fix(gradle-plugin): name @AnimatedPreview APNG captures .apng (#5679)",
+        "at": "2026-10-02T19:26:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "918e32d38d77791dd9ff6afd5c17f2739228dff0",
         "subject": "fix(serve): label the CMP player lanes by implementation (CMP JVM / Wasm / Android) (#5677)",
@@ -443,46 +483,6 @@
         "subject": "fix(ci): repair agp8-min script path and resolve preview-annotations via the daemon BOM (#5622)",
         "at": "2026-09-30T06:51:42+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5c2c949a379f2c2394a1e80ad4b6d1ef7ac0f307",
-        "subject": "chore(deps): bump the actions-minor group with 5 updates (#5618)",
-        "at": "2026-09-29T23:48:22+01:00",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "84ba8a22e766c6e37a62a6fecb469e5fcd91ff34",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.28.4 (#5619)",
-        "at": "2026-09-28T10:59:27Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4e4f7fb00737e83e3028a307ba31e6aefa7b0764",
-        "subject": "fix(deps): update roborazzi to v1.75.0 (#5615)",
-        "at": "2026-09-28T05:32:27Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "57a156a1beb9d14e52f1eca4bf5e0bcbdc562a22",
-        "subject": "chore(main): release 2.28.4 (#5614)",
-        "at": "2026-09-28T06:21:17+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e43cd0377ecebf98bed8a19a0dc453e88d0396cc",
-        "subject": "fix(deps): update metro to v1.4.4 (#5613)",
-        "at": "2026-09-28T01:00:34Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
