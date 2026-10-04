@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-04T09:09:17.749Z",
+  "generatedAt": "2026-10-04T09:33:39.469Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e7447d314d56ab0684f6a55631f4ee94188dd3fb",
+        "subject": "chore(main): release 2.34.0 (#5698)",
+        "at": "2026-10-04T10:14:42+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d554319c4616c8cbea8979533da146b29cae24e2",
         "subject": "fix: one kotlinx-coroutines on the desktop render classpath, and JSON-array exclusions in the spec preflight (#5699)",
@@ -474,14 +482,6 @@
         "sha": "ee244cb1c5d107f012486a68ee34fed1077f6477",
         "subject": "feat: show non-default variable axes, font features and RTL in the typography label (#5639)",
         "at": "2026-09-30T17:05:59+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "33076499ffc5019fcc16c2ec4e0a7402b2150207",
-        "subject": "fix(ci): pin the AdaptiveJetStream consumer patch's xr to 1.0.0-beta01 (#5640)",
-        "at": "2026-09-30T16:54:05+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
