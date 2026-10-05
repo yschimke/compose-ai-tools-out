@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T08:00:31.728Z",
+  "generatedAt": "2026-10-05T13:52:00.613Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "70417c7cdf3085f2d9e479cb0e0748b3cb636421",
+        "subject": "docs: update agent plugin location and setup guidance (#5707)",
+        "at": "2026-10-05T11:21:22+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0d53093f9c61f944374ef6281731c6be0b796781",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.34.1 (#5706)",
+        "at": "2026-10-05T09:10:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7e0f7c78ebf229b35a692fa7bb23023954b9c076",
+        "subject": "docs: tell Codex review not to report commit attribution (#5705)",
+        "at": "2026-10-05T10:00:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "35c41828f64f997b997179bcca114fd941b211e7",
         "subject": "chore(main): release 2.34.1 (#5702)",
@@ -458,30 +482,6 @@
         "sha": "64ab819dbec04060b49026ab665aed68bc25f37a",
         "subject": "chore(ci): move the design-artifacts driver pin to v2.29.0 (#5647)",
         "at": "2026-10-01T05:48:33+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "51ffbb7486203042627a2e8d020df8ffdac379f5",
-        "subject": "chore(main): release 2.29.0 (#5616)",
-        "at": "2026-09-30T22:18:08+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e2fa0c7b023729cb666d43b39e9ba0da6b06c610",
-        "subject": "chore(deps): bump compose-preview-contracts to 3.13.1 (#5646)",
-        "at": "2026-09-30T22:15:31+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6fbdcc77a23e0ef3397966092af8e9f16ff531e2",
-        "subject": "fix(deps): update rc-players to v2.0.2 (#5645)",
-        "at": "2026-09-30T18:36:48+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
