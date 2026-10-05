@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-04T09:33:39.469Z",
+  "generatedAt": "2026-10-05T08:00:31.728Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "35c41828f64f997b997179bcca114fd941b211e7",
+        "subject": "chore(main): release 2.34.1 (#5702)",
+        "at": "2026-10-05T08:38:49+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3d5c6f2f21392bd1fe54d61d9a400660dcfd9dc5",
+        "subject": "fix(render): bind AGP test-task JVM settings after late registration (#5704)",
+        "at": "2026-10-05T08:36:22+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "18bbedfdb1b0b212a4f2ab4287df96f018c935a8",
+        "subject": "fix(render): preserve late AGP resources and expose KMP Android opt-in (#5703)",
+        "at": "2026-10-04T22:30:19+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cb6acebda944046f4096e9eb0a299dbb5abdf877",
+        "subject": "fix(cli): point plugin install hints at compose-agent-plugins (#5701)",
+        "at": "2026-10-04T20:49:56+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "734073a9a1597a05ea858bb628365a7502e59ed8",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.34.0 (#5700)",
+        "at": "2026-10-04T13:23:38Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e7447d314d56ab0684f6a55631f4ee94188dd3fb",
         "subject": "chore(main): release 2.34.0 (#5698)",
@@ -442,46 +482,6 @@
         "sha": "6fbdcc77a23e0ef3397966092af8e9f16ff531e2",
         "subject": "fix(deps): update rc-players to v2.0.2 (#5645)",
         "at": "2026-09-30T18:36:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e5f70dc5f941121701805d343db21332f2c3c923",
-        "subject": "fix(cli): stop the server child when the launcher is killed (#5644)",
-        "at": "2026-09-30T18:32:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2cb465616abebf99f27a194a0db188bc5fe97ed0",
-        "subject": "feat(design-artifacts): run render assertions in the export workflow (#5643)",
-        "at": "2026-09-30T18:29:39+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7acb7cdd4d24009a7d441b09a2d5e8c0802ceb67",
-        "subject": "fix(ci): never root a delivery branch from a delta-only publish (#5642)",
-        "at": "2026-09-30T17:36:27+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "820e812a6aab4c070b64051cb8ee6ddac71712e3",
-        "subject": "fix(cli): find both Antigravity MCP configs and skip the global entry when the plugin provides it (#5641)",
-        "at": "2026-09-30T17:28:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ee244cb1c5d107f012486a68ee34fed1077f6477",
-        "subject": "feat: show non-default variable axes, font features and RTL in the typography label (#5639)",
-        "at": "2026-09-30T17:05:59+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
