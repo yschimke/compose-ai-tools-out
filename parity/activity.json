@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T13:52:00.613Z",
+  "generatedAt": "2026-10-05T18:26:16.869Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "4986e214bf71dd883f6662adc2e0aaa270c2a899",
+        "subject": "refactor(design-artifacts): drop the known-differences engine copy (#5711)",
+        "at": "2026-10-05T19:19:13+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a229f2e1f8fe656a1dfae0b3971407f3420f6d58",
+        "subject": "fix: agent-access lock no longer re-runs its block; trim verbose comments (#5709)",
+        "at": "2026-10-05T14:59:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "70417c7cdf3085f2d9e479cb0e0748b3cb636421",
         "subject": "docs: update agent plugin location and setup guidance (#5707)",
@@ -466,22 +482,6 @@
         "sha": "6e19aedfccbe3956fc65bf8bd32e89138c574500",
         "subject": "fix(deps): update compose-preview-daemon to 3.11.0 and contracts to 3.14.0 (#5651)",
         "at": "2026-10-01T09:00:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "25f12262e3577e2fba49b26533a63e6bbc2eeab3",
-        "subject": "fix(ci): pin download-artifact correctly and pass the token for run-id (#5649)",
-        "at": "2026-10-01T08:13:18+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "64ab819dbec04060b49026ab665aed68bc25f37a",
-        "subject": "chore(ci): move the design-artifacts driver pin to v2.29.0 (#5647)",
-        "at": "2026-10-01T05:48:33+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
