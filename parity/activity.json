@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T18:26:16.869Z",
+  "generatedAt": "2026-10-06T06:14:30.001Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "ff81f873311230b4518a2fa4624e252dffcc417e",
+        "subject": "refactor(design-artifacts): delete the export driver copy (#5714)",
+        "at": "2026-10-05T21:31:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "30201769cc1103f6f943fbf10e7cf93858fdf6cd",
+        "subject": "feat(design-artifacts): run the export driver from @design-parity/export-driver (#5713)",
+        "at": "2026-10-05T21:10:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4986e214bf71dd883f6662adc2e0aaa270c2a899",
         "subject": "refactor(design-artifacts): drop the known-differences engine copy (#5711)",
@@ -466,22 +482,6 @@
         "sha": "2a944c266058c96fb47be2340e72b002bc8fccd7",
         "subject": "docs: measure the Maven release footprint since publish plans (#5654)",
         "at": "2026-10-01T09:52:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2b9e3ed6fbf2513fcc09e907dfcf8607cd921eeb",
-        "subject": "fix(cli): don't register a duplicate Claude Code server when the plugin is installed (#5652)",
-        "at": "2026-10-01T09:01:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6e19aedfccbe3956fc65bf8bd32e89138c574500",
-        "subject": "fix(deps): update compose-preview-daemon to 3.11.0 and contracts to 3.14.0 (#5651)",
-        "at": "2026-10-01T09:00:43+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
