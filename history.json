@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "cfb7ccb7bcb7c56b92edc79bc54c51a18577901b",
+    "generatedFrom": "70ebd4fff98b190c5b1ceb9a363098f6c62f2eec",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -6621,6 +6621,13 @@
             "path": "renders/samples:remotecompose/RemoteButtonWithBorderPreview-298b3408.png",
             "versions": [
                 {
+                    "blob": "4d580c6f3ac28cc028ab4cdd6bc305845cc7cecc",
+                    "commit": "70ebd4fff98b190c5b1ceb9a363098f6c62f2eec",
+                    "date": "2026-10-06T07:49:39Z",
+                    "sourceSha": "255a39d3",
+                    "commits": 1
+                },
+                {
                     "blob": "49a8f93d89144f94d1897ca61f9dcaed69606189",
                     "commit": "cfb7ccb7bcb7c56b92edc79bc54c51a18577901b",
                     "date": "2026-10-04T21:47:23Z",
@@ -6628,13 +6635,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithNamedLabelPreview": {
             "path": "renders/samples:remotecompose/RemoteButtonWithNamedLabelPreview-f3014b8f.png",
             "versions": [
+                {
+                    "blob": "78486f511ada35d65ae8c04cf4e273c391140557",
+                    "commit": "70ebd4fff98b190c5b1ceb9a363098f6c62f2eec",
+                    "date": "2026-10-06T07:49:39Z",
+                    "sourceSha": "255a39d3",
+                    "commits": 1
+                },
                 {
                     "blob": "2279714424a87d219d7eba9c019479073df4a37c",
                     "commit": "cfb7ccb7bcb7c56b92edc79bc54c51a18577901b",
@@ -6643,7 +6657,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
