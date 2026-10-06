@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T07:31:38.382Z",
+  "generatedAt": "2026-10-06T12:57:52.010Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "7af6668ea34a86d3699820d5c70db9fda366fd47",
+        "subject": "fix(design-artifacts): install the export driver's whole locked tree in every job (#5719)",
+        "at": "2026-10-06T13:51:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "255a39d38f7c8caa99235ccf955b44f76440db07",
         "subject": "chore: align cross-repository dependencies to latest BOMs (#5717)",
@@ -475,14 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.30.0 (#5660)",
         "at": "2026-10-01T10:19:52Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0437a25a95fca0aa1b0e73514132b81eccbdba2a",
-        "subject": "feat(release): treat sibling coordinates as floors in the publish plan (#5658)",
-        "at": "2026-10-01T11:05:05+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
