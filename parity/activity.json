@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T06:14:30.001Z",
+  "generatedAt": "2026-10-06T06:34:30.350Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "223d58b5782c8b013014804e7172f46d3a469302",
+        "subject": "chore(deps): bump the actions-minor group with 3 updates (#5708)",
+        "at": "2026-10-06T07:27:48+01:00",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "85b29066a7fc5695d2928da29c12aef4c132e0fa",
+        "subject": "fix: format preview bundle motion suffix documentation (#5715)",
+        "at": "2026-10-06T07:27:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ff81f873311230b4518a2fa4624e252dffcc417e",
         "subject": "refactor(design-artifacts): delete the export driver copy (#5714)",
@@ -466,22 +482,6 @@
         "sha": "a7a3935fb3166709e69607f2dedbb73a1de56a36",
         "subject": "docs: add contracts and ui-builder to the Maven release footprint (#5655)",
         "at": "2026-10-01T10:01:35+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fb2e3c09a5b6ff3b2ee5053930d5c86f42d1709a",
-        "subject": "feat(cli): name the launcher to the MCP server in COMPOSE_PREVIEW_CLI (#5653)",
-        "at": "2026-10-01T09:56:34+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2a944c266058c96fb47be2340e72b002bc8fccd7",
-        "subject": "docs: measure the Maven release footprint since publish plans (#5654)",
-        "at": "2026-10-01T09:52:09+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
