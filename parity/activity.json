@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T06:42:24.384Z",
+  "generatedAt": "2026-10-06T06:54:25.057Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8a6af660d59d1a3eabe9aa34679a7f1b374544e6",
+        "subject": "chore(main): release 2.35.0 (#5710)",
+        "at": "2026-10-06T07:29:08+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "48b32f0a7cd9356b4d9304cc60b545d0192b07f8",
         "subject": "fix(design-artifacts): run export driver 1.5.1 and serve its catalog schema (#5716)",
@@ -475,14 +483,6 @@
         "subject": "perf(rc-compare): render the parity documents concurrently (#5656)",
         "at": "2026-10-01T10:53:43+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "40aef1996f718dcdb8c147e5342237fa8b488940",
-        "subject": "chore(main): release 2.30.0 (#5650)",
-        "at": "2026-10-01T10:28:03+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
