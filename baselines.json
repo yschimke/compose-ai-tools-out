@@ -3484,7 +3484,7 @@
     "functionName": "RemoteButtonWithBorderPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteButtonWithBorderPreview-298b3408.png",
-    "sha256": "539dfbfe7c99f28843aa7e00538fe71845f5f3dc3ecd69ecf30204460da09f1a",
+    "sha256": "ae61183bf3560554fd93cec3a50f67bcd524d659eef9ed323290a3fe49042e22",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithNamedLabelPreview": {
@@ -3492,7 +3492,7 @@
     "functionName": "RemoteButtonWithNamedLabelPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteButtonWithNamedLabelPreview-f3014b8f.png",
-    "sha256": "83452eb6f1ccc041c18e0bd77b58cceeb837e94f56572ae6e514be98bbb24af1",
+    "sha256": "3a718a7b0706f443d8750412e162e277be5da21b164aba3d5d512ae1b88d4039",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithShapePreview": {
