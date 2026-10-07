@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T20:21:58.403Z",
+  "generatedAt": "2026-10-07T21:39:38.820Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "cd5bec0819ffb7c356eeba54b06fae3a849f5055",
+        "subject": "chore(main): release 2.35.1 (#5720)",
+        "at": "2026-10-07T22:07:30+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5ddd7f6089851d4e0af139d910a0f87ec1a3ec77",
         "subject": "fix(deps): rc-players 2.2.0, compose-preview-contracts 3.20.0, compose-preview-daemon 3.14.1 (#5722)",
@@ -475,14 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.31.0 (#5663)",
         "at": "2026-10-01T18:31:44Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "72296f1b0e5dbb4cedd441525fdaaec7c1242f79",
-        "subject": "chore(main): release 2.31.0 (#5659)",
-        "at": "2026-10-01T13:18:15+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
