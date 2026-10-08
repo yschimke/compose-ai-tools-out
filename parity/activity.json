@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T07:52:25.566Z",
+  "generatedAt": "2026-10-08T11:57:22.967Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8e2b116d641121ef47dc1bb4c39d0087e4e18b18",
+        "subject": "feat(ui-builder): carry a component's insert content into the published catalog (#5730)",
+        "at": "2026-10-08T12:49:01+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5c1c9454e6b08815c2a04b42e30ebc823826a6d1",
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.2.1 (#5728)",
@@ -474,14 +482,6 @@
         "sha": "8718dd4fde36e2a4b6948b08d041ee90c825248f",
         "subject": "fix(serve): name Remote Compose players by implementation; cmp-android is the CMP player (#5669)",
         "at": "2026-10-02T10:47:06+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "95f8bd68d0842d8eb087f07ac7d4e296397e7624",
-        "subject": "fix(design-artifacts): reject a display.hero naming a @CatalogVariant function (#5668)",
-        "at": "2026-10-02T10:31:20+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
