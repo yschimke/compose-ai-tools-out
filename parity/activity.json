@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T21:39:38.820Z",
+  "generatedAt": "2026-10-08T07:52:25.566Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5c1c9454e6b08815c2a04b42e30ebc823826a6d1",
+        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.2.1 (#5728)",
+        "at": "2026-10-08T07:44:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ee7aaaea1a27a5a090913c83849ab7ec48525225",
+        "subject": "fix(deps): renderer-xr 2.0.2, XR testing fakes 1.0.0-rc02, Glimmer alpha21 (#5727)",
+        "at": "2026-10-08T08:42:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "93286ac57f99db4f1bc8dd7c7149d58580c4b4ff",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.2.1 (#5726)",
+        "at": "2026-10-08T06:11:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3f0524af3667b4435ffe3b1d3bca823f79673336",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.35.1 (#5725)",
+        "at": "2026-10-07T22:28:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f1c18fcc4558badb52219dea33e2a5732f7d0bdb",
+        "subject": "fix(ci): pin the serve-wasm upstream to #165's squash commit (#5723)",
+        "at": "2026-10-07T23:02:50+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "cd5bec0819ffb7c356eeba54b06fae3a849f5055",
         "subject": "chore(main): release 2.35.1 (#5720)",
@@ -443,46 +483,6 @@
         "subject": "fix(design-artifacts): reject a display.hero naming a @CatalogVariant function (#5668)",
         "at": "2026-10-02T10:31:20+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3d1eb61a6b0f4771a5cd14039ceecb2d0cc0eb7e",
-        "subject": "fix(apply): read comment-mode baselines from artifact-repository (#5667)",
-        "at": "2026-10-02T10:28:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8f3319e32c94d71050e2288446cb4db16344b37c",
-        "subject": "fix(deps): update rc-players to 2.0.4 so cmp-jvm draws density-relative documents at the render density (#5666)",
-        "at": "2026-10-02T09:45:30+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "91d761120ab5399ba7c671e4829b1360f48a8d98",
-        "subject": "chore: prune design evidence that nothing references (#5662)",
-        "at": "2026-10-02T08:40:15+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0cb2de622900028c9a679122986d63b8ccbdf88b",
-        "subject": "feat(cli): honour ~/.compose-preview/settings.json and add show --link (#5664)",
-        "at": "2026-10-01T23:36:26+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5fc2180fcac300688ae09d9147d8bf65eab7364a",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.31.0 (#5663)",
-        "at": "2026-10-01T18:31:44Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
