@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T08:46:48.552Z",
+  "generatedAt": "2026-10-09T12:17:44.524Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "a7c0883a61e40e63f53492abb09c21ce57c178ab",
+        "subject": "chore(ci): update the design-artifacts export driver to v1.8.0 (#5737)",
+        "at": "2026-10-09T13:10:23+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f10eee219225586f3995bd5afc8563194e0cdb15",
+        "subject": "fix(render-host): key renders on a carried Remote Compose document (#5736)",
+        "at": "2026-10-09T10:11:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7f33f6a43e3fe6b9d226195723437427b171ce3f",
+        "subject": "feat(screen): read a policy's New design chooser copy and publish it beside the template paths (#5735)",
+        "at": "2026-10-09T10:01:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4fd135362fdc57be941acc9a1f79d8c806e46d7c",
+        "subject": "fix(screen): call a component whose only refusal is a placeholder the node supplies (#5732)",
+        "at": "2026-10-09T09:44:20+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b147453acd7b15b0d65e582fa4dd34b50dec986e",
         "subject": "feat(ui-builder): publish a catalog's ui-builder.guidelines.json beside its ui-builder.json (#5733)",
@@ -451,38 +483,6 @@
         "subject": "chore(main): release 2.32.1 (#5672)",
         "at": "2026-10-02T16:13:34+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "099e7c7c8a0ab0ff5f26d59eacee532fa01b85b5",
-        "subject": "fix(deps): compose-preview-daemon 3.12.0 (#5670)",
-        "at": "2026-10-02T13:40:25+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d430b2e9294783ee99574423957bdfea58bc8f98",
-        "subject": "ci(release): comment the Maven publish plan on the release PR (#5673)",
-        "at": "2026-10-02T11:57:24+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "32a463eddb286e8abb37f942fd6f63a4a6241aa1",
-        "subject": "fix(design-artifacts): accept a variant-function hero when the publish has a live path (#5675)",
-        "at": "2026-10-02T11:57:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ca8f4a04303346ec6aabe13c976ac31b7b670494",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.32.0 (#5674)",
-        "at": "2026-10-02T10:56:31Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
