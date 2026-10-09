@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T06:08:27.255Z",
+  "generatedAt": "2026-10-09T08:46:48.552Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "b147453acd7b15b0d65e582fa4dd34b50dec986e",
+        "subject": "feat(ui-builder): publish a catalog's ui-builder.guidelines.json beside its ui-builder.json (#5733)",
+        "at": "2026-10-09T09:41:13+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "dd6fb610e19c61856e47a3c5b48dd4be7953dc9d",
         "subject": "chore(ci): update the design-artifacts export driver to v2.36.0 (#5731)",
@@ -475,14 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.32.0 (#5674)",
         "at": "2026-10-02T10:56:31Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9fe722f8d5bc575eb249206d29d6acf023d92b39",
-        "subject": "fix(render-host): update the ABI dump for the renamed Remote Compose player ids (#5671)",
-        "at": "2026-10-02T11:04:12+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
