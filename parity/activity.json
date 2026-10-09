@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T19:13:17.655Z",
+  "generatedAt": "2026-10-09T19:54:23.469Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "6d5af80a6aac0061d49e73538b269561761aa0dc",
+        "subject": "chore(main): release 2.38.0 (#5742)",
+        "at": "2026-10-09T20:09:29+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "fcec52d65888576560bd81b98f809a83a5076884",
         "subject": "build(deps): rc-players 2.4.0 (#5745)",
@@ -475,14 +483,6 @@
         "subject": "fix(gradle-plugin): resolve injected daemon modules through the daemon BOM (#5684)",
         "at": "2026-10-03T09:12:31+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fba5c835ca764aa1d05e8bbe700b53d9a6b4c20d",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.32.2 (#5683)",
-        "at": "2026-10-03T01:50:39Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
