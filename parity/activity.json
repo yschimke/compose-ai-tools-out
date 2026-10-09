@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T11:57:22.967Z",
+  "generatedAt": "2026-10-09T06:08:27.255Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "dd6fb610e19c61856e47a3c5b48dd4be7953dc9d",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.36.0 (#5731)",
+        "at": "2026-10-09T05:39:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1bff42cd44e4b91a57e417b9c705025ab6de0d18",
+        "subject": "chore(main): release 2.36.0 (#5724)",
+        "at": "2026-10-09T06:35:41+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8e2b116d641121ef47dc1bb4c39d0087e4e18b18",
         "subject": "feat(ui-builder): carry a component's insert content into the published catalog (#5730)",
@@ -466,22 +482,6 @@
         "sha": "9fe722f8d5bc575eb249206d29d6acf023d92b39",
         "subject": "fix(render-host): update the ABI dump for the renamed Remote Compose player ids (#5671)",
         "at": "2026-10-02T11:04:12+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "735036fa05692110a5204b2aee3adecb5f42a563",
-        "subject": "chore(main): release 2.32.0 (#5665)",
-        "at": "2026-10-02T10:55:29+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8718dd4fde36e2a4b6948b08d041ee90c825248f",
-        "subject": "fix(serve): name Remote Compose players by implementation; cmp-android is the CMP player (#5669)",
-        "at": "2026-10-02T10:47:06+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
