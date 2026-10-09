@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T19:54:23.469Z",
+  "generatedAt": "2026-10-09T23:05:54.884Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "fe53e51210edbf7be7ba32a4020836386c692b40",
+        "subject": "feat(guidelines): wrapper source for previews, and guideline results carried in bundles for hosting (#5749)",
+        "at": "2026-10-09T23:56:59+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8febe65ba62367f63c4fe4b2cbfa25eb42d70c20",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.38.0 (#5748)",
+        "at": "2026-10-09T20:03:24Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "733ee6ae271d29041d6310bbf2dd13f3d7ae4ded",
+        "subject": "fix(release): publish a module when source it compiles through srcDir changes (#5746)",
+        "at": "2026-10-09T20:59:13+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6d5af80a6aac0061d49e73538b269561761aa0dc",
         "subject": "chore(main): release 2.38.0 (#5742)",
@@ -458,30 +482,6 @@
         "sha": "023e52bf899ba045a8ca627e2b47a33d469f1fca",
         "subject": "fix(deps): compose-preview-daemon 3.13.1 (#5687)",
         "at": "2026-10-03T10:06:15+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e4b4048fb41ff5fd03e29c22dbb78bb104281a9e",
-        "subject": "chore(main): release 2.32.3 (#5685)",
-        "at": "2026-10-03T09:43:03+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "028460463476c5d64cd51e7f754a8e2cadfb6317",
-        "subject": "build(bom): import the daemon and contracts BOMs (#5686)",
-        "at": "2026-10-03T09:36:42+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4bbe145330fcf0442e09ab9e0dbbc6577f842ef6",
-        "subject": "fix(gradle-plugin): resolve injected daemon modules through the daemon BOM (#5684)",
-        "at": "2026-10-03T09:12:31+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
