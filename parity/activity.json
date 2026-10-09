@@ -1,11 +1,67 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T12:50:11.764Z",
+  "generatedAt": "2026-10-09T19:13:17.655Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "fcec52d65888576560bd81b98f809a83a5076884",
+        "subject": "build(deps): rc-players 2.4.0 (#5745)",
+        "at": "2026-10-09T20:06:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cb625a3e088c8f001d21b20728359969fb72a768",
+        "subject": "feat(guidelines): regions on each verdict, as GuidelineRegionV1 from contracts 3.24.0 (#5744)",
+        "at": "2026-10-09T19:43:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a15d7fcdd11ffe77aa29d8baf96dffcc1a69209f",
+        "subject": "feat(guidelines): source and accessibility evidence everywhere, follow-up rounds, and a PR comment pipeline (#5740)",
+        "at": "2026-10-09T19:00:56+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d080dba1f8010f817fc0865c09ea29700cc98175",
+        "subject": "feat(screen): read the catalog wire types from compose-preview-contracts (#5743)",
+        "at": "2026-10-09T19:00:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9f5b943b3746746b513d6453bd758e6c2c771643",
+        "subject": "feat(discovery): componentLibraryPrefixes, a catalog's own library owners for component targets (#5741)",
+        "at": "2026-10-09T18:50:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c331dc908d2ebf6bddd6a105634cb7104bd689bb",
+        "subject": "feat(guidelines): a design-guidelines engine and compose-preview guidelines command (#5739)",
+        "at": "2026-10-09T18:41:02+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b6f06a7dfa01411c1dfb4e003ac3f292d36864b0",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.37.0 (#5738)",
+        "at": "2026-10-09T14:06:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b0b7865ed6deb274eb6b9914c287c2667ebf08dd",
         "subject": "chore(main): release 2.37.0 (#5734)",
@@ -426,62 +482,6 @@
         "sha": "fba5c835ca764aa1d05e8bbe700b53d9a6b4c20d",
         "subject": "chore(ci): update the design-artifacts export driver to v2.32.2 (#5683)",
         "at": "2026-10-03T01:50:39Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "754d518cffec0db4a407dd537efffac2d27ded58",
-        "subject": "chore(main): release 2.32.2 (#5678)",
-        "at": "2026-10-03T00:44:15+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9f71b70318809201deca5dc29ef53acc3faa8e10",
-        "subject": "fix(preview-diff): compare motion timing even when the frame hash matches (#5682)",
-        "at": "2026-10-03T00:42:46+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0b572fe25ef1c9b363e66ac828ecc453fd2f27fd",
-        "subject": "fix(deps): compose-preview-daemon 3.13.0 (#5681)",
-        "at": "2026-10-03T00:12:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "69e5855db48f1dcee4ddddc76ec58ddbf1a8a6ce",
-        "subject": "fix(preview-diff): treat motion format and timing changes as changes (#5680)",
-        "at": "2026-10-02T19:36:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ee1c6d296b6ba55b60580b652a06fb653fecbb9f",
-        "subject": "fix(gradle-plugin): name @AnimatedPreview APNG captures .apng (#5679)",
-        "at": "2026-10-02T19:26:40+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "918e32d38d77791dd9ff6afd5c17f2739228dff0",
-        "subject": "fix(serve): label the CMP player lanes by implementation (CMP JVM / Wasm / Android) (#5677)",
-        "at": "2026-10-02T16:30:39+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4a0c4747c5472ace0faf6376e84729a266952392",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.32.1 (#5676)",
-        "at": "2026-10-02T15:23:38Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
