@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T23:13:58.439Z",
+  "generatedAt": "2026-10-09T23:41:08.621Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5c647232c84646286a548107841a1cfc1ae3ad94",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.39.0 (#5752)",
+        "at": "2026-10-09T23:14:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a2cdb4d36e3c96f53565fe5aad7888eb1a843560",
+        "subject": "chore(main): release 2.39.0 (#5747)",
+        "at": "2026-10-10T00:02:09+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7f599a173decbb8313b8d02b51494433b9e57e20",
         "subject": "fix(design-artifacts): check ui-builder.guidelines.json against the builder catalog id, not the spec's system (#5750)",
@@ -467,22 +483,6 @@
         "subject": "feat: opt-in theme pinning so a selected theme recolours previews that theme themselves (#5690)",
         "at": "2026-10-03T11:47:20+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b4239f5d4aeb4b8c2724dc2057b81dd4a0703cf2",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.32.4 (#5689)",
-        "at": "2026-10-03T09:17:48Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "db5111db03f8f020c83a64802b57f77b8beb1dc4",
-        "subject": "chore(main): release 2.32.4 (#5688)",
-        "at": "2026-10-03T10:07:15+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
