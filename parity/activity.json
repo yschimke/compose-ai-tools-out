@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T09:17:14.800Z",
+  "generatedAt": "2026-10-10T10:41:31.887Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "61426901386c719ba439c320f55f75c0d5c0fc56",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.40.0 (#5770)",
+        "at": "2026-10-10T10:30:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f015700760876a5296ca5b5c361220100ec271d4",
+        "subject": "feat(guidelines): offer staged scroll captures as follow-up evidence (#5768)",
+        "at": "2026-10-10T11:28:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "92a06f2ea364359eb2398ff125f5d88f4f22a75a",
+        "subject": "chore(main): release 2.40.0 (#5760)",
+        "at": "2026-10-10T11:18:08+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aa7f9c3835e0581f113b14c708552fef94ffa29c",
+        "subject": "fix(deps): pick up compose-preview-daemon 3.15.2 (#5767)",
+        "at": "2026-10-10T11:17:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "539c9e54f9238a3f9760ea6a6731650b9c5f0c8b",
+        "subject": "feat(guidelines): overlay findings on the render in the PR comment (#5766)",
+        "at": "2026-10-10T10:32:34+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9ccd6dc676024ed9a4662c0505fe175e14553a05",
         "subject": "fix(guidelines): keep the OpenRouter key out of builds and bound PR spend (#5765)",
@@ -443,46 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.34.1 (#5706)",
         "at": "2026-10-05T09:10:28Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7e0f7c78ebf229b35a692fa7bb23023954b9c076",
-        "subject": "docs: tell Codex review not to report commit attribution (#5705)",
-        "at": "2026-10-05T10:00:24+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "35c41828f64f997b997179bcca114fd941b211e7",
-        "subject": "chore(main): release 2.34.1 (#5702)",
-        "at": "2026-10-05T08:38:49+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3d5c6f2f21392bd1fe54d61d9a400660dcfd9dc5",
-        "subject": "fix(render): bind AGP test-task JVM settings after late registration (#5704)",
-        "at": "2026-10-05T08:36:22+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "18bbedfdb1b0b212a4f2ab4287df96f018c935a8",
-        "subject": "fix(render): preserve late AGP resources and expose KMP Android opt-in (#5703)",
-        "at": "2026-10-04T22:30:19+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cb6acebda944046f4096e9eb0a299dbb5abdf877",
-        "subject": "fix(cli): point plugin install hints at compose-agent-plugins (#5701)",
-        "at": "2026-10-04T20:49:56+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
