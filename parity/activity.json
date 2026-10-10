@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T21:14:48.236Z",
+  "generatedAt": "2026-10-10T22:08:14.330Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "cb9e0d5388657c6ea5be2cb34608f019b4a90143",
+        "subject": "chore(main): release 2.43.0 (#5794)",
+        "at": "2026-10-10T22:14:32+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6b541bf7fa9b1aceae85a416dffa74a30803a47a",
         "subject": "feat(guidelines): parallel model requests, streamed completions, OpenRouter's error rules (#5805)",
@@ -474,14 +482,6 @@
         "sha": "a15d7fcdd11ffe77aa29d8baf96dffcc1a69209f",
         "subject": "feat(guidelines): source and accessibility evidence everywhere, follow-up rounds, and a PR comment pipeline (#5740)",
         "at": "2026-10-09T19:00:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d080dba1f8010f817fc0865c09ea29700cc98175",
-        "subject": "feat(screen): read the catalog wire types from compose-preview-contracts (#5743)",
-        "at": "2026-10-09T19:00:41+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
