@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T16:18:13.088Z",
+  "generatedAt": "2026-10-10T21:14:48.236Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "6b541bf7fa9b1aceae85a416dffa74a30803a47a",
+        "subject": "feat(guidelines): parallel model requests, streamed completions, OpenRouter's error rules (#5805)",
+        "at": "2026-10-10T21:48:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6f90469ef047a11d21b7130b62360bf71ea5c98c",
+        "subject": "fix: generate standard bool and int adapter literal wrappers (#5802)",
+        "at": "2026-10-10T20:09:04+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d4c376db8a56df2edc4217fa336eed83e5af92ef",
+        "subject": "fix(guidelines): retry a failed model request, and split a batch that keeps failing (#5800)",
+        "at": "2026-10-10T19:26:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "77f6b4e441f1d0abe9e484926146c6dd1751e0d3",
+        "subject": "fix(guidelines): forget a result kept under +a11y when the a11y fetch failed (#5799)",
+        "at": "2026-10-10T18:21:47+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ddb68afad71ffaacba8cfa2d693d3cab9cc70f67",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.26.0 (#5798)",
+        "at": "2026-10-10T17:05:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e3c3f0ca733ca93357d1f823dd01cd391067d175",
+        "subject": "fix(guidelines): key results on a11y availability and fetch only fresh a11y data (#5797)",
+        "at": "2026-10-10T17:23:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8f5c801144a7f482b44afb8e9f3e34a4871b9d7e",
         "subject": "ci: pin the catalog section merger to its merged commit (#5796)",
@@ -434,54 +482,6 @@
         "sha": "d080dba1f8010f817fc0865c09ea29700cc98175",
         "subject": "feat(screen): read the catalog wire types from compose-preview-contracts (#5743)",
         "at": "2026-10-09T19:00:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9f5b943b3746746b513d6453bd758e6c2c771643",
-        "subject": "feat(discovery): componentLibraryPrefixes, a catalog's own library owners for component targets (#5741)",
-        "at": "2026-10-09T18:50:55+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c331dc908d2ebf6bddd6a105634cb7104bd689bb",
-        "subject": "feat(guidelines): a design-guidelines engine and compose-preview guidelines command (#5739)",
-        "at": "2026-10-09T18:41:02+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b6f06a7dfa01411c1dfb4e003ac3f292d36864b0",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.37.0 (#5738)",
-        "at": "2026-10-09T14:06:55Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b0b7865ed6deb274eb6b9914c287c2667ebf08dd",
-        "subject": "chore(main): release 2.37.0 (#5734)",
-        "at": "2026-10-09T13:18:56+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a7c0883a61e40e63f53492abb09c21ce57c178ab",
-        "subject": "chore(ci): update the design-artifacts export driver to v1.8.0 (#5737)",
-        "at": "2026-10-09T13:10:23+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f10eee219225586f3995bd5afc8563194e0cdb15",
-        "subject": "fix(render-host): key renders on a carried Remote Compose document (#5736)",
-        "at": "2026-10-09T10:11:57+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
