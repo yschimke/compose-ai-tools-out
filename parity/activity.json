@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T10:41:31.887Z",
+  "generatedAt": "2026-10-10T10:52:06.569Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "3c80d873846f35666c3c4de40c03fea47c2e41dc",
+        "subject": "feat(guidelines): incremental guideline results on catalog publishes (#5764)",
+        "at": "2026-10-10T11:39:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "61426901386c719ba439c320f55f75c0d5c0fc56",
         "subject": "chore(ci): update the design-artifacts export driver to v2.40.0 (#5770)",
@@ -475,14 +483,6 @@
         "subject": "docs: update agent plugin location and setup guidance (#5707)",
         "at": "2026-10-05T11:21:22+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0d53093f9c61f944374ef6281731c6be0b796781",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.34.1 (#5706)",
-        "at": "2026-10-05T09:10:28Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
