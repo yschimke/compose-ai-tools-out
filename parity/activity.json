@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T07:25:34.000Z",
+  "generatedAt": "2026-10-10T09:17:14.800Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "9ccd6dc676024ed9a4662c0505fe175e14553a05",
+        "subject": "fix(guidelines): keep the OpenRouter key out of builds and bound PR spend (#5765)",
+        "at": "2026-10-10T10:08:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "22955eec9bccde3b0ec012716269d7abc4254688",
+        "subject": "fix(bundle-coordinates): name why a download's stream closed, and give a dropped connection a longer retry window (#5763)",
+        "at": "2026-10-10T08:28:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "78c4bcdf7b12cf3ee8524d3aa7fe01eaa41d931a",
+        "subject": "feat(design-artifacts): apply an import's patches to the upstream checkout (#5762)",
+        "at": "2026-10-10T08:24:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "30dd2a8dba9032613c56e3fc42a6cc40ee41846d",
         "subject": "feat(ui-builder): publish a record component's stated shelf role (#5754)",
@@ -458,30 +482,6 @@
         "sha": "cb6acebda944046f4096e9eb0a299dbb5abdf877",
         "subject": "fix(cli): point plugin install hints at compose-agent-plugins (#5701)",
         "at": "2026-10-04T20:49:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "734073a9a1597a05ea858bb628365a7502e59ed8",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.34.0 (#5700)",
-        "at": "2026-10-04T13:23:38Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e7447d314d56ab0684f6a55631f4ee94188dd3fb",
-        "subject": "chore(main): release 2.34.0 (#5698)",
-        "at": "2026-10-04T10:14:42+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d554319c4616c8cbea8979533da146b29cae24e2",
-        "subject": "fix: one kotlinx-coroutines on the desktop render classpath, and JSON-array exclusions in the spec preflight (#5699)",
-        "at": "2026-10-04T10:02:59+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
