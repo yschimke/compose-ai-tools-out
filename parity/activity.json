@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T10:52:06.569Z",
+  "generatedAt": "2026-10-10T13:05:47.818Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "58895fe3c93ba7cfe0d88942a80c57ea08b40445",
+        "subject": "fix(guidelines): clipping at either end of a scroll is still clipping (#5772)",
+        "at": "2026-10-10T13:24:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f7b745f264327ba409ebf4d54edefba49ff3089d",
+        "subject": "chore(main): release 2.41.0 (#5769)",
+        "at": "2026-10-10T13:20:49+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f72f27ac9c47b72ce43a0c19e9ca2b81c098a920",
+        "subject": "fix(guidelines): keep the request ABI and cache on the staged capture (#5771)",
+        "at": "2026-10-10T13:18:05+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3c80d873846f35666c3c4de40c03fea47c2e41dc",
         "subject": "feat(guidelines): incremental guideline results on catalog publishes (#5764)",
@@ -458,30 +482,6 @@
         "sha": "30201769cc1103f6f943fbf10e7cf93858fdf6cd",
         "subject": "feat(design-artifacts): run the export driver from @design-parity/export-driver (#5713)",
         "at": "2026-10-05T21:10:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4986e214bf71dd883f6662adc2e0aaa270c2a899",
-        "subject": "refactor(design-artifacts): drop the known-differences engine copy (#5711)",
-        "at": "2026-10-05T19:19:13+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a229f2e1f8fe656a1dfae0b3971407f3420f6d58",
-        "subject": "fix: agent-access lock no longer re-runs its block; trim verbose comments (#5709)",
-        "at": "2026-10-05T14:59:26+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "70417c7cdf3085f2d9e479cb0e0748b3cb636421",
-        "subject": "docs: update agent plugin location and setup guidance (#5707)",
-        "at": "2026-10-05T11:21:22+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
