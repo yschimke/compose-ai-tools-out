@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T16:02:44.653Z",
+  "generatedAt": "2026-10-10T16:18:13.088Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8f5c801144a7f482b44afb8e9f3e34a4871b9d7e",
+        "subject": "ci: pin the catalog section merger to its merged commit (#5796)",
+        "at": "2026-10-10T17:02:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f3efeeeb792a6e19b81747c5cf5e3803d38cb346",
+        "subject": "feat(guidelines): accessibility data is evidence the model asks for (#5793)",
+        "at": "2026-10-10T16:41:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "15ecd784bae262de7f5f4e9638d5715178f66d23",
+        "subject": "fix(apply): update a stale a11y comment when a PR stops changing previews (#5795)",
+        "at": "2026-10-10T16:35:27+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c348cb985f57213f44a698ec47e447c76a809280",
         "subject": "feat: include UID references in existing app catalogs (#5792)",
@@ -458,30 +482,6 @@
         "sha": "f10eee219225586f3995bd5afc8563194e0cdb15",
         "subject": "fix(render-host): key renders on a carried Remote Compose document (#5736)",
         "at": "2026-10-09T10:11:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7f33f6a43e3fe6b9d226195723437427b171ce3f",
-        "subject": "feat(screen): read a policy's New design chooser copy and publish it beside the template paths (#5735)",
-        "at": "2026-10-09T10:01:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4fd135362fdc57be941acc9a1f79d8c806e46d7c",
-        "subject": "fix(screen): call a component whose only refusal is a placeholder the node supplies (#5732)",
-        "at": "2026-10-09T09:44:20+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b147453acd7b15b0d65e582fa4dd34b50dec986e",
-        "subject": "feat(ui-builder): publish a catalog's ui-builder.guidelines.json beside its ui-builder.json (#5733)",
-        "at": "2026-10-09T09:41:13+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
