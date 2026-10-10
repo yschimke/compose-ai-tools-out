@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T22:08:14.330Z",
+  "generatedAt": "2026-10-10T22:39:16.677Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "d5d512b5ad419f84ca66d9ab16f56a3cd8a5b63c",
+        "subject": "feat(guidelines): an experimental text-only Jev checker behind --checker jev (#5804)",
+        "at": "2026-10-10T22:44:53+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "cb9e0d5388657c6ea5be2cb34608f019b4a90143",
         "subject": "chore(main): release 2.43.0 (#5794)",
@@ -474,14 +482,6 @@
         "sha": "cb625a3e088c8f001d21b20728359969fb72a768",
         "subject": "feat(guidelines): regions on each verdict, as GuidelineRegionV1 from contracts 3.24.0 (#5744)",
         "at": "2026-10-09T19:43:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a15d7fcdd11ffe77aa29d8baf96dffcc1a69209f",
-        "subject": "feat(guidelines): source and accessibility evidence everywhere, follow-up rounds, and a PR comment pipeline (#5740)",
-        "at": "2026-10-09T19:00:56+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
