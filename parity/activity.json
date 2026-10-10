@@ -1,11 +1,171 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T13:05:47.818Z",
+  "generatedAt": "2026-10-10T15:48:43.063Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c348cb985f57213f44a698ec47e447c76a809280",
+        "subject": "feat: include UID references in existing app catalogs (#5792)",
+        "at": "2026-10-10T16:19:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f4d3ee5fd15ea6c7a965feb7bf130188faa4273a",
+        "subject": "feat(apply): check only a PR's changed previews for accessibility (#5791)",
+        "at": "2026-10-10T16:19:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "08a554e937ffea576cc272d80cdb10fe53aee492",
+        "subject": "fix(guidelines): restore the three Wear widget rules with their verbatim guidance (#5788)",
+        "at": "2026-10-10T16:18:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e68f71325ac551e303b74cad43db55526f516631",
+        "subject": "feat: discover compiled entry points for app-owned typed catalogs (#5786)",
+        "at": "2026-10-10T16:18:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5acc9b5561ca06b9c8e71589eb94b69fa14b82a2",
+        "subject": "feat(guidelines): cap the PR check and reuse the catalog publish's results (#5789)",
+        "at": "2026-10-10T16:17:44+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "da4612a1fe17b0b7e5cfa2a4f7fe9cfb685e7e07",
+        "subject": "refactor: reuse canonical UID guidelines and evidence staging (#5787)",
+        "at": "2026-10-10T16:03:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "07213c1e06ee5b6b6b76c3402188958ca62afe35",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.42.0 (#5790)",
+        "at": "2026-10-10T15:01:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5765a5ac041e2b7911c0c678db74be50c67ce400",
+        "subject": "chore(main): release 2.42.0 (#5774)",
+        "at": "2026-10-10T14:56:53+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0f1147d74cf8c8ba146d1fb922accc0283698a9d",
+        "subject": "fix(guidelines): hold replies to the rules asked, check a PR's own previews first, and keep under the cap (#5784)",
+        "at": "2026-10-10T14:56:38+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ee50c0aec00de9083f0e77bce662752dcd9d90cd",
+        "subject": "feat(guidelines): layered rule packs, later layers overriding earlier ones by id (#5782)",
+        "at": "2026-10-10T14:56:25+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "376d381f2c84c5fe1c22f991e504c78ea73d5943",
+        "subject": "docs: require explicit user requests for merging PRs (#5785)",
+        "at": "2026-10-10T14:55:53+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a0e2263ac3cc7ae2f2cd5c62b5561a1f84259a54",
+        "subject": "fix(guidelines): hold included packs to the same checks and bounds everywhere (#5781)",
+        "at": "2026-10-10T14:43:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "732610d1b759263ce923ceda42d0d2c1a3160336",
+        "subject": "feat: add typed UI builder catalog authoring (#5776)",
+        "at": "2026-10-10T14:43:34+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "eeb325c65524810a75c4a5e9049c8f10a5be0caf",
+        "subject": "fix: verify UID audit downloads and restrict paid runs (#5783)",
+        "at": "2026-10-10T14:40:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3fab59e456209cb05973925b3014122a6582da04",
+        "subject": "feat(guidelines): shared rule packs through `includes`, and a general pack (#5777)",
+        "at": "2026-10-10T14:15:05+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ce7ba33097c3b35b2a6c768fe85f9e4e7ccb2310",
+        "subject": "ci: share the optional UID design audit workflow (#5779)",
+        "at": "2026-10-10T14:14:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1e1c0c0120f27d4507e742f4b80bc3fe5e158a94",
+        "subject": "fix(guidelines): number findings only on an overlay that declares numbered badges (#5780)",
+        "at": "2026-10-10T14:14:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f6c7eb6b59d2900ed44427ac416a76214c38cee1",
+        "subject": "fix(guidelines): classify widget previews as widgets and never report an unchecked run as a pass (#5778)",
+        "at": "2026-10-10T14:14:00+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ee394d49948bb7268d5af2ab3fea75ebbf8cc98b",
+        "subject": "fix(guidelines): numbered outline markers instead of filled boxes on overlays (#5773)",
+        "at": "2026-10-10T14:05:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3c1eb824c618168d8d1c7ed6dba265b886b48aed",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.41.0 (#5775)",
+        "at": "2026-10-10T12:51:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "58895fe3c93ba7cfe0d88942a80c57ea08b40445",
         "subject": "fix(guidelines): clipping at either end of a scroll is still clipping (#5772)",
@@ -322,166 +482,6 @@
         "sha": "b147453acd7b15b0d65e582fa4dd34b50dec986e",
         "subject": "feat(ui-builder): publish a catalog's ui-builder.guidelines.json beside its ui-builder.json (#5733)",
         "at": "2026-10-09T09:41:13+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dd6fb610e19c61856e47a3c5b48dd4be7953dc9d",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.36.0 (#5731)",
-        "at": "2026-10-09T05:39:39Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1bff42cd44e4b91a57e417b9c705025ab6de0d18",
-        "subject": "chore(main): release 2.36.0 (#5724)",
-        "at": "2026-10-09T06:35:41+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8e2b116d641121ef47dc1bb4c39d0087e4e18b18",
-        "subject": "feat(ui-builder): carry a component's insert content into the published catalog (#5730)",
-        "at": "2026-10-08T12:49:01+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5c1c9454e6b08815c2a04b42e30ebc823826a6d1",
-        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.2.1 (#5728)",
-        "at": "2026-10-08T07:44:37Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ee7aaaea1a27a5a090913c83849ab7ec48525225",
-        "subject": "fix(deps): renderer-xr 2.0.2, XR testing fakes 1.0.0-rc02, Glimmer alpha21 (#5727)",
-        "at": "2026-10-08T08:42:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "93286ac57f99db4f1bc8dd7c7149d58580c4b4ff",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.2.1 (#5726)",
-        "at": "2026-10-08T06:11:14Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3f0524af3667b4435ffe3b1d3bca823f79673336",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.35.1 (#5725)",
-        "at": "2026-10-07T22:28:00Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f1c18fcc4558badb52219dea33e2a5732f7d0bdb",
-        "subject": "fix(ci): pin the serve-wasm upstream to #165's squash commit (#5723)",
-        "at": "2026-10-07T23:02:50+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cd5bec0819ffb7c356eeba54b06fae3a849f5055",
-        "subject": "chore(main): release 2.35.1 (#5720)",
-        "at": "2026-10-07T22:07:30+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5ddd7f6089851d4e0af139d910a0f87ec1a3ec77",
-        "subject": "fix(deps): rc-players 2.2.0, compose-preview-contracts 3.20.0, compose-preview-daemon 3.14.1 (#5722)",
-        "at": "2026-10-07T21:06:15+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "49cafe33fd5fb9f01ca9cea171d236c3052025fa",
-        "subject": "ci: stop pull requests writing the Gradle User Home cache (#5721)",
-        "at": "2026-10-07T09:04:36+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7af6668ea34a86d3699820d5c70db9fda366fd47",
-        "subject": "fix(design-artifacts): install the export driver's whole locked tree in every job (#5719)",
-        "at": "2026-10-06T13:51:11+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "255a39d38f7c8caa99235ccf955b44f76440db07",
-        "subject": "chore: align cross-repository dependencies to latest BOMs (#5717)",
-        "at": "2026-10-06T08:23:54+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bdf887d548dc5e6f4255e2c13dd1a3e5eeef2e25",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.35.0 (#5718)",
-        "at": "2026-10-06T07:03:22Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8a6af660d59d1a3eabe9aa34679a7f1b374544e6",
-        "subject": "chore(main): release 2.35.0 (#5710)",
-        "at": "2026-10-06T07:29:08+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "48b32f0a7cd9356b4d9304cc60b545d0192b07f8",
-        "subject": "fix(design-artifacts): run export driver 1.5.1 and serve its catalog schema (#5716)",
-        "at": "2026-10-06T07:28:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "223d58b5782c8b013014804e7172f46d3a469302",
-        "subject": "chore(deps): bump the actions-minor group with 3 updates (#5708)",
-        "at": "2026-10-06T07:27:48+01:00",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "85b29066a7fc5695d2928da29c12aef4c132e0fa",
-        "subject": "fix: format preview bundle motion suffix documentation (#5715)",
-        "at": "2026-10-06T07:27:15+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ff81f873311230b4518a2fa4624e252dffcc417e",
-        "subject": "refactor(design-artifacts): delete the export driver copy (#5714)",
-        "at": "2026-10-05T21:31:29+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "30201769cc1103f6f943fbf10e7cf93858fdf6cd",
-        "subject": "feat(design-artifacts): run the export driver from @design-parity/export-driver (#5713)",
-        "at": "2026-10-05T21:10:48+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
