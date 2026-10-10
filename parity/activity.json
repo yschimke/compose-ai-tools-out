@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T06:22:00.664Z",
+  "generatedAt": "2026-10-10T06:56:09.361Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c2293003a94f9d9066c6b7703057c54d4ae2dab9",
+        "subject": "chore(main): release 2.39.2 (#5758)",
+        "at": "2026-10-10T07:24:27+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "40a8be613fbfe1aa0063725db0938ab0682ee19f",
         "subject": "fix(guidelines): review findings from #5739, #5740 and #5744 (#5753)",
@@ -475,14 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.33.0 (#5696)",
         "at": "2026-10-03T12:29:47Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "24f53756c5b3d6963198042a46ebe6e3670d99ee",
-        "subject": "chore(main): release 2.33.0 (#5692)",
-        "at": "2026-10-03T12:22:56+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
