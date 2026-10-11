@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "3bca15e2d3649514aa24dffca7d8ad789f9415db",
+    "generatedFrom": "85d433feb28694719f748783e607078f08c88d7f",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -2758,6 +2758,13 @@
             "path": "renders/samples:android/ShaderFbmAnimatedPreview_Shader_Gallery_fBm_Clouds_animated_AGSL-e6e1f455.gif",
             "versions": [
                 {
+                    "blob": "d6099a3f67b94e53fa97260de85689276ded6a32",
+                    "commit": "85d433feb28694719f748783e607078f08c88d7f",
+                    "date": "2026-10-11T08:16:25Z",
+                    "sourceSha": "b7130b99",
+                    "commits": 1
+                },
+                {
                     "blob": "78d06155aa4e1cccfbfc588f41cca0d622cda09c",
                     "commit": "f837efb6e13e1ea5ff407b8b835d7f53592d35d0",
                     "date": "2026-10-04T09:19:42Z",
@@ -2765,7 +2772,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -2788,6 +2795,13 @@
             "path": "renders/samples:android/ShaderJuliaAnimatedPreview_Shader_Gallery_Julia_Set_animated_AGSL-840566ec.gif",
             "versions": [
                 {
+                    "blob": "03728894978d3c0cfedfe609eedb210d57ad2dc6",
+                    "commit": "85d433feb28694719f748783e607078f08c88d7f",
+                    "date": "2026-10-11T08:16:25Z",
+                    "sourceSha": "b7130b99",
+                    "commits": 1
+                },
+                {
                     "blob": "57c56a40d2f59fa285101a60987ad2e4d72efa29",
                     "commit": "f837efb6e13e1ea5ff407b8b835d7f53592d35d0",
                     "date": "2026-10-04T09:19:42Z",
@@ -2795,7 +2809,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
