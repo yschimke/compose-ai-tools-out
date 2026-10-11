@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T18:03:17.952Z",
+  "generatedAt": "2026-10-11T18:37:05.815Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "9513e93ceade788e05aa200466c87656e589f046",
+        "subject": "chore(main): release 2.49.0 (#5867)",
+        "at": "2026-10-11T18:58:05+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e0ba58f83fad46e0a1f2ac03d3b151ebcceeecc6",
+        "subject": "feat(screen): let a projection target wrap a DSL slot's children in an item member (#5864)",
+        "at": "2026-10-11T18:56:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "352617db7a77c14eec9a48ca8906286c254f77ff",
+        "subject": "feat(ui-builder): list and object properties for typed adapters (#5865)",
+        "at": "2026-10-11T18:43:37+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0472f1f8cdecbdf8ea220656b4e001fbb3537fda",
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.7.1 (#5866)",
@@ -458,30 +482,6 @@
         "sha": "d5d512b5ad419f84ca66d9ab16f56a3cd8a5b63c",
         "subject": "feat(guidelines): an experimental text-only Jev checker behind --checker jev (#5804)",
         "at": "2026-10-10T22:44:53+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cb9e0d5388657c6ea5be2cb34608f019b4a90143",
-        "subject": "chore(main): release 2.43.0 (#5794)",
-        "at": "2026-10-10T22:14:32+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6b541bf7fa9b1aceae85a416dffa74a30803a47a",
-        "subject": "feat(guidelines): parallel model requests, streamed completions, OpenRouter's error rules (#5805)",
-        "at": "2026-10-10T21:48:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6f90469ef047a11d21b7130b62360bf71ea5c98c",
-        "subject": "fix: generate standard bool and int adapter literal wrappers (#5802)",
-        "at": "2026-10-10T20:09:04+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
