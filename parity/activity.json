@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T14:13:33.633Z",
+  "generatedAt": "2026-10-11T14:25:52.650Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "4de0cc7af090cffba1ecc94b1958542c6bbb16cc",
+        "subject": "chore(main): release 2.46.0 (#5838)",
+        "at": "2026-10-11T14:27:00+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e71d32d671788c127f6a1ad4f73ef683a07fbfa6",
+        "subject": "feat(guidelines): pick a backend per run, add OpenAI-compatible endpoints and a model list (#5846)",
+        "at": "2026-10-11T14:23:36+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b25cd4660526aff99e2baf4f63ed983ae3a90b14",
         "subject": "feat(ui-builder): let a supersedes rule set the property an old id implied (#5844)",
@@ -466,22 +482,6 @@
         "sha": "ee50c0aec00de9083f0e77bce662752dcd9d90cd",
         "subject": "feat(guidelines): layered rule packs, later layers overriding earlier ones by id (#5782)",
         "at": "2026-10-10T14:56:25+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "376d381f2c84c5fe1c22f991e504c78ea73d5943",
-        "subject": "docs: require explicit user requests for merging PRs (#5785)",
-        "at": "2026-10-10T14:55:53+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a0e2263ac3cc7ae2f2cd5c62b5561a1f84259a54",
-        "subject": "fix(guidelines): hold included packs to the same checks and bounds everywhere (#5781)",
-        "at": "2026-10-10T14:43:58+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
