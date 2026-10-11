@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T16:04:01.519Z",
+  "generatedAt": "2026-10-11T16:14:39.127Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c660202e0076f2ea3d986c82946227405252a73d",
+        "subject": "ci: bump @design-parity/export-driver to 1.13.0 (#5851)",
+        "at": "2026-10-11T16:58:38+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e57687a246ba26889d5d868fbb27540707e624f6",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.47.0 (#5856)",
+        "at": "2026-10-11T15:58:27Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "35a19439718d4ec13115c65b7921646a3fba2796",
+        "subject": "fix: skip the UID audit only when every failed request is a 402 (#5855)",
+        "at": "2026-10-11T16:57:37+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1613792ad3e5a61c0575cdea441734f989237216",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.7.1 (#5853)",
+        "at": "2026-10-11T15:57:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "599f65be251805843694e7042c2d0d841f166534",
+        "subject": "fix: skip the UID audit with a warning when OpenRouter is out of credit (#5854)",
+        "at": "2026-10-11T16:54:51+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "19012ea723447735b36a80a7f8f207fb3da57d1d",
         "subject": "chore(main): release 2.47.0 (#5850)",
@@ -442,46 +482,6 @@
         "sha": "c348cb985f57213f44a698ec47e447c76a809280",
         "subject": "feat: include UID references in existing app catalogs (#5792)",
         "at": "2026-10-10T16:19:40+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f4d3ee5fd15ea6c7a965feb7bf130188faa4273a",
-        "subject": "feat(apply): check only a PR's changed previews for accessibility (#5791)",
-        "at": "2026-10-10T16:19:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "08a554e937ffea576cc272d80cdb10fe53aee492",
-        "subject": "fix(guidelines): restore the three Wear widget rules with their verbatim guidance (#5788)",
-        "at": "2026-10-10T16:18:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e68f71325ac551e303b74cad43db55526f516631",
-        "subject": "feat: discover compiled entry points for app-owned typed catalogs (#5786)",
-        "at": "2026-10-10T16:18:29+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5acc9b5561ca06b9c8e71589eb94b69fa14b82a2",
-        "subject": "feat(guidelines): cap the PR check and reuse the catalog publish's results (#5789)",
-        "at": "2026-10-10T16:17:44+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "da4612a1fe17b0b7e5cfa2a4f7fe9cfb685e7e07",
-        "subject": "refactor: reuse canonical UID guidelines and evidence staging (#5787)",
-        "at": "2026-10-10T16:03:26+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
