@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T17:47:04.357Z",
+  "generatedAt": "2026-10-11T18:03:17.952Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "0472f1f8cdecbdf8ea220656b4e001fbb3537fda",
+        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.7.1 (#5866)",
+        "at": "2026-10-11T17:42:43Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6d4ca9de18f5c29d0754659dd662c9397249837e",
+        "subject": "feat(screen): write a catalog's screen-root frame around the generated root (#5861)",
+        "at": "2026-10-11T18:29:38+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "48e8747654df1086a5321395a61c402eb3ea0d09",
         "subject": "ci: run the catalog publish's guidelines check only on listed events, default pull_request (#5862)",
@@ -466,22 +482,6 @@
         "sha": "6f90469ef047a11d21b7130b62360bf71ea5c98c",
         "subject": "fix: generate standard bool and int adapter literal wrappers (#5802)",
         "at": "2026-10-10T20:09:04+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d4c376db8a56df2edc4217fa336eed83e5af92ef",
-        "subject": "fix(guidelines): retry a failed model request, and split a batch that keeps failing (#5800)",
-        "at": "2026-10-10T19:26:28+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "77f6b4e441f1d0abe9e484926146c6dd1751e0d3",
-        "subject": "fix(guidelines): forget a result kept under +a11y when the a11y fetch failed (#5799)",
-        "at": "2026-10-10T18:21:47+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
