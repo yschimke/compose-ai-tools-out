@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T16:44:08.979Z",
+  "generatedAt": "2026-10-11T17:21:15.827Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "05393ee9e877c88f7336ff19681305be12102910",
+        "subject": "chore(main): release 2.48.0 (#5857)",
+        "at": "2026-10-11T17:39:09+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "22df77dd91721d92feed1f07ae12ab5956198bd1",
         "subject": "feat(catalog): declare code.locals and code.scopes in the policy schema, and a list item's key hole (#5858)",
@@ -474,14 +482,6 @@
         "sha": "e3c3f0ca733ca93357d1f823dd01cd391067d175",
         "subject": "fix(guidelines): key results on a11y availability and fetch only fresh a11y data (#5797)",
         "at": "2026-10-10T17:23:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8f5c801144a7f482b44afb8e9f3e34a4871b9d7e",
-        "subject": "ci: pin the catalog section merger to its merged commit (#5796)",
-        "at": "2026-10-10T17:02:03+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
