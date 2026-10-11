@@ -1,11 +1,99 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T07:22:04.327Z",
+  "generatedAt": "2026-10-11T09:59:47.313Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "49b218f7cc8b883d4c1d61e7676a24d2f02cd77c",
+        "subject": "feat(ui-builder): publish a catalog's design tokens for the Theme panel (#5813)",
+        "at": "2026-10-11T10:26:23+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "126fe9e897d45cd0bab61bbaea43da008a5e4fb3",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.44.0 (#5823)",
+        "at": "2026-10-11T08:35:35Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f80cee4ec49978b1586ae959632d799f88f52938",
+        "subject": "fix(bundle): charge skipped zip entries to the inflation budget too (#5822)",
+        "at": "2026-10-11T09:35:22+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b7130b99bcab2441401af0cddd97c33ec254974a",
+        "subject": "fix(bundle): bound inflation in canonicalDigest and readSignatures (#5821)",
+        "at": "2026-10-11T08:44:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b787be35919c006ee2b6a426449937c16e919fb9",
+        "subject": "fix(cli): stage rc jvm libs whose file names collide across groups (#5820)",
+        "at": "2026-10-11T08:42:37+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "66d2cbb66ffb3864e4bba2059aa003c73d6e4cf2",
+        "subject": "chore(main): release 2.44.0 (#5809)",
+        "at": "2026-10-11T08:41:42+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a0eb45d9911d6bdbb4d1478e38568450232d1656",
+        "subject": "refactor(plugin): resolve devices from contracts' daemon-devices, deprecate the duplicate (#5818)",
+        "at": "2026-10-11T08:33:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1600965e58b50ce10bd22dc3fae3ce814e812204",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.27.0 (#5819)",
+        "at": "2026-10-11T08:33:17+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "97faa985b5f099823d86f6f42b06994d9a582703",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.5.0 (#5801)",
+        "at": "2026-10-11T08:33:10+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "65c4898caa83d204ee9d775b1ed30304724e1548",
+        "subject": "fix: publish all four included-build coordinates together, and scan configured component libraries (#5812)",
+        "at": "2026-10-11T08:32:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fd0eab78f45b693eb5a407b189942090c79e5e0e",
+        "subject": "fix(ci): give the UID design audit time to finish a 100-capture plan (#5817)",
+        "at": "2026-10-11T08:25:32+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "36219e4d4395fcc4fd866f2e148b0cc41d03c7e2",
         "subject": "docs: trim excessive code comments (#5816)",
@@ -394,94 +482,6 @@
         "sha": "78c4bcdf7b12cf3ee8524d3aa7fe01eaa41d931a",
         "subject": "feat(design-artifacts): apply an import's patches to the upstream checkout (#5762)",
         "at": "2026-10-10T08:24:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "30dd2a8dba9032613c56e3fc42a6cc40ee41846d",
-        "subject": "feat(ui-builder): publish a record component's stated shelf role (#5754)",
-        "at": "2026-10-10T08:16:27+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d165253723db6dfad9cd2d382c8283b7ec331248",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.39.2 (#5761)",
-        "at": "2026-10-10T07:08:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1ec4d034bffe52949f0d387531986ebaabc07a39",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.25.0 (#5759)",
-        "at": "2026-10-10T08:05:03+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c2293003a94f9d9066c6b7703057c54d4ae2dab9",
-        "subject": "chore(main): release 2.39.2 (#5758)",
-        "at": "2026-10-10T07:24:27+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "40a8be613fbfe1aa0063725db0938ab0682ee19f",
-        "subject": "fix(guidelines): review findings from #5739, #5740 and #5744 (#5753)",
-        "at": "2026-10-10T07:12:52+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "759e85c32a810af82784c6e69f7cd5ff9e6a4cbe",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.39.1 (#5757)",
-        "at": "2026-10-10T05:26:53Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2c56f3ffa3e2faf01ebe4dc3ed2377b373323f57",
-        "subject": "chore(main): release 2.39.1 (#5756)",
-        "at": "2026-10-10T01:27:52+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c4f80d65c3cbdb862760aad792c8915607584c5",
-        "subject": "fix(deps): compose-preview-daemon 3.15.1 (#5755)",
-        "at": "2026-10-10T01:11:34+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5c647232c84646286a548107841a1cfc1ae3ad94",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.39.0 (#5752)",
-        "at": "2026-10-09T23:14:25Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a2cdb4d36e3c96f53565fe5aad7888eb1a843560",
-        "subject": "chore(main): release 2.39.0 (#5747)",
-        "at": "2026-10-10T00:02:09+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7f599a173decbb8313b8d02b51494433b9e57e20",
-        "subject": "fix(design-artifacts): check ui-builder.guidelines.json against the builder catalog id, not the spec's system (#5750)",
-        "at": "2026-10-10T00:01:38+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
