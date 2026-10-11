@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T17:21:15.827Z",
+  "generatedAt": "2026-10-11T17:47:04.357Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "48e8747654df1086a5321395a61c402eb3ea0d09",
+        "subject": "ci: run the catalog publish's guidelines check only on listed events, default pull_request (#5862)",
+        "at": "2026-10-11T18:13:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f467a7a068ff9537948ee57d91466824b49e15ab",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.48.0 (#5863)",
+        "at": "2026-10-11T17:09:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "05393ee9e877c88f7336ff19681305be12102910",
         "subject": "chore(main): release 2.48.0 (#5857)",
@@ -466,22 +482,6 @@
         "sha": "77f6b4e441f1d0abe9e484926146c6dd1751e0d3",
         "subject": "fix(guidelines): forget a result kept under +a11y when the a11y fetch failed (#5799)",
         "at": "2026-10-10T18:21:47+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ddb68afad71ffaacba8cfa2d693d3cab9cc70f67",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.26.0 (#5798)",
-        "at": "2026-10-10T17:05:08Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e3c3f0ca733ca93357d1f823dd01cd391067d175",
-        "subject": "fix(guidelines): key results on a11y availability and fetch only fresh a11y data (#5797)",
-        "at": "2026-10-10T17:23:48+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
