@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T22:39:16.677Z",
+  "generatedAt": "2026-10-11T01:07:13.859Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c1f72f03e8d534dedfbdb837e2b28d8a47accc3c",
+        "subject": "fix(guidelines): control the model's reasoning, and recover a reply that spent its budget thinking (#5815)",
+        "at": "2026-10-11T01:41:53+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8fdb40db5321901b853127328e194aed1f49d559",
+        "subject": "fix(guidelines): jev host calls on one thread, rate-limit pause before waking waiters, one checker per report (#5810)",
+        "at": "2026-10-11T00:28:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dc30c762e68b531d66b24f558fd8e27adfe47a36",
+        "subject": "feat(discovery): choose each component's overload by what its builder policy covers, never a deprecated one (#5811)",
+        "at": "2026-10-11T00:10:04+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bc3d6a09ae5d695b2b29457cec827c72c812ef91",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.43.0 (#5806)",
+        "at": "2026-10-10T21:54:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d5d512b5ad419f84ca66d9ab16f56a3cd8a5b63c",
         "subject": "feat(guidelines): an experimental text-only Jev checker behind --checker jev (#5804)",
@@ -451,38 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.38.0 (#5748)",
         "at": "2026-10-09T20:03:24Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "733ee6ae271d29041d6310bbf2dd13f3d7ae4ded",
-        "subject": "fix(release): publish a module when source it compiles through srcDir changes (#5746)",
-        "at": "2026-10-09T20:59:13+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6d5af80a6aac0061d49e73538b269561761aa0dc",
-        "subject": "chore(main): release 2.38.0 (#5742)",
-        "at": "2026-10-09T20:09:29+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fcec52d65888576560bd81b98f809a83a5076884",
-        "subject": "build(deps): rc-players 2.4.0 (#5745)",
-        "at": "2026-10-09T20:06:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cb625a3e088c8f001d21b20728359969fb72a768",
-        "subject": "feat(guidelines): regions on each verdict, as GuidelineRegionV1 from contracts 3.24.0 (#5744)",
-        "at": "2026-10-09T19:43:10+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
