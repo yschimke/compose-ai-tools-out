@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T18:37:05.815Z",
+  "generatedAt": "2026-10-11T20:06:01.396Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "93ad39dd38d7e92ccdffe8772c770bc61945b34a",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.3 (#5870)",
+        "at": "2026-10-11T19:40:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "150a7ed4c182b338508cb10ba38ec486b778e6ac",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.49.0 (#5871)",
+        "at": "2026-10-11T19:27:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "119bd27b9374864eea90f349d3dbeb569e9acb43",
+        "subject": "chore(main): release 2.50.0 (#5869)",
+        "at": "2026-10-11T20:23:15+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "95b7074b167785be365c5a1a43b3447ef5fb23a9",
+        "subject": "feat(discovery): discover real library composables, every overload, for typed definitions (#5868)",
+        "at": "2026-10-11T20:20:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9513e93ceade788e05aa200466c87656e589f046",
         "subject": "chore(main): release 2.49.0 (#5867)",
@@ -450,38 +482,6 @@
         "sha": "c1f72f03e8d534dedfbdb837e2b28d8a47accc3c",
         "subject": "fix(guidelines): control the model's reasoning, and recover a reply that spent its budget thinking (#5815)",
         "at": "2026-10-11T01:41:53+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8fdb40db5321901b853127328e194aed1f49d559",
-        "subject": "fix(guidelines): jev host calls on one thread, rate-limit pause before waking waiters, one checker per report (#5810)",
-        "at": "2026-10-11T00:28:26+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dc30c762e68b531d66b24f558fd8e27adfe47a36",
-        "subject": "feat(discovery): choose each component's overload by what its builder policy covers, never a deprecated one (#5811)",
-        "at": "2026-10-11T00:10:04+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bc3d6a09ae5d695b2b29457cec827c72c812ef91",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.43.0 (#5806)",
-        "at": "2026-10-10T21:54:14Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d5d512b5ad419f84ca66d9ab16f56a3cd8a5b63c",
-        "subject": "feat(guidelines): an experimental text-only Jev checker behind --checker jev (#5804)",
-        "at": "2026-10-10T22:44:53+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
