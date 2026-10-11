@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T01:07:13.859Z",
+  "generatedAt": "2026-10-11T07:22:04.327Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "36219e4d4395fcc4fd866f2e148b0cc41d03c7e2",
+        "subject": "docs: trim excessive code comments (#5816)",
+        "at": "2026-10-11T08:11:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "37f68855cb10aa6d2070321cd4de32931a7b4ee7",
+        "subject": "fix(guidelines): a jev prefetch that throws fails the previews it was for (#5814)",
+        "at": "2026-10-11T07:53:27+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c1f72f03e8d534dedfbdb837e2b28d8a47accc3c",
         "subject": "fix(guidelines): control the model's reasoning, and recover a reply that spent its budget thinking (#5815)",
@@ -467,22 +483,6 @@
         "subject": "fix(design-artifacts): check ui-builder.guidelines.json against the builder catalog id, not the spec's system (#5750)",
         "at": "2026-10-10T00:01:38+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fe53e51210edbf7be7ba32a4020836386c692b40",
-        "subject": "feat(guidelines): wrapper source for previews, and guideline results carried in bundles for hosting (#5749)",
-        "at": "2026-10-09T23:56:59+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8febe65ba62367f63c4fe4b2cbfa25eb42d70c20",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.38.0 (#5748)",
-        "at": "2026-10-09T20:03:24Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
