@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T16:14:39.127Z",
+  "generatedAt": "2026-10-11T16:44:08.979Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "22df77dd91721d92feed1f07ae12ab5956198bd1",
+        "subject": "feat(catalog): declare code.locals and code.scopes in the policy schema, and a list item's key hole (#5858)",
+        "at": "2026-10-11T17:34:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "353ce040e76c5b24e3b9916feb54758776cc80d9",
+        "subject": "fix(apply): keep the guidelines ledger through truncation and read and write one bot comment (#5860)",
+        "at": "2026-10-11T17:27:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ee5ca8fe64f0627a00f7fdae48dceacc7db4acf9",
+        "subject": "feat(apply): PR-scoped guideline result cache, running spend total and a re-run gate (#5859)",
+        "at": "2026-10-11T17:24:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c660202e0076f2ea3d986c82946227405252a73d",
         "subject": "ci: bump @design-parity/export-driver to 1.13.0 (#5851)",
@@ -458,30 +482,6 @@
         "sha": "8f5c801144a7f482b44afb8e9f3e34a4871b9d7e",
         "subject": "ci: pin the catalog section merger to its merged commit (#5796)",
         "at": "2026-10-10T17:02:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f3efeeeb792a6e19b81747c5cf5e3803d38cb346",
-        "subject": "feat(guidelines): accessibility data is evidence the model asks for (#5793)",
-        "at": "2026-10-10T16:41:40+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "15ecd784bae262de7f5f4e9638d5715178f66d23",
-        "subject": "fix(apply): update a stale a11y comment when a PR stops changing previews (#5795)",
-        "at": "2026-10-10T16:35:27+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c348cb985f57213f44a698ec47e447c76a809280",
-        "subject": "feat: include UID references in existing app catalogs (#5792)",
-        "at": "2026-10-10T16:19:40+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
