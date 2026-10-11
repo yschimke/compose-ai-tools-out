@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T14:25:52.650Z",
+  "generatedAt": "2026-10-11T16:04:01.519Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "19012ea723447735b36a80a7f8f207fb3da57d1d",
+        "subject": "chore(main): release 2.47.0 (#5850)",
+        "at": "2026-10-11T16:37:08+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b64afaf69d7144f5e6004a329f239006933bb144",
+        "subject": "fix(doctor): stop promising the installer writes $CLAUDE_ENV_FILE (#5849)",
+        "at": "2026-10-11T16:25:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ad9b0ab44882003ee00e994d2fcab1b695c4f56a",
+        "subject": "feat(screen): structural export projections: overloads, role contexts, slot patterns and synthesized slots (#5847)",
+        "at": "2026-10-11T16:25:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3b9279bd79003ebd232d8d6447c18ff058c6e87f",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.46.0 (#5848)",
+        "at": "2026-10-11T15:06:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4de0cc7af090cffba1ecc94b1958542c6bbb16cc",
         "subject": "chore(main): release 2.46.0 (#5838)",
@@ -450,38 +482,6 @@
         "sha": "da4612a1fe17b0b7e5cfa2a4f7fe9cfb685e7e07",
         "subject": "refactor: reuse canonical UID guidelines and evidence staging (#5787)",
         "at": "2026-10-10T16:03:26+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "07213c1e06ee5b6b6b76c3402188958ca62afe35",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.42.0 (#5790)",
-        "at": "2026-10-10T15:01:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5765a5ac041e2b7911c0c678db74be50c67ce400",
-        "subject": "chore(main): release 2.42.0 (#5774)",
-        "at": "2026-10-10T14:56:53+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0f1147d74cf8c8ba146d1fb922accc0283698a9d",
-        "subject": "fix(guidelines): hold replies to the rules asked, check a PR's own previews first, and keep under the cap (#5784)",
-        "at": "2026-10-10T14:56:38+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ee50c0aec00de9083f0e77bce662752dcd9d90cd",
-        "subject": "feat(guidelines): layered rule packs, later layers overriding earlier ones by id (#5782)",
-        "at": "2026-10-10T14:56:25+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
