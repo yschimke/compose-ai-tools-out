@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T20:20:29.079Z",
+  "generatedAt": "2026-10-12T22:09:09.990Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "a90cabb0dd1df469fd9ad0b1ee8de137ccf9d537",
+        "subject": "fix(deps): build on rc-players 2.11.0 for the CMP player's CanvasContent sizing (#5936)",
+        "at": "2026-10-12T22:42:32+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4f6e22594ac77f753b37c1dd24377b3ba1c203e6",
+        "subject": "fix(preview-discovery): compile the shared interfaces with JVM default methods (#5935)",
+        "at": "2026-10-12T22:34:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "97cd66a38373cbfc1ba6db806d4f66207727a58c",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.56.0 (#5937)",
+        "at": "2026-10-12T21:03:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ec08b1b9e927e555a0fdc8d3e2be685e459ce705",
         "subject": "chore(main): release 2.56.0 (#5932)",
@@ -458,30 +482,6 @@
         "sha": "858cc46fc2ca64e967a988353da56cabf74fad33",
         "subject": "fix(screen): validate a projection target's overload as the generator calls it (#5879)",
         "at": "2026-10-11T22:19:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "16bca08b7a04be859b24dbfcc6efeda8cf443879",
-        "subject": "feat(screen): item roles per DSL slot and properties the export refuses (#5877)",
-        "at": "2026-10-11T22:14:12+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8f484f024e177949d0cf29a967d3cd05414dc55b",
-        "subject": "feat(guidelines): ask breadth first by composable, and predict each request's cost (#5878)",
-        "at": "2026-10-11T22:04:59+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2ba42f45836e7fdc95cbad71040034ca31a01a8b",
-        "subject": "fix(discovery): carry each callable's overloads once in previews.json, not on every preview (#5876)",
-        "at": "2026-10-11T21:27:33+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
