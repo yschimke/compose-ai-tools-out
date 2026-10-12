@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T22:09:09.990Z",
+  "generatedAt": "2026-10-12T22:30:36.103Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "90f4a93ebe2c96ea754ad320ba9621ffaeb05e4e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.11.0 (#5938)",
+        "at": "2026-10-12T22:01:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a90cabb0dd1df469fd9ad0b1ee8de137ccf9d537",
         "subject": "fix(deps): build on rc-players 2.11.0 for the CMP player's CanvasContent sizing (#5936)",
@@ -474,14 +482,6 @@
         "sha": "7521b2369b0f04a5d33a7c709b2a9abb72770f6e",
         "subject": "fix(screen): resolve a projection target's overload as the generator does (#5881)",
         "at": "2026-10-11T22:56:55+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "858cc46fc2ca64e967a988353da56cabf74fad33",
-        "subject": "fix(screen): validate a projection target's overload as the generator calls it (#5879)",
-        "at": "2026-10-11T22:19:49+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
