@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T12:50:01.703Z",
+  "generatedAt": "2026-10-12T12:58:07.368Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8bb4e090a4a55f6e55ac8224058aa2646104c128",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.10.0 (#5923)",
+        "at": "2026-10-12T12:49:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8c47a406f181e39e01eec1a721ba348a799c3a4c",
+        "subject": "chore(main): release 2.54.0 (#5918)",
+        "at": "2026-10-12T13:45:51+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "485b19ada414723287f1feff9cb3a49051b0bebb",
         "subject": "perf(design-artifacts): run the export driver 1.14.1, which publishes design references in parallel (#5922)",
@@ -467,22 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.48.0 (#5863)",
         "at": "2026-10-11T17:09:42Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "05393ee9e877c88f7336ff19681305be12102910",
-        "subject": "chore(main): release 2.48.0 (#5857)",
-        "at": "2026-10-11T17:39:09+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "22df77dd91721d92feed1f07ae12ab5956198bd1",
-        "subject": "feat(catalog): declare code.locals and code.scopes in the policy schema, and a list item's key hole (#5858)",
-        "at": "2026-10-11T17:34:29+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
