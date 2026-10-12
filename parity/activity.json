@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T08:55:35.366Z",
+  "generatedAt": "2026-10-12T09:56:18.925Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "994dfb61d1a0942832e8f5a7d43317b02557fa6e",
+        "subject": "feat(design-artifacts): publish a typed-adapter UI-builder catalog and its renderer (#5917)",
+        "at": "2026-10-12T10:45:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "826bc7a2be298a57c65c3a923d4e32bb313f6250",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.53.0 (#5916)",
+        "at": "2026-10-12T09:17:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "962ce1ae32fba49d145b207e1c71b39619d2ab20",
+        "subject": "chore(main): release 2.53.0 (#5911)",
+        "at": "2026-10-12T10:00:45+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "85e2640ea6a6bd0fe83b5ea3eb5a27a7a3c76ad7",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.4 (#5913)",
+        "at": "2026-10-12T08:48:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8c599149f31c63f0bfe4b4ef3a1bc95c597eb1ae",
         "subject": "fix(design-artifacts): upload the standalone UI-builder renderer by its resolved path (#5912)",
@@ -450,38 +482,6 @@
         "sha": "c660202e0076f2ea3d986c82946227405252a73d",
         "subject": "ci: bump @design-parity/export-driver to 1.13.0 (#5851)",
         "at": "2026-10-11T16:58:38+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e57687a246ba26889d5d868fbb27540707e624f6",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.47.0 (#5856)",
-        "at": "2026-10-11T15:58:27Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "35a19439718d4ec13115c65b7921646a3fba2796",
-        "subject": "fix: skip the UID audit only when every failed request is a 402 (#5855)",
-        "at": "2026-10-11T16:57:37+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1613792ad3e5a61c0575cdea441734f989237216",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.7.1 (#5853)",
-        "at": "2026-10-11T15:57:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "599f65be251805843694e7042c2d0d841f166534",
-        "subject": "fix: skip the UID audit with a warning when OpenRouter is out of credit (#5854)",
-        "at": "2026-10-11T16:54:51+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
