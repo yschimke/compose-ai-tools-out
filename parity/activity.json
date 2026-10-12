@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T03:14:04.296Z",
+  "generatedAt": "2026-10-12T04:10:33.130Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "9310fba0525c3d146736f23aa95626cac5ac8e21",
+        "subject": "chore(main): release 2.52.0 (#5892)",
+        "at": "2026-10-12T03:47:14Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "46ce168108f506d1ecf4ab88086e4df5c0a71116",
+        "subject": "docs: how a catalog adopts typed exports on its real records (#5895)",
+        "at": "2026-10-12T04:17:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5d5f7f6739ed2ff9b8dd7752b07997f7d2fe3fdc",
+        "subject": "feat(screen): a screen frame writes the root's other slots into their own holes (#5901)",
+        "at": "2026-10-12T04:17:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b8dfd74ee6bf04ab74199f907639791f905d2c2e",
+        "subject": "fix(deps): update dependency org.ow2.asm:asm-commons to v9.11 (#5900)",
+        "at": "2026-10-12T02:56:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f36d5052bfddfcf35b789412ab5607074e28f30d",
+        "subject": "test(ci): give each push-history check clone its own directory (#5908)",
+        "at": "2026-10-12T03:53:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "13185ffd1b36011a2bc8b544056ec38b6b03a705",
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.8.0 (#5907)",
@@ -443,46 +483,6 @@
         "subject": "chore(main): release 2.46.0 (#5838)",
         "at": "2026-10-11T14:27:00+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e71d32d671788c127f6a1ad4f73ef683a07fbfa6",
-        "subject": "feat(guidelines): pick a backend per run, add OpenAI-compatible endpoints and a model list (#5846)",
-        "at": "2026-10-11T14:23:36+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b25cd4660526aff99e2baf4f63ed983ae3a90b14",
-        "subject": "feat(ui-builder): let a supersedes rule set the property an old id implied (#5844)",
-        "at": "2026-10-11T14:23:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6d928e66069b91416fc7d2a57c47058953b71177",
-        "subject": "ci: bump @design-parity/export-driver to 1.12.0 (#5845)",
-        "at": "2026-10-11T14:06:01+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d4c31f44774b92ee86f55896458ac47d5a9cb6fa",
-        "subject": "fix(bundle-coordinates): refuse a download shorter than its declared length (#5843)",
-        "at": "2026-10-11T13:50:22+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0d59273346d30197e625b966f0ca9977ad3b11c0",
-        "subject": "feat(screen): discover …Defaults factories and check projection calls against them (#5840)",
-        "at": "2026-10-11T13:42:57+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
