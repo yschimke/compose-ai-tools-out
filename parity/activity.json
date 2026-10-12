@@ -1,19 +1,11 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T09:56:18.925Z",
+  "generatedAt": "2026-10-12T10:05:07.772Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
-      {
-        "sha": "994dfb61d1a0942832e8f5a7d43317b02557fa6e",
-        "subject": "feat(design-artifacts): publish a typed-adapter UI-builder catalog and its renderer (#5917)",
-        "at": "2026-10-12T10:45:18+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
       {
         "sha": "826bc7a2be298a57c65c3a923d4e32bb313f6250",
         "subject": "chore(ci): update the design-artifacts export driver to v2.53.0 (#5916)",
@@ -483,6 +475,14 @@
         "subject": "ci: bump @design-parity/export-driver to 1.13.0 (#5851)",
         "at": "2026-10-11T16:58:38+01:00",
         "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e57687a246ba26889d5d868fbb27540707e624f6",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.47.0 (#5856)",
+        "at": "2026-10-11T15:58:27Z",
+        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
