@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T10:05:07.772Z",
+  "generatedAt": "2026-10-12T12:50:01.703Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "485b19ada414723287f1feff9cb3a49051b0bebb",
+        "subject": "perf(design-artifacts): run the export driver 1.14.1, which publishes design references in parallel (#5922)",
+        "at": "2026-10-12T13:43:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "156dbd117f9a9fed0be13a7d516f0226f7f89790",
+        "subject": "feat(typed-adapters): set and enumValue codecs (#5919)",
+        "at": "2026-10-12T11:37:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c71c627de9d42b308b3b023a59cd4342cf89ce39",
+        "subject": "feat(typed-adapters): Long, Double, parsed text, nullable, sealed and payload-callback values (#5914)",
+        "at": "2026-10-12T10:57:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "994dfb61d1a0942832e8f5a7d43317b02557fa6e",
+        "subject": "feat(design-artifacts): publish a typed-adapter UI-builder catalog and its renderer (#5917)",
+        "at": "2026-10-12T10:45:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "826bc7a2be298a57c65c3a923d4e32bb313f6250",
         "subject": "chore(ci): update the design-artifacts export driver to v2.53.0 (#5916)",
@@ -451,38 +483,6 @@
         "subject": "feat(catalog): declare code.locals and code.scopes in the policy schema, and a list item's key hole (#5858)",
         "at": "2026-10-11T17:34:29+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "353ce040e76c5b24e3b9916feb54758776cc80d9",
-        "subject": "fix(apply): keep the guidelines ledger through truncation and read and write one bot comment (#5860)",
-        "at": "2026-10-11T17:27:28+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ee5ca8fe64f0627a00f7fdae48dceacc7db4acf9",
-        "subject": "feat(apply): PR-scoped guideline result cache, running spend total and a re-run gate (#5859)",
-        "at": "2026-10-11T17:24:24+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c660202e0076f2ea3d986c82946227405252a73d",
-        "subject": "ci: bump @design-parity/export-driver to 1.13.0 (#5851)",
-        "at": "2026-10-11T16:58:38+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e57687a246ba26889d5d868fbb27540707e624f6",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.47.0 (#5856)",
-        "at": "2026-10-11T15:58:27Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
