@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T08:15:04.751Z",
+  "generatedAt": "2026-10-12T08:55:35.366Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8c599149f31c63f0bfe4b4ef3a1bc95c597eb1ae",
+        "subject": "fix(design-artifacts): upload the standalone UI-builder renderer by its resolved path (#5912)",
+        "at": "2026-10-12T09:24:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4b20827b6e6eeb4eaa913caec8d37c0887631648",
         "subject": "ci(design-artifacts): supersede stale renders, scope in the driver, build the renderer alongside shards (#5887)",
@@ -475,14 +483,6 @@
         "subject": "fix: skip the UID audit with a warning when OpenRouter is out of credit (#5854)",
         "at": "2026-10-11T16:54:51+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "19012ea723447735b36a80a7f8f207fb3da57d1d",
-        "subject": "chore(main): release 2.47.0 (#5850)",
-        "at": "2026-10-11T16:37:08+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
