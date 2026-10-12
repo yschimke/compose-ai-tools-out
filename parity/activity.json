@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T04:10:33.130Z",
+  "generatedAt": "2026-10-12T06:01:29.227Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "7561f03798893724661eca7ab7f9006d8ba99ec9",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.9.0 (#5910)",
+        "at": "2026-10-12T05:53:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "211663d502d40d721e318f10ee0582a329dd7015",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.52.0 (#5909)",
+        "at": "2026-10-12T05:47:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9310fba0525c3d146736f23aa95626cac5ac8e21",
         "subject": "chore(main): release 2.52.0 (#5892)",
@@ -467,22 +483,6 @@
         "subject": "feat(screen): structural export projections: overloads, role contexts, slot patterns and synthesized slots (#5847)",
         "at": "2026-10-11T16:25:18+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3b9279bd79003ebd232d8d6447c18ff058c6e87f",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.46.0 (#5848)",
-        "at": "2026-10-11T15:06:53Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4de0cc7af090cffba1ecc94b1958542c6bbb16cc",
-        "subject": "chore(main): release 2.46.0 (#5838)",
-        "at": "2026-10-11T14:27:00+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
