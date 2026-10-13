@@ -1,11 +1,67 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T22:30:36.103Z",
+  "generatedAt": "2026-10-13T19:59:29.689Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "07e29d8f4f06f8e39409496a2000bf64e317a050",
+        "subject": "build(deps): bump the actions-minor group with 8 updates (#5940)",
+        "at": "2026-10-13T19:50:14Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9366c83340190e9cef2d6f8e7618461fec59ab8b",
+        "subject": "fix(deps): use daemon 3.16.1 for visible-font export auditing (#5948)",
+        "at": "2026-10-13T20:43:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a4e5ce1d9680647b3117d51196176503180cbe2f",
+        "subject": "feat: support Bazel Compose previews and runnable Maven bundles (#5947)",
+        "at": "2026-10-13T20:38:14+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d7ca1be8118fce0b86b5994983495b773e194185",
+        "subject": "build(deps): bump actions/setup-python from 6.3.0 to 7.0.0 (#5941)",
+        "at": "2026-10-13T20:17:48+01:00",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "29b763be83a57d7004a29a204e0c3a92ebaedd56",
+        "subject": "fix(deps): update dependency org.jetbrains.skiko:skiko-awt to v0.153.0 (#5944)",
+        "at": "2026-10-13T12:19:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "778711b55ff75a5d4060276316a845d5b5e7e666",
+        "subject": "fix(release): dispatch the required build checks on release PRs (#5943)",
+        "at": "2026-10-13T13:12:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3e7c41543a7620447a55e0a3efbd8ab3b4ca44fc",
+        "subject": "ci: run policy checks on workflow-opened release PRs (#5942)",
+        "at": "2026-10-13T09:21:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "90f4a93ebe2c96ea754ad320ba9621ffaeb05e4e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.11.0 (#5938)",
@@ -426,62 +482,6 @@
         "sha": "8cba4e76f20bb9ce30ece5930058519372539044",
         "subject": "fix(screen): write a factory call as the parameter type it is passed as (#5886)",
         "at": "2026-10-12T00:15:32+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dcba2ad35c907a3f5ce9e7917d21e9446525052a",
-        "subject": "feat(guidelines): ask only some sizes of each preview, and send a shared source once (#5882)",
-        "at": "2026-10-11T23:57:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "deecd3c05d119ee24a840d8888fb1c0704d3d824",
-        "subject": "fix(screen-generator): a components file annotates opt-ins once and frees the screen's name (#5885)",
-        "at": "2026-10-11T23:51:36+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ac9f01f2d0c27c36d5c36509d93772fed0385bca",
-        "subject": "chore(main): release 2.51.0 (#5873)",
-        "at": "2026-10-11T22:33:59Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2144fc06c174a22525c5db7a32139bc71c850792",
-        "subject": "feat(guidelines): stop at the key's spending limit and learn each model's cost and refusals (#5884)",
-        "at": "2026-10-11T23:27:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "594c72231a33a8cbddc9d15f9d864dfe4922fe5d",
-        "subject": "feat(screen-generator): write a design's components alone, as internal functions (#5883)",
-        "at": "2026-10-11T23:07:24+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "58b6b3ca92d9fc1f22766e73bc2d0c6757e5490e",
-        "subject": "feat(screen): pass a factory call where its return type's supertype is taken (#5880)",
-        "at": "2026-10-11T23:05:46+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7521b2369b0f04a5d33a7c709b2a9abb72770f6e",
-        "subject": "fix(screen): resolve a projection target's overload as the generator does (#5881)",
-        "at": "2026-10-11T22:56:55+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
