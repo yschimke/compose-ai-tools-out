@@ -1,11 +1,179 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-13T20:21:43.668Z",
+  "generatedAt": "2026-10-14T20:21:10.774Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c4f7d66a20de63d8649821cf798a7d7168e3b5aa",
+        "subject": "fix(deps): update dependency @design-parity/export-driver to v1.15.0 (#5973)",
+        "at": "2026-10-14T20:01:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bc809595cf15e3b6294b8d3770c1f9cefd963fc2",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.59.0 (#5972)",
+        "at": "2026-10-14T19:45:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "14f6e5301dd2656214393b266d3b49cbc651ad61",
+        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.8.1 (#5969)",
+        "at": "2026-10-14T19:33:27Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4fd0c6b53947acc70c64614cf2979cdfa4462788",
+        "subject": "fix(deps): update dependency androidx.collection:collection to v1.7.0 (#5970)",
+        "at": "2026-10-14T19:33:05Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "69bc417fcd14dff47246c56a3b00ec54a4f0be59",
+        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-beta01 (#5968)",
+        "at": "2026-10-14T19:31:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fde5e3fce78152929d50b40ba13e64f49672eb48",
+        "subject": "fix(deps): update androidx-wear to v1.7.1 (#5967)",
+        "at": "2026-10-14T19:28:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c5d73925004ae8d5c58e524aa1ea59cfb1f44ea1",
+        "subject": "chore(main): release 2.59.0 (#5962)",
+        "at": "2026-10-14T20:15:48+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ca5da5cc27bac1158686c37689085d355d200c19",
+        "subject": "feat(bazel): bundle Android Bazel targets as backend=\"android\" bundles (#5966)",
+        "at": "2026-10-14T18:25:33+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4ca7f55d67acb307192a7aaa2259ece4e4b4f20d",
+        "subject": "feat(bazel): render Android Bazel targets on the Robolectric daemon (#5965)",
+        "at": "2026-10-14T17:21:50+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7c7232b22825f6a13da02748a09ae06cf22ac831",
+        "subject": "fix(bazel): report the build command before target discovery runs it (#5963)",
+        "at": "2026-10-14T13:52:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "865deda23e7d10b3b2090bb3bfce711ecee56b44",
+        "subject": "docs: separate start pages for the CLI and the UI Builder (#5958)",
+        "at": "2026-10-14T13:50:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "975ba9d01e18997322c896c08b3c5f399e0714a7",
+        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.197 (#5964)",
+        "at": "2026-10-14T12:41:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6a1217d658ef50b3d16cbadb7f9587f20ce4d820",
+        "subject": "fix(bazel): portable driver defaults for Bazel-family tools (#5961)",
+        "at": "2026-10-14T13:28:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "97aafb07da9b1efafa6e0c01347f719c0eaed3a8",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.58.0 (#5957)",
+        "at": "2026-10-14T07:39:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6745d6211d7ae6dd1ef640514fafd90ad13d94f8",
+        "subject": "docs: point at ui.coo.ee/start and name one hosted MCP URL (#5956)",
+        "at": "2026-10-14T08:36:51+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8e63e96f47d6e6eb5a5294853942d69a0ea0650d",
+        "subject": "chore(main): release 2.58.0 (#5951)",
+        "at": "2026-10-14T07:19:12+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "da04840e1423fc9e90f93fb3ab21ffc8d3a61fcf",
+        "subject": "fix(bazel): only reuse captures rendered from the current artifacts (#5954)",
+        "at": "2026-10-14T07:16:56+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f175f922bb926e3395a1a0cdb686704ba72ba205",
+        "subject": "feat(ui-builder): publish a catalog's new-design description and primary flag (#5955)",
+        "at": "2026-10-14T00:13:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "93ab0f7652ef5d4784ff0208900c823f68eea219",
+        "subject": "feat: prepare source bundles without renderer dependencies (#5953)",
+        "at": "2026-10-13T22:52:14+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2765cdcb70c82fd51854a0e834fa5410556d220a",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.57.0 (#5952)",
+        "at": "2026-10-13T20:28:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "02ebd2a86a46426ce84c29ae37c0dc3a903d2dcc",
+        "subject": "feat: reuse built Bazel captures for single-target workflows (#5950)",
+        "at": "2026-10-13T21:21:09+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2581e77e27f94d6b0ae3e150700084aa158d5972",
         "subject": "chore(main): release 2.57.0 (#5939)",
@@ -314,174 +482,6 @@
         "sha": "7561f03798893724661eca7ab7f9006d8ba99ec9",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.9.0 (#5910)",
         "at": "2026-10-12T05:53:15Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "211663d502d40d721e318f10ee0582a329dd7015",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.52.0 (#5909)",
-        "at": "2026-10-12T05:47:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9310fba0525c3d146736f23aa95626cac5ac8e21",
-        "subject": "chore(main): release 2.52.0 (#5892)",
-        "at": "2026-10-12T03:47:14Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "46ce168108f506d1ecf4ab88086e4df5c0a71116",
-        "subject": "docs: how a catalog adopts typed exports on its real records (#5895)",
-        "at": "2026-10-12T04:17:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5d5f7f6739ed2ff9b8dd7752b07997f7d2fe3fdc",
-        "subject": "feat(screen): a screen frame writes the root's other slots into their own holes (#5901)",
-        "at": "2026-10-12T04:17:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b8dfd74ee6bf04ab74199f907639791f905d2c2e",
-        "subject": "fix(deps): update dependency org.ow2.asm:asm-commons to v9.11 (#5900)",
-        "at": "2026-10-12T02:56:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f36d5052bfddfcf35b789412ab5607074e28f30d",
-        "subject": "test(ci): give each push-history check clone its own directory (#5908)",
-        "at": "2026-10-12T03:53:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "13185ffd1b36011a2bc8b544056ec38b6b03a705",
-        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.8.0 (#5907)",
-        "at": "2026-10-12T02:25:25Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "609f21cc5af7b78fbec4f531f4020aab5da08df8",
-        "subject": "fix(screen): name the icons package as a Material icon's owner, and close its key set (#5905)",
-        "at": "2026-10-12T03:25:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2992bc98e7c377903e3859629d2189e0328cdc73",
-        "subject": "feat(screen): write a projection target's modifier links from its properties (#5893)",
-        "at": "2026-10-12T03:23:44+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d5fb2096b4a01f96cd2c4fe50e845a23c50cf291",
-        "subject": "fix(screen): generate a catalog whose only typed definitions implement builtins (#5906)",
-        "at": "2026-10-12T03:17:31+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "46b35da43a144de65e66646554ead418e10a82aa",
-        "subject": "fix(screen): match a nested type whether it is spelled with a dollar or a dot (#5904)",
-        "at": "2026-10-12T03:03:12+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d2e04f00bbe1769b7e41812bd35d7b33ce4f1989",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.8.0 (#5902)",
-        "at": "2026-10-12T01:46:16Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3d60be0ae925be94bda686b5b4671256ad6fc7b5",
-        "subject": "fix(screen): a lines matcher's rest is filled when the minimum needs it (#5903)",
-        "at": "2026-10-12T02:45:42+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b38a9a5b30cd9341db10b1c54466384c31adbc37",
-        "subject": "fix(deps): update dependency org.ow2.asm:asm to v9.11 (#5899)",
-        "at": "2026-10-12T01:08:11Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1d6ace593547f7f9e7c9a2bff29e32cb5a2ac8a4",
-        "subject": "fix(deps): update dependency org.checkerframework:checker-qual to v4.3.0 (#5898)",
-        "at": "2026-10-12T01:04:49Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "30648644413f9d884c39eb23f70c8310fe7324bb",
-        "subject": "feat(screen): generate a builtin's implementation from a typed adapter (#5894)",
-        "at": "2026-10-12T02:00:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eabafd852c5df513182126c279bc351d8ef560ab",
-        "subject": "chore(deps): update dependency yschimke/compose-preview-xr to v2.0.1 (#5897)",
-        "at": "2026-10-12T00:59:18Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9a1f885571d4b784b15cb7fff0781063b52a9e89",
-        "subject": "fix(screen): name a scope member's scope among a projection's owners (#5890)",
-        "at": "2026-10-12T01:27:13+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2abaa4ab8588b19d36eded19c2fd57eca168b182",
-        "subject": "feat(screen): a Material icon codec the host writes from its icon table (#5891)",
-        "at": "2026-10-12T01:18:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "62d8745c39d93e24c0177c04eecc5499957e6496",
-        "subject": "perf(cli): window semantics renders and split them across parallel daemons (#5888)",
-        "at": "2026-10-12T01:02:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5941dcd33bfac4965fe350463a15c13ab7659202",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.51.0 (#5889)",
-        "at": "2026-10-11T23:16:51Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
