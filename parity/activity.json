@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T06:25:05.208Z",
+  "generatedAt": "2026-10-15T08:11:50.728Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5d579c87d09b00aa965ba72ebd65531653fd6d59",
+        "subject": "chore(main): release 2.61.0 (#5992)",
+        "at": "2026-10-15T08:33:21+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3c8ff0127f604a3fd9dd551e00313306d6f81a2d",
+        "subject": "ci: cover the gradle-plugin build, cold caches and typed dependencies in the POM check (#5987)",
+        "at": "2026-10-15T08:30:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bdd19276425dc611b45a6b719b2d3f172756e776",
+        "subject": "feat: render Android previews at API 37 (#5989)",
+        "at": "2026-10-15T08:29:50+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b88b3ffdb2f9e5cb94045b4068c3593b3045042c",
+        "subject": "chore(deps): update dependency yschimke/compose-preview-xr to v2.0.2 (#5991)",
+        "at": "2026-10-15T07:19:05Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "eef2b0fec202950e5af0800bab4500f9aa52c464",
+        "subject": "feat(bazel): opt-in merge of several Android targets into one module on one linked resource APK (#5988)",
+        "at": "2026-10-15T08:13:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "439c8019514fbe2519289e98bc641bbbea2a60f5",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.60.1 (#5990)",
+        "at": "2026-10-15T06:46:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5fe91221da0a4f6e61d39b9be58ea7b62e214486",
         "subject": "chore(main): release 2.60.1 (#5984)",
@@ -435,54 +483,6 @@
         "subject": "feat(ci): reusable workflow to publish a prebuilt typed catalog (#5915)",
         "at": "2026-10-12T18:05:11+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7a149966ce221e7d8e96b07aac8a218bb6cd6d95",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.16.0 (#5928)",
-        "at": "2026-10-12T15:15:05Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6ce02e7ec529f54757a34604e2787b151ea1a4f7",
-        "subject": "feat: check widgets at 1.24x (Wear) and 1.5x (mobile) font scale (#5920)",
-        "at": "2026-10-12T15:53:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9c283d919eef7cce501e57d93609c37e04f563e7",
-        "subject": "feat(render-host): add the swift-appkit Remote Compose lane over rc-swift-render (#5921)",
-        "at": "2026-10-12T15:53:07+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6ad98dde9da239cd443524ca927a1eb40085acbd",
-        "subject": "fix(guidelines): allow paired semantic domain colours alongside theme roles (#5924)",
-        "at": "2026-10-12T15:52:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a1a6699bc8e9d5eda9d6b1798e4e8be7e63c40f5",
-        "subject": "fix(guidelines): keep the comment to one line when nothing was checked (#5926)",
-        "at": "2026-10-12T15:51:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d51212406f797ed854d5b346dc2d7d36909443c5",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.54.0 (#5927)",
-        "at": "2026-10-12T13:16:53Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
