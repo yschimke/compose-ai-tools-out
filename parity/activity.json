@@ -1,11 +1,83 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T11:05:13.609Z",
+  "generatedAt": "2026-10-15T13:21:02.970Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "f9236a14a19f891234e981e34508362165d98102",
+        "subject": "chore(main): release 2.62.0 (#6003)",
+        "at": "2026-10-15T14:03:19+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "863949e5ca107549a55ce66632b5b8db55d624a7",
+        "subject": "fix: variant-named Gradle cache lookups skip classifier artifacts; the viewer's resolver gets both offline fixes (#6010)",
+        "at": "2026-10-15T13:57:33+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fdc92c5d412059da9a6a6ab02b2f950e624a4381",
+        "subject": "fix: provision rejects every valueless --android-sdk, not only an all-empty set (#6011)",
+        "at": "2026-10-15T13:54:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2ee14abe42539585e7c796df820678c99154f9fc",
+        "subject": "fix: pin the Bazel Android launcher to the JVM its SDK was clamped for; reject an empty --android-sdk (#6009)",
+        "at": "2026-10-15T13:47:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c90c762066364ec84a6d04dd7a3dab7fabe76446",
+        "subject": "fix: offline bundle resolution finds Gradle-cached aars under their variant file name (#6008)",
+        "at": "2026-10-15T13:42:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "673d09b3029462c29963a1b65a70d2c6e2fff07f",
+        "subject": "feat: compose-preview provision pre-fetches offline render dependencies; Bazel Android renders on the target's compileSdk (#6005)",
+        "at": "2026-10-15T13:30:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c2218807bf9560bfdc2591a24b4a3b3a1dda5e54",
+        "subject": "fix: close three gaps in COMPOSE_PREVIEW_NO_NETWORK (#6004)",
+        "at": "2026-10-15T13:10:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "20a80f551dc9752ade26b5d8b69995551a7b7e47",
+        "subject": "feat: COMPOSE_PREVIEW_NO_NETWORK refuses every outbound path for closed-source repositories (#6002)",
+        "at": "2026-10-15T12:58:22+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c7c33377a79248be0dfd2e7d51ce493c379b8868",
+        "subject": "ci: move the design-artifacts driver pin to v2.61.2 (#6001)",
+        "at": "2026-10-15T11:59:53+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5444acb8fe6779aad6f9a10df8177dcadf74318d",
         "subject": "chore(main): release 2.61.2 (#5998)",
@@ -411,78 +483,6 @@
         "subject": "fix(deps): use daemon 3.16.1 for visible-font export auditing (#5948)",
         "at": "2026-10-13T20:43:43+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a4e5ce1d9680647b3117d51196176503180cbe2f",
-        "subject": "feat: support Bazel Compose previews and runnable Maven bundles (#5947)",
-        "at": "2026-10-13T20:38:14+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d7ca1be8118fce0b86b5994983495b773e194185",
-        "subject": "build(deps): bump actions/setup-python from 6.3.0 to 7.0.0 (#5941)",
-        "at": "2026-10-13T20:17:48+01:00",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "29b763be83a57d7004a29a204e0c3a92ebaedd56",
-        "subject": "fix(deps): update dependency org.jetbrains.skiko:skiko-awt to v0.153.0 (#5944)",
-        "at": "2026-10-13T12:19:37Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "778711b55ff75a5d4060276316a845d5b5e7e666",
-        "subject": "fix(release): dispatch the required build checks on release PRs (#5943)",
-        "at": "2026-10-13T13:12:26+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3e7c41543a7620447a55e0a3efbd8ab3b4ca44fc",
-        "subject": "ci: run policy checks on workflow-opened release PRs (#5942)",
-        "at": "2026-10-13T09:21:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "90f4a93ebe2c96ea754ad320ba9621ffaeb05e4e",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.11.0 (#5938)",
-        "at": "2026-10-12T22:01:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a90cabb0dd1df469fd9ad0b1ee8de137ccf9d537",
-        "subject": "fix(deps): build on rc-players 2.11.0 for the CMP player's CanvasContent sizing (#5936)",
-        "at": "2026-10-12T22:42:32+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4f6e22594ac77f753b37c1dd24377b3ba1c203e6",
-        "subject": "fix(preview-discovery): compile the shared interfaces with JVM default methods (#5935)",
-        "at": "2026-10-12T22:34:42+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "97cd66a38373cbfc1ba6db806d4f66207727a58c",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.56.0 (#5937)",
-        "at": "2026-10-12T21:03:49Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
