@@ -1,11 +1,115 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T20:21:10.774Z",
+  "generatedAt": "2026-10-15T06:25:05.208Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5fe91221da0a4f6e61d39b9be58ea7b62e214486",
+        "subject": "chore(main): release 2.60.1 (#5984)",
+        "at": "2026-10-15T06:59:36+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0e6bbaa8927c2cffc595fd1e2dfc32e472ec0ed5",
+        "subject": "ci: fail a PR whose POM names a dependency Maven Central would reject (#5985)",
+        "at": "2026-10-15T06:52:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0417b1201636675d6e9f45e0a9cb831b8f181884",
+        "subject": "chore(deps): update docker/dockerfile docker tag to v1.28 (#5986)",
+        "at": "2026-10-15T05:24:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f48dce326a5cd0857d620668ea01c635dab4df70",
+        "subject": "fix: publish bundle-producer's preview-discovery dependency with a version (#5981)",
+        "at": "2026-10-14T23:30:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "73847248b682be411fe7fc559e8da68477fb711d",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.60.0 (#5982)",
+        "at": "2026-10-14T22:26:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "63bbde1815c67c98d2085068b3b4a00c222f5d27",
+        "subject": "chore(main): release 2.60.0 (#5980)",
+        "at": "2026-10-14T22:35:53+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ff64af4c9146f0a0dbc0268a2902e2018b61e706",
+        "subject": "feat: reload a preview session's classes after an edit (#5979)",
+        "at": "2026-10-14T22:27:35+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "783417a776e6505d13a2842eb2a480ca43216711",
+        "subject": "fix: land the review fixes that missed #5975 and #5977 (#5978)",
+        "at": "2026-10-14T22:19:53+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dda2a36e7d8aee13ba10f22697161251f86c3603",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.16.2 (#5949)",
+        "at": "2026-10-14T22:19:39+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "91852aaeecbe98eded404ac17eb6fd3fb3b4213b",
+        "subject": "fix(plugin): resolve theme-pin at the version it is published at (#5976)",
+        "at": "2026-10-14T21:46:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b8d5f79da14ef45da817e39ad77eabeeb8ae4db5",
+        "subject": "feat: add `bundle prepare` to unpack a bundle into a daemon workspace (#5975)",
+        "at": "2026-10-14T21:45:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dac5fe55565ebdeb04067276d0f8b53fdd4948bb",
+        "subject": "feat(bazel): browse and serve --discover in Bazel workspaces (#5974)",
+        "at": "2026-10-14T21:44:36+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2745b875b9107adbfead41e3919c4f35ebc27295",
+        "subject": "ci(release): publish less for changes no release carries (#5971)",
+        "at": "2026-10-14T21:37:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c4f7d66a20de63d8649821cf798a7d7168e3b5aa",
         "subject": "fix(deps): update dependency @design-parity/export-driver to v1.15.0 (#5973)",
@@ -378,110 +482,6 @@
         "sha": "d51212406f797ed854d5b346dc2d7d36909443c5",
         "subject": "chore(ci): update the design-artifacts export driver to v2.54.0 (#5927)",
         "at": "2026-10-12T13:16:53Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8bb4e090a4a55f6e55ac8224058aa2646104c128",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.10.0 (#5923)",
-        "at": "2026-10-12T12:49:08Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8c47a406f181e39e01eec1a721ba348a799c3a4c",
-        "subject": "chore(main): release 2.54.0 (#5918)",
-        "at": "2026-10-12T13:45:51+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "485b19ada414723287f1feff9cb3a49051b0bebb",
-        "subject": "perf(design-artifacts): run the export driver 1.14.1, which publishes design references in parallel (#5922)",
-        "at": "2026-10-12T13:43:42+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "156dbd117f9a9fed0be13a7d516f0226f7f89790",
-        "subject": "feat(typed-adapters): set and enumValue codecs (#5919)",
-        "at": "2026-10-12T11:37:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c71c627de9d42b308b3b023a59cd4342cf89ce39",
-        "subject": "feat(typed-adapters): Long, Double, parsed text, nullable, sealed and payload-callback values (#5914)",
-        "at": "2026-10-12T10:57:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "994dfb61d1a0942832e8f5a7d43317b02557fa6e",
-        "subject": "feat(design-artifacts): publish a typed-adapter UI-builder catalog and its renderer (#5917)",
-        "at": "2026-10-12T10:45:18+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "826bc7a2be298a57c65c3a923d4e32bb313f6250",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.53.0 (#5916)",
-        "at": "2026-10-12T09:17:11Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "962ce1ae32fba49d145b207e1c71b39619d2ab20",
-        "subject": "chore(main): release 2.53.0 (#5911)",
-        "at": "2026-10-12T10:00:45+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "85e2640ea6a6bd0fe83b5ea3eb5a27a7a3c76ad7",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.4 (#5913)",
-        "at": "2026-10-12T08:48:32Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8c599149f31c63f0bfe4b4ef3a1bc95c597eb1ae",
-        "subject": "fix(design-artifacts): upload the standalone UI-builder renderer by its resolved path (#5912)",
-        "at": "2026-10-12T09:24:11+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4b20827b6e6eeb4eaa913caec8d37c0887631648",
-        "subject": "ci(design-artifacts): supersede stale renders, scope in the driver, build the renderer alongside shards (#5887)",
-        "at": "2026-10-12T09:02:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "97936b12b8cd28414c5ba92c45aa99408b4f0830",
-        "subject": "feat(screen-generator): toggle intents and empty optional slots (#5896)",
-        "at": "2026-10-12T08:26:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7561f03798893724661eca7ab7f9006d8ba99ec9",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.9.0 (#5910)",
-        "at": "2026-10-12T05:53:15Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
