@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T08:11:50.728Z",
+  "generatedAt": "2026-10-15T09:16:38.229Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "dab6c2e5aad194d594d18102827b4ae751d10ee3",
+        "subject": "fix(deps): update kotlin to v2.4.21 (#5996)",
+        "at": "2026-10-15T09:02:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "51374509332834893972674d18b9c95b919ae8ae",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.61.1 (#5997)",
+        "at": "2026-10-15T08:55:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e6cdd701cb437f77aade55ddbba646821f347fe2",
+        "subject": "chore(main): release 2.61.1 (#5995)",
+        "at": "2026-10-15T09:52:21+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "426a5ef5d701fae910de973fc911cb02b64dd7b7",
+        "subject": "fix(deps): bump compose-preview-daemon to 3.17.0 for API 37 daemon renders (#5994)",
+        "at": "2026-10-15T09:44:44+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2002d36b2e685c58733bb0966ed1fa05c1c661f0",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.61.0 (#5993)",
+        "at": "2026-10-15T08:23:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5d579c87d09b00aa965ba72ebd65531653fd6d59",
         "subject": "chore(main): release 2.61.0 (#5992)",
@@ -442,46 +482,6 @@
         "sha": "e96a4e5dde4953e34ef79e371c0c7c055fd16545",
         "subject": "docs: the swift-appkit player is not listed off Apple silicon (#5934)",
         "at": "2026-10-12T20:37:18+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "adff9f0567053736c96ffea22ef468358ff10d7d",
-        "subject": "feat(cli): launch the MCP server from compose-preview-mcp releases (#5929)",
-        "at": "2026-10-12T20:36:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dd302d2df4be502d98cfe264707454ab613654db",
-        "subject": "fix(install): wait out the release-publication window before failing (#5931)",
-        "at": "2026-10-12T20:26:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8f34e82c08e30b99d5ea4b3b5f9998e7096a0eb5",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.55.0 (#5930)",
-        "at": "2026-10-12T18:57:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "83808487a5736da13e805f3cf17e39dc21960f91",
-        "subject": "chore(main): release 2.55.0 (#5925)",
-        "at": "2026-10-12T19:54:47+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d1224164eeec47e296a1bb92dadeb43083ae42d4",
-        "subject": "feat(ci): reusable workflow to publish a prebuilt typed catalog (#5915)",
-        "at": "2026-10-12T18:05:11+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
