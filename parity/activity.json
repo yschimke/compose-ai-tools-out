@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T18:46:11.129Z",
+  "generatedAt": "2026-10-15T23:01:05.979Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8c94209230c5cc060a4c01cf311736627cce90a5",
+        "subject": "chore(main): release 2.64.0 (#6024)",
+        "at": "2026-10-15T23:42:46+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8c67a129ca8abbd1d666a1ceceb43a4711c23a24",
+        "subject": "fix: resolve a Bazel bundle's coordinates from the build's own jars by content (#6027)",
+        "at": "2026-10-15T23:38:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aacfefe28ed0f45fc26ff91e93fdcbad80f9d581",
+        "subject": "fix: refuse Bazel artifacts whose schema and android block disagree (#6025)",
+        "at": "2026-10-15T23:07:02+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "29392ff7e20715075c4b563bafe29a5f744bb7ad",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.63.0 (#6026)",
+        "at": "2026-10-15T21:56:18Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "399ed1139e9b64be674de79186b9576d9c62ce04",
+        "subject": "feat: render Android Bazel bundles offline for rules_compose_preview (#6023)",
+        "at": "2026-10-15T22:52:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e75b756adb7babda608aff271bdb1adbf70125ed",
         "subject": "chore(main): release 2.63.0 (#6012)",
@@ -442,46 +482,6 @@
         "sha": "ca5da5cc27bac1158686c37689085d355d200c19",
         "subject": "feat(bazel): bundle Android Bazel targets as backend=\"android\" bundles (#5966)",
         "at": "2026-10-14T18:25:33+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4ca7f55d67acb307192a7aaa2259ece4e4b4f20d",
-        "subject": "feat(bazel): render Android Bazel targets on the Robolectric daemon (#5965)",
-        "at": "2026-10-14T17:21:50+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7c7232b22825f6a13da02748a09ae06cf22ac831",
-        "subject": "fix(bazel): report the build command before target discovery runs it (#5963)",
-        "at": "2026-10-14T13:52:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "865deda23e7d10b3b2090bb3bfce711ecee56b44",
-        "subject": "docs: separate start pages for the CLI and the UI Builder (#5958)",
-        "at": "2026-10-14T13:50:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "975ba9d01e18997322c896c08b3c5f399e0714a7",
-        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.197 (#5964)",
-        "at": "2026-10-14T12:41:21Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6a1217d658ef50b3d16cbadb7f9587f20ce4d820",
-        "subject": "fix(bazel): portable driver defaults for Bazel-family tools (#5961)",
-        "at": "2026-10-14T13:28:58+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
