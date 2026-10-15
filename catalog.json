@@ -4231,13 +4231,50 @@
   "library": [
     "androidx.wear.compose:compose-material3"
   ],
-  "renderer": "compose-preview 2.62.1-SNAPSHOT",
-  "generatedAt": "2026-10-15T13:20:58.829Z",
+  "renderer": "compose-preview 2.63.1-SNAPSHOT",
+  "generatedAt": "2026-10-15T18:46:07.064Z",
   "display": {
     "surface": "dark",
     "hero": "Template/TimeText/largeRound"
   },
   "tokensFile": "tokens.dtcg.json",
+  "themes": [
+    {
+      "id": "com.example.designcatalogwearm3.WearCoralThemeCatalog",
+      "tokensFile": "themes/com.example.designcatalogwearm3.wearcoralthemecatalog.dtcg.json",
+      "name": "Coral",
+      "group": "Wear",
+      "dark": true
+    },
+    {
+      "id": "com.example.designcatalogwearm3.WearGoogleSansFlexThemeCatalog",
+      "tokensFile": "themes/com.example.designcatalogwearm3.weargooglesansflexthemecatalog.dtcg.json",
+      "name": "Google Sans Flex",
+      "group": "Wear",
+      "dark": true
+    },
+    {
+      "id": "com.example.designcatalogwearm3.WearKotlinConfThemeCatalog",
+      "tokensFile": "themes/com.example.designcatalogwearm3.wearkotlinconfthemecatalog.dtcg.json",
+      "name": "KotlinConf",
+      "group": "Confetti Wear",
+      "dark": true
+    },
+    {
+      "id": "com.example.designcatalogwearm3.WearM3ThemeCatalog",
+      "tokensFile": "themes/com.example.designcatalogwearm3.wearm3themecatalog.dtcg.json",
+      "name": "M3",
+      "group": "Wear",
+      "dark": true
+    },
+    {
+      "id": "com.example.designcatalogwearm3.WearTealThemeCatalog",
+      "tokensFile": "themes/com.example.designcatalogwearm3.weartealthemecatalog.dtcg.json",
+      "name": "Teal",
+      "group": "Wear",
+      "dark": true
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"

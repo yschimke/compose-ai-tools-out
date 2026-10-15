@@ -1,11 +1,99 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T13:21:02.970Z",
+  "generatedAt": "2026-10-15T18:46:11.129Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e75b756adb7babda608aff271bdb1adbf70125ed",
+        "subject": "chore(main): release 2.63.0 (#6012)",
+        "at": "2026-10-15T19:11:44+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7bbebec0460f9f649f7131939195ce09057c928b",
+        "subject": "feat: pin the wall clock the app's own code reads in Android renders (#6020)",
+        "at": "2026-10-15T19:10:30+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d8a09b4ef937f92dc05321c1a8f5e2fba2720c61",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.35.0 (#5825)",
+        "at": "2026-10-15T18:07:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5c218173fff17524dc7841c759d77d44eecff509",
+        "subject": "fix(deps): update dependency org.checkerframework:checker-qual to v4.3.1 (#6021)",
+        "at": "2026-10-15T18:05:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9ec014e5d4fcd9e2e49f5bde0c8eb89c7cf2919f",
+        "subject": "fix(bundle): fall back to the other Maven repository instead of routing bare Android groups (#6019)",
+        "at": "2026-10-15T16:58:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f4fd03515749ebf25c3ba784e6627db5c1414e5c",
+        "subject": "fix(bundle): keep snapshots out of closest-released and route bare Android groups to Google Maven (#6018)",
+        "at": "2026-10-15T16:51:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9a2f011c6ff1c3f992466596f5ea9f66d552367a",
+        "subject": "feat(bundle): configurable dependency policy for Bazel bundles (#6017)",
+        "at": "2026-10-15T16:43:21+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "becf36e04d5fa31483d7a3f4e38625ac32468b6f",
+        "subject": "fix: androidCompileSdk also applies to imported Bazel artifacts (#6015)",
+        "at": "2026-10-15T15:55:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7db9de01a20d9c889c779274b5f610a399df3ec6",
+        "subject": "fix: a Bazel Android target's compileSdk comes from android.jar itself when nothing else names it (#6014)",
+        "at": "2026-10-15T15:47:12+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f2fd33bbeed8f1753a5b8464427b5dbd63a81924",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.62.0 (#6013)",
+        "at": "2026-10-15T13:58:43Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "292ad07fef53739abea842056e0bd2d2f9a4bb36",
+        "subject": "fix(plugin): keep declared themes' catalog-token sidecars when pruning stale renders (#6006)",
+        "at": "2026-10-15T14:53:27+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f9236a14a19f891234e981e34508362165d98102",
         "subject": "chore(main): release 2.62.0 (#6003)",
@@ -394,94 +482,6 @@
         "sha": "6a1217d658ef50b3d16cbadb7f9587f20ce4d820",
         "subject": "fix(bazel): portable driver defaults for Bazel-family tools (#5961)",
         "at": "2026-10-14T13:28:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "97aafb07da9b1efafa6e0c01347f719c0eaed3a8",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.58.0 (#5957)",
-        "at": "2026-10-14T07:39:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6745d6211d7ae6dd1ef640514fafd90ad13d94f8",
-        "subject": "docs: point at ui.coo.ee/start and name one hosted MCP URL (#5956)",
-        "at": "2026-10-14T08:36:51+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8e63e96f47d6e6eb5a5294853942d69a0ea0650d",
-        "subject": "chore(main): release 2.58.0 (#5951)",
-        "at": "2026-10-14T07:19:12+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "da04840e1423fc9e90f93fb3ab21ffc8d3a61fcf",
-        "subject": "fix(bazel): only reuse captures rendered from the current artifacts (#5954)",
-        "at": "2026-10-14T07:16:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f175f922bb926e3395a1a0cdb686704ba72ba205",
-        "subject": "feat(ui-builder): publish a catalog's new-design description and primary flag (#5955)",
-        "at": "2026-10-14T00:13:24+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "93ab0f7652ef5d4784ff0208900c823f68eea219",
-        "subject": "feat: prepare source bundles without renderer dependencies (#5953)",
-        "at": "2026-10-13T22:52:14+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2765cdcb70c82fd51854a0e834fa5410556d220a",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.57.0 (#5952)",
-        "at": "2026-10-13T20:28:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "02ebd2a86a46426ce84c29ae37c0dc3a903d2dcc",
-        "subject": "feat: reuse built Bazel captures for single-target workflows (#5950)",
-        "at": "2026-10-13T21:21:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2581e77e27f94d6b0ae3e150700084aa158d5972",
-        "subject": "chore(main): release 2.57.0 (#5939)",
-        "at": "2026-10-13T19:51:32Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "07e29d8f4f06f8e39409496a2000bf64e317a050",
-        "subject": "build(deps): bump the actions-minor group with 8 updates (#5940)",
-        "at": "2026-10-13T19:50:14Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9366c83340190e9cef2d6f8e7618461fec59ab8b",
-        "subject": "fix(deps): use daemon 3.16.1 for visible-font export auditing (#5948)",
-        "at": "2026-10-13T20:43:43+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
