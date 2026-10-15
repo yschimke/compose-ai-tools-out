@@ -18,20 +18,20 @@
               <g id="Box">
                 <rect x="74" y="998" width="105" height="105" fill="#4F46E5" fill-opacity="0.5"/>
                 <g id="Empty">
-                  <text x="126" y="1055.33" font-size="14" font-family="Roboto, sans-serif" text-anchor="middle" fill="#FFFFFF">leadingIcon</text>
+                  <text x="126" y="1074.72" font-size="36.75" font-family="Roboto, sans-serif" text-anchor="middle" fill="#FFFFFF">leadingIcon</text>
                 </g>
               </g>
               <g id="Column">
                 <g id="Box">
                   <rect x="211" y="74" width="368" height="1952" fill="#4F46E5" fill-opacity="0.5"/>
                   <g id="Empty">
-                    <text x="395" y="1045.23" font-size="14" font-family="Roboto, sans-serif" text-anchor="middle" fill="#FFFFFF">headline</text>
+                    <text x="395" y="1066.17" font-size="36.75" font-family="Roboto, sans-serif" text-anchor="middle" fill="#FFFFFF">headline</text>
                   </g>
                 </g>
                 <g id="Box">
                   <rect x="-184" y="0" width="368" height="0" fill="#4F46E5" fill-opacity="0.5"/>
                   <g id="Empty">
-                    <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" text-anchor="middle" fill="#FFFFFF">supporting</text>
+                    <text x="0" y="34.72" font-size="36.75" font-family="Roboto, sans-serif" text-anchor="middle" fill="#FFFFFF">supporting</text>
                   </g>
                 </g>
               </g>
