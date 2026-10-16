@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T23:01:05.979Z",
+  "generatedAt": "2026-10-16T00:18:21.394Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c4a89c46666ccc6b1e04b31e8d4a3af979601fe4",
+        "subject": "chore(main): release 2.64.1 (#6029)",
+        "at": "2026-10-16T01:00:29+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "65f9274508f9c96a73d22659ad4b870a33f9bff0",
+        "subject": "fix: apply a forced --app-compose mode when the renderer has no selection class (#6031)",
+        "at": "2026-10-16T00:43:23+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0a473a90069cb00f9d5c5abd159426794d7f7d57",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.64.0 (#6032)",
+        "at": "2026-10-15T23:38:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fef3c4333c7c3e7ed8e9e79acdae05e335e8162f",
+        "subject": "fix: run the renderer's Compose in a one-shot Android render unless the app's is newer (#6030)",
+        "at": "2026-10-16T00:36:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c6d7e4528e8e74680d0a797f5a1420988105c044",
+        "subject": "fix: render offline Android previews on a provisioned SDK and report why a render failed (#6028)",
+        "at": "2026-10-16T00:05:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8c94209230c5cc060a4c01cf311736627cce90a5",
         "subject": "chore(main): release 2.64.0 (#6024)",
@@ -443,46 +483,6 @@
         "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.8.1 (#5969)",
         "at": "2026-10-14T19:33:27Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4fd0c6b53947acc70c64614cf2979cdfa4462788",
-        "subject": "fix(deps): update dependency androidx.collection:collection to v1.7.0 (#5970)",
-        "at": "2026-10-14T19:33:05Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "69bc417fcd14dff47246c56a3b00ec54a4f0be59",
-        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-beta01 (#5968)",
-        "at": "2026-10-14T19:31:19Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fde5e3fce78152929d50b40ba13e64f49672eb48",
-        "subject": "fix(deps): update androidx-wear to v1.7.1 (#5967)",
-        "at": "2026-10-14T19:28:22Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c5d73925004ae8d5c58e524aa1ea59cfb1f44ea1",
-        "subject": "chore(main): release 2.59.0 (#5962)",
-        "at": "2026-10-14T20:15:48+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ca5da5cc27bac1158686c37689085d355d200c19",
-        "subject": "feat(bazel): bundle Android Bazel targets as backend=\"android\" bundles (#5966)",
-        "at": "2026-10-14T18:25:33+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
