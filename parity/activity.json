@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T21:40:38.192Z",
+  "generatedAt": "2026-10-16T21:58:24.845Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "80676a31f76ea64e2ca03067d3f50d785f40f9dc",
+        "subject": "feat(ui-builder): frame.previews in the catalog policy schema (#6049)",
+        "at": "2026-10-16T22:50:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "48b892e0f0e265d9832cd5eca0a16302262a967d",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.13.1 (#6057)",
@@ -474,14 +482,6 @@
         "sha": "dab6c2e5aad194d594d18102827b4ae751d10ee3",
         "subject": "fix(deps): update kotlin to v2.4.21 (#5996)",
         "at": "2026-10-15T09:02:57Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "51374509332834893972674d18b9c95b919ae8ae",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.61.1 (#5997)",
-        "at": "2026-10-15T08:55:07Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
