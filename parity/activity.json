@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T12:24:25.761Z",
+  "generatedAt": "2026-10-16T13:45:46.069Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5e2ae2647f08ddc8dc713df883b8252f0a644239",
+        "subject": "chore(main): release 2.64.5 (#6048)",
+        "at": "2026-10-16T14:24:44+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0ab7a897ad21bbabcadbb516e76cb3912e013c6e",
+        "subject": "fix(deps): consume compose-preview-daemon 3.18.4 (#6046)",
+        "at": "2026-10-16T14:01:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "39898982501500e17358f4d1bb8ee6b25a55d81c",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.64.4 (#6047)",
+        "at": "2026-10-16T12:49:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e22ce7b2e785b11cc60cbf056d68019e7b763af0",
         "subject": "chore(main): release 2.64.4 (#6043)",
@@ -459,30 +483,6 @@
         "subject": "chore(main): release 2.60.1 (#5984)",
         "at": "2026-10-15T06:59:36+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0e6bbaa8927c2cffc595fd1e2dfc32e472ec0ed5",
-        "subject": "ci: fail a PR whose POM names a dependency Maven Central would reject (#5985)",
-        "at": "2026-10-15T06:52:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0417b1201636675d6e9f45e0a9cb831b8f181884",
-        "subject": "chore(deps): update docker/dockerfile docker tag to v1.28 (#5986)",
-        "at": "2026-10-15T05:24:08Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f48dce326a5cd0857d620668ea01c635dab4df70",
-        "subject": "fix: publish bundle-producer's preview-discovery dependency with a version (#5981)",
-        "at": "2026-10-14T23:30:40+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
