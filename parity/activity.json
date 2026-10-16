@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T01:09:40.522Z",
+  "generatedAt": "2026-10-16T07:17:48.498Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "3974053902f55aa5f55b7bee8a23964ae6c11e2f",
+        "subject": "chore(main): release 2.64.3 (#6038)",
+        "at": "2026-10-16T08:00:30+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8c90c5d452ddf229291fa13b3f91e3072bf0f1b6",
+        "subject": "fix: reference an Android Bazel bundle's AAR dependencies by coordinate instead of embedding them (#6037)",
+        "at": "2026-10-16T07:06:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6fcfdf2d54bf7820157e151dfdb758514d9c5d98",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.64.2 (#6036)",
+        "at": "2026-10-16T05:27:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2002c881c0232288b64e71aaba90a32f5bd2d1c2",
         "subject": "chore(main): release 2.64.2 (#6035)",
@@ -458,30 +482,6 @@
         "sha": "91852aaeecbe98eded404ac17eb6fd3fb3b4213b",
         "subject": "fix(plugin): resolve theme-pin at the version it is published at (#5976)",
         "at": "2026-10-14T21:46:24+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b8d5f79da14ef45da817e39ad77eabeeb8ae4db5",
-        "subject": "feat: add `bundle prepare` to unpack a bundle into a daemon workspace (#5975)",
-        "at": "2026-10-14T21:45:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dac5fe55565ebdeb04067276d0f8b53fdd4948bb",
-        "subject": "feat(bazel): browse and serve --discover in Bazel workspaces (#5974)",
-        "at": "2026-10-14T21:44:36+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2745b875b9107adbfead41e3919c4f35ebc27295",
-        "subject": "ci(release): publish less for changes no release carries (#5971)",
-        "at": "2026-10-14T21:37:07+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
