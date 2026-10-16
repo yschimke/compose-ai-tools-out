@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T09:58:15.119Z",
+  "generatedAt": "2026-10-16T12:24:25.761Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e22ce7b2e785b11cc60cbf056d68019e7b763af0",
+        "subject": "chore(main): release 2.64.4 (#6043)",
+        "at": "2026-10-16T12:36:51+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c208848cda4fdf2f16155313e1b640b7629fe3cf",
+        "subject": "fix(deps): consume compose-preview-daemon 3.18.3 (#6045)",
+        "at": "2026-10-16T12:12:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "05afd9e9555b56ff25a93973b9b1be7ab28c00ff",
+        "subject": "fix(bazel): pin Wear Compose's clock by default and render against the target's android.jar (#6044)",
+        "at": "2026-10-16T11:14:20+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "53c169b6c4dfddc162f49c0a2d49e3296b2a5842",
+        "subject": "fix(deps): consume compose-preview-daemon 3.18.2 (#6041)",
+        "at": "2026-10-16T11:07:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9e021e20ebeadd12e8d5dc8e3142d3c84f02eb33",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.13.0 (#6042)",
@@ -450,38 +482,6 @@
         "sha": "f48dce326a5cd0857d620668ea01c635dab4df70",
         "subject": "fix: publish bundle-producer's preview-discovery dependency with a version (#5981)",
         "at": "2026-10-14T23:30:40+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "73847248b682be411fe7fc559e8da68477fb711d",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.60.0 (#5982)",
-        "at": "2026-10-14T22:26:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "63bbde1815c67c98d2085068b3b4a00c222f5d27",
-        "subject": "chore(main): release 2.60.0 (#5980)",
-        "at": "2026-10-14T22:35:53+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ff64af4c9146f0a0dbc0268a2902e2018b61e706",
-        "subject": "feat: reload a preview session's classes after an edit (#5979)",
-        "at": "2026-10-14T22:27:35+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "783417a776e6505d13a2842eb2a480ca43216711",
-        "subject": "fix: land the review fixes that missed #5975 and #5977 (#5978)",
-        "at": "2026-10-14T22:19:53+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
