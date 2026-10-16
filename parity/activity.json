@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T17:21:35.759Z",
+  "generatedAt": "2026-10-16T20:54:32.086Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "b71e99a99e47fc4e3a6c01d557aa1b8b07b5f82e",
+        "subject": "chore(main): release 2.66.0 (#6055)",
+        "at": "2026-10-16T21:31:38+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "15b0625b1f29d7d0cdbd79663c11c7db7eb7532c",
+        "subject": "fix(cli): bundle the rc.13 Android aspect and consume daemon 3.18.5 (#6056)",
+        "at": "2026-10-16T21:00:09+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c6a4f3f82d5b7cb7ec6ae91767b7122137e1cc23",
+        "subject": "feat(cli): bundle the Android Bazel aspect and fit long java commands (#6054)",
+        "at": "2026-10-16T20:16:00+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4cfe7618a66eaa5fc669cbed7deeb22947195f2b",
         "subject": "chore(ci): update the design-artifacts export driver to v2.65.0 (#6053)",
@@ -459,30 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.61.0 (#5993)",
         "at": "2026-10-15T08:23:47Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5d579c87d09b00aa965ba72ebd65531653fd6d59",
-        "subject": "chore(main): release 2.61.0 (#5992)",
-        "at": "2026-10-15T08:33:21+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3c8ff0127f604a3fd9dd551e00313306d6f81a2d",
-        "subject": "ci: cover the gradle-plugin build, cold caches and typed dependencies in the POM check (#5987)",
-        "at": "2026-10-15T08:30:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bdd19276425dc611b45a6b719b2d3f172756e776",
-        "subject": "feat: render Android previews at API 37 (#5989)",
-        "at": "2026-10-15T08:29:50+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
