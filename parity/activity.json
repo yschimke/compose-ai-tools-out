@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T21:58:24.845Z",
+  "generatedAt": "2026-10-16T23:45:33.716Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "315352b687f05d2d0e40cdec2d833271088dec12",
+        "subject": "chore(main): release 2.67.0 (#6060)",
+        "at": "2026-10-17T00:29:11+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b7beaaa03b1f8bfc554018dd21764a777934260e",
+        "subject": "feat(cli): render Buck2 android_library previews (#6061)",
+        "at": "2026-10-17T00:21:33+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "80676a31f76ea64e2ca03067d3f50d785f40f9dc",
         "subject": "feat(ui-builder): frame.previews in the catalog policy schema (#6049)",
@@ -467,22 +483,6 @@
         "subject": "fix(deps): bump compose-preview-daemon to 3.17.1 so daemon passes run at the consumer's SDK (#6000)",
         "at": "2026-10-15T11:27:29+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3a25c438385f4c27662e59830cad4bd9df0750b5",
-        "subject": "fix: pass the resolved Robolectric SDK to the daemon's sandbox (#5999)",
-        "at": "2026-10-15T10:55:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dab6c2e5aad194d594d18102827b4ae751d10ee3",
-        "subject": "fix(deps): update kotlin to v2.4.21 (#5996)",
-        "at": "2026-10-15T09:02:57Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
