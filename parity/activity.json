@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T21:31:14.828Z",
+  "generatedAt": "2026-10-16T21:40:38.192Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "48b892e0f0e265d9832cd5eca0a16302262a967d",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.13.1 (#6057)",
+        "at": "2026-10-16T21:26:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a42b7add547c29c736312947f4c6b49d770501ea",
         "subject": "fix(deps): update dependency @design-parity/export-driver to v1.16.0 (#6059)",
@@ -475,14 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.61.1 (#5997)",
         "at": "2026-10-15T08:55:07Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e6cdd701cb437f77aade55ddbba646821f347fe2",
-        "subject": "chore(main): release 2.61.1 (#5995)",
-        "at": "2026-10-15T09:52:21+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
