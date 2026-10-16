@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T00:18:21.394Z",
+  "generatedAt": "2026-10-16T01:09:40.522Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "2002c881c0232288b64e71aaba90a32f5bd2d1c2",
+        "subject": "chore(main): release 2.64.2 (#6035)",
+        "at": "2026-10-16T01:49:01+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ed7ad0c81bcb11163cff0213391b232c644c5c5e",
+        "subject": "fix(deps): consume compose-preview-daemon 3.18.1 (#6033)",
+        "at": "2026-10-16T01:48:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6b625638a7946af1fc0d6f7e1963157dcd4f9962",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.64.1 (#6034)",
+        "at": "2026-10-16T00:43:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c4a89c46666ccc6b1e04b31e8d4a3af979601fe4",
         "subject": "chore(main): release 2.64.1 (#6029)",
@@ -459,30 +483,6 @@
         "subject": "ci(release): publish less for changes no release carries (#5971)",
         "at": "2026-10-14T21:37:07+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c4f7d66a20de63d8649821cf798a7d7168e3b5aa",
-        "subject": "fix(deps): update dependency @design-parity/export-driver to v1.15.0 (#5973)",
-        "at": "2026-10-14T20:01:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bc809595cf15e3b6294b8d3770c1f9cefd963fc2",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.59.0 (#5972)",
-        "at": "2026-10-14T19:45:52Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "14f6e5301dd2656214393b266d3b49cbc651ad61",
-        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.8.1 (#5969)",
-        "at": "2026-10-14T19:33:27Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
