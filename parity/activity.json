@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T17:33:09.964Z",
+  "generatedAt": "2026-10-17T19:46:27.747Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "4c52d4b14035394f1871264424ed60bb289d5490",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.68.4 (#6080)",
+        "at": "2026-10-17T19:29:26Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d2227f609b12b88e182fefdf0c89ceb4cafc5cda",
+        "subject": "chore(main): release 2.68.4 (#6079)",
+        "at": "2026-10-17T20:27:45+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "39cf0817987dabb5f200678d7bebfba5c62e30cb",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.68.3 (#6078)",
+        "at": "2026-10-17T18:46:29Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "24b09bf1091660bdde94c215e8b893368140348f",
+        "subject": "perf(bazel): leave empty and superseded R jars off the render classpath (#6077)",
+        "at": "2026-10-17T19:41:30+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "28121697465056aae80bda37d2c1d6b890603c32",
         "subject": "chore(main): release 2.68.3 (#6076)",
@@ -451,38 +483,6 @@
         "subject": "fix(deps): update dependency org.checkerframework:checker-qual to v4.3.1 (#6021)",
         "at": "2026-10-15T18:05:32Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9ec014e5d4fcd9e2e49f5bde0c8eb89c7cf2919f",
-        "subject": "fix(bundle): fall back to the other Maven repository instead of routing bare Android groups (#6019)",
-        "at": "2026-10-15T16:58:17+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f4fd03515749ebf25c3ba784e6627db5c1414e5c",
-        "subject": "fix(bundle): keep snapshots out of closest-released and route bare Android groups to Google Maven (#6018)",
-        "at": "2026-10-15T16:51:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9a2f011c6ff1c3f992466596f5ea9f66d552367a",
-        "subject": "feat(bundle): configurable dependency policy for Bazel bundles (#6017)",
-        "at": "2026-10-15T16:43:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "becf36e04d5fa31483d7a3f4e38625ac32468b6f",
-        "subject": "fix: androidCompileSdk also applies to imported Bazel artifacts (#6015)",
-        "at": "2026-10-15T15:55:58+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
