@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T19:46:27.747Z",
+  "generatedAt": "2026-10-17T21:56:03.772Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "f942a0cac22788feb309f82ce581bad2353ac21b",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.14.0 (#6075)",
+        "at": "2026-10-17T21:48:26Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4c52d4b14035394f1871264424ed60bb289d5490",
         "subject": "chore(ci): update the design-artifacts export driver to v2.68.4 (#6080)",
@@ -474,14 +482,6 @@
         "sha": "d8a09b4ef937f92dc05321c1a8f5e2fba2720c61",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.35.0 (#5825)",
         "at": "2026-10-15T18:07:48Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5c218173fff17524dc7841c759d77d44eecff509",
-        "subject": "fix(deps): update dependency org.checkerframework:checker-qual to v4.3.1 (#6021)",
-        "at": "2026-10-15T18:05:32Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
