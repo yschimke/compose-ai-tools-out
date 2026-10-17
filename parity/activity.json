@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T14:06:15.823Z",
+  "generatedAt": "2026-10-17T16:45:07.626Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "6ad127a887785051b4361658e930bbe2f477b237",
+        "subject": "chore(main): release 2.68.2 (#6069)",
+        "at": "2026-10-17T17:23:01+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e5339921791c72756e783edf4a14e45c3acc4e07",
+        "subject": "fix(deps): update compose-preview-daemon to 3.18.6 (#6072)",
+        "at": "2026-10-17T17:22:13+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7545d6ab3e03d3f9d4e5d36c03a58c2103bdc83c",
+        "subject": "fix(bazel): treat a hand-edited BUILD.bazel as a conflict, not a silent leftover (#6071)",
+        "at": "2026-10-17T16:55:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "47201b4f8836113d83caf1150127f85980d63423",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.68.1 (#6070)",
+        "at": "2026-10-17T15:39:23Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "66ef8bd84549f498b87b8ac9532747c8f7f1fbfa",
+        "subject": "fix(bazel): install BUILD and an executable link.sh, and report build progress (#6068)",
+        "at": "2026-10-17T16:37:13+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "392a5fd683b0e203617ad6be75a40e5d029540c2",
         "subject": "chore(main): release 2.68.1 (#6067)",
@@ -442,46 +482,6 @@
         "sha": "292ad07fef53739abea842056e0bd2d2f9a4bb36",
         "subject": "fix(plugin): keep declared themes' catalog-token sidecars when pruning stale renders (#6006)",
         "at": "2026-10-15T14:53:27+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f9236a14a19f891234e981e34508362165d98102",
-        "subject": "chore(main): release 2.62.0 (#6003)",
-        "at": "2026-10-15T14:03:19+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "863949e5ca107549a55ce66632b5b8db55d624a7",
-        "subject": "fix: variant-named Gradle cache lookups skip classifier artifacts; the viewer's resolver gets both offline fixes (#6010)",
-        "at": "2026-10-15T13:57:33+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fdc92c5d412059da9a6a6ab02b2f950e624a4381",
-        "subject": "fix: provision rejects every valueless --android-sdk, not only an all-empty set (#6011)",
-        "at": "2026-10-15T13:54:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2ee14abe42539585e7c796df820678c99154f9fc",
-        "subject": "fix: pin the Bazel Android launcher to the JVM its SDK was clamped for; reject an empty --android-sdk (#6009)",
-        "at": "2026-10-15T13:47:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c90c762066364ec84a6d04dd7a3dab7fabe76446",
-        "subject": "fix: offline bundle resolution finds Gradle-cached aars under their variant file name (#6008)",
-        "at": "2026-10-15T13:42:48+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
