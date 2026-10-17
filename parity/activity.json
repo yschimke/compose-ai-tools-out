@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T23:45:33.716Z",
+  "generatedAt": "2026-10-17T13:57:41.720Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "392a5fd683b0e203617ad6be75a40e5d029540c2",
+        "subject": "chore(main): release 2.68.1 (#6067)",
+        "at": "2026-10-17T14:48:06+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ed6f065e083c5cdd174eb876bbf91a547aede2ed",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.68.0 (#6066)",
+        "at": "2026-10-17T13:38:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0d7d0cd9b90df4ed7f3d970ac85400bbac82b078",
+        "subject": "fix(bazel): keep unconfigured selections JVM-only without a loadable Android aspect (#6065)",
+        "at": "2026-10-17T14:26:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "10eb11520c16c8fd7b1a8cae22a3379267a96470",
+        "subject": "chore(main): release 2.68.0 (#6064)",
+        "at": "2026-10-17T13:43:36+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "160d0cfbf5d28d438770b3f3df1fc66551aed550",
+        "subject": "feat(bazel): pick the Android aspect for android_library targets (#6063)",
+        "at": "2026-10-17T12:55:14+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5885444c9f64a66cc5efa25c14afa7b42ec98369",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.67.0 (#6062)",
+        "at": "2026-10-17T00:35:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "315352b687f05d2d0e40cdec2d833271088dec12",
         "subject": "chore(main): release 2.67.0 (#6060)",
@@ -434,54 +482,6 @@
         "sha": "c90c762066364ec84a6d04dd7a3dab7fabe76446",
         "subject": "fix: offline bundle resolution finds Gradle-cached aars under their variant file name (#6008)",
         "at": "2026-10-15T13:42:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "673d09b3029462c29963a1b65a70d2c6e2fff07f",
-        "subject": "feat: compose-preview provision pre-fetches offline render dependencies; Bazel Android renders on the target's compileSdk (#6005)",
-        "at": "2026-10-15T13:30:26+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c2218807bf9560bfdc2591a24b4a3b3a1dda5e54",
-        "subject": "fix: close three gaps in COMPOSE_PREVIEW_NO_NETWORK (#6004)",
-        "at": "2026-10-15T13:10:55+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "20a80f551dc9752ade26b5d8b69995551a7b7e47",
-        "subject": "feat: COMPOSE_PREVIEW_NO_NETWORK refuses every outbound path for closed-source repositories (#6002)",
-        "at": "2026-10-15T12:58:22+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c7c33377a79248be0dfd2e7d51ce493c379b8868",
-        "subject": "ci: move the design-artifacts driver pin to v2.61.2 (#6001)",
-        "at": "2026-10-15T11:59:53+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5444acb8fe6779aad6f9a10df8177dcadf74318d",
-        "subject": "chore(main): release 2.61.2 (#5998)",
-        "at": "2026-10-15T11:38:12+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d8d9f215c97bc41693ec32502981e225bda03e12",
-        "subject": "fix(deps): bump compose-preview-daemon to 3.17.1 so daemon passes run at the consumer's SDK (#6000)",
-        "at": "2026-10-15T11:27:29+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
