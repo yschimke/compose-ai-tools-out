@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T16:45:07.626Z",
+  "generatedAt": "2026-10-17T17:33:09.964Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "28121697465056aae80bda37d2c1d6b890603c32",
+        "subject": "chore(main): release 2.68.3 (#6076)",
+        "at": "2026-10-17T18:14:31+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d7c3649bac4ef27e0b5e4f47e82ec1dec69594bd",
+        "subject": "fix(bazel): link every AAR's package with final IDs (#6073)",
+        "at": "2026-10-17T18:13:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "96c048985f4ddb5ee5d5c82c79b68541a868798c",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.68.2 (#6074)",
+        "at": "2026-10-17T17:09:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6ad127a887785051b4361658e930bbe2f477b237",
         "subject": "chore(main): release 2.68.2 (#6069)",
@@ -458,30 +482,6 @@
         "sha": "becf36e04d5fa31483d7a3f4e38625ac32468b6f",
         "subject": "fix: androidCompileSdk also applies to imported Bazel artifacts (#6015)",
         "at": "2026-10-15T15:55:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7db9de01a20d9c889c779274b5f610a399df3ec6",
-        "subject": "fix: a Bazel Android target's compileSdk comes from android.jar itself when nothing else names it (#6014)",
-        "at": "2026-10-15T15:47:12+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f2fd33bbeed8f1753a5b8464427b5dbd63a81924",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.62.0 (#6013)",
-        "at": "2026-10-15T13:58:43Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "292ad07fef53739abea842056e0bd2d2f9a4bb36",
-        "subject": "fix(plugin): keep declared themes' catalog-token sidecars when pruning stale renders (#6006)",
-        "at": "2026-10-15T14:53:27+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
