@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-18T17:08:47.420Z",
+  "generatedAt": "2026-10-18T20:57:47.071Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "1572bb03a93e9d1101c185f51ad1418ec87b971e",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.68.5 (#6095)",
+        "at": "2026-10-18T20:31:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "557246a98f927c548af893e5fb9a28376581bf41",
+        "subject": "chore(main): release 2.68.6 (#6094)",
+        "at": "2026-10-18T21:29:51+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3aa8bdc8bb519d304a3fa2f8338f5fb3518349fe",
+        "subject": "fix: read pinAppClock prefixes lazily in composePreviewRender (#6093)",
+        "at": "2026-10-18T21:29:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6c1e8bc426a1c0963d290d7163f3a1191b5bd47f",
         "subject": "chore(main): release 2.68.5 (#6081)",
@@ -458,30 +482,6 @@
         "sha": "ed7ad0c81bcb11163cff0213391b232c644c5c5e",
         "subject": "fix(deps): consume compose-preview-daemon 3.18.1 (#6033)",
         "at": "2026-10-16T01:48:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6b625638a7946af1fc0d6f7e1963157dcd4f9962",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.64.1 (#6034)",
-        "at": "2026-10-16T00:43:01Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c4a89c46666ccc6b1e04b31e8d4a3af979601fe4",
-        "subject": "chore(main): release 2.64.1 (#6029)",
-        "at": "2026-10-16T01:00:29+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "65f9274508f9c96a73d22659ad4b870a33f9bff0",
-        "subject": "fix: apply a forced --app-compose mode when the renderer has no selection class (#6031)",
-        "at": "2026-10-16T00:43:23+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
