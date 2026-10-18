@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-18T15:29:15.310Z",
+  "generatedAt": "2026-10-18T15:41:45.599Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c38abc433abced79b7fd646133922758eb34cc12",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.16.0 (#6087)",
+        "at": "2026-10-18T15:34:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e0c36e419fdc583337d1068003408b4a405bd15e",
         "subject": "fix(deps): update dependency @design-parity/export-driver to v1.16.1 (#6086)",
@@ -474,14 +482,6 @@
         "sha": "8c67a129ca8abbd1d666a1ceceb43a4711c23a24",
         "subject": "fix: resolve a Bazel bundle's coordinates from the build's own jars by content (#6027)",
         "at": "2026-10-15T23:38:07+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "aacfefe28ed0f45fc26ff91e93fdcbad80f9d581",
-        "subject": "fix: refuse Bazel artifacts whose schema and android block disagree (#6025)",
-        "at": "2026-10-15T23:07:02+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
