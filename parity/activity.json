@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T21:56:03.772Z",
+  "generatedAt": "2026-10-18T15:29:15.310Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e0c36e419fdc583337d1068003408b4a405bd15e",
+        "subject": "fix(deps): update dependency @design-parity/export-driver to v1.16.1 (#6086)",
+        "at": "2026-10-18T15:22:38Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d9c513b9562bed3ec753e6edbd2f7962d61de420",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.7 (#6022)",
+        "at": "2026-10-18T16:21:26+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4add2341a62ef22fc40e56f8bbc7cd6aeaf4ab0c",
+        "subject": "fix(render-host): preserve dimensions and settle desktop playground stills (#6084)",
+        "at": "2026-10-18T16:21:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4a6e84123228298756f2c421acca70ae4a0e0d54",
+        "subject": "fix(deps): update dependency org.jmdns:jmdns to v3.6.4 (#6083)",
+        "at": "2026-10-18T01:27:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a839fc309f29edeba0945d36bb7e303f57953811",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.36.0 (#6082)",
+        "at": "2026-10-17T21:55:18Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f942a0cac22788feb309f82ce581bad2353ac21b",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.14.0 (#6075)",
@@ -443,46 +483,6 @@
         "subject": "fix: refuse Bazel artifacts whose schema and android block disagree (#6025)",
         "at": "2026-10-15T23:07:02+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "29392ff7e20715075c4b563bafe29a5f744bb7ad",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.63.0 (#6026)",
-        "at": "2026-10-15T21:56:18Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "399ed1139e9b64be674de79186b9576d9c62ce04",
-        "subject": "feat: render Android Bazel bundles offline for rules_compose_preview (#6023)",
-        "at": "2026-10-15T22:52:39+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e75b756adb7babda608aff271bdb1adbf70125ed",
-        "subject": "chore(main): release 2.63.0 (#6012)",
-        "at": "2026-10-15T19:11:44+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7bbebec0460f9f649f7131939195ce09057c928b",
-        "subject": "feat: pin the wall clock the app's own code reads in Android renders (#6020)",
-        "at": "2026-10-15T19:10:30+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d8a09b4ef937f92dc05321c1a8f5e2fba2720c61",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.35.0 (#5825)",
-        "at": "2026-10-15T18:07:48Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
