@@ -2967,15 +2967,7 @@
     {
       "annotatedBasename": "RemoteButtonEnabledPreview-23dedf54.a11y.png",
       "cleanBasename": "RemoteButtonEnabledPreview-23dedf54.png",
-      "findings": [
-        {
-          "boundsInScreen": "0,0,525,525",
-          "level": "ERROR",
-          "message": "This item may not have a label readable by screen readers.",
-          "type": "SpeakableTextPresentCheck",
-          "viewDescription": "androidx.compose.remote.player.view.RemoteComposePlayer"
-        }
-      ],
+      "findings": [],
       "functionName": "RemoteButtonEnabledPreview",
       "module": "remotecompose",
       "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteButtonEnabledPreview",
@@ -3008,15 +3000,7 @@
     {
       "annotatedBasename": "RemoteButtonWithShapePreview-3935d3f3.a11y.png",
       "cleanBasename": "RemoteButtonWithShapePreview-3935d3f3.png",
-      "findings": [
-        {
-          "boundsInScreen": "0,0,525,525",
-          "level": "ERROR",
-          "message": "This item may not have a label readable by screen readers.",
-          "type": "SpeakableTextPresentCheck",
-          "viewDescription": "androidx.compose.remote.player.view.RemoteComposePlayer"
-        }
-      ],
+      "findings": [],
       "functionName": "RemoteButtonWithShapePreview",
       "module": "remotecompose",
       "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithShapePreview",
