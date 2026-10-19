@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-19T02:33:10.169Z",
+  "generatedAt": "2026-10-19T06:39:55.434Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "26d702a49dda0c58d44cd06a8f325e52828842e7",
+        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.198 (#6099)",
+        "at": "2026-10-19T06:26:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d6d6e78926f2007d6e7def098f7b6de842776235",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.16.1 (#6097)",
@@ -475,14 +483,6 @@
         "subject": "fix: reference an Android Bazel bundle's AAR dependencies by coordinate instead of embedding them (#6037)",
         "at": "2026-10-16T07:06:46+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6fcfdf2d54bf7820157e151dfdb758514d9c5d98",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.64.2 (#6036)",
-        "at": "2026-10-16T05:27:25Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
