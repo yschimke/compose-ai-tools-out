@@ -60,7 +60,7 @@ _No findings._
 
 ### `BodyTextPreview`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/android/com.example.sampleandroid.PreviewParameterPreviewsKt.BodyTextPreview_Body Text.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/android/BodyTextPreview_Body_Text-a7d8cd21.a11y.png" width="400" />
 
 _No findings._
 
@@ -517,7 +517,7 @@ _No findings._
 
 ### `PrivateProviderBadgePreview`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/android/com.example.sampleandroid.PreviewParameterPreviewsKt.PrivateProviderBadgePreview_Private Provider Badge.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/android/PrivateProviderBadgePreview_Private_Provider_Badge-47828588.a11y.png" width="400" />
 
 _No findings._
 
@@ -737,7 +737,7 @@ _No findings._
 
 ### `UserCardPreview`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/android/com.example.sampleandroid.PreviewParameterPreviewsKt.UserCardPreview_User Card.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/android/UserCardPreview_User_Card-2b041180.a11y.png" width="400" />
 
 _No findings._
 
@@ -1063,7 +1063,7 @@ _No findings._
 
 ### `PrivateTonePreview`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/cmp/com.example.samplecmp.PrivatePreviewsKt.PrivateTonePreview_Private tone.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/cmp/PrivateTonePreview_Private_tone-0bb684c0.a11y.png" width="400" />
 
 _No findings._
 
@@ -1141,7 +1141,7 @@ _No findings._
 
 ### `SwatchPreview`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/cmp/com.example.samplecmp.PreviewParameterPreviewsKt.SwatchPreview_Color Swatch.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/cmp/SwatchPreview_Color_Swatch-ac653c3f.a11y.png" width="400" />
 
 _No findings._
 
@@ -1820,7 +1820,7 @@ _No findings._
 
 ### `ImageWidgetDeviceSpecPreview`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetDeviceSpecPreview_Image Widget Device Spec.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/wear-widget/ImageWidgetDeviceSpecPreview_Image_Widget_Device_Spec-f47b26ee.a11y.png" width="400" />
 
 _No findings._
 
@@ -1832,13 +1832,13 @@ _No findings._
 
 ### `ImageWidgetSquircleLargePreview`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquircleLargePreview_Image Widget Squircle Large.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/wear-widget/ImageWidgetSquircleLargePreview_Image_Widget_Squircle_Large-3af652d3.a11y.png" width="400" />
 
 _No findings._
 
 ### `ImageWidgetSquirclePreview`
 
-<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquirclePreview_Image Widget Squircle.a11y.png" width="400" />
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/wear-widget/ImageWidgetSquirclePreview_Image_Widget_Squircle-a5e42be2.a11y.png" width="400" />
 
 _No findings._
 
