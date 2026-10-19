@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-19T12:47:52.575Z",
+  "generatedAt": "2026-10-19T14:17:04.914Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "1866bb68024c5750f321aa7eb025a8b32fc3b616",
+        "subject": "chore(main): release 2.69.0 (#6117)",
+        "at": "2026-10-19T14:49:54+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "84eb8d852e0a194bd39359f1d12182c705a704d2",
+        "subject": "feat: keep a warm Bazel render daemon across runs with --keep-daemon (#6108)",
+        "at": "2026-10-19T14:49:12+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c42e78683415e1bacec0234550d5552d1172a1bb",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.68.8 (#6109)",
+        "at": "2026-10-19T13:21:26Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3cc717b1b121d57e7855975a3500829583954409",
         "subject": "chore(main): release 2.68.8 (#6106)",
@@ -458,30 +482,6 @@
         "sha": "0ab7a897ad21bbabcadbb516e76cb3912e013c6e",
         "subject": "fix(deps): consume compose-preview-daemon 3.18.4 (#6046)",
         "at": "2026-10-16T14:01:55+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "39898982501500e17358f4d1bb8ee6b25a55d81c",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.64.4 (#6047)",
-        "at": "2026-10-16T12:49:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e22ce7b2e785b11cc60cbf056d68019e7b763af0",
-        "subject": "chore(main): release 2.64.4 (#6043)",
-        "at": "2026-10-16T12:36:51+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c208848cda4fdf2f16155313e1b640b7629fe3cf",
-        "subject": "fix(deps): consume compose-preview-daemon 3.18.3 (#6045)",
-        "at": "2026-10-16T12:12:03+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
