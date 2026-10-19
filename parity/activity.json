@@ -1,11 +1,67 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-19T18:40:37.043Z",
+  "generatedAt": "2026-10-19T22:19:38.570Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "d56a0a7b1c79a7ec6c45c15cedcfe36553493ee4",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.69.3 (#6138)",
+        "at": "2026-10-19T22:02:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e177c0823b935760463e7fd2686bd64c2ff71831",
+        "subject": "feat: report the daemon's sandbox boot while initialize waits on it (#6137)",
+        "at": "2026-10-19T22:37:04+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "affe9429c3662433112b853bb19f7c87c040ec93",
+        "subject": "chore(main): release 2.69.3 (#6135)",
+        "at": "2026-10-19T22:15:40+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b8c4207563b04014646292ea9dde7b93ee1c370f",
+        "subject": "build: resolve plugins from Google Maven before the plugin portal (#6136)",
+        "at": "2026-10-19T22:08:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "763be936e9d92c32b9a0358b570b6d669d4f5194",
+        "subject": "fix: render with compose-preview-daemon 3.20.1 (#6132)",
+        "at": "2026-10-19T21:52:25+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6a9a756b937564a8327e378a31bc9706bafbfc10",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.37.0 (#6134)",
+        "at": "2026-10-19T20:23:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "044a6fd585049aed15a4f0ef5d425ed7e569a311",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.69.2 (#6133)",
+        "at": "2026-10-19T19:59:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7400c57383ca45af2f1960458d671fb004b7f27f",
         "subject": "chore(main): release 2.69.2 (#6129)",
@@ -427,62 +483,6 @@
         "subject": "fix(bazel): install BUILD and an executable link.sh, and report build progress (#6068)",
         "at": "2026-10-17T16:37:13+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "392a5fd683b0e203617ad6be75a40e5d029540c2",
-        "subject": "chore(main): release 2.68.1 (#6067)",
-        "at": "2026-10-17T14:48:06+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ed6f065e083c5cdd174eb876bbf91a547aede2ed",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.68.0 (#6066)",
-        "at": "2026-10-17T13:38:52Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0d7d0cd9b90df4ed7f3d970ac85400bbac82b078",
-        "subject": "fix(bazel): keep unconfigured selections JVM-only without a loadable Android aspect (#6065)",
-        "at": "2026-10-17T14:26:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "10eb11520c16c8fd7b1a8cae22a3379267a96470",
-        "subject": "chore(main): release 2.68.0 (#6064)",
-        "at": "2026-10-17T13:43:36+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "160d0cfbf5d28d438770b3f3df1fc66551aed550",
-        "subject": "feat(bazel): pick the Android aspect for android_library targets (#6063)",
-        "at": "2026-10-17T12:55:14+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5885444c9f64a66cc5efa25c14afa7b42ec98369",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.67.0 (#6062)",
-        "at": "2026-10-17T00:35:37Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "315352b687f05d2d0e40cdec2d833271088dec12",
-        "subject": "chore(main): release 2.67.0 (#6060)",
-        "at": "2026-10-17T00:29:11+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
