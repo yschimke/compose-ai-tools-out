@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-19T17:20:49.066Z",
+  "generatedAt": "2026-10-19T18:40:37.043Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "7400c57383ca45af2f1960458d671fb004b7f27f",
+        "subject": "chore(main): release 2.69.2 (#6129)",
+        "at": "2026-10-19T19:19:23+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4030d89573995c5ff92ccc51f0bfd8f25d0003ec",
+        "subject": "fix(deps): update androidx to v2.0.4 (#6131)",
+        "at": "2026-10-19T18:17:24Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8deb89fec9ed6091164c9c8a45efd759a7edbcfb",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.69.1 (#6130)",
+        "at": "2026-10-19T18:13:30Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d303ff2065264e004565dd57515bbf12ffa59452",
+        "subject": "fix: serve's bundle daemon widens the app's R classes with the daemon's fields (#6128)",
+        "at": "2026-10-19T19:07:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "eb3c27a7b503af381746030e5983316c51e83b14",
         "subject": "chore(main): release 2.69.1 (#6119)",
@@ -451,38 +483,6 @@
         "subject": "chore(main): release 2.67.0 (#6060)",
         "at": "2026-10-17T00:29:11+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b7beaaa03b1f8bfc554018dd21764a777934260e",
-        "subject": "feat(cli): render Buck2 android_library previews (#6061)",
-        "at": "2026-10-17T00:21:33+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "80676a31f76ea64e2ca03067d3f50d785f40f9dc",
-        "subject": "feat(ui-builder): frame.previews in the catalog policy schema (#6049)",
-        "at": "2026-10-16T22:50:11+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "48b892e0f0e265d9832cd5eca0a16302262a967d",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.13.1 (#6057)",
-        "at": "2026-10-16T21:26:52Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a42b7add547c29c736312947f4c6b49d770501ea",
-        "subject": "fix(deps): update dependency @design-parity/export-driver to v1.16.0 (#6059)",
-        "at": "2026-10-16T21:22:07Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
