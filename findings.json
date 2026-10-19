@@ -286,8 +286,8 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "BodyTextPreview_Body_Text-a7d8cd21.a11y.png",
-      "cleanBasename": "BodyTextPreview_Body_Text-a7d8cd21.png",
+      "annotatedBasename": "com.example.sampleandroid.PreviewParameterPreviewsKt.BodyTextPreview_Body Text.a11y.png",
+      "cleanBasename": "",
       "findings": [],
       "functionName": "BodyTextPreview",
       "module": "android",
@@ -1250,8 +1250,8 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "PrivateProviderBadgePreview_Private_Provider_Badge-47828588.a11y.png",
-      "cleanBasename": "PrivateProviderBadgePreview_Private_Provider_Badge-47828588.png",
+      "annotatedBasename": "com.example.sampleandroid.PreviewParameterPreviewsKt.PrivateProviderBadgePreview_Private Provider Badge.a11y.png",
+      "cleanBasename": "",
       "findings": [],
       "functionName": "PrivateProviderBadgePreview",
       "module": "android",
@@ -1662,8 +1662,8 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "UserCardPreview_User_Card-2b041180.a11y.png",
-      "cleanBasename": "UserCardPreview_User_Card-2b041180.png",
+      "annotatedBasename": "com.example.sampleandroid.PreviewParameterPreviewsKt.UserCardPreview_User Card.a11y.png",
+      "cleanBasename": "",
       "findings": [],
       "functionName": "UserCardPreview",
       "module": "android",
@@ -2157,8 +2157,8 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "PrivateTonePreview_Private_tone-0bb684c0.a11y.png",
-      "cleanBasename": "PrivateTonePreview_Private_tone-0bb684c0.png",
+      "annotatedBasename": "com.example.samplecmp.PrivatePreviewsKt.PrivateTonePreview_Private tone.a11y.png",
+      "cleanBasename": "",
       "findings": [],
       "functionName": "PrivateTonePreview",
       "module": "cmp",
@@ -2300,8 +2300,8 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "SwatchPreview_Color_Swatch-ac653c3f.a11y.png",
-      "cleanBasename": "SwatchPreview_Color_Swatch-ac653c3f.png",
+      "annotatedBasename": "com.example.samplecmp.PreviewParameterPreviewsKt.SwatchPreview_Color Swatch.a11y.png",
+      "cleanBasename": "",
       "findings": [],
       "functionName": "SwatchPreview",
       "module": "cmp",
@@ -3099,8 +3099,8 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "ImageWidgetDeviceSpecPreview_Image_Widget_Device_Spec-f47b26ee.a11y.png",
-      "cleanBasename": "ImageWidgetDeviceSpecPreview_Image_Widget_Device_Spec-f47b26ee.png",
+      "annotatedBasename": "com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetDeviceSpecPreview_Image Widget Device Spec.a11y.png",
+      "cleanBasename": "",
       "findings": [],
       "functionName": "ImageWidgetDeviceSpecPreview",
       "module": "wear-widget",
@@ -3121,8 +3121,8 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "ImageWidgetSquircleLargePreview_Image_Widget_Squircle_Large-3af652d3.a11y.png",
-      "cleanBasename": "ImageWidgetSquircleLargePreview_Image_Widget_Squircle_Large-3af652d3.png",
+      "annotatedBasename": "com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquircleLargePreview_Image Widget Squircle Large.a11y.png",
+      "cleanBasename": "",
       "findings": [],
       "functionName": "ImageWidgetSquircleLargePreview",
       "module": "wear-widget",
@@ -3132,8 +3132,8 @@
       "variant": ""
     },
     {
-      "annotatedBasename": "ImageWidgetSquirclePreview_Image_Widget_Squircle-a5e42be2.a11y.png",
-      "cleanBasename": "ImageWidgetSquirclePreview_Image_Widget_Squircle-a5e42be2.png",
+      "annotatedBasename": "com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquirclePreview_Image Widget Squircle.a11y.png",
+      "cleanBasename": "",
       "findings": [],
       "functionName": "ImageWidgetSquirclePreview",
       "module": "wear-widget",
