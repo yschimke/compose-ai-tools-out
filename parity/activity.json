@@ -1,11 +1,91 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-19T14:17:04.914Z",
+  "generatedAt": "2026-10-19T17:20:49.066Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "eb3c27a7b503af381746030e5983316c51e83b14",
+        "subject": "chore(main): release 2.69.1 (#6119)",
+        "at": "2026-10-19T17:55:01+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5884a9b4354e13680343e22f45193d008a96f3fb",
+        "subject": "fix: bundle the rules_compose_preview 0.1.0-rc.16 Android aspect (#6127)",
+        "at": "2026-10-19T17:43:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8ccb29e552e76b68f08ebe4ade1e6d9c981d49ad",
+        "subject": "fix: render with compose-preview-daemon 3.20.0 (#6126)",
+        "at": "2026-10-19T17:32:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7b8d63e49c8b25ee8fd887fc8c793134dc0f8e4b",
+        "subject": "fix: Bazel daemon descriptors name protocol 2 and boot a pool in the background (#6122)",
+        "at": "2026-10-19T17:27:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "481ff7fa57b560d2c09da5e9696ba990e6658f50",
+        "subject": "fix(android): widen the app's R classes with the renderer's fields (#6125)",
+        "at": "2026-10-19T16:48:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ed51386d998f379a655bcab1087689bc470b9794",
+        "subject": "fix: bazel --output names every preview once across targets, and --function selects everywhere (#6124)",
+        "at": "2026-10-19T16:12:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "499a069ccf30b76fe5a8ba60b74d58103b54cc5e",
+        "subject": "fix: bazel daemon stop returns once the daemon has gone (#6123)",
+        "at": "2026-10-19T16:02:13+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "752e8e587348531512b91b009669e1c615b1afdd",
+        "subject": "fix: bazel CLI output placement, --function, --help and race-free aspect install (#6121)",
+        "at": "2026-10-19T15:42:36+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1e54d3200255cbfd58bc48fb9089d2f3aa599493",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.69.0 (#6120)",
+        "at": "2026-10-19T14:34:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9d0b0814286e6d6787122f62bcdddb19f9a025ff",
+        "subject": "perf: scan runtime jars in parallel and stop at the first deciding entry (#6118)",
+        "at": "2026-10-19T15:32:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1866bb68024c5750f321aa7eb025a8b32fc3b616",
         "subject": "chore(main): release 2.69.0 (#6117)",
@@ -403,86 +483,6 @@
         "subject": "fix(deps): update dependency @design-parity/export-driver to v1.16.0 (#6059)",
         "at": "2026-10-16T21:22:07Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "810a1d84df2ead71f9a5b59a0e6b12eb00c073d2",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.66.0 (#6058)",
-        "at": "2026-10-16T21:19:39Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b71e99a99e47fc4e3a6c01d557aa1b8b07b5f82e",
-        "subject": "chore(main): release 2.66.0 (#6055)",
-        "at": "2026-10-16T21:31:38+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "15b0625b1f29d7d0cdbd79663c11c7db7eb7532c",
-        "subject": "fix(cli): bundle the rc.13 Android aspect and consume daemon 3.18.5 (#6056)",
-        "at": "2026-10-16T21:00:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c6a4f3f82d5b7cb7ec6ae91767b7122137e1cc23",
-        "subject": "feat(cli): bundle the Android Bazel aspect and fit long java commands (#6054)",
-        "at": "2026-10-16T20:16:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4cfe7618a66eaa5fc669cbed7deeb22947195f2b",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.65.0 (#6053)",
-        "at": "2026-10-16T17:03:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "097173ed30d1b3b194a89b9ca718a09eb79590dc",
-        "subject": "chore(main): release 2.65.0 (#6051)",
-        "at": "2026-10-16T18:01:25+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d9c995d3dc9b256fd137df26e22c4115f1a0a455",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.64.5 (#6052)",
-        "at": "2026-10-16T16:15:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c4968e43373d9e281b6fef43f9f8b4fd6b112b63",
-        "subject": "feat(cli): render previews from Buck2 projects through a BXL script (#6050)",
-        "at": "2026-10-16T17:11:07+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5e2ae2647f08ddc8dc713df883b8252f0a644239",
-        "subject": "chore(main): release 2.64.5 (#6048)",
-        "at": "2026-10-16T14:24:44+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0ab7a897ad21bbabcadbb516e76cb3912e013c6e",
-        "subject": "fix(deps): consume compose-preview-daemon 3.18.4 (#6046)",
-        "at": "2026-10-16T14:01:55+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
