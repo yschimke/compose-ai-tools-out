@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-19T22:19:38.570Z",
+  "generatedAt": "2026-10-19T22:40:33.353Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "bc80f98332a7f6f33143c1834bebcfc5ff75ba26",
+        "subject": "chore(main): release 2.70.0 (#6139)",
+        "at": "2026-10-19T23:18:08+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d56a0a7b1c79a7ec6c45c15cedcfe36553493ee4",
         "subject": "chore(ci): update the design-artifacts export driver to v2.69.3 (#6138)",
@@ -475,14 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.68.1 (#6070)",
         "at": "2026-10-17T15:39:23Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "66ef8bd84549f498b87b8ac9532747c8f7f1fbfa",
-        "subject": "fix(bazel): install BUILD and an executable link.sh, and report build progress (#6068)",
-        "at": "2026-10-17T16:37:13+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
