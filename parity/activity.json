@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-20T10:41:11.765Z",
+  "generatedAt": "2026-10-20T12:50:10.580Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "796d804e6cc0b946e3637b715d7276ec1e30ab08",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.70.3 (#6154)",
+        "at": "2026-10-20T12:36:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b9a1e96f87a9cddbfb5d850938e28d757082a8f2",
+        "subject": "chore(main): release 2.70.3 (#6152)",
+        "at": "2026-10-20T13:33:49+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "51acdba60fc4b58bcff61270672040a8143d4b3a",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.70.2 (#6153)",
+        "at": "2026-10-20T12:27:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cbfb22fff12e6d9606143f938c02abe839d76e27",
+        "subject": "perf: key bazel host-cache stamps on a FUSE content-digest xattr (#6151)",
+        "at": "2026-10-20T13:24:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9d3885ea284d1ba01ca1cb553c7c29a3b20f8540",
         "subject": "chore(main): release 2.70.2 (#6147)",
@@ -451,38 +483,6 @@
         "subject": "fix(deps): update dependency org.jmdns:jmdns to v3.6.4 (#6083)",
         "at": "2026-10-18T01:27:44Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a839fc309f29edeba0945d36bb7e303f57953811",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.36.0 (#6082)",
-        "at": "2026-10-17T21:55:18Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f942a0cac22788feb309f82ce581bad2353ac21b",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.14.0 (#6075)",
-        "at": "2026-10-17T21:48:26Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4c52d4b14035394f1871264424ed60bb289d5490",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.68.4 (#6080)",
-        "at": "2026-10-17T19:29:26Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d2227f609b12b88e182fefdf0c89ceb4cafc5cda",
-        "subject": "chore(main): release 2.68.4 (#6079)",
-        "at": "2026-10-17T20:27:45+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
