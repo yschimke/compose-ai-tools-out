@@ -1,11 +1,75 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-20T12:50:10.580Z",
+  "generatedAt": "2026-10-20T20:20:51.380Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "92237031c31214eaa4f1aed9d40d392af3fa8313",
+        "subject": "chore(main): release 2.70.5 (#6165)",
+        "at": "2026-10-20T20:53:18+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e0cc130d577cdda6c55dd5238599ac5161300049",
+        "subject": "fix: render with compose-preview-daemon 3.21.3 (#6163)",
+        "at": "2026-10-20T20:47:19+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "92cad8e1fed5868c31d43a2dca7ac3fcc35b9189",
+        "subject": "fix: prepare a staged bazel --out directory again from its origin (#6166)",
+        "at": "2026-10-20T20:15:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e1fa9798407faa283296541d65c657aedcef6418",
+        "subject": "perf: skip Bazel pattern matches whose package holds no preview (#6164)",
+        "at": "2026-10-20T20:01:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e7d0f36d018fbdc6a1141c09b88c7cab52486a7b",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.70.4 (#6158)",
+        "at": "2026-10-20T15:01:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a15ecbf91c2d281ee6dcd6ca9562933279aba85e",
+        "subject": "refactor: route Bazel host-cache and platform-level I/O through Okio (#6157)",
+        "at": "2026-10-20T15:57:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "52052eac2dc56dc574fa2080177f909fac41035b",
+        "subject": "chore(main): release 2.70.4 (#6156)",
+        "at": "2026-10-20T15:25:30+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b14f5e51b0501be5a2d34a0edd8494e8e07a2c04",
+        "subject": "perf: compare kept-daemon dependency jars by FUSE content digest (#6155)",
+        "at": "2026-10-20T15:14:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "796d804e6cc0b946e3637b715d7276ec1e30ab08",
         "subject": "chore(ci): update the design-artifacts export driver to v2.70.3 (#6154)",
@@ -419,70 +483,6 @@
         "subject": "fix(deps): update compose-preview-daemon to 3.18.8 (#6091)",
         "at": "2026-10-18T17:41:45+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cf0928243247b4854c065ca6cd4caa54a7dd5ee7",
-        "subject": "fix(bazel): limit the workspace fallback to source-file fields (#6090)",
-        "at": "2026-10-18T17:12:33+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "458f4cf88c7277db7b0955da4a45d32a5158e720",
-        "subject": "perf(bazel): boot only as many sandboxes as a one-shot render needs (#6089)",
-        "at": "2026-10-18T17:08:51+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f9513254e8a5c325cda135ea0200abe0021b4990",
-        "subject": "fix(bazel): resolve the link script from the workspace when the execution root lacks it (#6088)",
-        "at": "2026-10-18T16:52:46+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c38abc433abced79b7fd646133922758eb34cc12",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.16.0 (#6087)",
-        "at": "2026-10-18T15:34:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e0c36e419fdc583337d1068003408b4a405bd15e",
-        "subject": "fix(deps): update dependency @design-parity/export-driver to v1.16.1 (#6086)",
-        "at": "2026-10-18T15:22:38Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d9c513b9562bed3ec753e6edbd2f7962d61de420",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.7 (#6022)",
-        "at": "2026-10-18T16:21:26+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4add2341a62ef22fc40e56f8bbc7cd6aeaf4ab0c",
-        "subject": "fix(render-host): preserve dimensions and settle desktop playground stills (#6084)",
-        "at": "2026-10-18T16:21:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4a6e84123228298756f2c421acca70ae4a0e0d54",
-        "subject": "fix(deps): update dependency org.jmdns:jmdns to v3.6.4 (#6083)",
-        "at": "2026-10-18T01:27:44Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
