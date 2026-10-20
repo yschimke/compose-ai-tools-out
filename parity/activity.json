@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-20T20:20:51.380Z",
+  "generatedAt": "2026-10-20T21:45:19.619Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c9d477ed1164edad54ead0affada332d6930f64a",
+        "subject": "chore(main): release 2.70.6 (#6169)",
+        "at": "2026-10-20T22:28:42+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c7fca0f4260464e49e3c0135bf784ea4044fb055",
+        "subject": "perf: build a Bazel target's own jars first and skip one with no Preview (#6167)",
+        "at": "2026-10-20T22:21:00+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f7546f4d9bea11cb603739120d358dfa3751636a",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.70.5 (#6168)",
+        "at": "2026-10-20T20:38:38Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "92237031c31214eaa4f1aed9d40d392af3fa8313",
         "subject": "chore(main): release 2.70.5 (#6165)",
@@ -459,30 +483,6 @@
         "subject": "chore(main): release 2.68.6 (#6094)",
         "at": "2026-10-18T21:29:51+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3aa8bdc8bb519d304a3fa2f8338f5fb3518349fe",
-        "subject": "fix: read pinAppClock prefixes lazily in composePreviewRender (#6093)",
-        "at": "2026-10-18T21:29:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c1e8bc426a1c0963d290d7163f3a1191b5bd47f",
-        "subject": "chore(main): release 2.68.5 (#6081)",
-        "at": "2026-10-18T17:43:10+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9407ad04af446d46a660545a3f4570b8bcf74a31",
-        "subject": "fix(deps): update compose-preview-daemon to 3.18.8 (#6091)",
-        "at": "2026-10-18T17:41:45+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
