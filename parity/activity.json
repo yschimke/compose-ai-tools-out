@@ -1,11 +1,67 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-20T21:45:19.619Z",
+  "generatedAt": "2026-10-21T11:45:03.852Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8e12274c8eaeb00e8dabd708ec5bbddb6c46abcf",
+        "subject": "chore(main): release 2.70.7 (#6172)",
+        "at": "2026-10-21T12:20:53+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0cbfe73d051a0534479c90af153931a42c9fb402",
+        "subject": "fix: render with compose-preview-daemon 3.21.4 (#6177)",
+        "at": "2026-10-21T12:15:21+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8f2ee829b70070cd87d557e4ecef9c745fa0776f",
+        "subject": "perf: pass buildArgs' Starlark language flags to bazel query (#6176)",
+        "at": "2026-10-21T11:38:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f9bd2a49b6280c4ee04207a3dd5c4c1c027c8c56",
+        "subject": "ci: explain the Module Unit Tests scope in the job summary (#6174)",
+        "at": "2026-10-21T11:21:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ec74bb579a067ab6459442e00e5fc0c7c987afb5",
+        "subject": "refactor: build each module's OkHttp clients from one shared client (#6173)",
+        "at": "2026-10-21T09:47:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "94c6711c458579bfb8bf2e83f99875f2a5eb5f9b",
+        "subject": "fix: refuse certificates from the CVE-2026-111943 CAs (#6171)",
+        "at": "2026-10-21T09:03:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "92224ba420205b8c884600333328a66e237289a7",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.70.6 (#6170)",
+        "at": "2026-10-21T02:59:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c9d477ed1164edad54ead0affada332d6930f64a",
         "subject": "chore(main): release 2.70.6 (#6169)",
@@ -426,62 +482,6 @@
         "sha": "bfc3148ddd1f25b31d33627ee1f2ed36559c974c",
         "subject": "chore(main): release 2.68.7 (#6098)",
         "at": "2026-10-19T12:21:41+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8cbd1e9b6121bd4c8f541f9cdc87ccf1bf55eb24",
-        "subject": "fix(deps): update compose-preview-daemon to 3.18.9 (#6103)",
-        "at": "2026-10-19T12:21:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "aabfb07047e6f30f9c0f33ab38814b0b968df3a3",
-        "subject": "fix: frame named override cache keys unambiguously (#6102)",
-        "at": "2026-10-19T12:20:07+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "26d702a49dda0c58d44cd06a8f325e52828842e7",
-        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.198 (#6099)",
-        "at": "2026-10-19T06:26:14Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d6d6e78926f2007d6e7def098f7b6de842776235",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.16.1 (#6097)",
-        "at": "2026-10-19T02:24:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2c16ab4ac11d38e16f7d962a98c481cc4e7a3a73",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.68.6 (#6096)",
-        "at": "2026-10-19T02:17:08Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1572bb03a93e9d1101c185f51ad1418ec87b971e",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.68.5 (#6095)",
-        "at": "2026-10-18T20:31:13Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "557246a98f927c548af893e5fb9a28376581bf41",
-        "subject": "chore(main): release 2.68.6 (#6094)",
-        "at": "2026-10-18T21:29:51+01:00",
         "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
