@@ -31,168 +31,168 @@
       "module": "android",
       "pngBasename": "bigTextNotificationPreview-9345e706.png",
       "previewId": "bigTextNotificationPreview-9345e706",
-      "sha256": "64b748d4c5cd69d0a38c4a7ffaa10e60441540aea933b705654a0035095b8dc2",
+      "sha256": "c450b789e9b1a1e77e1324acda36023c4280048b42979e5845b0b3398c2aeadf",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationPreviewsKt.bigTextNotificationPreview.png",
       "previewId": "com.example.sampleandroid.NotificationPreviewsKt.bigTextNotificationPreview",
-      "sha256": "64b748d4c5cd69d0a38c4a7ffaa10e60441540aea933b705654a0035095b8dc2",
+      "sha256": "c450b789e9b1a1e77e1324acda36023c4280048b42979e5845b0b3398c2aeadf",
       "sidecarBasename": "com.example.sampleandroid.NotificationPreviewsKt.bigTextNotificationPreview.notification.json"
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationPreviewsKt.simpleNotificationPreview.png",
       "previewId": "com.example.sampleandroid.NotificationPreviewsKt.simpleNotificationPreview",
-      "sha256": "733e071a273cb43edd78490c1be89fcc7ff0a61167bd62699a2393b077db5cad",
+      "sha256": "ece32989cfef90e53d9d6060bea5cdb76f42698fc91b358d5d1c69210a76f0c1",
       "sidecarBasename": "com.example.sampleandroid.NotificationPreviewsKt.simpleNotificationPreview.notification.json"
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.ActionsPreview_Actions.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.ActionsPreview_Actions",
-      "sha256": "2bdddace6c90bbb00926378864bbf2f18cb9b5b1ff694ba61baf3de404d7506d",
+      "sha256": "090288a794302fcc25957d23127eb31378a5cdbec23ac9273a1c9364823914ca",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.BigPictureStylePreview_Big picture.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.BigPictureStylePreview_Big picture",
-      "sha256": "49de22e7b0f2305389fa16d5eb019118075870fec335e0bb6d44b603eb11c4dd",
+      "sha256": "8ee54ee55762e3c00a268c19a3f8a2543e355491faced39480f1814213d91a91",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.CollapsedSurfacePreview_Surface \u2014 collapsed.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.CollapsedSurfacePreview_Surface \u2014 collapsed",
-      "sha256": "d1659cd5556965371a3f9861e0070b68f79852befef67fa2eed9ef86563f8fc6",
+      "sha256": "fc38a7e9c1a341725e68294bf7b460b8cf9e67afcb75ed21db98b5c5316b30cd",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.DecoratedCustomViewPreview_Decorated custom view.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.DecoratedCustomViewPreview_Decorated custom view",
-      "sha256": "2133dac01e95057a1784a1bd5ed13c60395c28d1201c56bb1fd2a393ed1df8c3",
+      "sha256": "872976d51d257aac11cc2d92026e7767855a2ae401767b35ff0de89f2eccd788",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.ExpandedSurfacePreview_Surface \u2014 expanded.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.ExpandedSurfacePreview_Surface \u2014 expanded",
-      "sha256": "66b87a2fa5c2dd86cebcda1ad28255267f5a4ce7ec84f71fd34f898ae80e600f",
+      "sha256": "1f8baac30a69b62af79138ea6e78b1c345469045e78aeec5889f7674f9b2b750",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.GroupedSummaryPreview_Edge \u2014 grouped summary.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.GroupedSummaryPreview_Edge \u2014 grouped summary",
-      "sha256": "7da0692520f2f291a7491638d8614de6655e5b4fde4f194dce03c63b4aa25479",
+      "sha256": "88a69664c7747e8bc687ec1eb35c0ead0c1be92a2a778919c0259e131449d9cd",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.HeadsUpSurfacePreview_Surface \u2014 heads-up.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.HeadsUpSurfacePreview_Surface \u2014 heads-up",
-      "sha256": "d1659cd5556965371a3f9861e0070b68f79852befef67fa2eed9ef86563f8fc6",
+      "sha256": "fc38a7e9c1a341725e68294bf7b460b8cf9e67afcb75ed21db98b5c5316b30cd",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.InboxStylePreview_Inbox style.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.InboxStylePreview_Inbox style",
-      "sha256": "cb49fcb4b532c85f11cc813a758d3ce4804232c8b9b01869b3456fa3cdc48386",
+      "sha256": "758e9387f6ae55a495aee0416aec2ddcfcc63bf264812efae5f243d0cda7ebdb",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.LongTitlePreview_Edge \u2014 long title.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.LongTitlePreview_Edge \u2014 long title",
-      "sha256": "090bc30c72d0e2c153b3f893c8c5a53596d724ab80e1395f6ee8b2f45f9900cd",
+      "sha256": "509df16eda148bdf90f50df2e41c93debfc0d64c2754de3b6c2dc5265587c1ed",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.ManyActionsPreview_Edge \u2014 many actions.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.ManyActionsPreview_Edge \u2014 many actions",
-      "sha256": "29a9907549ebc26d3ec959606d4a31bbc54aa11825d962b65253125b33461dfb",
+      "sha256": "7e0fe621479bf932a6aeb3ca353fb0ba2d31dd850886d30283fc04c1c14db974",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.MediaStylePreview_Media style.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.MediaStylePreview_Media style",
-      "sha256": "2b34d82299dfc2a17c08159a40901509a07c588751e5062e2d8319bb5bf1200c",
+      "sha256": "7cfb795a11e07fde0e4dd31eccd58690cf7ebd1c24ae0c10005e397e4b2215ae",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.MessagingStylePreview_Messaging style.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.MessagingStylePreview_Messaging style",
-      "sha256": "dfff0048dbc2251d11a6a47f4f1ce61830ad34d26947f29293dad86a7b5d4ce6",
+      "sha256": "52146b88b99fca3769018cb1f67407f86b52b55f0babe755f76ef56f0508be36",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.NoLargeIconPreview_Edge \u2014 no large icon.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.NoLargeIconPreview_Edge \u2014 no large icon",
-      "sha256": "d3f855123386b535418e65d054f03fbbe2e6716d7fffee3a5754ec73c3e096e5",
+      "sha256": "c5184aafc69e6ba53644123676a086289b74e798ee325fb89f6e7b9104804455",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationStyleGalleryKt.NoTextPreview_Edge \u2014 no text.png",
       "previewId": "com.example.sampleandroid.NotificationStyleGalleryKt.NoTextPreview_Edge \u2014 no text",
-      "sha256": "fdb6e3347bff6a0928ec0e29fee4d20b94da4230f4b0e64bc21a8411e1c6ba14",
+      "sha256": "412d09d21edbb3ba26a6410353846d123cd9edf59888357d3adf37ea4f79eed5",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Arabic.png",
       "previewId": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Arabic",
-      "sha256": "24799e80bf2fe16ba60bdf0d57130c93ec9357bf1d290cb0bcc866742a8c350f",
+      "sha256": "49599e6fbfb258aed81db4c9f9681d4992642c25a0dfc749b8b2ee5be1eb18dd",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Dark.png",
       "previewId": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Dark",
-      "sha256": "1d58d10a58e709f399571eeb86a56982425c1888ee0c385d9376ee36ba35d7f6",
+      "sha256": "7289098e4db82999ffb9ad8c8219fe6157491a0fd5462ddbbcd0c10c3a97de44",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_German.png",
       "previewId": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_German",
-      "sha256": "0e3542961a14397b397e58eb7bea5b9b5b84db44aa78b300995817b6b3874cad",
+      "sha256": "459c39fbc6f5cc028a070c6455ddf8d70d54ca3a3ce08c45c479410c90e03860",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Japanese.png",
       "previewId": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Japanese",
-      "sha256": "d05810b99af727f7e210abdbcca84861fb0b0016c79cf1f0a8f0c3a5a9754118",
+      "sha256": "3914bc234b80c471d1e8725818d6b154ecb8012437f3f91455ff2f1ca16fb8b3",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Large font.png",
       "previewId": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Large font",
-      "sha256": "1fa36172d49bdabd312fecafee1fc64e9d94d64fd62893f45de4dec9a012e642",
+      "sha256": "5354332d65ffa69026c069a83fc8e6b228d19f2b991a339984ec706b4ac02c97",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Light.png",
       "previewId": "com.example.sampleandroid.NotificationVariantPreviewsKt.BigTextVariantsPreview_Light",
-      "sha256": "50930c413d84ec47a2baa9e50c4bca32cffc9782dd08b010aa8797e3080c0707",
+      "sha256": "3e8d6bda14c174731ba397669014457a109b0cfb39ef502470c97d80b96dff7f",
       "sidecarBasename": ""
     },
     {
       "module": "android",
       "pngBasename": "simpleNotificationPreview-b6d7cbbe.png",
       "previewId": "simpleNotificationPreview-b6d7cbbe",
-      "sha256": "733e071a273cb43edd78490c1be89fcc7ff0a61167bd62699a2393b077db5cad",
+      "sha256": "ece32989cfef90e53d9d6060bea5cdb76f42698fc91b358d5d1c69210a76f0c1",
       "sidecarBasename": ""
     }
   ]
