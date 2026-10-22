@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-22T04:05:54.333Z",
+  "generatedAt": "2026-10-22T08:59:08.415Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "754c17f73a18d85bc41da2534cf1544ae2e6e667",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.3 (#6183)",
+        "at": "2026-10-22T08:48:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "abd49e89531cc8b3db6f8e32ce3ea6fe9dc68af6",
+        "subject": "fix: give the in-process compiler the consumer's Kotlin version (#6182)",
+        "at": "2026-10-22T09:13:21+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0d48c0870f94c1b4a6b1c5d0c571d63c4254c8b6",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.2 (#6181)",
@@ -467,22 +483,6 @@
         "subject": "feat: keep a warm Bazel render daemon across runs with --keep-daemon (#6108)",
         "at": "2026-10-19T14:49:12+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c42e78683415e1bacec0234550d5552d1172a1bb",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.68.8 (#6109)",
-        "at": "2026-10-19T13:21:26Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3cc717b1b121d57e7855975a3500829583954409",
-        "subject": "chore(main): release 2.68.8 (#6106)",
-        "at": "2026-10-19T13:30:10+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
