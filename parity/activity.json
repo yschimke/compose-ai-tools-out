@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-22T17:44:59.760Z",
+  "generatedAt": "2026-10-22T21:18:56.402Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "d89073e8c49aa2f777bbc40acc7985a57b98331e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.4 (#6188)",
+        "at": "2026-10-22T21:11:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "90dcc8dbb58b16fd2497364c9ff46941e9335e0e",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.71.0 (#6189)",
+        "at": "2026-10-22T20:57:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5306a022726d99ccf2856d8be86f4f10a4112d53",
         "subject": "chore(main): release 2.71.0 (#6180)",
@@ -467,22 +483,6 @@
         "subject": "fix: bazel daemon stop returns once the daemon has gone (#6123)",
         "at": "2026-10-19T16:02:13+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "752e8e587348531512b91b009669e1c615b1afdd",
-        "subject": "fix: bazel CLI output placement, --function, --help and race-free aspect install (#6121)",
-        "at": "2026-10-19T15:42:36+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1e54d3200255cbfd58bc48fb9089d2f3aa599493",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.69.0 (#6120)",
-        "at": "2026-10-19T14:34:04Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
