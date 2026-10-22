@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-21T20:43:29.057Z",
+  "generatedAt": "2026-10-22T04:05:54.333Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "0d48c0870f94c1b4a6b1c5d0c571d63c4254c8b6",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.2 (#6181)",
+        "at": "2026-10-22T03:58:46Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3efcc8e3bf3082709e129d02ac55c5d87bbf201a",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.1 (#6179)",
@@ -475,14 +483,6 @@
         "subject": "chore(main): release 2.68.8 (#6106)",
         "at": "2026-10-19T13:30:10+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e1031ecbf6eb5d574d706748ca636a23e28b301f",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.68.7 (#6107)",
-        "at": "2026-10-19T12:22:14Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
