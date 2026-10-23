@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-23T12:10:11.241Z",
+  "generatedAt": "2026-10-23T23:01:14.232Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "94a0cdc9cc44f4ecb81f7f39836fd3ac9c3850cf",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.5 (#6205)",
+        "at": "2026-10-23T22:54:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "325cc2f4cf415a9a7ef94dc2a461e20b39b5ee91",
+        "subject": "perf: adopt compose-preview-daemon 3.24.1 (#6204)",
+        "at": "2026-10-23T23:50:52+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d0ed5b6cf3b51dacf1b7feaa71b098dd6c4a7db4",
+        "subject": "ci: stop publishing snapshots (#6203)",
+        "at": "2026-10-23T22:17:54+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "253c170c949560d2c0b3facec224532659c6cb9a",
+        "subject": "build: stop publishing SHA-256 and SHA-512 checksum files (#6202)",
+        "at": "2026-10-23T21:46:52+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "231c72a2657928558771b91e25ac195e67dbf6dd",
+        "subject": "feat(cli): add `rc upload` to share a Remote Compose document (#6198)",
+        "at": "2026-10-23T18:24:53+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a1cc6911dbbd5c255445aaa03036607673724e45",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.72.1 (#6199)",
+        "at": "2026-10-23T15:57:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c82c1564907ae1a06aaa003d971de4e382e22028",
         "subject": "chore(main): release 2.72.1 (#6195)",
@@ -435,54 +483,6 @@
         "subject": "chore(main): release 2.69.3 (#6135)",
         "at": "2026-10-19T22:15:40+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b8c4207563b04014646292ea9dde7b93ee1c370f",
-        "subject": "build: resolve plugins from Google Maven before the plugin portal (#6136)",
-        "at": "2026-10-19T22:08:40+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "763be936e9d92c32b9a0358b570b6d669d4f5194",
-        "subject": "fix: render with compose-preview-daemon 3.20.1 (#6132)",
-        "at": "2026-10-19T21:52:25+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6a9a756b937564a8327e378a31bc9706bafbfc10",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.37.0 (#6134)",
-        "at": "2026-10-19T20:23:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "044a6fd585049aed15a4f0ef5d425ed7e569a311",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.69.2 (#6133)",
-        "at": "2026-10-19T19:59:01Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7400c57383ca45af2f1960458d671fb004b7f27f",
-        "subject": "chore(main): release 2.69.2 (#6129)",
-        "at": "2026-10-19T19:19:23+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4030d89573995c5ff92ccc51f0bfd8f25d0003ec",
-        "subject": "fix(deps): update androidx to v2.0.4 (#6131)",
-        "at": "2026-10-19T18:17:24Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
