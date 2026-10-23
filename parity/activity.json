@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-23T23:01:14.232Z",
+  "generatedAt": "2026-10-23T23:31:38.759Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "287cfe58efd441fe52abb42eea0c6429d1fa6b61",
+        "subject": "chore(main): release 2.73.0 (#6201)",
+        "at": "2026-10-24T00:02:15+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "94a0cdc9cc44f4ecb81f7f39836fd3ac9c3850cf",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.5 (#6205)",
@@ -475,14 +483,6 @@
         "subject": "feat: report the daemon's sandbox boot while initialize waits on it (#6137)",
         "at": "2026-10-19T22:37:04+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "affe9429c3662433112b853bb19f7c87c040ec93",
-        "subject": "chore(main): release 2.69.3 (#6135)",
-        "at": "2026-10-19T22:15:40+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
