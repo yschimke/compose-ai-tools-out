@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-22T21:18:56.402Z",
+  "generatedAt": "2026-10-23T08:10:44.191Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "321ce7a3f6238c56944ee2052d421011d62a5a7d",
+        "subject": "chore(main): release 2.72.0 (#6190)",
+        "at": "2026-10-23T08:44:37+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9f895cc9d97a77f201328403354a6be487d0c1d1",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.38.0 (#6186)",
+        "at": "2026-10-23T02:50:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b128d11249bba959c53e6ffe5ef091880eb11afb",
+        "subject": "fix(deps): update compose-preview-daemon to 3.24.0 and contracts to 3.38.0 (#6191)",
+        "at": "2026-10-23T03:36:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4ee98893ca9c484207e21b0dd611abff40c7dddf",
+        "subject": "fix(deps): update tapmoc to v0.5.0 (#6159)",
+        "at": "2026-10-23T00:08:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3f7e9f26500b4515cc4c7b2912ce90874262bbc9",
+        "subject": "feat(wear-preview): HostFramedWearWidgetDocument leaves the host frame to the device (#6187)",
+        "at": "2026-10-23T00:16:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d89073e8c49aa2f777bbc40acc7985a57b98331e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.4 (#6188)",
@@ -442,46 +482,6 @@
         "sha": "5884a9b4354e13680343e22f45193d008a96f3fb",
         "subject": "fix: bundle the rules_compose_preview 0.1.0-rc.16 Android aspect (#6127)",
         "at": "2026-10-19T17:43:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8ccb29e552e76b68f08ebe4ade1e6d9c981d49ad",
-        "subject": "fix: render with compose-preview-daemon 3.20.0 (#6126)",
-        "at": "2026-10-19T17:32:11+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7b8d63e49c8b25ee8fd887fc8c793134dc0f8e4b",
-        "subject": "fix: Bazel daemon descriptors name protocol 2 and boot a pool in the background (#6122)",
-        "at": "2026-10-19T17:27:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "481ff7fa57b560d2c09da5e9696ba990e6658f50",
-        "subject": "fix(android): widen the app's R classes with the renderer's fields (#6125)",
-        "at": "2026-10-19T16:48:07+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ed51386d998f379a655bcab1087689bc470b9794",
-        "subject": "fix: bazel --output names every preview once across targets, and --function selects everywhere (#6124)",
-        "at": "2026-10-19T16:12:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "499a069ccf30b76fe5a8ba60b74d58103b54cc5e",
-        "subject": "fix: bazel daemon stop returns once the daemon has gone (#6123)",
-        "at": "2026-10-19T16:02:13+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
