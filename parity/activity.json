@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-23T08:10:44.191Z",
+  "generatedAt": "2026-10-23T12:10:11.241Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c82c1564907ae1a06aaa003d971de4e382e22028",
+        "subject": "chore(main): release 2.72.1 (#6195)",
+        "at": "2026-10-23T12:53:26+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "efd7ace3e973c720bac3812a39b0372f33f52fdd",
+        "subject": "fix: watch each Bazel source's package, not its directory (#6197)",
+        "at": "2026-10-23T12:45:59+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1c2d4b065b9b75ba548c175a3ec913bdc3988ec3",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.72.0 (#6196)",
+        "at": "2026-10-23T11:29:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1528b4af0dfe06393608e665ee0215708748ca86",
+        "subject": "fix: publish sourceWatch from Bazel and Buck2 prepare (#6194)",
+        "at": "2026-10-23T12:26:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "321ce7a3f6238c56944ee2052d421011d62a5a7d",
         "subject": "chore(main): release 2.72.0 (#6190)",
@@ -451,38 +483,6 @@
         "subject": "fix(deps): update androidx to v2.0.4 (#6131)",
         "at": "2026-10-19T18:17:24Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8deb89fec9ed6091164c9c8a45efd759a7edbcfb",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.69.1 (#6130)",
-        "at": "2026-10-19T18:13:30Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d303ff2065264e004565dd57515bbf12ffa59452",
-        "subject": "fix: serve's bundle daemon widens the app's R classes with the daemon's fields (#6128)",
-        "at": "2026-10-19T19:07:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eb3c27a7b503af381746030e5983316c51e83b14",
-        "subject": "chore(main): release 2.69.1 (#6119)",
-        "at": "2026-10-19T17:55:01+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5884a9b4354e13680343e22f45193d008a96f3fb",
-        "subject": "fix: bundle the rules_compose_preview 0.1.0-rc.16 Android aspect (#6127)",
-        "at": "2026-10-19T17:43:49+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
