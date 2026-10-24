@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-24T11:36:40.257Z",
+  "generatedAt": "2026-10-24T14:15:08.918Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8100ccbf38c7de9f0e12bedbc9f26d5e639e0117",
+        "subject": "feat(bazel): treat build integration purely as Bazel and add bazel-defaults.json layer (#6216)",
+        "at": "2026-10-24T15:01:33+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b8445c862f9b10ffaa92484fcaaa58858cae217c",
+        "subject": "chore(main): release 2.73.2 (#6213)",
+        "at": "2026-10-24T14:50:51+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "690966eb035ba83170849a2b9c396b5ebd48ccbd",
+        "subject": "perf: adopt compose-preview-daemon 3.24.3 (#6214)",
+        "at": "2026-10-24T13:56:14+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "51c94a79f8b410ca2d4b7fdcf71a2c148a439e40",
+        "subject": "fix(plugin): reuse the configuration cache across discoveries (#6212)",
+        "at": "2026-10-24T13:01:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d2d0e4ea7fcea5cace754cf81970d507cd66a0c7",
         "subject": "test(plugin): cover Android composePreviewDaemonStart under the configuration cache (#6211)",
@@ -451,38 +483,6 @@
         "subject": "fix: render with compose-preview-daemon 3.21.1 (#6148)",
         "at": "2026-10-20T10:58:26+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "010136d80b449edd199b64aed94d31e9a41770ee",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.70.1 (#6146)",
-        "at": "2026-10-20T09:30:38Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3fc88934fda4e9c1765768276908ab6bb0eec7d1",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.0 (#6145)",
-        "at": "2026-10-20T09:28:49Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "af2e9a370612dffbc4c4f4e1d4455ec86506be4a",
-        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v4.8.199 (#6143)",
-        "at": "2026-10-20T09:27:41Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "00c58f3ac4de6f87b9ca282694d2a1adb26b54c3",
-        "subject": "chore(main): release 2.70.1 (#6142)",
-        "at": "2026-10-20T10:27:09+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
