@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-24T14:15:08.918Z",
+  "generatedAt": "2026-10-24T17:23:34.770Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8541aa93ee270f910e43b6af656edba3520a7f18",
+        "subject": "feat: add the cmp-android lane to the rc-compare parity wall (#6223)",
+        "at": "2026-10-24T18:15:34+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "da96ddc7832b8322395c4976d2a49ff7199de1a1",
+        "subject": "fix: adopt compose-preview-daemon 3.25.1 (#6222)",
+        "at": "2026-10-24T17:55:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d5452b75c225cd759cae1f4e7f722aff5e0ca1d8",
+        "subject": "fix(deps): update dependency org.ow2.asm:asm-commons to v9.11.1 (#6221)",
+        "at": "2026-10-24T16:09:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e0ab12fda0074adafc992bd3168e2f1f9cc4cd36",
+        "subject": "fix(deps): update dependency org.ow2.asm:asm to v9.11.1 (#6220)",
+        "at": "2026-10-24T15:47:16Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a1903aae1fb4a3e33d7a67e376ee92d94741ba87",
+        "subject": "perf: adopt compose-preview-daemon 3.25.0 (#6218)",
+        "at": "2026-10-24T16:39:27+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4c85b448a73c233c04060a4b975aafd6b8437cdd",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.73.2 (#6219)",
+        "at": "2026-10-24T15:24:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8100ccbf38c7de9f0e12bedbc9f26d5e639e0117",
         "subject": "feat(bazel): treat build integration purely as Bazel and add bazel-defaults.json layer (#6216)",
@@ -435,54 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.70.3 (#6154)",
         "at": "2026-10-20T12:36:37Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b9a1e96f87a9cddbfb5d850938e28d757082a8f2",
-        "subject": "chore(main): release 2.70.3 (#6152)",
-        "at": "2026-10-20T13:33:49+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "51acdba60fc4b58bcff61270672040a8143d4b3a",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.70.2 (#6153)",
-        "at": "2026-10-20T12:27:47Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cbfb22fff12e6d9606143f938c02abe839d76e27",
-        "subject": "perf: key bazel host-cache stamps on a FUSE content-digest xattr (#6151)",
-        "at": "2026-10-20T13:24:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9d3885ea284d1ba01ca1cb553c7c29a3b20f8540",
-        "subject": "chore(main): release 2.70.2 (#6147)",
-        "at": "2026-10-20T11:07:57+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bd86404dbfb8b7db09b14ba34fd7fb151b226425",
-        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.0 (#6149)",
-        "at": "2026-10-20T11:03:26+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "124a1d74710c2f533961fdb0771fd8507a4ac36c",
-        "subject": "fix: render with compose-preview-daemon 3.21.1 (#6148)",
-        "at": "2026-10-20T10:58:26+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
