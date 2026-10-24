@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-24T17:23:34.770Z",
+  "generatedAt": "2026-10-24T18:00:39.785Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "54d000c1f31b1dbf67d175450bfd441e5a875f48",
+        "subject": "chore(main): release 2.74.0 (#6217)",
+        "at": "2026-10-24T18:23:28+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8541aa93ee270f910e43b6af656edba3520a7f18",
         "subject": "feat: add the cmp-android lane to the rc-compare parity wall (#6223)",
@@ -475,14 +483,6 @@
         "subject": "perf: compare kept-daemon dependency jars by FUSE content digest (#6155)",
         "at": "2026-10-20T15:14:55+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "796d804e6cc0b946e3637b715d7276ec1e30ab08",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.70.3 (#6154)",
-        "at": "2026-10-20T12:36:37Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
