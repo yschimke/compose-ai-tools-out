@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-26T06:32:12.717Z",
+  "generatedAt": "2026-10-26T20:12:37.353Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "d3be32ab68876b3c47ba8f9959fc6b44b00ab1c2",
+        "subject": "chore(main): release 2.74.1 (#6228)",
+        "at": "2026-10-26T19:30:58Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c6ec66b234fa0cce2a3394963e82639f64f2dd28",
+        "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.12.0 (#6235)",
+        "at": "2026-10-26T19:26:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5a025db5cc501b390f016a790dd339875d95ef80",
+        "subject": "fix: adopt compose-preview-daemon 3.26.0 (#6234)",
+        "at": "2026-10-26T19:20:37Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f1057830de653c25e62e7e373b8bc4f93bbb3f89",
+        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.8.2 (#6233)",
+        "at": "2026-10-26T17:51:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f250d3276214f95c3fed2a03060bdc7f45d78376",
+        "subject": "fix(bazel): replay a staged prepare for a matching --target and quote stderr on failure (#6232)",
+        "at": "2026-10-26T17:38:24Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2bfa1d87de43a864a284257e5162118b037cbf0c",
         "subject": "fix(deps): update dependency @design-parity/export-driver to v1.17.0 (#6227)",
@@ -443,46 +483,6 @@
         "subject": "chore(main): release 2.70.5 (#6165)",
         "at": "2026-10-20T20:53:18+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e0cc130d577cdda6c55dd5238599ac5161300049",
-        "subject": "fix: render with compose-preview-daemon 3.21.3 (#6163)",
-        "at": "2026-10-20T20:47:19+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "92cad8e1fed5868c31d43a2dca7ac3fcc35b9189",
-        "subject": "fix: prepare a staged bazel --out directory again from its origin (#6166)",
-        "at": "2026-10-20T20:15:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e1fa9798407faa283296541d65c657aedcef6418",
-        "subject": "perf: skip Bazel pattern matches whose package holds no preview (#6164)",
-        "at": "2026-10-20T20:01:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e7d0f36d018fbdc6a1141c09b88c7cab52486a7b",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.70.4 (#6158)",
-        "at": "2026-10-20T15:01:55Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a15ecbf91c2d281ee6dcd6ca9562933279aba85e",
-        "subject": "refactor: route Bazel host-cache and platform-level I/O through Okio (#6157)",
-        "at": "2026-10-20T15:57:29+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
