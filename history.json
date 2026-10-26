@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "16ce3610f687d98bf857d300b09ac825126effc4",
+    "generatedFrom": "1bc7a3d8739e1ddeb3f8113ba72ea64bb5804e71",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -6175,6 +6175,13 @@
             "path": "renders/samples:design-catalog-wear-m3/SwitchButtonOn-3f3536cc.apng",
             "versions": [
                 {
+                    "blob": "2a11308132d12e6f12708db59b552e071cfd2ba5",
+                    "commit": "1bc7a3d8739e1ddeb3f8113ba72ea64bb5804e71",
+                    "date": "2026-10-26T19:39:56Z",
+                    "sourceSha": "5a025db5",
+                    "commits": 1
+                },
+                {
                     "blob": "ce989827f09d7df80f465381a9a1bac07e52fbb5",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
@@ -6182,7 +6189,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -6824,6 +6831,51 @@
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
                     "sourceSha": "bfc3148d",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:sdk-matrix/com.example.sdkmatrix.BatchPreviewsKt.BatchBluePreview_BatchBlue": {
+            "path": "renders/samples:sdk-matrix/BatchBluePreview_BatchBlue-9c848fcf.png",
+            "versions": [
+                {
+                    "blob": "674e72a05b9e95d1cfdbb22bd3fcd2677914f3c9",
+                    "commit": "1bc7a3d8739e1ddeb3f8113ba72ea64bb5804e71",
+                    "date": "2026-10-26T19:39:56Z",
+                    "sourceSha": "5a025db5",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:sdk-matrix/com.example.sdkmatrix.BatchPreviewsKt.BatchGreenPreview_BatchGreen": {
+            "path": "renders/samples:sdk-matrix/BatchGreenPreview_BatchGreen-81c9bd5d.png",
+            "versions": [
+                {
+                    "blob": "ea19bac323143ca10a0cb0bf7b8fb9ed1132e220",
+                    "commit": "1bc7a3d8739e1ddeb3f8113ba72ea64bb5804e71",
+                    "date": "2026-10-26T19:39:56Z",
+                    "sourceSha": "5a025db5",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:sdk-matrix/com.example.sdkmatrix.BatchPreviewsKt.BatchRedPreview_BatchRed": {
+            "path": "renders/samples:sdk-matrix/BatchRedPreview_BatchRed-011c79f4.png",
+            "versions": [
+                {
+                    "blob": "ca2ee776e4e5dbf0a897d507ef607741d39a578e",
+                    "commit": "1bc7a3d8739e1ddeb3f8113ba72ea64bb5804e71",
+                    "date": "2026-10-26T19:39:56Z",
+                    "sourceSha": "5a025db5",
                     "commits": 1
                 }
             ],
