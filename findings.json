@@ -3031,6 +3031,39 @@
       "variant": ""
     },
     {
+      "annotatedBasename": "BatchBluePreview_BatchBlue-9c848fcf.a11y.png",
+      "cleanBasename": "BatchBluePreview_BatchBlue-9c848fcf.png",
+      "findings": [],
+      "functionName": "BatchBluePreview",
+      "module": "sdk-matrix",
+      "previewId": "com.example.sdkmatrix.BatchPreviewsKt.BatchBluePreview_BatchBlue",
+      "rendersDir": "sdk-matrix",
+      "sourceFile": "src/main/kotlin/com/example/sdkmatrix/BatchPreviews.kt",
+      "variant": ""
+    },
+    {
+      "annotatedBasename": "BatchGreenPreview_BatchGreen-81c9bd5d.a11y.png",
+      "cleanBasename": "BatchGreenPreview_BatchGreen-81c9bd5d.png",
+      "findings": [],
+      "functionName": "BatchGreenPreview",
+      "module": "sdk-matrix",
+      "previewId": "com.example.sdkmatrix.BatchPreviewsKt.BatchGreenPreview_BatchGreen",
+      "rendersDir": "sdk-matrix",
+      "sourceFile": "src/main/kotlin/com/example/sdkmatrix/BatchPreviews.kt",
+      "variant": ""
+    },
+    {
+      "annotatedBasename": "BatchRedPreview_BatchRed-011c79f4.a11y.png",
+      "cleanBasename": "BatchRedPreview_BatchRed-011c79f4.png",
+      "findings": [],
+      "functionName": "BatchRedPreview",
+      "module": "sdk-matrix",
+      "previewId": "com.example.sdkmatrix.BatchPreviewsKt.BatchRedPreview_BatchRed",
+      "rendersDir": "sdk-matrix",
+      "sourceFile": "src/main/kotlin/com/example/sdkmatrix/BatchPreviews.kt",
+      "variant": ""
+    },
+    {
       "annotatedBasename": "SdkMatrixPreview_SdkMatrixPreview-79bf257a.a11y.png",
       "cleanBasename": "SdkMatrixPreview_SdkMatrixPreview-79bf257a.png",
       "findings": [],
