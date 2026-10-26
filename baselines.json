@@ -3220,7 +3220,7 @@
     "functionName": "SwitchButtonOn",
     "module": "samples:design-catalog-wear-m3",
     "renderBasename": "SwitchButtonOn-3f3536cc.apng",
-    "sha256": "dfc7a24c49e325035cb93eb5b5aa14f5a7ba761005621f9a955e5bdc21dd1c5c",
+    "sha256": "24d876c19529e8898a93d237e98d0bb62433cee3a38dd4a311f2f6742a641d1a",
     "sourceFile": "src/main/kotlin/com/example/designcatalogwearm3/CatalogPreviews.kt"
   },
   "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.SwitchButtonOn_VARIANT_off": {
@@ -3566,6 +3566,30 @@
     "renderBasename": "wearthemecatalog__Remote_Default.png",
     "sha256": "4a3b9e82ee6b9634705848622d9f375b8ea591cc060708cbf5ecfdae4633b26a",
     "sourceFile": null
+  },
+  "samples:sdk-matrix/com.example.sdkmatrix.BatchPreviewsKt.BatchBluePreview_BatchBlue": {
+    "captureLabel": "",
+    "functionName": "BatchBluePreview",
+    "module": "samples:sdk-matrix",
+    "renderBasename": "BatchBluePreview_BatchBlue-9c848fcf.png",
+    "sha256": "a2eb69c0d2ab3b24852b48bfcb76ab45affc21551c623579f8fba4173d2af2c8",
+    "sourceFile": "src/main/kotlin/com/example/sdkmatrix/BatchPreviews.kt"
+  },
+  "samples:sdk-matrix/com.example.sdkmatrix.BatchPreviewsKt.BatchGreenPreview_BatchGreen": {
+    "captureLabel": "",
+    "functionName": "BatchGreenPreview",
+    "module": "samples:sdk-matrix",
+    "renderBasename": "BatchGreenPreview_BatchGreen-81c9bd5d.png",
+    "sha256": "117c7f15f8700274650e9bd65783625643117a3526611010c292d484a51f62fd",
+    "sourceFile": "src/main/kotlin/com/example/sdkmatrix/BatchPreviews.kt"
+  },
+  "samples:sdk-matrix/com.example.sdkmatrix.BatchPreviewsKt.BatchRedPreview_BatchRed": {
+    "captureLabel": "",
+    "functionName": "BatchRedPreview",
+    "module": "samples:sdk-matrix",
+    "renderBasename": "BatchRedPreview_BatchRed-011c79f4.png",
+    "sha256": "40516cb0e5993f14c4db05ff40314ab75b0a7259857a020798da9d64fae88086",
+    "sourceFile": "src/main/kotlin/com/example/sdkmatrix/BatchPreviews.kt"
   },
   "samples:sdk-matrix/com.example.sdkmatrix.MatrixPreviewKt.SdkMatrixPreview_SdkMatrixPreview": {
     "captureLabel": "",

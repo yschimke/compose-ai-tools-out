@@ -522,6 +522,9 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 
 | Preview | Image |
 |---------|-------|
+| `BatchBluePreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:sdk-matrix/BatchBluePreview_BatchBlue-9c848fcf.png" width="150" /> |
+| `BatchGreenPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:sdk-matrix/BatchGreenPreview_BatchGreen-81c9bd5d.png" width="150" /> |
+| `BatchRedPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:sdk-matrix/BatchRedPreview_BatchRed-011c79f4.png" width="150" /> |
 | `SdkMatrixPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:sdk-matrix/SdkMatrixPreview_SdkMatrixPreview-79bf257a.png" width="150" /> |
 
 ## samples:wear
