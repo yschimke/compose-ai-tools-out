@@ -1,6 +1,6 @@
 # Accessibility Report
 
-_Auto-generated from `compose-preview/a11y/main`. 302 preview(s) across 18 module(s) · 13 error(s) · 4 warning(s) · 30 info._
+_Auto-generated from `compose-preview/a11y/main`. 302 preview(s) across 18 module(s) · 11 error(s) · 4 warning(s) · 30 info._
 
 Browse inline; image URLs are pinned to the commit SHA on the baseline branch so links keep resolving after merge.
 
@@ -1599,10 +1599,7 @@ _No findings._
 
 <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteTexturedCubePreview-3d91fa07.a11y.png" width="400" />
 
-| # | Level | Rule | Element | Message |
-|--:|---|---|---|---|
-| 1 | ERROR | SpeakableTextPresentCheck | android.widget.Button | This item may not have a label readable by screen readers. |
-| 2 | ERROR | SpeakableTextPresentCheck | android.widget.Button | This item may not have a label readable by screen readers. |
+_No findings._
 
 ### `RemoteWallCardPreview`
 
