@@ -3519,6 +3519,14 @@
     "sha256": "929c44425321df3b8582e157dad655366af7dfbec6e7f52594cc38566a20ee08",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
+  "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteCube3dSpinningPreview": {
+    "captureLabel": "",
+    "functionName": "RemoteCube3dSpinningPreview",
+    "module": "samples:remotecompose",
+    "renderBasename": "RemoteCube3dSpinningPreview-f9f041e1.gif",
+    "sha256": "57c98698ad708ebb5c52f9aaa53b9c1f0e089b8d400af2d7671a174df56fd3f4",
+    "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
+  },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview": {
     "captureLabel": "",
     "functionName": "RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview",
