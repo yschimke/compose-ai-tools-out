@@ -3009,12 +3009,45 @@
       "variant": ""
     },
     {
+      "annotatedBasename": "",
+      "cleanBasename": "RemoteCube3dFromBelowPreview-1aa9c236.png",
+      "findings": [],
+      "functionName": "RemoteCube3dFromBelowPreview",
+      "module": "remotecompose",
+      "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteCube3dFromBelowPreview",
+      "rendersDir": "remotecompose",
+      "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt",
+      "variant": ""
+    },
+    {
+      "annotatedBasename": "",
+      "cleanBasename": "RemoteCube3dPreview-73d73c56.png",
+      "findings": [],
+      "functionName": "RemoteCube3dPreview",
+      "module": "remotecompose",
+      "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteCube3dPreview",
+      "rendersDir": "remotecompose",
+      "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt",
+      "variant": ""
+    },
+    {
       "annotatedBasename": "RemoteShaderGradientPreview-6739688f.a11y.png",
       "cleanBasename": "RemoteShaderGradientPreview-6739688f.png",
       "findings": [],
       "functionName": "RemoteShaderGradientPreview",
       "module": "remotecompose",
       "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteShaderGradientPreview",
+      "rendersDir": "remotecompose",
+      "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt",
+      "variant": ""
+    },
+    {
+      "annotatedBasename": "RemoteWallCardPreview-3df37787.a11y.png",
+      "cleanBasename": "RemoteWallCardPreview-3df37787.png",
+      "findings": [],
+      "functionName": "RemoteWallCardPreview",
+      "module": "remotecompose",
+      "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteWallCardPreview",
       "rendersDir": "remotecompose",
       "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt",
       "variant": ""

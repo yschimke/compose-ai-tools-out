@@ -1,6 +1,6 @@
 # Accessibility Report
 
-_Auto-generated from `compose-preview/a11y/main`. 298 preview(s) across 18 module(s) · 11 error(s) · 4 warning(s) · 30 info._
+_Auto-generated from `compose-preview/a11y/main`. 301 preview(s) across 18 module(s) · 11 error(s) · 4 warning(s) · 30 info._
 
 Browse inline; image URLs are pinned to the commit SHA on the baseline branch so links keep resolving after merge.
 
@@ -1577,9 +1577,27 @@ _No findings._
 
 _No findings._
 
+### `RemoteCube3dFromBelowPreview`
+
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteCube3dFromBelowPreview-1aa9c236.png" width="400" />
+
+_No findings._
+
+### `RemoteCube3dPreview`
+
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteCube3dPreview-73d73c56.png" width="400" />
+
+_No findings._
+
 ### `RemoteShaderGradientPreview`
 
 <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteShaderGradientPreview-6739688f.a11y.png" width="400" />
+
+_No findings._
+
+### `RemoteWallCardPreview`
+
+<img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/a11y/main/renders/remotecompose/RemoteWallCardPreview-3df37787.a11y.png" width="400" />
 
 _No findings._
 
