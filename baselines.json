@@ -1212,7 +1212,7 @@
     "functionName": "GoogleFontsShowcasePreview",
     "module": "samples:android",
     "renderBasename": "GoogleFontsShowcasePreview_Google_Fonts_Showcase-8b9d279c.png",
-    "sha256": "08831ca140651302261740f01b2801938f45e9b42f7522ebff6afd28a1b28a31",
+    "sha256": "bb6d5ef9dbc3a34cc726eb17c779ef9e3ba93cd47b0e3fd17b1d88805625c1d3",
     "sourceFile": "src/main/kotlin/com/example/sampleandroid/Previews.kt"
   },
   "samples:android/com.example.sampleandroid.PreviewsKt.GreenBoxPreview_Green Box": {
