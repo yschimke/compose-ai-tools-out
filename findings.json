@@ -3042,6 +3042,32 @@
       "variant": ""
     },
     {
+      "annotatedBasename": "RemoteTexturedCubePreview-3d91fa07.a11y.png",
+      "cleanBasename": "RemoteTexturedCubePreview-3d91fa07.png",
+      "findings": [
+        {
+          "boundsInScreen": "0,0,630,630",
+          "level": "ERROR",
+          "message": "This item may not have a label readable by screen readers.",
+          "type": "SpeakableTextPresentCheck",
+          "viewDescription": "android.widget.Button"
+        },
+        {
+          "boundsInScreen": "488,488,614,614",
+          "level": "ERROR",
+          "message": "This item may not have a label readable by screen readers.",
+          "type": "SpeakableTextPresentCheck",
+          "viewDescription": "android.widget.Button"
+        }
+      ],
+      "functionName": "RemoteTexturedCubePreview",
+      "module": "remotecompose",
+      "previewId": "com.example.sampleremotecompose.PreviewsKt.RemoteTexturedCubePreview",
+      "rendersDir": "remotecompose",
+      "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt",
+      "variant": ""
+    },
+    {
       "annotatedBasename": "RemoteWallCardPreview-3df37787.a11y.png",
       "cleanBasename": "RemoteWallCardPreview-3df37787.png",
       "findings": [],
