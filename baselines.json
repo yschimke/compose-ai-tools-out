@@ -3551,6 +3551,30 @@
     "sha256": "59cab913c3b74e996765d6ecad820a159b213598719f97fbb7f5fb2b61123f1e",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
+  "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteTexturedCubeInteractionPreview": {
+    "captureLabel": "",
+    "functionName": "RemoteTexturedCubeInteractionPreview",
+    "module": "samples:remotecompose",
+    "renderBasename": "RemoteTexturedCubeInteractionPreview-73417cf7.png",
+    "sha256": "50923e95d407f7b985b7e6d33762233db2e9ae59792547a62c8b7ba00d740769",
+    "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
+  },
+  "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteTexturedCubeInteractionPreview#1": {
+    "captureLabel": "",
+    "functionName": "RemoteTexturedCubeInteractionPreview",
+    "module": "samples:remotecompose",
+    "renderBasename": "RemoteTexturedCubeInteractionPreview-73417cf7.gif",
+    "sha256": "52b7c6f74899a1dbf96c2582ca438b4baa055fb40dec7ce5a13fdae3831d236f",
+    "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
+  },
+  "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteTexturedCubePreview": {
+    "captureLabel": "",
+    "functionName": "RemoteTexturedCubePreview",
+    "module": "samples:remotecompose",
+    "renderBasename": "RemoteTexturedCubePreview-3d91fa07.png",
+    "sha256": "50923e95d407f7b985b7e6d33762233db2e9ae59792547a62c8b7ba00d740769",
+    "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
+  },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteWallCardPreview": {
     "captureLabel": "",
     "functionName": "RemoteWallCardPreview",
