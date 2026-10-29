@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "ec97822ecef582487db789029cf8f01b5c7a8e93",
+    "generatedFrom": "20a797dd34fbf10779cc675184f3041839e8bc87",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -6725,6 +6725,36 @@
             "unstable": false,
             "flapCount": 0
         },
+        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteCube3dFromBelowPreview": {
+            "path": "renders/samples:remotecompose/RemoteCube3dFromBelowPreview-1aa9c236.png",
+            "versions": [
+                {
+                    "blob": "23c9ac2a313676f2f78437d514654e195f1a0a74",
+                    "commit": "20a797dd34fbf10779cc675184f3041839e8bc87",
+                    "date": "2026-10-29T15:29:41Z",
+                    "sourceSha": "1e08fe4a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteCube3dPreview": {
+            "path": "renders/samples:remotecompose/RemoteCube3dPreview-73d73c56.png",
+            "versions": [
+                {
+                    "blob": "17c048608ca439c29952c981abf7b6ab23c3ab13",
+                    "commit": "20a797dd34fbf10779cc675184f3041839e8bc87",
+                    "date": "2026-10-29T15:29:41Z",
+                    "sourceSha": "1e08fe4a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
         "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview": {
             "path": "renders/samples:remotecompose/RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview-53123345.gif",
             "versions": [
@@ -6763,6 +6793,21 @@
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
                     "sourceSha": "bfc3148d",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteWallCardPreview": {
+            "path": "renders/samples:remotecompose/RemoteWallCardPreview-3df37787.png",
+            "versions": [
+                {
+                    "blob": "9715fb35a69d33d715891cd06ec8210f024f9bc0",
+                    "commit": "20a797dd34fbf10779cc675184f3041839e8bc87",
+                    "date": "2026-10-29T15:29:41Z",
+                    "sourceSha": "1e08fe4a",
                     "commits": 1
                 }
             ],
