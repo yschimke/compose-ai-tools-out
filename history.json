@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "468db552b5274457d06afc10ac8bb6dd176b6576",
+    "generatedFrom": "fc5a00ae2be94c0d9c16da31a14daf8594e751bf",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -6808,6 +6808,51 @@
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
                     "sourceSha": "bfc3148d",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteTexturedCubeInteractionPreview": {
+            "path": "renders/samples:remotecompose/RemoteTexturedCubeInteractionPreview-73417cf7.png",
+            "versions": [
+                {
+                    "blob": "6d0753f3fad8763ca460220e5b18b5be95860c35",
+                    "commit": "fc5a00ae2be94c0d9c16da31a14daf8594e751bf",
+                    "date": "2026-10-29T19:31:03Z",
+                    "sourceSha": "52132753",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteTexturedCubeInteractionPreview#1": {
+            "path": "renders/samples:remotecompose/RemoteTexturedCubeInteractionPreview-73417cf7.gif",
+            "versions": [
+                {
+                    "blob": "fd6badc20172944cfd583e8fff835e3772bcd676",
+                    "commit": "fc5a00ae2be94c0d9c16da31a14daf8594e751bf",
+                    "date": "2026-10-29T19:31:03Z",
+                    "sourceSha": "52132753",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteTexturedCubePreview": {
+            "path": "renders/samples:remotecompose/RemoteTexturedCubePreview-3d91fa07.png",
+            "versions": [
+                {
+                    "blob": "6d0753f3fad8763ca460220e5b18b5be95860c35",
+                    "commit": "fc5a00ae2be94c0d9c16da31a14daf8594e751bf",
+                    "date": "2026-10-29T19:31:03Z",
+                    "sourceSha": "52132753",
                     "commits": 1
                 }
             ],
