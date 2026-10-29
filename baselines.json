@@ -3503,6 +3503,22 @@
     "sha256": "ada1c4c22235bf1854ac6ecda0f7abef698abfff38b5539269d7b8e40acbcf61",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
+  "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteCube3dFromBelowPreview": {
+    "captureLabel": "",
+    "functionName": "RemoteCube3dFromBelowPreview",
+    "module": "samples:remotecompose",
+    "renderBasename": "RemoteCube3dFromBelowPreview-1aa9c236.png",
+    "sha256": "f1a61dc4ab85e2938fdc2f8af08cb2898c84127f82dad76a429507eaa7416009",
+    "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
+  },
+  "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteCube3dPreview": {
+    "captureLabel": "",
+    "functionName": "RemoteCube3dPreview",
+    "module": "samples:remotecompose",
+    "renderBasename": "RemoteCube3dPreview-73d73c56.png",
+    "sha256": "929c44425321df3b8582e157dad655366af7dfbec6e7f52594cc38566a20ee08",
+    "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
+  },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview": {
     "captureLabel": "",
     "functionName": "RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview",
@@ -3525,6 +3541,14 @@
     "module": "samples:remotecompose",
     "renderBasename": "RemoteShaderGradientPreview-6739688f.png",
     "sha256": "59cab913c3b74e996765d6ecad820a159b213598719f97fbb7f5fb2b61123f1e",
+    "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
+  },
+  "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteWallCardPreview": {
+    "captureLabel": "",
+    "functionName": "RemoteWallCardPreview",
+    "module": "samples:remotecompose",
+    "renderBasename": "RemoteWallCardPreview-3df37787.png",
+    "sha256": "7f433dc407180dac80f9aac896cc713b034946d5e7571f1c951cf003705ce07f",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.WearWidgetPreviewsKt.RemoteWidgetSquirclePreview_Remote Widget Squircle": {
