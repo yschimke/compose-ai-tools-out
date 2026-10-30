@@ -3444,7 +3444,7 @@
     "functionName": "MainActivity",
     "module": "samples:remotecompose",
     "renderBasename": "activity__MainActivity.png",
-    "sha256": "35201c08313b7525b5ed3b53496a5114ea76245cc0cfc51f8332a14c14bce7b4",
+    "sha256": "dfff7b16ca3493ac0a6a163561bbb86361b870d47a1dfb0102c4e6382520cf09",
     "sourceFile": null
   },
   "samples:remotecompose/colorcatalog__Remote_theme": {
@@ -3476,7 +3476,7 @@
     "functionName": "RemoteButtonEnabledPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteButtonEnabledPreview-23dedf54.png",
-    "sha256": "7c096ca1224b90f9ca10f9da7f7933b8c3fae4c6d4b138370ce1f84c59b3457c",
+    "sha256": "06b3855e85bde84f92582123dc8adaf98d949e53b4307b16455b11d0c86d7247",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithBorderPreview": {
@@ -3484,7 +3484,7 @@
     "functionName": "RemoteButtonWithBorderPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteButtonWithBorderPreview-298b3408.png",
-    "sha256": "ae61183bf3560554fd93cec3a50f67bcd524d659eef9ed323290a3fe49042e22",
+    "sha256": "853d6ba11cce162beb67ccbc0e52278616e3838db599004c6f701bd12d8a9104",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithNamedLabelPreview": {
@@ -3492,7 +3492,7 @@
     "functionName": "RemoteButtonWithNamedLabelPreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteButtonWithNamedLabelPreview-f3014b8f.png",
-    "sha256": "3a718a7b0706f443d8750412e162e277be5da21b164aba3d5d512ae1b88d4039",
+    "sha256": "8ee84cb6fc047e6b0c4a2b736a63717abde57a23d18d201eb2ed4e2be9f26fe9",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithShapePreview": {
@@ -3500,7 +3500,7 @@
     "functionName": "RemoteButtonWithShapePreview",
     "module": "samples:remotecompose",
     "renderBasename": "RemoteButtonWithShapePreview-3935d3f3.png",
-    "sha256": "ada1c4c22235bf1854ac6ecda0f7abef698abfff38b5539269d7b8e40acbcf61",
+    "sha256": "6aa384169ab7696a81d31bee28ea05323a81cd738fccdd7df04f866cebce9d76",
     "sourceFile": "src/main/kotlin/com/example/sampleremotecompose/Previews.kt"
   },
   "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteCube3dFromBelowPreview": {
@@ -3596,7 +3596,7 @@
     "functionName": "Remote theme shapes",
     "module": "samples:remotecompose",
     "renderBasename": "shapecatalog__Remote_theme.png",
-    "sha256": "6ade14e56c1b480fa5c5e7297d13d4c70900bcb136b62e6454494f6ed543e6bb",
+    "sha256": "42ae7cde03a17df7f7b9f380ab8b60b238a5e8315316ee9b1a0f7d44a355ed9f",
     "sourceFile": null
   },
   "samples:remotecompose/typographycatalog__Remote_theme": {
@@ -3660,7 +3660,7 @@
     "functionName": "ActivitySummaryWidgetRectangularPreview",
     "module": "samples:wear-widget",
     "renderBasename": "ActivitySummaryWidgetRectangularPreview_Rectangular_Preview-860a1011.png",
-    "sha256": "91a224e3cdcdeea97ebfad0993facab1b44065daa5c412137bed6316c3666546",
+    "sha256": "3d89d039c718b22ecd5cc20c17cee8538d1f766f78b5ba99e7ff19bab76b88b2",
     "sourceFile": "src/main/kotlin/com/example/wearwidget/ActivitySummaryWidget.kt"
   },
   "samples:wear-widget/com.example.wearwidget.ActivitySummaryWidgetKt.ActivitySummaryWidgetRoundPreview_Round Preview": {
@@ -3668,7 +3668,7 @@
     "functionName": "ActivitySummaryWidgetRoundPreview",
     "module": "samples:wear-widget",
     "renderBasename": "ActivitySummaryWidgetRoundPreview_Round_Preview-55cf0f7d.png",
-    "sha256": "fbc05da88c728a1e7745b11cfaa5a29e59811416d9d0afac4e4c05c00fb40b07",
+    "sha256": "425aa9336e1fd5cf9e1c8759dea1e3549cc646d16f41adc196dad1fc92a069ac",
     "sourceFile": "src/main/kotlin/com/example/wearwidget/ActivitySummaryWidget.kt"
   },
   "samples:wear-widget/com.example.wearwidget.ActivitySummaryWidgetKt.ActivitySummaryWidgetSquirclePreview_Squircle Preview": {
@@ -3676,7 +3676,7 @@
     "functionName": "ActivitySummaryWidgetSquirclePreview",
     "module": "samples:wear-widget",
     "renderBasename": "ActivitySummaryWidgetSquirclePreview_Squircle_Preview-a0071b12.png",
-    "sha256": "24a88dc8ce211539eded5f7c223cae1050c9ab511091453da3651837f68f5b49",
+    "sha256": "1c06b6662ae07a88080856e8b72174af738b8c36c032de26dea31c6161ff2654",
     "sourceFile": "src/main/kotlin/com/example/wearwidget/ActivitySummaryWidget.kt"
   },
   "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetDeviceSpecPreview_Image Widget Device Spec": {
