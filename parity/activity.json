@@ -1,11 +1,83 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-30T07:19:12.894Z",
+  "generatedAt": "2026-10-30T10:51:51.714Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5e3f98d63f3ea8068a25e41f45009a696f51f538",
+        "subject": "fix(deps): update dependency org.jetbrains.skiko:skiko-awt to v0.156.0 (#6278)",
+        "at": "2026-10-30T10:16:16Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c7792c0280f865e23b93a383173ceee32ddc4bb3",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.75.0 (#6277)",
+        "at": "2026-10-30T10:06:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "15d333fc5316ad55ef998ee4aa64c49e8748b13f",
+        "subject": "chore(main): release 2.75.0 (#6237)",
+        "at": "2026-10-30T10:03:49Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "05aaa5aa66e9d593016c0e9486e2fbe3c3fc1f5f",
+        "subject": "fix(cli): simulator activities launch on the caller's display (#6276)",
+        "at": "2026-10-30T09:53:26Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cdb9d7c5c4aefc98da6350d04ddbeddad941390c",
+        "subject": "feat(cli): pair a phone and a Wear OS APK over a simulated Data Layer (#6269)",
+        "at": "2026-10-30T09:40:45Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7a08b02bf490058f2fe0e139525cd4484474715f",
+        "subject": "docs: handover briefs for a Wear system UI and a phone launcher with widgets (#6275)",
+        "at": "2026-10-30T09:07:35Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5dfea74cc249c9bb49c4eda2f9dbc05fa51d0ce8",
+        "subject": "feat(cli): multiple displays in the simulator (#6274)",
+        "at": "2026-10-30T09:02:15Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8859d17831950c219bd3a3eeb8b064b1b0414481",
+        "subject": "feat(cli): launch Wear OS, Glimmer and Android XR apps on their own displays (#6271)",
+        "at": "2026-10-30T08:10:46Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dd3008f1c665da36b5ee9b843febefeb7bb7f3cb",
+        "subject": "feat(cli): adb equivalents for the simulator's control channel (#6268)",
+        "at": "2026-10-30T07:54:58Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "dceb10c8105afdeaf896e0b805fa27f13e1e11e2",
         "subject": "build(deps): bump the actions-minor group with 9 updates (#6266)",
@@ -411,78 +483,6 @@
         "subject": "chore(main): release 2.73.1 (#6209)",
         "at": "2026-10-24T12:10:28+01:00",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "18a00ccb0e13f476812310c2ddd9080415dbe52f",
-        "subject": "perf: adopt compose-preview-daemon 3.24.2 (#6208)",
-        "at": "2026-10-24T11:58:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5520a3278ab91db0dc90cfc3eb5dfafca68a157f",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.73.0 (#6206)",
-        "at": "2026-10-24T01:23:44Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "287cfe58efd441fe52abb42eea0c6429d1fa6b61",
-        "subject": "chore(main): release 2.73.0 (#6201)",
-        "at": "2026-10-24T00:02:15+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "94a0cdc9cc44f4ecb81f7f39836fd3ac9c3850cf",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.5 (#6205)",
-        "at": "2026-10-23T22:54:04Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "325cc2f4cf415a9a7ef94dc2a461e20b39b5ee91",
-        "subject": "perf: adopt compose-preview-daemon 3.24.1 (#6204)",
-        "at": "2026-10-23T23:50:52+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d0ed5b6cf3b51dacf1b7feaa71b098dd6c4a7db4",
-        "subject": "ci: stop publishing snapshots (#6203)",
-        "at": "2026-10-23T22:17:54+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "253c170c949560d2c0b3facec224532659c6cb9a",
-        "subject": "build: stop publishing SHA-256 and SHA-512 checksum files (#6202)",
-        "at": "2026-10-23T21:46:52+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "231c72a2657928558771b91e25ac195e67dbf6dd",
-        "subject": "feat(cli): add `rc upload` to share a Remote Compose document (#6198)",
-        "at": "2026-10-23T18:24:53+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a1cc6911dbbd5c255445aaa03036607673724e45",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.72.1 (#6199)",
-        "at": "2026-10-23T15:57:53Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
