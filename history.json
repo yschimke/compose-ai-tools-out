@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+    "generatedFrom": "0404be42be7b96669b3edfeccaac31e34e32e8d2",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -430,6 +430,36 @@
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
                     "sourceSha": "bfc3148d",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:android/activity__PinRequestActivity": {
+            "path": "renders/samples:android/activity__PinRequestActivity.png",
+            "versions": [
+                {
+                    "blob": "87b1bd61b2599cd45fb76d5b230b3bee37360923",
+                    "commit": "0404be42be7b96669b3edfeccaac31e34e32e8d2",
+                    "date": "2026-10-30T11:24:54Z",
+                    "sourceSha": "a10455c1",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:android/activity__TaskListConfigureActivity": {
+            "path": "renders/samples:android/activity__TaskListConfigureActivity.png",
+            "versions": [
+                {
+                    "blob": "e8080a86331f4e4b9b3572151d5359e14b5ffac3",
+                    "commit": "0404be42be7b96669b3edfeccaac31e34e32e8d2",
+                    "date": "2026-10-30T11:24:54Z",
+                    "sourceSha": "a10455c1",
                     "commits": 1
                 }
             ],
