@@ -6,9 +6,11 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 
 | Preview | Image |
 |---------|-------|
+| `ChatActivity` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android/activity__ChatActivity.png" width="150" /> |
 | `MainActivity` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android/activity__MainActivity.png" width="150" /> |
 | `NowPlayingActivity` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android/activity__NowPlayingActivity.png" width="150" /> |
 | `PinRequestActivity` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android/activity__PinRequestActivity.png" width="150" /> |
+| `PlayerActivity` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android/activity__PlayerActivity.png" width="150" /> |
 | `TaskListConfigureActivity` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android/activity__TaskListConfigureActivity.png" width="150" /> |
 | `getting-started` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android/apptour__getting-started_step00_launch.png" width="150" /> |
 | `getting-started` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:android/apptour__getting-started_step01_open_now_playing.png" width="150" /> |

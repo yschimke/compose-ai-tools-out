@@ -215,6 +215,14 @@
     "sha256": "a90781a82be57f76cde772aeef416dd0b7ac8c87d5ebb451df437b8347cb7c28",
     "sourceFile": "src/main/kotlin/com/example/sampleandroidscreenshot/MainPreviews.kt"
   },
+  "samples:android/activity__ChatActivity": {
+    "captureLabel": "",
+    "functionName": "ChatActivity",
+    "module": "samples:android",
+    "renderBasename": "activity__ChatActivity.png",
+    "sha256": "0c7d6000dfd684320ff5d4b7a2bf748218ece32a51d0a7b9c3e10725045aff05",
+    "sourceFile": null
+  },
   "samples:android/activity__MainActivity": {
     "captureLabel": "",
     "functionName": "MainActivity",
@@ -237,6 +245,14 @@
     "module": "samples:android",
     "renderBasename": "activity__PinRequestActivity.png",
     "sha256": "29e176382e489c983aeb08f901d6d5009c4ecf71bc84b088c3a8ecc19cdbe79c",
+    "sourceFile": null
+  },
+  "samples:android/activity__PlayerActivity": {
+    "captureLabel": "",
+    "functionName": "PlayerActivity",
+    "module": "samples:android",
+    "renderBasename": "activity__PlayerActivity.png",
+    "sha256": "be2bf510d3719aa077faeda4000360809058d2eb7d2bd5cd9a4259361bc8f840",
     "sourceFile": null
   },
   "samples:android/activity__TaskListConfigureActivity": {
