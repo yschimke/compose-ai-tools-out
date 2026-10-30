@@ -1,11 +1,211 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-26T20:12:37.353Z",
+  "generatedAt": "2026-10-30T00:12:09.934Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "9b08a4bc585ca87be632a02b5b3cee17249b09f0",
+        "subject": "fix(deps): update rc-players to 2.21.0 and compose-preview-daemon to 3.27.0 (#6264)",
+        "at": "2026-10-30T00:01:44Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6c61274ca0de0b0da76caa8934044b8c41e47d11",
+        "subject": "fix(cli): deliver permission results to the requester and start with Bluetooth on (#6263)",
+        "at": "2026-10-29T23:32:31Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3bd983cc2b77854262b53c469fbb7d0261123f2e",
+        "subject": "fix(cli): grant permission requests and walk real views inside Compose hierarchies (#6262)",
+        "at": "2026-10-29T23:19:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bab02ed2f2f43409854f6134c6f204ffe7fea3e0",
+        "subject": "test(apply): cover the pre-push hook and clean-filter handoff plants (#6261)",
+        "at": "2026-10-29T21:45:04Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7d927569fd2f97bfa731da6a80b3c8233f22cf7b",
+        "subject": "ci(apply): refuse a planted .git and an unbound pr-number in the publish handoff (#6260)",
+        "at": "2026-10-29T21:16:37Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "043b596772b41091fac1d8883f9ce8e035583b92",
+        "subject": "fix(gradle-plugin): find renderer classes from a substituted daemon build (#6259)",
+        "at": "2026-10-29T20:23:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "443a42a12bba2fe84f5a8cca9c49e980fed91a66",
+        "subject": "fix(cli): build providers through the app's factory and connect binds by component (#6258)",
+        "at": "2026-10-29T20:19:24Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "af8ddabe9ed1eb70853c0a5f689761577ca096a5",
+        "subject": "test(samples): guard the Remote Compose cubes against the player update (#6257)",
+        "at": "2026-10-29T20:18:32Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "52132753a52d3859d0aa3df9f418ac3a00c4f5ba",
+        "subject": "docs(samples): a textured Remote Compose cube you tap to turn and re-texture (#6256)",
+        "at": "2026-10-29T18:57:54Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "42a581f64de8e683cd3708b68ec45d5fda425d42",
+        "subject": "docs(samples): spin the Remote Compose cube on the document clock (#6255)",
+        "at": "2026-10-29T18:33:18Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c405b5ac5b5baf1e5a9d9b425b1c8716de5b5509",
+        "subject": "docs(xr): composite of a Remote Compose doc projected onto a wall (#6253)",
+        "at": "2026-10-29T18:19:06Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4a0054302f82c78cec1f2fbcc36635b3009d9aef",
+        "subject": "fix(cli): launch alias launchers and factory-built components in the simulator (#6254)",
+        "at": "2026-10-29T18:15:10Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1e08fe4a115d7772e5e626402405183ee31025fa",
+        "subject": "docs(samples): Remote Compose in XR — document-defined 3D cube and a wall-projected card (#6252)",
+        "at": "2026-10-29T15:14:52Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3d9268b50d0a514d4edacaffe7b07d024d25366a",
+        "subject": "fix(cli): run real apps in the launch simulator (#6251)",
+        "at": "2026-10-29T14:39:36Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b62bc801af20852f73b5aaefacb39bead3772f71",
+        "subject": "fix(plugin): stop realizing every task so AGP 9.5 builds can render previews (#6249)",
+        "at": "2026-10-29T12:23:39Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "533b952a5c5e5b8bb3f49eb7b61933c3d513a93f",
+        "subject": "fix(deps): update dependency com.google.guava:guava to v33.7.2-jre (#6247)",
+        "at": "2026-10-29T11:32:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "33dfeb6a1efe0fe27e0381be25fbd29e4f6181c9",
+        "subject": "ci: pin the AdaptiveJetStream XR patch to xr 1.0.0-beta02 (#6248)",
+        "at": "2026-10-29T11:21:32Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2e9ff95ca59fe71ece19fe922b69416b4b2470db",
+        "subject": "fix(apply): cut preview comment noise in the diff, a11y and baseline notes (#6246)",
+        "at": "2026-10-29T11:17:12Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e0b0f0b87a385ff767dbdf1df33e363f9c1e37cd",
+        "subject": "feat(cli): launch an APK in Robolectric's simulator (#6240)",
+        "at": "2026-10-29T11:15:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "03a33944137e08510bb21b809d26afa1297e061e",
+        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-beta02 (#6242)",
+        "at": "2026-10-29T09:08:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8f7af7428e5bb3a98c8551d7c5961b6e3c04cccf",
+        "subject": "fix(deps): update roborazzi to v1.77.0 (#6244)",
+        "at": "2026-10-29T09:07:59Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0265f904448a3ce8790cabc28219963e04ae9885",
+        "subject": "fix(deps): update okhttp to v5.5.1 (#6243)",
+        "at": "2026-10-29T09:07:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "80e5d37f62d46133aae245b68992ca2cfe84708a",
+        "subject": "fix(deps): update androidx (#6241)",
+        "at": "2026-10-29T09:04:03Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f1ea7a3523b149b5d424369931bf91e60aa6c175",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.74.1 (#6238)",
+        "at": "2026-10-26T20:15:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1f99c3cb994b756c4b48398522de8b528c8654ef",
+        "subject": "fix(cli): give a long recording time to encode (#6236)",
+        "at": "2026-10-26T20:12:07Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d3be32ab68876b3c47ba8f9959fc6b44b00ab1c2",
         "subject": "chore(main): release 2.74.1 (#6228)",
@@ -282,206 +482,6 @@
         "sha": "321ce7a3f6238c56944ee2052d421011d62a5a7d",
         "subject": "chore(main): release 2.72.0 (#6190)",
         "at": "2026-10-23T08:44:37+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9f895cc9d97a77f201328403354a6be487d0c1d1",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.38.0 (#6186)",
-        "at": "2026-10-23T02:50:17Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b128d11249bba959c53e6ffe5ef091880eb11afb",
-        "subject": "fix(deps): update compose-preview-daemon to 3.24.0 and contracts to 3.38.0 (#6191)",
-        "at": "2026-10-23T03:36:28+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4ee98893ca9c484207e21b0dd611abff40c7dddf",
-        "subject": "fix(deps): update tapmoc to v0.5.0 (#6159)",
-        "at": "2026-10-23T00:08:32Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3f7e9f26500b4515cc4c7b2912ce90874262bbc9",
-        "subject": "feat(wear-preview): HostFramedWearWidgetDocument leaves the host frame to the device (#6187)",
-        "at": "2026-10-23T00:16:24+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d89073e8c49aa2f777bbc40acc7985a57b98331e",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.4 (#6188)",
-        "at": "2026-10-22T21:11:31Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "90dcc8dbb58b16fd2497364c9ff46941e9335e0e",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.71.0 (#6189)",
-        "at": "2026-10-22T20:57:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5306a022726d99ccf2856d8be86f4f10a4112d53",
-        "subject": "chore(main): release 2.71.0 (#6180)",
-        "at": "2026-10-22T17:18:48Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c8272565aefdaa8686f539d8afc8d3823ebb4e19",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.22.0 (#6092)",
-        "at": "2026-10-22T14:13:46Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dae5d15e474dcf0d14a455ea81b250eb72f52aa4",
-        "subject": "feat: publish each module's source dirs in the daemon descriptor (#6184)",
-        "at": "2026-10-22T14:55:12+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "754c17f73a18d85bc41da2534cf1544ae2e6e667",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.3 (#6183)",
-        "at": "2026-10-22T08:48:15Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "abd49e89531cc8b3db6f8e32ce3ea6fe9dc68af6",
-        "subject": "fix: give the in-process compiler the consumer's Kotlin version (#6182)",
-        "at": "2026-10-22T09:13:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0d48c0870f94c1b4a6b1c5d0c571d63c4254c8b6",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.2 (#6181)",
-        "at": "2026-10-22T03:58:46Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3efcc8e3bf3082709e129d02ac55c5d87bbf201a",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.17.1 (#6179)",
-        "at": "2026-10-21T20:33:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5ea0c2d358ea2d13fa86ee2b12b85b425ca1b876",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.70.7 (#6178)",
-        "at": "2026-10-21T12:56:39Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8e12274c8eaeb00e8dabd708ec5bbddb6c46abcf",
-        "subject": "chore(main): release 2.70.7 (#6172)",
-        "at": "2026-10-21T12:20:53+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0cbfe73d051a0534479c90af153931a42c9fb402",
-        "subject": "fix: render with compose-preview-daemon 3.21.4 (#6177)",
-        "at": "2026-10-21T12:15:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8f2ee829b70070cd87d557e4ecef9c745fa0776f",
-        "subject": "perf: pass buildArgs' Starlark language flags to bazel query (#6176)",
-        "at": "2026-10-21T11:38:42+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f9bd2a49b6280c4ee04207a3dd5c4c1c027c8c56",
-        "subject": "ci: explain the Module Unit Tests scope in the job summary (#6174)",
-        "at": "2026-10-21T11:21:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ec74bb579a067ab6459442e00e5fc0c7c987afb5",
-        "subject": "refactor: build each module's OkHttp clients from one shared client (#6173)",
-        "at": "2026-10-21T09:47:11+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "94c6711c458579bfb8bf2e83f99875f2a5eb5f9b",
-        "subject": "fix: refuse certificates from the CVE-2026-111943 CAs (#6171)",
-        "at": "2026-10-21T09:03:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "92224ba420205b8c884600333328a66e237289a7",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.70.6 (#6170)",
-        "at": "2026-10-21T02:59:56Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c9d477ed1164edad54ead0affada332d6930f64a",
-        "subject": "chore(main): release 2.70.6 (#6169)",
-        "at": "2026-10-20T22:28:42+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c7fca0f4260464e49e3c0135bf784ea4044fb055",
-        "subject": "perf: build a Bazel target's own jars first and skip one with no Preview (#6167)",
-        "at": "2026-10-20T22:21:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f7546f4d9bea11cb603739120d358dfa3751636a",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.70.5 (#6168)",
-        "at": "2026-10-20T20:38:38Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "92237031c31214eaa4f1aed9d40d392af3fa8313",
-        "subject": "chore(main): release 2.70.5 (#6165)",
-        "at": "2026-10-20T20:53:18+01:00",
         "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
