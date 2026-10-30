@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "fc5a00ae2be94c0d9c16da31a14daf8594e751bf",
+    "generatedFrom": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -6609,6 +6609,13 @@
             "path": "renders/samples:remotecompose/activity__MainActivity.png",
             "versions": [
                 {
+                    "blob": "c05a71d37d6fae4d1ad0771ef313386a1d6cb51d",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
+                {
                     "blob": "4b3f25f1a9117b7c1b79e8111026b546b7abbaf9",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
@@ -6616,7 +6623,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -6669,6 +6676,13 @@
             "path": "renders/samples:remotecompose/RemoteButtonEnabledPreview-23dedf54.png",
             "versions": [
                 {
+                    "blob": "514f291f48aa96f827bf3b41715758d8eca35668",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
+                {
                     "blob": "bef7f3897190471aef8d4d97a4793acb60de0c0d",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
@@ -6676,13 +6690,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithBorderPreview": {
             "path": "renders/samples:remotecompose/RemoteButtonWithBorderPreview-298b3408.png",
             "versions": [
+                {
+                    "blob": "5b67b63186958ca7f748dde56809f004683d3661",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
                 {
                     "blob": "4d580c6f3ac28cc028ab4cdd6bc305845cc7cecc",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
@@ -6691,13 +6712,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithNamedLabelPreview": {
             "path": "renders/samples:remotecompose/RemoteButtonWithNamedLabelPreview-f3014b8f.png",
             "versions": [
+                {
+                    "blob": "e7beec8c68a58498e0f02d8edfda61b02f35cf9f",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
                 {
                     "blob": "78486f511ada35d65ae8c04cf4e273c391140557",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
@@ -6706,13 +6734,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithShapePreview": {
             "path": "renders/samples:remotecompose/RemoteButtonWithShapePreview-3935d3f3.png",
             "versions": [
+                {
+                    "blob": "1b3c2075948006d8c71964b877138d700a2d3138",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
                 {
                     "blob": "1881a3edc8ef83134442b247ec4dbe14c4b7c9e4",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
@@ -6721,7 +6756,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -6834,6 +6869,13 @@
             "path": "renders/samples:remotecompose/RemoteTexturedCubeInteractionPreview-73417cf7.gif",
             "versions": [
                 {
+                    "blob": "79c212d07c1675155473e634a375cf4af9ae2bba",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
+                {
                     "blob": "fd6badc20172944cfd583e8fff835e3772bcd676",
                     "commit": "fc5a00ae2be94c0d9c16da31a14daf8594e751bf",
                     "date": "2026-10-29T19:31:03Z",
@@ -6841,7 +6883,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -6894,6 +6936,13 @@
             "path": "renders/samples:remotecompose/shapecatalog__Remote_theme.png",
             "versions": [
                 {
+                    "blob": "c0202cb7c1c4ee9a3445eb47e7cba7fca4c09495",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
+                {
                     "blob": "67f1c45b3ed14ac10a15af373b049d6349f764b2",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
@@ -6901,7 +6950,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -7014,6 +7063,13 @@
             "path": "renders/samples:wear-widget/ActivitySummaryWidgetRectangularPreview_Rectangular_Preview-860a1011.png",
             "versions": [
                 {
+                    "blob": "e66b7fdff435645535330a8fabb409fab87c6d6d",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
+                {
                     "blob": "a976472a67e1447cec591468fed2bf058ec4f7ee",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
                     "date": "2026-10-19T11:53:40Z",
@@ -7021,13 +7077,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:wear-widget/com.example.wearwidget.ActivitySummaryWidgetKt.ActivitySummaryWidgetRoundPreview_Round Preview": {
             "path": "renders/samples:wear-widget/ActivitySummaryWidgetRoundPreview_Round_Preview-55cf0f7d.png",
             "versions": [
+                {
+                    "blob": "8f9a3f69ce8a252d1308bf894fc313f613812ea6",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
                 {
                     "blob": "09442f951ffa9393ab729c1a6bd9da1b9c394631",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
@@ -7036,13 +7099,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:wear-widget/com.example.wearwidget.ActivitySummaryWidgetKt.ActivitySummaryWidgetSquirclePreview_Squircle Preview": {
             "path": "renders/samples:wear-widget/ActivitySummaryWidgetSquirclePreview_Squircle_Preview-a0071b12.png",
             "versions": [
+                {
+                    "blob": "e4505e7747359c40afee6b957688403befbe0eaf",
+                    "commit": "d37a8aef8c93365a3de97e61b06145e8d7be19db",
+                    "date": "2026-10-30T00:19:07Z",
+                    "sourceSha": "9b08a4bc",
+                    "commits": 1
+                },
                 {
                     "blob": "6b0d8547a38bef968c77efaefdac2cf14a609167",
                     "commit": "4bac647dde8e8c34a0be72ee73ad6254eab72987",
@@ -7051,7 +7121,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
