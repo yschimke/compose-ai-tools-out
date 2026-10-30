@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-30T00:12:09.934Z",
+  "generatedAt": "2026-10-30T07:19:12.894Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "dceb10c8105afdeaf896e0b805fa27f13e1e11e2",
+        "subject": "build(deps): bump the actions-minor group with 9 updates (#6266)",
+        "at": "2026-10-30T07:12:14Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e251f653581030dd04ca9eb7f81311c6a35c7dc4",
+        "subject": "feat(cli): resize, foldable postures, rotation and device state in the simulator (#6270)",
+        "at": "2026-10-30T06:46:21Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "96fc317a27f16efa3839d1611e73209f5a13cce3",
+        "subject": "fix: retain callable authoring components in IR catalog bundles (#6085)",
+        "at": "2026-10-30T00:57:07Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6151335a4191e2e150ff0240b5528bb6d5dc42fa",
+        "subject": "feat(cli): a `permissions` command to deny runtime permissions in the simulator (#6265)",
+        "at": "2026-10-30T00:31:09Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "66d22f062acf28d0837926e306805cbff36245bb",
+        "subject": "build(deps): bump bazel-contrib/setup-bazel from 8cb04a772ab4c1eb984e9c1b493a182e96c5e425 to c5acdfb288317d0b5c0bbd7a396a3dc868bb0f86 (#6101)",
+        "at": "2026-10-30T00:28:05Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9b08a4bc585ca87be632a02b5b3cee17249b09f0",
         "subject": "fix(deps): update rc-players to 2.21.0 and compose-preview-daemon to 3.27.0 (#6264)",
@@ -443,46 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.72.1 (#6199)",
         "at": "2026-10-23T15:57:53Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c82c1564907ae1a06aaa003d971de4e382e22028",
-        "subject": "chore(main): release 2.72.1 (#6195)",
-        "at": "2026-10-23T12:53:26+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "efd7ace3e973c720bac3812a39b0372f33f52fdd",
-        "subject": "fix: watch each Bazel source's package, not its directory (#6197)",
-        "at": "2026-10-23T12:45:59+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1c2d4b065b9b75ba548c175a3ec913bdc3988ec3",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.72.0 (#6196)",
-        "at": "2026-10-23T11:29:01Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1528b4af0dfe06393608e665ee0215708748ca86",
-        "subject": "fix: publish sourceWatch from Bazel and Buck2 prepare (#6194)",
-        "at": "2026-10-23T12:26:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "321ce7a3f6238c56944ee2052d421011d62a5a7d",
-        "subject": "chore(main): release 2.72.0 (#6190)",
-        "at": "2026-10-23T08:44:37+01:00",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
