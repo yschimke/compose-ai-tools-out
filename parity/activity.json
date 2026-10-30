@@ -1,11 +1,187 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-30T19:30:18.260Z",
+  "generatedAt": "2026-10-30T23:12:41.405Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "ba239f0bc5f480188b7650a3bba8013113a68a1f",
+        "subject": "fix(cli): follow the log for adb logcat and Android Studio's Logcat window (#6334)",
+        "at": "2026-10-30T23:03:28Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e1b82974248d4f50426bf7da3b72ce7785f21421",
+        "subject": "chore(main): release 2.77.0 (#6315)",
+        "at": "2026-10-30T22:51:15Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9beba99fca62fc3d1625a834e8cbae0d8c862c37",
+        "subject": "fix(cli): Android Studio's Device Settings, Rotate and volume buttons on --adb (#6333)",
+        "at": "2026-10-30T22:47:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "541dba8482e6e87128edd3957d0ef3b66dc8ce8f",
+        "subject": "feat(cli): describe a launch as devices and their apps (--app device:apk) (#6332)",
+        "at": "2026-10-30T22:24:54Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7f34623f256265d5137e2dfc9dc1128288954fe1",
+        "subject": "feat(simulator): media player and picture-in-picture on the phone (#6331)",
+        "at": "2026-10-30T22:20:35Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4bb4ad21e80bfe2b67068750773677488d2f8e37",
+        "subject": "feat(simulator): phone status bar and notification shade (#6330)",
+        "at": "2026-10-30T22:08:31Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7755999b4df4422b4e1a81db8b8b729b46698a76",
+        "subject": "feat(cli): run several apps on one simulated device, with cross-app App Functions calls (#6329)",
+        "at": "2026-10-30T21:55:25Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6ff1b7e97587d34c4ede3b3ca5acacd05bd1062d",
+        "subject": "feat(cli): App Actions, in-memory AppSearch, and App Functions in the simulator (#6326)",
+        "at": "2026-10-30T21:40:22Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1c743472bf235f52e6ca87e9a93c2dfe510adb10",
+        "subject": "fix(cli): keep the simulated storage root and tree paths safe, and keep picker requests answerable (#6323)",
+        "at": "2026-10-30T21:32:38Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0b81ad5614e207194f15fecfbcb038de51e277a9",
+        "subject": "feat(cli): answer biometric, voice-input and Credential Manager prompts, and provide AndroidKeyStore in the simulator (#6322)",
+        "at": "2026-10-30T21:31:17Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9ba9edefab2ab00b4772e6808c9c505af9de15ca",
+        "subject": "feat(simulator): edge-swipe Back gesture with predictive back progress (#6327)",
+        "at": "2026-10-30T21:26:41Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "53f574e605207701ece36a6fc1706884a7451c70",
+        "subject": "feat(cli): fire alarms, run jobs and downloads, and check foreground-service deadlines in the simulator (#6321)",
+        "at": "2026-10-30T21:25:38Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2affe0cc6e3394dba1276d30d6d802786a97f2b8",
+        "subject": "fix(cli): keep the simulator's picture when its window shrinks, and let it go behind other windows (#6328)",
+        "at": "2026-10-30T21:21:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "71c4def34b7a61351a055125b67e2c0036f91652",
+        "subject": "fix(cli): make the launch --adb device work beside an emulator and in Android Studio (#6325)",
+        "at": "2026-10-30T20:57:40Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "52b965740bde440eef8a732b6eabc81ea418db0f",
+        "subject": "fix(cli): start the simulator window fitted with room to spare, and keep it on screen (#6324)",
+        "at": "2026-10-30T20:56:20Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "88be85e79d8d78e8b0f8977e20065e06bc8957f0",
+        "subject": "feat(cli): answer document, photo and camera pickers and share-sheet handoffs in the simulator (#6319)",
+        "at": "2026-10-30T20:43:55Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "eae0460da6ba1ff165b7fdff50c017a6831233fc",
+        "subject": "fix(cli): fetch android-all from Google's Maven Central mirror before Central (#6318)",
+        "at": "2026-10-30T20:43:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "845c10a26c00e6d04eb626a93c347c226f3e3b84",
+        "subject": "feat(cli): zoom and resize the simulator window (#6320)",
+        "at": "2026-10-30T20:39:28Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ff1432c3f1c520fab3badd1bd6c5c1ffa5532b92",
+        "subject": "fix(cli): keep macOS's look and feel out of the simulator sandbox (#6317)",
+        "at": "2026-10-30T20:07:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "07c3bcfa4517b4eddef7f3ba3432a23e6004be3d",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.76.0 (#6316)",
+        "at": "2026-10-30T20:03:58Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b448f0b69a92614f3d179ae914ce88e120c02fb0",
+        "subject": "feat(cli): announce the launch --adb device on the control channel (#6313)",
+        "at": "2026-10-30T20:02:51Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c8dd62d6723b9ac9ef3448303a8fd7e8974c6b72",
+        "subject": "feat(simulator): honour manifest launch modes, and test saved state through kill, recreate and savedState (#6314)",
+        "at": "2026-10-30T20:02:32Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6973dcaeae6e177d77cbbc09fd141287123f15ef",
         "subject": "chore(main): release 2.76.0 (#6279)",
@@ -306,182 +482,6 @@
         "sha": "05aaa5aa66e9d593016c0e9486e2fbe3c3fc1f5f",
         "subject": "fix(cli): simulator activities launch on the caller's display (#6276)",
         "at": "2026-10-30T09:53:26Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cdb9d7c5c4aefc98da6350d04ddbeddad941390c",
-        "subject": "feat(cli): pair a phone and a Wear OS APK over a simulated Data Layer (#6269)",
-        "at": "2026-10-30T09:40:45Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7a08b02bf490058f2fe0e139525cd4484474715f",
-        "subject": "docs: handover briefs for a Wear system UI and a phone launcher with widgets (#6275)",
-        "at": "2026-10-30T09:07:35Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5dfea74cc249c9bb49c4eda2f9dbc05fa51d0ce8",
-        "subject": "feat(cli): multiple displays in the simulator (#6274)",
-        "at": "2026-10-30T09:02:15Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8859d17831950c219bd3a3eeb8b064b1b0414481",
-        "subject": "feat(cli): launch Wear OS, Glimmer and Android XR apps on their own displays (#6271)",
-        "at": "2026-10-30T08:10:46Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dd3008f1c665da36b5ee9b843febefeb7bb7f3cb",
-        "subject": "feat(cli): adb equivalents for the simulator's control channel (#6268)",
-        "at": "2026-10-30T07:54:58Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dceb10c8105afdeaf896e0b805fa27f13e1e11e2",
-        "subject": "build(deps): bump the actions-minor group with 9 updates (#6266)",
-        "at": "2026-10-30T07:12:14Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e251f653581030dd04ca9eb7f81311c6a35c7dc4",
-        "subject": "feat(cli): resize, foldable postures, rotation and device state in the simulator (#6270)",
-        "at": "2026-10-30T06:46:21Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "96fc317a27f16efa3839d1611e73209f5a13cce3",
-        "subject": "fix: retain callable authoring components in IR catalog bundles (#6085)",
-        "at": "2026-10-30T00:57:07Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6151335a4191e2e150ff0240b5528bb6d5dc42fa",
-        "subject": "feat(cli): a `permissions` command to deny runtime permissions in the simulator (#6265)",
-        "at": "2026-10-30T00:31:09Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "66d22f062acf28d0837926e306805cbff36245bb",
-        "subject": "build(deps): bump bazel-contrib/setup-bazel from 8cb04a772ab4c1eb984e9c1b493a182e96c5e425 to c5acdfb288317d0b5c0bbd7a396a3dc868bb0f86 (#6101)",
-        "at": "2026-10-30T00:28:05Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9b08a4bc585ca87be632a02b5b3cee17249b09f0",
-        "subject": "fix(deps): update rc-players to 2.21.0 and compose-preview-daemon to 3.27.0 (#6264)",
-        "at": "2026-10-30T00:01:44Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c61274ca0de0b0da76caa8934044b8c41e47d11",
-        "subject": "fix(cli): deliver permission results to the requester and start with Bluetooth on (#6263)",
-        "at": "2026-10-29T23:32:31Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3bd983cc2b77854262b53c469fbb7d0261123f2e",
-        "subject": "fix(cli): grant permission requests and walk real views inside Compose hierarchies (#6262)",
-        "at": "2026-10-29T23:19:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bab02ed2f2f43409854f6134c6f204ffe7fea3e0",
-        "subject": "test(apply): cover the pre-push hook and clean-filter handoff plants (#6261)",
-        "at": "2026-10-29T21:45:04Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7d927569fd2f97bfa731da6a80b3c8233f22cf7b",
-        "subject": "ci(apply): refuse a planted .git and an unbound pr-number in the publish handoff (#6260)",
-        "at": "2026-10-29T21:16:37Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "043b596772b41091fac1d8883f9ce8e035583b92",
-        "subject": "fix(gradle-plugin): find renderer classes from a substituted daemon build (#6259)",
-        "at": "2026-10-29T20:23:34Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "443a42a12bba2fe84f5a8cca9c49e980fed91a66",
-        "subject": "fix(cli): build providers through the app's factory and connect binds by component (#6258)",
-        "at": "2026-10-29T20:19:24Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "af8ddabe9ed1eb70853c0a5f689761577ca096a5",
-        "subject": "test(samples): guard the Remote Compose cubes against the player update (#6257)",
-        "at": "2026-10-29T20:18:32Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "52132753a52d3859d0aa3df9f418ac3a00c4f5ba",
-        "subject": "docs(samples): a textured Remote Compose cube you tap to turn and re-texture (#6256)",
-        "at": "2026-10-29T18:57:54Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "42a581f64de8e683cd3708b68ec45d5fda425d42",
-        "subject": "docs(samples): spin the Remote Compose cube on the document clock (#6255)",
-        "at": "2026-10-29T18:33:18Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c405b5ac5b5baf1e5a9d9b425b1c8716de5b5509",
-        "subject": "docs(xr): composite of a Remote Compose doc projected onto a wall (#6253)",
-        "at": "2026-10-29T18:19:06Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4a0054302f82c78cec1f2fbcc36635b3009d9aef",
-        "subject": "fix(cli): launch alias launchers and factory-built components in the simulator (#6254)",
-        "at": "2026-10-29T18:15:10Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
