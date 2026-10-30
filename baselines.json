@@ -231,6 +231,22 @@
     "sha256": "6858b57128316046c43ce22a106bdb5f5686ee3c37095e9025e9c550b1ebedcf",
     "sourceFile": null
   },
+  "samples:android/activity__PinRequestActivity": {
+    "captureLabel": "",
+    "functionName": "PinRequestActivity",
+    "module": "samples:android",
+    "renderBasename": "activity__PinRequestActivity.png",
+    "sha256": "29e176382e489c983aeb08f901d6d5009c4ecf71bc84b088c3a8ecc19cdbe79c",
+    "sourceFile": null
+  },
+  "samples:android/activity__TaskListConfigureActivity": {
+    "captureLabel": "",
+    "functionName": "TaskListConfigureActivity",
+    "module": "samples:android",
+    "renderBasename": "activity__TaskListConfigureActivity.png",
+    "sha256": "2c0453eceb12c16911a8c745fd251125a2b6b75f62c1c47104347d387f43fa73",
+    "sourceFile": null
+  },
   "samples:android/apptour__getting-started": {
     "captureLabel": "",
     "functionName": "getting-started",
