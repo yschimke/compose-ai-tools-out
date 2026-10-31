@@ -1,11 +1,67 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-31T16:16:10.585Z",
+  "generatedAt": "2026-10-31T18:35:40.801Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "0f5f5cd98d20ac6f64f936fff53ed19988a4f24c",
+        "subject": "chore(main): release 2.79.2 (#6372)",
+        "at": "2026-10-31T18:20:55Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a8835b415890f35a293b4e34bb787ba5ab18107d",
+        "subject": "fix(simulator): answer a restarting reload or restart once the screen is still (#6371)",
+        "at": "2026-10-31T18:17:13Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "858f4d214935a795f46bf6d689c281f1a62076cc",
+        "subject": "fix(cli): end orphaned serve servers and build hosts when their parent exits (#6370)",
+        "at": "2026-10-31T18:17:09Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8f60f2f04dd23862d11485acef96285ce17c4a4e",
+        "subject": "fix(cli): add the init script's repositories after other init scripts, once per host (#6369)",
+        "at": "2026-10-31T18:17:06Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2c93e3de9045c835dd022a615918bd670a109b1b",
+        "subject": "fix(cli): only blame the publication window for a version that is actually new (#6367)",
+        "at": "2026-10-31T18:17:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bf1ef472914e56a2ad513254a2bb7ab8b0bc38b6",
+        "subject": "fix(cli): drop the duplicate Claude user entry when the compose-preview plugin serves it (#6366)",
+        "at": "2026-10-31T18:16:59Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d237c41367ed75f3165877484614f013c373af35",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.79.1 (#6368)",
+        "at": "2026-10-31T16:38:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "56d5749780460115bdea0384dd4e823048a9efa3",
         "subject": "chore(main): release 2.79.1 (#6358)",
@@ -426,62 +482,6 @@
         "sha": "98ff3635d35f37db5ec658b05394b7dc61a0c2ba",
         "subject": "fix(cli): ask about XR tracking and local-network permissions instead of granting them at install (#6309)",
         "at": "2026-10-30T18:04:05Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5531737277c7542504042b5d1351e3b4d9ff6b5c",
-        "subject": "fix(cli): apply associate()'s device filters to the simulator's Bluetooth candidates (#6304)",
-        "at": "2026-10-30T17:49:47Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "83d00ff9d4ae3dcaab412121a45f1e0b9056c007",
-        "subject": "feat(cli): run the simulator as a device adb and Android Studio see (launch --adb) (#6300)",
-        "at": "2026-10-30T17:48:52Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fab11008900ee28cfd73a88d5430d081f047de70",
-        "subject": "fix(deps): update dependency com.google.android.gms:play-services-tasks to v18.4.1 (#6305)",
-        "at": "2026-10-30T17:20:03Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6d75598705f1a7161e3b6eb298da1fe226911f81",
-        "subject": "fix(simulator): route Back through OnBackInvokedCallback for opted-in windows (#6303)",
-        "at": "2026-10-30T17:13:08Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4ca0e03e6ce509b01b0a2c490cee28251c3d7956",
-        "subject": "fix(deps): update dependency com.google.android.gms:play-services-basement to v18.12.0 (#6306)",
-        "at": "2026-10-30T17:11:31Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0b2f59c502ca2291416788ea5dc5894a5de38a7c",
-        "subject": "feat(cli): ChannelClient and main-looper task completion in the simulated Data Layer (#6298)",
-        "at": "2026-10-30T16:59:22Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "116fcc22cee7d4250d95cbc406ee3e27e9cefaf6",
-        "subject": "feat(cli): answer runtime permission requests as a device's permission controller does (#6299)",
-        "at": "2026-10-30T16:41:14Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
