@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-31T10:45:55.860Z",
+  "generatedAt": "2026-10-31T16:16:10.585Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "56d5749780460115bdea0384dd4e823048a9efa3",
+        "subject": "chore(main): release 2.79.1 (#6358)",
+        "at": "2026-10-31T15:56:54Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1a449c06ecc614048a1e27303a39dd67b0a3d975",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.79.0 (#6365)",
+        "at": "2026-10-31T15:18:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cf1180e6fa19a9b464e8665bdfcc69a0bf30d7a5",
+        "subject": "fix(cli): mcp serve replaces a cached MCP server older than the one this CLI pairs with (#6359)",
+        "at": "2026-10-31T15:17:11Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2e70ee15a4d9a80053ab34e14aee278c371186c3",
+        "subject": "fix(simulator): shadow Wear SDK haptics (#6357)",
+        "at": "2026-10-31T15:00:59Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a0ac6dbbd4a00d9226790a5ba7e3449e8912de9c",
         "subject": "chore(main): release 2.79.0 (#6355)",
@@ -450,38 +482,6 @@
         "sha": "116fcc22cee7d4250d95cbc406ee3e27e9cefaf6",
         "subject": "feat(cli): answer runtime permission requests as a device's permission controller does (#6299)",
         "at": "2026-10-30T16:41:14Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8145c8667d1694f52ba04668e0905c3d0b85a2fb",
-        "subject": "feat(cli): CompanionDeviceManager associations and live remote-interaction status in the simulator (#6302)",
-        "at": "2026-10-30T16:40:06Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2b014e7ed594a8a9bfc0334d9eee8794117d079b",
-        "subject": "docs(cli): launch brings a running app's task forward (#6301)",
-        "at": "2026-10-30T16:19:11Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d824fccde5535716bb3e8ad28cbe1455c3344b9c",
-        "subject": "perf(cli): reconvert only the classes a rebuilt APK changed, and prune the conversion cache (#6297)",
-        "at": "2026-10-30T16:09:59Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c630d1aa99a9868b2aa7f5b7a4666cb01cc8c301",
-        "subject": "feat(cli): Google Play services availability in the simulator (#6295)",
-        "at": "2026-10-30T16:09:48Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
