@@ -1,11 +1,147 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-30T23:12:41.405Z",
+  "generatedAt": "2026-10-31T08:10:43.718Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "84f5ee2dd1764f91772fbcfd7876515b8f9da327",
+        "subject": "chore(main): release 2.78.0 (#6336)",
+        "at": "2026-10-31T07:53:08Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ebc67c5d12999ecd04f307b24b51db40ad0adfc7",
+        "subject": "feat(simulator): hot-swap composable edits into the running app on reload (#6353)",
+        "at": "2026-10-31T07:13:20Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "743b8c6341fedf5ba94bb1857ce914d61c212d99",
+        "subject": "feat(simulator): one clipboard and one set of settings for a device's apps (#6350)",
+        "at": "2026-10-31T01:19:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fe129c7e74d5c05d993e1b5957b72ae1975e71fc",
+        "subject": "feat(simulator): write to another app's provider files, its change notifications and URI grants (#6348)",
+        "at": "2026-10-31T01:16:00Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3319f38f23c58a914a2dcfa1bddcb2fcd488ea40",
+        "subject": "feat(simulator): return an activity's result to the device's app that started it (#6345)",
+        "at": "2026-10-31T01:09:48Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b26f62f3d1588830d965da676c88a85851dc6b7f",
+        "subject": "fix(cli): launch finds the Android SDK from --project or the APK, not only the working directory (#6352)",
+        "at": "2026-10-31T01:08:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3f9bed2d80eb04a93db3f9327d5df3b2324fee31",
+        "subject": "feat(simulator): ordered and sticky broadcasts across a device's apps, and RECEIVER_NOT_EXPORTED (#6347)",
+        "at": "2026-10-31T01:07:00Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ebbb21fff2a9df15d0467cd571bfb8a9c4b723a3",
+        "subject": "fix(simulator): a split screen's screenshot shows the other app's half black while its screen is off (#6351)",
+        "at": "2026-10-31T01:00:21Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7c003e803a3c9e2e369b8637f5114910b6dc4c5a",
+        "subject": "feat(simulator): start, stop and bind another of the device's apps' services (#6349)",
+        "at": "2026-10-31T00:50:53Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6c880d2c4d7e02a7a2c12ce69fd82e2ff0a7d00f",
+        "subject": "feat(simulator): show the device's other apps with their own launcher icons (#6344)",
+        "at": "2026-10-31T00:41:39Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "280ef4a260d26db6dd144c158aa2cff1b64f5137",
+        "subject": "feat(simulator): screenshot a split screen whole, both apps' halves in their places (#6346)",
+        "at": "2026-10-31T00:15:29Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ddb6665b25477e56516d76c40e4b0a0290b81839",
+        "subject": "feat(simulator): share broadcasts, content providers and /sdcard between a device's apps (#6343)",
+        "at": "2026-10-31T00:07:16Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "37889aaa05443fc14c573bf4d28cad8c5294815b",
+        "subject": "feat(simulator): split screen between two of a device's apps, along a foldable's fold (#6340)",
+        "at": "2026-10-30T23:36:15Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a4b60a5076ba9d44f6c5ff189d493dcd96d8269e",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.77.0 (#6339)",
+        "at": "2026-10-30T23:20:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "71dfadf0541715ee1dd90a92c2d9cdfc410505ed",
+        "subject": "feat(simulator): switch the device's screen between its apps (home screen, startActivity, foreground) (#6338)",
+        "at": "2026-10-30T23:17:59Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7c40705db5248682c006ab8129b4cd794baaa0b0",
+        "subject": "fix(cli): boot launch --adb app.apk once, on the app (#6335)",
+        "at": "2026-10-30T23:15:35Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5e47fad3fd9c009f2d9c27617fb7815f32383f33",
+        "subject": "chore(samples): the Android sample's screens follow the system's dark theme (#6337)",
+        "at": "2026-10-30T23:15:17Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ba239f0bc5f480188b7650a3bba8013113a68a1f",
         "subject": "fix(cli): follow the log for adb logcat and Android Studio's Logcat window (#6334)",
@@ -346,142 +482,6 @@
         "sha": "c6d41b19c8fd76fe31d182e6f54d326be95b9d70",
         "subject": "feat(cli): prefix each paired simulator's log lines with its device (#6293)",
         "at": "2026-10-30T15:12:44Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "304e008298937bc40c5cb9c833aec57694ee0b13",
-        "subject": "build(deps): bump bazel-contrib/setup-bazel from 0.19.0 to 0.19.1 in the actions-minor group (#6282)",
-        "at": "2026-10-30T14:48:57Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3074a9852bc207ebce7f9ca6cb42a1a9a15f802d",
-        "subject": "fix(cli): Horologist's app helper flows in the paired simulator (#6292)",
-        "at": "2026-10-30T14:48:36Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b7e9791f009ada7148cdcc8a8dbaad896a03706a",
-        "subject": "fix(cli): simulator home screen faults found on Home Assistant and Cadence (#6287)",
-        "at": "2026-10-30T14:47:37Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "df601f0760f027daa710c6f94557c75a4c6fc2a7",
-        "subject": "feat(cli): render previews in Android Lightbuild projects (#6285)",
-        "at": "2026-10-30T14:46:10Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b5e61ca9d13476505d05216cced2ac8b313fe97b",
-        "subject": "fix(cli): draw Wear Widgets as their host containers, without a card (#6284)",
-        "at": "2026-10-30T14:45:52Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "073f09cced2b510a7da61885ce2621549dbb87aa",
-        "subject": "fix(cli): deliver wrist tilt before waking (#6291)",
-        "at": "2026-10-30T13:43:09Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "136ee2a6890522400489487d028b5dbcbb8dffd8",
-        "subject": "feat(cli): Wear ambient mode, screen power and tilt-to-wake in the simulator (#6290)",
-        "at": "2026-10-30T13:30:17Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5e988d0440b837d641f7d0826f9d84365025e662",
-        "subject": "feat(cli): an agent-played Wearable Data Layer peer for a single app (--data-layer agent) (#6288)",
-        "at": "2026-10-30T12:49:47Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3722f288624340077f3c18515d0801ced83ce3c5",
-        "subject": "fix(cli): Bluetooth off when launched in airplane mode; GATT notify only to subscribers (#6289)",
-        "at": "2026-10-30T12:41:44Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "da5a68708273ee7e91e5aed019c7575213505ff3",
-        "subject": "feat(cli): network, Wi-Fi and Bluetooth modes in the simulator (#6286)",
-        "at": "2026-10-30T12:16:32Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b57c05578792bab503d0a193643486ecd7b63c07",
-        "subject": "fix(cli): Wear remote interactions and Horologist work across the paired simulator (#6283)",
-        "at": "2026-10-30T11:39:26Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e5c217a010bb2c9c5dfee0a7818047125c589b88",
-        "subject": "feat(cli): a Wear OS system UI for the simulator, with tiles, widgets and health data (#6281)",
-        "at": "2026-10-30T11:30:37Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a10455c1705d8753cc2fbe94bd78712444b90f1c",
-        "subject": "feat(cli): a home screen with app widgets for the simulator (#6280)",
-        "at": "2026-10-30T11:06:02Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5e3f98d63f3ea8068a25e41f45009a696f51f538",
-        "subject": "fix(deps): update dependency org.jetbrains.skiko:skiko-awt to v0.156.0 (#6278)",
-        "at": "2026-10-30T10:16:16Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c7792c0280f865e23b93a383173ceee32ddc4bb3",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.75.0 (#6277)",
-        "at": "2026-10-30T10:06:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "15d333fc5316ad55ef998ee4aa64c49e8748b13f",
-        "subject": "chore(main): release 2.75.0 (#6237)",
-        "at": "2026-10-30T10:03:49Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "05aaa5aa66e9d593016c0e9486e2fbe3c3fc1f5f",
-        "subject": "fix(cli): simulator activities launch on the caller's display (#6276)",
-        "at": "2026-10-30T09:53:26Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
