@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-31T08:10:43.718Z",
+  "generatedAt": "2026-10-31T10:45:55.860Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "a0ac6dbbd4a00d9226790a5ba7e3449e8912de9c",
+        "subject": "chore(main): release 2.79.0 (#6355)",
+        "at": "2026-10-31T10:10:23Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a9094eede9c01a253de036a770c7519909fcd4f1",
+        "subject": "feat(simulator): reload {compile:false} takes classes the preview daemon already compiled (#6356)",
+        "at": "2026-10-31T09:23:35Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6bdf11c7527d19d398fc9f20848caf9ac7e73408",
+        "subject": "fix(gradle-plugin): give the daemon's in-process compile the module's own compiler plugins (#6354)",
+        "at": "2026-10-31T08:10:58Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "84f5ee2dd1764f91772fbcfd7876515b8f9da327",
         "subject": "chore(main): release 2.78.0 (#6336)",
@@ -458,30 +482,6 @@
         "sha": "c630d1aa99a9868b2aa7f5b7a4666cb01cc8c301",
         "subject": "feat(cli): Google Play services availability in the simulator (#6295)",
         "at": "2026-10-30T16:09:48Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9c11d25e601bcf68b87d30acc80aa5dd117eebf6",
-        "subject": "perf(cli): cut the simulator's memory: stream APK conversion, cap heaps, collect idle graphics (#6296)",
-        "at": "2026-10-30T16:02:19Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "469b424e1105e714eb441b901c9ef86987db8bdf",
-        "subject": "fix(cli): provision android-all per artifact before launch (#6294)",
-        "at": "2026-10-30T15:25:24Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c6d41b19c8fd76fe31d182e6f54d326be95b9d70",
-        "subject": "feat(cli): prefix each paired simulator's log lines with its device (#6293)",
-        "at": "2026-10-30T15:12:44Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
