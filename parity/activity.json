@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-01T18:39:35.359Z",
+  "generatedAt": "2026-11-01T20:03:38.852Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "77ccef39d186a933b1d3e7ce6f6fa6ded849e096",
+        "subject": "chore(main): release 2.84.0 (#6398)",
+        "at": "2026-11-01T19:39:26Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2d4d398745d93307e289a366bbe304cb0d838dca",
+        "subject": "feat(ci): reusable Preview Audit workflow for consumers (#6397)",
+        "at": "2026-11-01T19:35:29Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c1518d37e001cf968b952f07b60c9648ec53a475",
+        "subject": "feat(ci): reusable release-to-release preview diff for consumers (#6395)",
+        "at": "2026-11-01T19:11:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ed7f4cc64b8b29867320c037d80fdca57032f31a",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.83.0 (#6396)",
+        "at": "2026-11-01T18:39:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4add2a0bdba275df8134ec5805d61dc9ddc57760",
         "subject": "chore(main): release 2.83.0 (#6394)",
@@ -450,38 +482,6 @@
         "sha": "9beba99fca62fc3d1625a834e8cbae0d8c862c37",
         "subject": "fix(cli): Android Studio's Device Settings, Rotate and volume buttons on --adb (#6333)",
         "at": "2026-10-30T22:47:34Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "541dba8482e6e87128edd3957d0ef3b66dc8ce8f",
-        "subject": "feat(cli): describe a launch as devices and their apps (--app device:apk) (#6332)",
-        "at": "2026-10-30T22:24:54Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7f34623f256265d5137e2dfc9dc1128288954fe1",
-        "subject": "feat(simulator): media player and picture-in-picture on the phone (#6331)",
-        "at": "2026-10-30T22:20:35Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4bb4ad21e80bfe2b67068750773677488d2f8e37",
-        "subject": "feat(simulator): phone status bar and notification shade (#6330)",
-        "at": "2026-10-30T22:08:31Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7755999b4df4422b4e1a81db8b8b729b46698a76",
-        "subject": "feat(cli): run several apps on one simulated device, with cross-app App Functions calls (#6329)",
-        "at": "2026-10-30T21:55:25Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
