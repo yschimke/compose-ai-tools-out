@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-01T11:25:04.319Z",
+  "generatedAt": "2026-11-01T11:47:27.875Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "b729a5a0bb266205e86276d3823f2cd7b4fa98aa",
+        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.22.0 (#6383)",
+        "at": "2026-11-01T11:41:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "faaa555bdfddaef297a4751c2a7295842b9059d6",
         "subject": "chore(ci): update the design-artifacts export driver to v2.80.0 (#6380)",
@@ -474,14 +482,6 @@
         "sha": "b448f0b69a92614f3d179ae914ce88e120c02fb0",
         "subject": "feat(cli): announce the launch --adb device on the control channel (#6313)",
         "at": "2026-10-30T20:02:51Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c8dd62d6723b9ac9ef3448303a8fd7e8974c6b72",
-        "subject": "feat(simulator): honour manifest launch modes, and test saved state through kill, recreate and savedState (#6314)",
-        "at": "2026-10-30T20:02:32Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
