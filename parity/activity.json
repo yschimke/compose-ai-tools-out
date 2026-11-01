@@ -1,11 +1,67 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-01T12:10:33.093Z",
+  "generatedAt": "2026-11-01T17:30:39.769Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c5493247e3b004ef2308d111b72e2d4a72b7bd38",
+        "subject": "chore(main): release 2.82.0 (#6391)",
+        "at": "2026-11-01T17:02:57Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "64d73d02b25e5f40b3f3bcc6dec7e096e4892f29",
+        "subject": "feat(site): build the guide for preview.coo.ee/start (#6389)",
+        "at": "2026-11-01T17:02:19Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "31778e686b0f3a03123b25a579e327461c2cba19",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.2 (#6192)",
+        "at": "2026-11-01T17:01:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6e0d530b98b9d08f21e3d71125458b56b3e8d121",
+        "subject": "feat(guidelines): recheck what Jev is unsure of with a vision model (#6390)",
+        "at": "2026-11-01T15:24:08Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7013b1f20531619a405252d98c1eed6f891e4bb7",
+        "subject": "docs: point every front door at one install (#6387)",
+        "at": "2026-11-01T15:10:25Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bc45e5666533bfa50086bb4916286af5fb9f304b",
+        "subject": "feat(guidelines): show Jev the render, and ask it the visual rules (#6386)",
+        "at": "2026-11-01T14:52:10Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5f659bed6c8cddd93ce34d9edcc7d8ce7fba8253",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.81.0 (#6385)",
+        "at": "2026-11-01T12:25:05Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ec3f2767524a6adf9b20fe31ff09331ae735b88b",
         "subject": "docs(releases): correct the daemon/rc-players cycle and cover Maven-skipped releases (#6384)",
@@ -426,62 +482,6 @@
         "sha": "0b81ad5614e207194f15fecfbcb038de51e277a9",
         "subject": "feat(cli): answer biometric, voice-input and Credential Manager prompts, and provide AndroidKeyStore in the simulator (#6322)",
         "at": "2026-10-30T21:31:17Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9ba9edefab2ab00b4772e6808c9c505af9de15ca",
-        "subject": "feat(simulator): edge-swipe Back gesture with predictive back progress (#6327)",
-        "at": "2026-10-30T21:26:41Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "53f574e605207701ece36a6fc1706884a7451c70",
-        "subject": "feat(cli): fire alarms, run jobs and downloads, and check foreground-service deadlines in the simulator (#6321)",
-        "at": "2026-10-30T21:25:38Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2affe0cc6e3394dba1276d30d6d802786a97f2b8",
-        "subject": "fix(cli): keep the simulator's picture when its window shrinks, and let it go behind other windows (#6328)",
-        "at": "2026-10-30T21:21:34Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "71c4def34b7a61351a055125b67e2c0036f91652",
-        "subject": "fix(cli): make the launch --adb device work beside an emulator and in Android Studio (#6325)",
-        "at": "2026-10-30T20:57:40Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "52b965740bde440eef8a732b6eabc81ea418db0f",
-        "subject": "fix(cli): start the simulator window fitted with room to spare, and keep it on screen (#6324)",
-        "at": "2026-10-30T20:56:20Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "88be85e79d8d78e8b0f8977e20065e06bc8957f0",
-        "subject": "feat(cli): answer document, photo and camera pickers and share-sheet handoffs in the simulator (#6319)",
-        "at": "2026-10-30T20:43:55Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eae0460da6ba1ff165b7fdff50c017a6831233fc",
-        "subject": "fix(cli): fetch android-all from Google's Maven Central mirror before Central (#6318)",
-        "at": "2026-10-30T20:43:02Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
