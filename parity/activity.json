@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-01T17:30:39.769Z",
+  "generatedAt": "2026-11-01T18:39:35.359Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "4add2a0bdba275df8134ec5805d61dc9ddc57760",
+        "subject": "chore(main): release 2.83.0 (#6394)",
+        "at": "2026-11-01T18:21:14Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d492034478ceee0b4e9ce4e4aacd4d4af1a8ecae",
+        "subject": "feat(audit): reusable Jev preview-audit action, and pictures any decisions model reads (#6392)",
+        "at": "2026-11-01T18:06:11Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3c8d1557f64512590e0b6491b638e209769dbe47",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.82.0 (#6393)",
+        "at": "2026-11-01T17:59:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c5493247e3b004ef2308d111b72e2d4a72b7bd38",
         "subject": "chore(main): release 2.82.0 (#6391)",
@@ -458,30 +482,6 @@
         "sha": "7755999b4df4422b4e1a81db8b8b729b46698a76",
         "subject": "feat(cli): run several apps on one simulated device, with cross-app App Functions calls (#6329)",
         "at": "2026-10-30T21:55:25Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6ff1b7e97587d34c4ede3b3ca5acacd05bd1062d",
-        "subject": "feat(cli): App Actions, in-memory AppSearch, and App Functions in the simulator (#6326)",
-        "at": "2026-10-30T21:40:22Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1c743472bf235f52e6ca87e9a93c2dfe510adb10",
-        "subject": "fix(cli): keep the simulated storage root and tree paths safe, and keep picker requests answerable (#6323)",
-        "at": "2026-10-30T21:32:38Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0b81ad5614e207194f15fecfbcb038de51e277a9",
-        "subject": "feat(cli): answer biometric, voice-input and Credential Manager prompts, and provide AndroidKeyStore in the simulator (#6322)",
-        "at": "2026-10-30T21:31:17Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
