@@ -7,7 +7,7 @@
     "ref": "main",
     "module": "samples:design-catalog-wear-m3"
   },
-  "generatedAt": "2026-10-31T18:35:37.503Z",
+  "generatedAt": "2026-11-01T11:25:01.290Z",
   "mappings": [
     {
       "componentId": "Button/Filled",
@@ -645,7 +645,7 @@
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
       ],
-      "figmaSvg": "figma/template-pageindicator-smallround.svg"
+      "figmaSvg": "https://preview.coo.ee/wear-m3/render/template-pageindicator-smallround__ideal__default__smallround.svg"
     },
     {
       "componentId": "Template/PageIndicator/largeRound",
@@ -703,7 +703,7 @@
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
       ],
-      "figmaSvg": "https://preview.coo.ee/wear-m3/render/template-pageindicator-xlround__ideal__default__xlround.svg"
+      "figmaSvg": "figma/template-pageindicator-xlround.svg"
     },
     {
       "componentId": "Progress/Circular",

@@ -1,11 +1,67 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-31T18:35:40.801Z",
+  "generatedAt": "2026-11-01T11:25:04.319Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "faaa555bdfddaef297a4751c2a7295842b9059d6",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.80.0 (#6380)",
+        "at": "2026-11-01T11:12:10Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c3161e9315acf59f97108dec81003b14a80100ac",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.22.0 (#6378)",
+        "at": "2026-11-01T11:02:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ca24bf0ac2247353dc5f0a24c14b5eec200a04d7",
+        "subject": "chore(main): release 2.80.0 (#6374)",
+        "at": "2026-11-01T10:49:14Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "78b97449ecb005c729c2b7e2bd939e768549f5c0",
+        "subject": "fix(deps): update classgraph to 5.0.1 (#6376)",
+        "at": "2026-11-01T10:41:38Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b00bb0ab0607496ff2aa2045ae155fc870fc8720",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.39.1 (#6377)",
+        "at": "2026-11-01T09:52:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "05c8ea61941359f635f5be02796afbc460506fef",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.79.2 (#6375)",
+        "at": "2026-10-31T19:51:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "02da6b02a6c668fc6f1d9740e5b04423249c0fbf",
+        "subject": "feat: answer Android Studio's Wear run configurations and host androidx watch faces (#6373)",
+        "at": "2026-10-31T19:48:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0f5f5cd98d20ac6f64f936fff53ed19988a4f24c",
         "subject": "chore(main): release 2.79.2 (#6372)",
@@ -426,62 +482,6 @@
         "sha": "c8dd62d6723b9ac9ef3448303a8fd7e8974c6b72",
         "subject": "feat(simulator): honour manifest launch modes, and test saved state through kill, recreate and savedState (#6314)",
         "at": "2026-10-30T20:02:32Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6973dcaeae6e177d77cbbc09fd141287123f15ef",
-        "subject": "chore(main): release 2.76.0 (#6279)",
-        "at": "2026-10-30T19:08:49Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a49cef19832dacbd2ae87b3c02cdd8055257c0a1",
-        "subject": "fix(deps): update dependency com.google.protobuf:protobuf-java to v4 (#6311)",
-        "at": "2026-10-30T19:07:41Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "038b988580531537acd98a201efcbedc7e9ef743",
-        "subject": "docs: MeshCore's widget runs on the simulator at API 37 (#6312)",
-        "at": "2026-10-30T18:48:10Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "63d384b388c147ce694a52e25f0ea25afe8829e0",
-        "subject": "feat(cli): live reload a launched app from its Gradle project (#6308)",
-        "at": "2026-10-30T18:22:04Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "83e050bafb619f54b4bbd601ceb626f5b3dcfd64",
-        "subject": "fix(deps): update grpc (#6310)",
-        "at": "2026-10-30T18:09:43Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "57f4b1dd00179029360884c5840666c7e3723359",
-        "subject": "feat(cli): restart and update a launched simulator, with a warm standby JVM (#6307)",
-        "at": "2026-10-30T18:08:45Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "98ff3635d35f37db5ec658b05394b7dc61a0c2ba",
-        "subject": "fix(cli): ask about XR tracking and local-network permissions instead of granting them at install (#6309)",
-        "at": "2026-10-30T18:04:05Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []

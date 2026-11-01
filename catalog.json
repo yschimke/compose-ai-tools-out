@@ -899,15 +899,15 @@
             "role": "button",
             "bounds": {
               "x": 0,
-              "y": 282,
-              "width": 480,
+              "y": 186,
+              "width": 384,
               "height": 192
             }
           },
           "bounds": {
             "x": 0,
-            "y": 282,
-            "width": 480,
+            "y": 186,
+            "width": 384,
             "height": 192
           }
         }
@@ -915,9 +915,9 @@
       "redlines": [
         {
           "bounds": {
-            "x": 26,
-            "y": -14,
-            "width": 428,
+            "x": 20,
+            "y": -110,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -930,9 +930,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 122,
-            "width": 428,
+            "x": 20,
+            "y": 26,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -946,8 +946,8 @@
         {
           "bounds": {
             "x": 0,
-            "y": 282,
-            "width": 480,
+            "y": 186,
+            "width": 384,
             "height": 192
           },
           "role": "Button",
@@ -1086,15 +1086,15 @@
             "role": "button",
             "bounds": {
               "x": 0,
-              "y": 282,
-              "width": 480,
+              "y": 186,
+              "width": 384,
               "height": 192
             }
           },
           "bounds": {
             "x": 0,
-            "y": 282,
-            "width": 480,
+            "y": 186,
+            "width": 384,
             "height": 192
           }
         }
@@ -1102,9 +1102,9 @@
       "redlines": [
         {
           "bounds": {
-            "x": 26,
-            "y": -14,
-            "width": 428,
+            "x": 20,
+            "y": -110,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -1117,9 +1117,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 122,
-            "width": 428,
+            "x": 20,
+            "y": 26,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -1133,8 +1133,8 @@
         {
           "bounds": {
             "x": 0,
-            "y": 282,
-            "width": 480,
+            "y": 186,
+            "width": 384,
             "height": 192
           },
           "role": "Button",
@@ -1273,15 +1273,15 @@
             "role": "button",
             "bounds": {
               "x": 0,
-              "y": 282,
-              "width": 480,
+              "y": 186,
+              "width": 384,
               "height": 192
             }
           },
           "bounds": {
             "x": 0,
-            "y": 282,
-            "width": 480,
+            "y": 186,
+            "width": 384,
             "height": 192
           }
         }
@@ -1289,9 +1289,9 @@
       "redlines": [
         {
           "bounds": {
-            "x": 26,
-            "y": -14,
-            "width": 428,
+            "x": 20,
+            "y": -110,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -1304,9 +1304,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 122,
-            "width": 428,
+            "x": 20,
+            "y": 26,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -1320,8 +1320,8 @@
         {
           "bounds": {
             "x": 0,
-            "y": 282,
-            "width": 480,
+            "y": 186,
+            "width": 384,
             "height": 192
           },
           "role": "Button",
@@ -2550,10 +2550,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 192,
-            "y": 76,
-            "width": 96,
-            "height": 34
+            "x": 138,
+            "y": 72,
+            "width": 108,
+            "height": 38
           },
           "padding": {
             "start": 14,
@@ -2564,9 +2564,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 141,
-            "width": 428,
+            "x": 20,
+            "y": 144,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -2579,25 +2579,10 @@
         },
         {
           "bounds": {
-            "x": 29,
-            "y": 277,
-            "width": 421,
-            "height": 125
-          },
-          "padding": {
-            "start": 12,
-            "top": 12,
-            "end": 12,
-            "bottom": 12
-          },
-          "cornerRadius": 26
-        },
-        {
-          "bounds": {
-            "x": 92,
-            "y": 411,
-            "width": 295,
-            "height": 88
+            "x": 35,
+            "y": 280,
+            "width": 313,
+            "height": 116
           },
           "padding": {
             "start": 12,
@@ -2712,10 +2697,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 192,
-            "y": 76,
-            "width": 96,
-            "height": 34
+            "x": 138,
+            "y": 72,
+            "width": 108,
+            "height": 38
           },
           "padding": {
             "start": 14,
@@ -2726,9 +2711,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 141,
-            "width": 428,
+            "x": 20,
+            "y": 144,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -2741,25 +2726,10 @@
         },
         {
           "bounds": {
-            "x": 29,
-            "y": 277,
-            "width": 421,
-            "height": 125
-          },
-          "padding": {
-            "start": 12,
-            "top": 12,
-            "end": 12,
-            "bottom": 12
-          },
-          "cornerRadius": 26
-        },
-        {
-          "bounds": {
-            "x": 92,
-            "y": 411,
-            "width": 295,
-            "height": 88
+            "x": 35,
+            "y": 280,
+            "width": 313,
+            "height": 116
           },
           "padding": {
             "start": 12,
@@ -2874,10 +2844,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 192,
-            "y": 76,
-            "width": 96,
-            "height": 34
+            "x": 138,
+            "y": 72,
+            "width": 108,
+            "height": 38
           },
           "padding": {
             "start": 14,
@@ -2888,9 +2858,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 141,
-            "width": 428,
+            "x": 20,
+            "y": 144,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -2903,25 +2873,10 @@
         },
         {
           "bounds": {
-            "x": 29,
-            "y": 277,
-            "width": 421,
-            "height": 125
-          },
-          "padding": {
-            "start": 12,
-            "top": 12,
-            "end": 12,
-            "bottom": 12
-          },
-          "cornerRadius": 26
-        },
-        {
-          "bounds": {
-            "x": 92,
-            "y": 411,
-            "width": 295,
-            "height": 88
+            "x": 35,
+            "y": 280,
+            "width": 313,
+            "height": 116
           },
           "padding": {
             "start": 12,
@@ -3036,10 +2991,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 192,
-            "y": 76,
-            "width": 96,
-            "height": 34
+            "x": 138,
+            "y": 72,
+            "width": 108,
+            "height": 38
           },
           "padding": {
             "start": 14,
@@ -3050,9 +3005,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 141,
-            "width": 428,
+            "x": 20,
+            "y": 144,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -3065,25 +3020,10 @@
         },
         {
           "bounds": {
-            "x": 29,
-            "y": 277,
-            "width": 421,
-            "height": 125
-          },
-          "padding": {
-            "start": 12,
-            "top": 12,
-            "end": 12,
-            "bottom": 12
-          },
-          "cornerRadius": 26
-        },
-        {
-          "bounds": {
-            "x": 92,
-            "y": 411,
-            "width": 295,
-            "height": 88
+            "x": 35,
+            "y": 280,
+            "width": 313,
+            "height": 116
           },
           "padding": {
             "start": 12,
@@ -3198,10 +3138,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 192,
-            "y": 76,
-            "width": 96,
-            "height": 34
+            "x": 138,
+            "y": 72,
+            "width": 108,
+            "height": 38
           },
           "padding": {
             "start": 14,
@@ -3212,9 +3152,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 141,
-            "width": 428,
+            "x": 20,
+            "y": 144,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -3227,25 +3167,10 @@
         },
         {
           "bounds": {
-            "x": 29,
-            "y": 277,
-            "width": 421,
-            "height": 125
-          },
-          "padding": {
-            "start": 12,
-            "top": 12,
-            "end": 12,
-            "bottom": 12
-          },
-          "cornerRadius": 26
-        },
-        {
-          "bounds": {
-            "x": 92,
-            "y": 411,
-            "width": 295,
-            "height": 88
+            "x": 35,
+            "y": 280,
+            "width": 313,
+            "height": 116
           },
           "padding": {
             "start": 12,
@@ -3360,10 +3285,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 192,
-            "y": 76,
-            "width": 96,
-            "height": 34
+            "x": 138,
+            "y": 72,
+            "width": 108,
+            "height": 38
           },
           "padding": {
             "start": 14,
@@ -3374,9 +3299,9 @@
         },
         {
           "bounds": {
-            "x": 26,
-            "y": 141,
-            "width": 428,
+            "x": 20,
+            "y": 144,
+            "width": 344,
             "height": 128
           },
           "padding": {
@@ -3389,25 +3314,10 @@
         },
         {
           "bounds": {
-            "x": 29,
-            "y": 277,
-            "width": 421,
-            "height": 125
-          },
-          "padding": {
-            "start": 12,
-            "top": 12,
-            "end": 12,
-            "bottom": 12
-          },
-          "cornerRadius": 26
-        },
-        {
-          "bounds": {
-            "x": 92,
-            "y": 411,
-            "width": 295,
-            "height": 88
+            "x": 35,
+            "y": 280,
+            "width": 313,
+            "height": 116
           },
           "padding": {
             "start": 12,
@@ -4231,8 +4141,8 @@
   "library": [
     "androidx.wear.compose:compose-material3"
   ],
-  "renderer": "compose-preview 2.79.3-SNAPSHOT",
-  "generatedAt": "2026-10-31T18:35:36.872Z",
+  "renderer": "compose-preview 2.80.1-SNAPSHOT",
+  "generatedAt": "2026-11-01T11:25:00.726Z",
   "display": {
     "surface": "dark",
     "hero": "Template/TimeText/largeRound"
