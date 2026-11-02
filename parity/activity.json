@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-01T20:03:38.852Z",
+  "generatedAt": "2026-11-02T06:23:51.029Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "780351448439e088ada7ecf4f54587f31dc3313d",
+        "subject": "docs(site): update the analytics bundle so /start counts as docs (#6399)",
+        "at": "2026-11-01T22:21:45Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "77ccef39d186a933b1d3e7ce6f6fa6ded849e096",
         "subject": "chore(main): release 2.84.0 (#6398)",
@@ -475,14 +483,6 @@
         "subject": "chore(main): release 2.77.0 (#6315)",
         "at": "2026-10-30T22:51:15Z",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9beba99fca62fc3d1625a834e8cbae0d8c862c37",
-        "subject": "fix(cli): Android Studio's Device Settings, Rotate and volume buttons on --adb (#6333)",
-        "at": "2026-10-30T22:47:34Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
