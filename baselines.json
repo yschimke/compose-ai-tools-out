@@ -28,7 +28,7 @@
     "functionName": "GreetingScreenPreview",
     "module": "app",
     "renderBasename": "GreetingScreenPreview_Fonts_Large-617795ea.png",
-    "sha256": "477b4a13b501f95da9f84e2338a2ee345bdfbf6b9ebfb27a532bc5445f4fdbe6",
+    "sha256": "d89bd150ecb7a754668e47d47361fac3a3ac5afd05726da406715093be25bcee",
     "sourceFile": "src/main/java/com/example/android/wearable/composestarter/presentation/MainActivity.kt"
   },
   "app/com.example.android.wearable.composestarter.presentation.MainActivityKt.GreetingScreenPreview_Fonts - Larger": {
@@ -92,7 +92,7 @@
     "functionName": "ListScreenPreview",
     "module": "app",
     "renderBasename": "ListScreenPreview_Fonts_Large-48b7ef6f.png",
-    "sha256": "e4b3b9cf6db7ed81c4f6ae74d6bf9d093e83d6256607715b9146f0e840f58c12",
+    "sha256": "caed129051f36d7f3ff9a6f2c0de1ef699d6333de2d0c60c849c8f19ddd975bb",
     "sourceFile": "src/main/java/com/example/android/wearable/composestarter/presentation/MainActivity.kt"
   },
   "app/com.example.android.wearable.composestarter.presentation.MainActivityKt.ListScreenPreview_Fonts - Larger": {
