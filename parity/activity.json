@@ -1,11 +1,203 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-02T06:23:51.029Z",
+  "generatedAt": "2026-11-04T13:39:42.810Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "f2b32d029934bb62ebe0a024a7df3ec42c79ae59",
+        "subject": "chore(deps): bump the actions-minor group across 1 directory with 2 updates (#6435)",
+        "at": "2026-11-04T13:33:04Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "05db9bd86eb242f969717001e13f1cee88af3a33",
+        "subject": "feat: add a host-natives recipe for Filament's filament-jni (#6434)",
+        "at": "2026-11-04T13:26:13Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "532127fe62842c9b2f2efa34b677719a542759a2",
+        "subject": "perf: update the screen for a SurfaceView frame without redrawing its window (#6433)",
+        "at": "2026-11-04T09:54:49Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5c8f573212967a8403496eae14bba7178be26fed",
+        "subject": "fix(deps): update dependency com.github.luben:zstd-jni to v1.5.7-25 (#6432)",
+        "at": "2026-11-04T09:41:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "72d80415b3f6d8a18e0f33d0d0c86ab8b5c4a5da",
+        "subject": "test: run the simulator's SurfaceView shadow in a Robolectric sandbox (#6431)",
+        "at": "2026-11-04T09:33:14Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ad8faa69ee0caf1e2c70c80357fac5d81d5f0e6a",
+        "subject": "fix: composite SurfaceView frames through the view's full transform (#6430)",
+        "at": "2026-11-04T09:10:26Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "27967aa8a9858abd2990b2fe4e0832d950b24a86",
+        "subject": "feat: give a SurfaceView a surface in the simulator (#6429)",
+        "at": "2026-11-04T09:05:41Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "da5382521f0a6f62e0b2a3cbbbc6144563cd5c06",
+        "subject": "fix: report a startup native-library failure on the control channel (#6427)",
+        "at": "2026-11-04T07:13:55Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f428d5a4e832b6da428fd180d0831405342bfcb8",
+        "subject": "ci: skip the nightly drift jobs on the host-natives index PRs' dispatched CI (#6426)",
+        "at": "2026-11-04T00:19:36Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6ee09c922214256713754cf4c96cc91c569e397c",
+        "subject": "docs: survey native libraries in the simulator and record the host-natives status (#6410)",
+        "at": "2026-11-04T00:14:43Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a3c96d21d5473414433727d49620e7753214db6c",
+        "subject": "chore: add new host-natives releases to the index (#6425)",
+        "at": "2026-11-04T00:07:08Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9aa9e704b32f8afea6b14c64b2196dde1fed5e26",
+        "subject": "fix(deps): update dependency androidx.sqlite:sqlite-bundled to v2.7.1 (#6423)",
+        "at": "2026-11-03T23:49:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2f150740797849a630edbd7f84c159c978eda33c",
+        "subject": "fix(deps): update dependency net.java.dev.jna:jna to v5.19.1 (#6424)",
+        "at": "2026-11-03T23:48:58Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "158e0e144a8d325fe3b82958e89690a244a031f8",
+        "subject": "chore: add new host-natives releases to the index (#6416)",
+        "at": "2026-11-03T23:43:04Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cda46133f9e6da7b915a8c71fcf4b493b7ef5dec",
+        "subject": "fix: load JNA and graphics-path in the simulator, with a sample app exercising every host native (#6422)",
+        "at": "2026-11-03T23:39:09Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "70221c6373577d6564eed5d976d2651cf0094b20",
+        "subject": "feat: serve zstd-jni, JNA, Conscrypt and libsignal host libraries, matched by build ID (#6415)",
+        "at": "2026-11-03T22:42:20Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "29d191b0fa211f693fc97ff044db787c66ebc80f",
+        "subject": "feat: load host builds of APK native libraries in compose-preview launch from a run-time index (#6412)",
+        "at": "2026-11-03T22:01:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f2d0ce8e54bddf9b7483e7cf6928f7debe0f5d3f",
+        "subject": "fix(deps): update dependency io.modelcontextprotocol:kotlin-sdk-server to v0.16.0 (#6413)",
+        "at": "2026-11-03T20:01:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "05a20003bddf1cce00214e6107c6b1f37e32e632",
+        "subject": "fix(deps): update dependency androidx.test:monitor to v1.8.0 (#6408)",
+        "at": "2026-11-03T16:07:59Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b3d96110d24c9e131f74060432fcb944b614823c",
+        "subject": "ci: build graphics-path host natives for Linux and macOS on their own release line (#6405)",
+        "at": "2026-11-03T15:58:22Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2ea7114980cbe7698b04c365250ac39539f51c11",
+        "subject": "fix(deps): update metro to v1.5.0 (#6407)",
+        "at": "2026-11-03T15:26:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9430d750d82f7b523dfc0c2b98c5965bc92205f7",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.84.0 (#6406)",
+        "at": "2026-11-03T15:20:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0c549fbe3642eb1b1092ab9b381dddd8785d0a9d",
+        "subject": "chore(deps): bump the actions-minor group with 2 updates (#6401)",
+        "at": "2026-11-03T07:56:22Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f132a41cdfd7d2b32a3315e20688c276b839f6c4",
+        "subject": "fix: refresh stale resource previews and honor AndroidX-shaped projects (#6402)",
+        "at": "2026-11-03T07:55:57Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "780351448439e088ada7ecf4f54587f31dc3313d",
         "subject": "docs(site): update the analytics bundle so /start counts as docs (#6399)",
@@ -291,198 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.79.0 (#6365)",
         "at": "2026-10-31T15:18:40Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cf1180e6fa19a9b464e8665bdfcc69a0bf30d7a5",
-        "subject": "fix(cli): mcp serve replaces a cached MCP server older than the one this CLI pairs with (#6359)",
-        "at": "2026-10-31T15:17:11Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2e70ee15a4d9a80053ab34e14aee278c371186c3",
-        "subject": "fix(simulator): shadow Wear SDK haptics (#6357)",
-        "at": "2026-10-31T15:00:59Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a0ac6dbbd4a00d9226790a5ba7e3449e8912de9c",
-        "subject": "chore(main): release 2.79.0 (#6355)",
-        "at": "2026-10-31T10:10:23Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a9094eede9c01a253de036a770c7519909fcd4f1",
-        "subject": "feat(simulator): reload {compile:false} takes classes the preview daemon already compiled (#6356)",
-        "at": "2026-10-31T09:23:35Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6bdf11c7527d19d398fc9f20848caf9ac7e73408",
-        "subject": "fix(gradle-plugin): give the daemon's in-process compile the module's own compiler plugins (#6354)",
-        "at": "2026-10-31T08:10:58Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "84f5ee2dd1764f91772fbcfd7876515b8f9da327",
-        "subject": "chore(main): release 2.78.0 (#6336)",
-        "at": "2026-10-31T07:53:08Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ebc67c5d12999ecd04f307b24b51db40ad0adfc7",
-        "subject": "feat(simulator): hot-swap composable edits into the running app on reload (#6353)",
-        "at": "2026-10-31T07:13:20Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "743b8c6341fedf5ba94bb1857ce914d61c212d99",
-        "subject": "feat(simulator): one clipboard and one set of settings for a device's apps (#6350)",
-        "at": "2026-10-31T01:19:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fe129c7e74d5c05d993e1b5957b72ae1975e71fc",
-        "subject": "feat(simulator): write to another app's provider files, its change notifications and URI grants (#6348)",
-        "at": "2026-10-31T01:16:00Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3319f38f23c58a914a2dcfa1bddcb2fcd488ea40",
-        "subject": "feat(simulator): return an activity's result to the device's app that started it (#6345)",
-        "at": "2026-10-31T01:09:48Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b26f62f3d1588830d965da676c88a85851dc6b7f",
-        "subject": "fix(cli): launch finds the Android SDK from --project or the APK, not only the working directory (#6352)",
-        "at": "2026-10-31T01:08:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3f9bed2d80eb04a93db3f9327d5df3b2324fee31",
-        "subject": "feat(simulator): ordered and sticky broadcasts across a device's apps, and RECEIVER_NOT_EXPORTED (#6347)",
-        "at": "2026-10-31T01:07:00Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ebbb21fff2a9df15d0467cd571bfb8a9c4b723a3",
-        "subject": "fix(simulator): a split screen's screenshot shows the other app's half black while its screen is off (#6351)",
-        "at": "2026-10-31T01:00:21Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7c003e803a3c9e2e369b8637f5114910b6dc4c5a",
-        "subject": "feat(simulator): start, stop and bind another of the device's apps' services (#6349)",
-        "at": "2026-10-31T00:50:53Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c880d2c4d7e02a7a2c12ce69fd82e2ff0a7d00f",
-        "subject": "feat(simulator): show the device's other apps with their own launcher icons (#6344)",
-        "at": "2026-10-31T00:41:39Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "280ef4a260d26db6dd144c158aa2cff1b64f5137",
-        "subject": "feat(simulator): screenshot a split screen whole, both apps' halves in their places (#6346)",
-        "at": "2026-10-31T00:15:29Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ddb6665b25477e56516d76c40e4b0a0290b81839",
-        "subject": "feat(simulator): share broadcasts, content providers and /sdcard between a device's apps (#6343)",
-        "at": "2026-10-31T00:07:16Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "37889aaa05443fc14c573bf4d28cad8c5294815b",
-        "subject": "feat(simulator): split screen between two of a device's apps, along a foldable's fold (#6340)",
-        "at": "2026-10-30T23:36:15Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a4b60a5076ba9d44f6c5ff189d493dcd96d8269e",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.77.0 (#6339)",
-        "at": "2026-10-30T23:20:11Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "71dfadf0541715ee1dd90a92c2d9cdfc410505ed",
-        "subject": "feat(simulator): switch the device's screen between its apps (home screen, startActivity, foreground) (#6338)",
-        "at": "2026-10-30T23:17:59Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7c40705db5248682c006ab8129b4cd794baaa0b0",
-        "subject": "fix(cli): boot launch --adb app.apk once, on the app (#6335)",
-        "at": "2026-10-30T23:15:35Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5e47fad3fd9c009f2d9c27617fb7815f32383f33",
-        "subject": "chore(samples): the Android sample's screens follow the system's dark theme (#6337)",
-        "at": "2026-10-30T23:15:17Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ba239f0bc5f480188b7650a3bba8013113a68a1f",
-        "subject": "fix(cli): follow the log for adb logcat and Android Studio's Logcat window (#6334)",
-        "at": "2026-10-30T23:03:28Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e1b82974248d4f50426bf7da3b72ce7785f21421",
-        "subject": "chore(main): release 2.77.0 (#6315)",
-        "at": "2026-10-30T22:51:15Z",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
