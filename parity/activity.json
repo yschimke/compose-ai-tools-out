@@ -1,11 +1,75 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-04T13:39:42.810Z",
+  "generatedAt": "2026-11-04T21:22:00.036Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "1b80c03710bf2494e1e0d9693278615c92bfe6a6",
+        "subject": "chore(main): release 2.85.0 (#6403)",
+        "at": "2026-11-04T20:44:30Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3d0981d7d1541cf78a5e4409406edca6346a49e1",
+        "subject": "ci: add a simulator smoke test job (#6444)",
+        "at": "2026-11-04T20:35:20Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9ad62e97c17b7f0e2083ae6447c11437b4b0ce29",
+        "subject": "fix: keep the simulator control channel JSON only when native code prints (#6443)",
+        "at": "2026-11-04T18:21:47Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e9c1b724c4a63a1e24295e83f99aa93fbf5a6c56",
+        "subject": "chore: match Filament apps by build ID in the host-natives index (#6442)",
+        "at": "2026-11-04T18:18:37Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "73223d8a4cdd731e740efc97f6fa21b8a9ddc100",
+        "subject": "chore: add new host-natives releases to the index (#6441)",
+        "at": "2026-11-04T18:08:03Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6cc5a2d8c81318c07b0a1d7d782ca84c7ffc3b57",
+        "subject": "fix: send filament-jni's native log to logcat, not the control channel (#6438)",
+        "at": "2026-11-04T15:21:53Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "030c6d44022787a00f98939f806981dd797437d3",
+        "subject": "fix: render Filament's sRGB swap chains in the simulator (#6436)",
+        "at": "2026-11-04T13:52:25Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b8b5082148f163285be11f269ca79914269cc194",
+        "subject": "fix(deps): update dependency org.robolectric:android-all to v17 (#6409)",
+        "at": "2026-11-04T13:34:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f2b32d029934bb62ebe0a024a7df3ec42c79ae59",
         "subject": "chore(deps): bump the actions-minor group across 1 directory with 2 updates (#6435)",
@@ -419,70 +483,6 @@
         "subject": "chore(main): release 2.79.2 (#6372)",
         "at": "2026-10-31T18:20:55Z",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a8835b415890f35a293b4e34bb787ba5ab18107d",
-        "subject": "fix(simulator): answer a restarting reload or restart once the screen is still (#6371)",
-        "at": "2026-10-31T18:17:13Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "858f4d214935a795f46bf6d689c281f1a62076cc",
-        "subject": "fix(cli): end orphaned serve servers and build hosts when their parent exits (#6370)",
-        "at": "2026-10-31T18:17:09Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8f60f2f04dd23862d11485acef96285ce17c4a4e",
-        "subject": "fix(cli): add the init script's repositories after other init scripts, once per host (#6369)",
-        "at": "2026-10-31T18:17:06Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2c93e3de9045c835dd022a615918bd670a109b1b",
-        "subject": "fix(cli): only blame the publication window for a version that is actually new (#6367)",
-        "at": "2026-10-31T18:17:02Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bf1ef472914e56a2ad513254a2bb7ab8b0bc38b6",
-        "subject": "fix(cli): drop the duplicate Claude user entry when the compose-preview plugin serves it (#6366)",
-        "at": "2026-10-31T18:16:59Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d237c41367ed75f3165877484614f013c373af35",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.79.1 (#6368)",
-        "at": "2026-10-31T16:38:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "56d5749780460115bdea0384dd4e823048a9efa3",
-        "subject": "chore(main): release 2.79.1 (#6358)",
-        "at": "2026-10-31T15:56:54Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1a449c06ecc614048a1e27303a39dd67b0a3d975",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.79.0 (#6365)",
-        "at": "2026-10-31T15:18:40Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
