@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-05T22:08:15.762Z",
+  "generatedAt": "2026-11-05T23:13:24.019Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "9c51e74f80074630df6e3273e75d7fff54d1a3ab",
+        "subject": "chore(main): release 2.86.0 (#6446)",
+        "at": "2026-11-05T22:40:12Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "af47b4dc0729f3fe97d1b6002c3321f95c64a105",
+        "subject": "chore(deps): bump actions/setup-java from 5.2.0 to 6.1.0 (#6452)",
+        "at": "2026-11-05T22:39:16Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d4a2dfb4a1560e601852df26906423802c8a63ac",
+        "subject": "chore(deps): update agp to v9.5.0 (#6439)",
+        "at": "2026-11-05T22:14:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f44b63fd33c4a257bc7bb113114c1aa916f5021f",
+        "subject": "fix(deps): update dependency com.android.tools.build:gradle to v9.5.0 (#6440)",
+        "at": "2026-11-05T22:14:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5e7f2ec1bf51a63d9614219474ed6f8ffd4074fa",
+        "subject": "fix(deps): update ktor to v3.6.1 (#6453)",
+        "at": "2026-11-05T22:12:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b641732239a4bf5bea179859886d829a2056aa7d",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.23.0 (#6455)",
@@ -443,46 +483,6 @@
         "subject": "chore(main): release 2.81.0 (#6379)",
         "at": "2026-11-01T11:50:44Z",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5e287e105f03f0e6938329c545705b5b4fda42b7",
-        "subject": "chore: prune design evidence that nothing references (#6381)",
-        "at": "2026-11-01T11:50:18Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ec08c0a3d282a91ac27addc555deb5c6f81db569",
-        "subject": "feat(apply): expose debug variant input (#6382)",
-        "at": "2026-11-01T11:49:45Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b729a5a0bb266205e86276d3823f2cd7b4fa98aa",
-        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.22.0 (#6383)",
-        "at": "2026-11-01T11:41:00Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "faaa555bdfddaef297a4751c2a7295842b9059d6",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.80.0 (#6380)",
-        "at": "2026-11-01T11:12:10Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c3161e9315acf59f97108dec81003b14a80100ac",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.22.0 (#6378)",
-        "at": "2026-11-01T11:02:48Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
