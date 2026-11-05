@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-04T21:22:00.036Z",
+  "generatedAt": "2026-11-05T22:08:15.762Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "b641732239a4bf5bea179859886d829a2056aa7d",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.23.0 (#6455)",
+        "at": "2026-11-05T21:56:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2c625f694cd554592579fb44fcbbcfde9a791de4",
+        "subject": "fix(deps): update metro to v1.5.1 (#6454)",
+        "at": "2026-11-05T21:54:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3ae2edd8b2ca201448a5aea1d5617e027493c8c2",
+        "subject": "chore: update the host-natives index and AndroidX survey (#6449)",
+        "at": "2026-11-05T06:57:14Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "998e8acef59983c7c501df24febb0bb7c18bc020",
+        "subject": "feat: build filament-jni for macOS on ANGLE (#6448)",
+        "at": "2026-11-04T21:53:41Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "feced4bf4d120284b869b66871ac028c25e6b394",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.85.0 (#6447)",
+        "at": "2026-11-04T21:32:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3891669527f76fc85d023c6d01d35dad152b076d",
+        "subject": "fix: refetch the host-natives index after an hour, not a day (#6445)",
+        "at": "2026-11-04T21:25:05Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1b80c03710bf2494e1e0d9693278615c92bfe6a6",
         "subject": "chore(main): release 2.85.0 (#6403)",
@@ -435,54 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.22.0 (#6378)",
         "at": "2026-11-01T11:02:48Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ca24bf0ac2247353dc5f0a24c14b5eec200a04d7",
-        "subject": "chore(main): release 2.80.0 (#6374)",
-        "at": "2026-11-01T10:49:14Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "78b97449ecb005c729c2b7e2bd939e768549f5c0",
-        "subject": "fix(deps): update classgraph to 5.0.1 (#6376)",
-        "at": "2026-11-01T10:41:38Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b00bb0ab0607496ff2aa2045ae155fc870fc8720",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.39.1 (#6377)",
-        "at": "2026-11-01T09:52:14Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "05c8ea61941359f635f5be02796afbc460506fef",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.79.2 (#6375)",
-        "at": "2026-10-31T19:51:08Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "02da6b02a6c668fc6f1d9740e5b04423249c0fbf",
-        "subject": "feat: answer Android Studio's Wear run configurations and host androidx watch faces (#6373)",
-        "at": "2026-10-31T19:48:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0f5f5cd98d20ac6f64f936fff53ed19988a4f24c",
-        "subject": "chore(main): release 2.79.2 (#6372)",
-        "at": "2026-10-31T18:20:55Z",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
