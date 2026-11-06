@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-06T21:12:46.423Z",
+  "generatedAt": "2026-11-06T21:25:09.812Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8c14445545fe85635701fd3f52045c63680ca101",
+        "subject": "chore(main): release 2.87.0 (#6460)",
+        "at": "2026-11-06T21:04:15Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1f09e1f2ed69c970e10cce46157f7bac8fefb2d9",
         "subject": "feat(design-artifacts): add an allow-lost-font-families input (#6462)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.2 (#6192)",
         "at": "2026-11-01T17:01:54Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6e0d530b98b9d08f21e3d71125458b56b3e8d121",
-        "subject": "feat(guidelines): recheck what Jev is unsure of with a vision model (#6390)",
-        "at": "2026-11-01T15:24:08Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
