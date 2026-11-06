@@ -1,11 +1,163 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-06T21:25:09.812Z",
+  "generatedAt": "2026-11-06T23:50:21.280Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "48df4b1d26eaccd78fefe1a8e3a97ed397443ccb",
+        "subject": "fix(deps): update ktfmt to v0.28.0 (#6480)",
+        "at": "2026-11-06T23:34:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c4a8cd288143145c0ba451032d6ae61923d38ccd",
+        "subject": "chore(samples): port the remotecompose sample buttons to wear-compose-remote alpha15 (#6482)",
+        "at": "2026-11-06T22:42:59Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d3a3144292dd0fb29ccb4df4154211275e892a01",
+        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.9.0 (#6479)",
+        "at": "2026-11-06T22:27:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9bfbeea3f6208fcc02c38ec3b3fc039beecd6b79",
+        "subject": "fix(deps): update dependency org.jmdns:jmdns to v3.6.5 (#6474)",
+        "at": "2026-11-06T22:25:26Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cf9ef3dc1fb959535543ab0024cdc98f771360f7",
+        "subject": "fix(deps): update dependency org.checkerframework:checker-qual to v4.4.0 (#6477)",
+        "at": "2026-11-06T22:25:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cd5817e56a9e33c45df5753d1cb528951c6a2162",
+        "subject": "fix(deps): update dependency org.jetbrains.skiko:skiko-awt to v0.156.1 (#6473)",
+        "at": "2026-11-06T22:22:27Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f514c4b46e5bb1707de95dc441434c165306ba1e",
+        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v5.0.2 (#6472)",
+        "at": "2026-11-06T22:22:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "eeefe2f3b7f76cf6c44ef1a9be10a29fc4e92505",
+        "subject": "fix(deps): update metro to v1.5.2 (#6476)",
+        "at": "2026-11-06T22:21:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2be8af28aa126ded1065a550328e51960421d329",
+        "subject": "fix(deps): update dependency org.robolectric:android-all to v17-robolectric-16653203 (#6475)",
+        "at": "2026-11-06T22:18:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "76b114e3153c5bc9808da93ef3676f7ccc25024c",
+        "subject": "chore(deps): update eclipse-temurin docker tag to v17.0.21_9-jdk (#6468)",
+        "at": "2026-11-06T22:12:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ef9a8c8fe990802e6da7c1f5610c7e820cf72bba",
+        "subject": "fix(deps): update dependency com.android.tools.emulator:proto to v32.5.1 (#6471)",
+        "at": "2026-11-06T22:11:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "90d2944a3d49bf4d8d4885c138c86df0b74d22a1",
+        "subject": "fix(deps): update dependency org.conscrypt:conscrypt-android to v2.9.0 (#6478)",
+        "at": "2026-11-06T22:08:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f92c9d4bd1f3af3fab86e6d8acaf1ac6bdbcaf32",
+        "subject": "chore(deps): update agp to v9.5.1 (#6466)",
+        "at": "2026-11-06T22:08:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "847f4a28975096ce4757a3c5c313fd853586454d",
+        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-rc01 (#6469)",
+        "at": "2026-11-06T22:05:29Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "de761d7b9691b34eb50303b8b9607645c6ac9d72",
+        "subject": "chore(deps): update dependency yschimke/compose-preview-xr to v2.0.4 (#6467)",
+        "at": "2026-11-06T22:03:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "39e3069a007174af990f8d7152d45816c6faf2c6",
+        "subject": "fix(ci): bootstrap depot_tools in build-angle.sh and tune renovate rules (#6464)",
+        "at": "2026-11-06T21:38:09Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dbdb45b5e0baf8e6d11bb18b8fdb893833aaad86",
+        "subject": "chore(deps): bump actions/cache from 5.0.5 to 6.1.0 (#6451)",
+        "at": "2026-11-06T21:30:43Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6799c09135fcd6ca1c4e94b66e28ea910e5c3efb",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.87.0 (#6465)",
+        "at": "2026-11-06T21:28:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "298c6b2a73e5c418184dd981ff0eb53b0f9dbf0f",
+        "subject": "chore(deps): bump the actions-minor group across 1 directory with 3 updates (#6457)",
+        "at": "2026-11-06T21:19:25Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8c14445545fe85635701fd3f52045c63680ca101",
         "subject": "chore(main): release 2.87.0 (#6460)",
@@ -331,158 +483,6 @@
         "subject": "feat: serve zstd-jni, JNA, Conscrypt and libsignal host libraries, matched by build ID (#6415)",
         "at": "2026-11-03T22:42:20Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "29d191b0fa211f693fc97ff044db787c66ebc80f",
-        "subject": "feat: load host builds of APK native libraries in compose-preview launch from a run-time index (#6412)",
-        "at": "2026-11-03T22:01:02Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f2d0ce8e54bddf9b7483e7cf6928f7debe0f5d3f",
-        "subject": "fix(deps): update dependency io.modelcontextprotocol:kotlin-sdk-server to v0.16.0 (#6413)",
-        "at": "2026-11-03T20:01:49Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "05a20003bddf1cce00214e6107c6b1f37e32e632",
-        "subject": "fix(deps): update dependency androidx.test:monitor to v1.8.0 (#6408)",
-        "at": "2026-11-03T16:07:59Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b3d96110d24c9e131f74060432fcb944b614823c",
-        "subject": "ci: build graphics-path host natives for Linux and macOS on their own release line (#6405)",
-        "at": "2026-11-03T15:58:22Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2ea7114980cbe7698b04c365250ac39539f51c11",
-        "subject": "fix(deps): update metro to v1.5.0 (#6407)",
-        "at": "2026-11-03T15:26:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9430d750d82f7b523dfc0c2b98c5965bc92205f7",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.84.0 (#6406)",
-        "at": "2026-11-03T15:20:44Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0c549fbe3642eb1b1092ab9b381dddd8785d0a9d",
-        "subject": "chore(deps): bump the actions-minor group with 2 updates (#6401)",
-        "at": "2026-11-03T07:56:22Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f132a41cdfd7d2b32a3315e20688c276b839f6c4",
-        "subject": "fix: refresh stale resource previews and honor AndroidX-shaped projects (#6402)",
-        "at": "2026-11-03T07:55:57Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "780351448439e088ada7ecf4f54587f31dc3313d",
-        "subject": "docs(site): update the analytics bundle so /start counts as docs (#6399)",
-        "at": "2026-11-01T22:21:45Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "77ccef39d186a933b1d3e7ce6f6fa6ded849e096",
-        "subject": "chore(main): release 2.84.0 (#6398)",
-        "at": "2026-11-01T19:39:26Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2d4d398745d93307e289a366bbe304cb0d838dca",
-        "subject": "feat(ci): reusable Preview Audit workflow for consumers (#6397)",
-        "at": "2026-11-01T19:35:29Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c1518d37e001cf968b952f07b60c9648ec53a475",
-        "subject": "feat(ci): reusable release-to-release preview diff for consumers (#6395)",
-        "at": "2026-11-01T19:11:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ed7f4cc64b8b29867320c037d80fdca57032f31a",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.83.0 (#6396)",
-        "at": "2026-11-01T18:39:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4add2a0bdba275df8134ec5805d61dc9ddc57760",
-        "subject": "chore(main): release 2.83.0 (#6394)",
-        "at": "2026-11-01T18:21:14Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d492034478ceee0b4e9ce4e4aacd4d4af1a8ecae",
-        "subject": "feat(audit): reusable Jev preview-audit action, and pictures any decisions model reads (#6392)",
-        "at": "2026-11-01T18:06:11Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3c8d1557f64512590e0b6491b638e209769dbe47",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.82.0 (#6393)",
-        "at": "2026-11-01T17:59:44Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c5493247e3b004ef2308d111b72e2d4a72b7bd38",
-        "subject": "chore(main): release 2.82.0 (#6391)",
-        "at": "2026-11-01T17:02:57Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "64d73d02b25e5f40b3f3bcc6dec7e096e4892f29",
-        "subject": "feat(site): build the guide for preview.coo.ee/start (#6389)",
-        "at": "2026-11-01T17:02:19Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "31778e686b0f3a03123b25a579e327461c2cba19",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.2 (#6192)",
-        "at": "2026-11-01T17:01:54Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
