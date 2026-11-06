@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-05T23:13:24.019Z",
+  "generatedAt": "2026-11-06T16:30:19.191Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "14e917e49b5433b51a1dcccc21ab9cbc824bccd2",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.24.0 (#6459)",
+        "at": "2026-11-06T16:22:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4ae3b1da96e8692db08b660a0c443a5fde9814e6",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.86.0 (#6456)",
+        "at": "2026-11-06T04:54:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9c51e74f80074630df6e3273e75d7fff54d1a3ab",
         "subject": "chore(main): release 2.86.0 (#6446)",
@@ -467,22 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.81.0 (#6385)",
         "at": "2026-11-01T12:25:05Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ec3f2767524a6adf9b20fe31ff09331ae735b88b",
-        "subject": "docs(releases): correct the daemon/rc-players cycle and cover Maven-skipped releases (#6384)",
-        "at": "2026-11-01T12:00:03Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c5bcf77890039c1c532a3e322f9aa2a49a86ab70",
-        "subject": "chore(main): release 2.81.0 (#6379)",
-        "at": "2026-11-01T11:50:44Z",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
