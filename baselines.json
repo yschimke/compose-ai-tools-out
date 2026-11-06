@@ -215,6 +215,30 @@
     "sha256": "a90781a82be57f76cde772aeef416dd0b7ac8c87d5ebb451df437b8347cb7c28",
     "sourceFile": "src/main/kotlin/com/example/sampleandroidscreenshot/MainPreviews.kt"
   },
+  "samples:cmp-android-robolectric/com.example.cmpandroidrobolectric.AndroidOnlyPreviewsKt.ApiLevelBadgePreview": {
+    "captureLabel": "",
+    "functionName": "ApiLevelBadgePreview",
+    "module": "samples:cmp-android-robolectric",
+    "renderBasename": "ApiLevelBadgePreview-d9e149b8.png",
+    "sha256": "e032e9511ec264a70e01675c652368a81b0c13796d1bbaff03f0084c2ecbcad3",
+    "sourceFile": "src/androidMain/kotlin/com/example/cmpandroidrobolectric/AndroidOnlyPreviews.kt"
+  },
+  "samples:cmp-android-robolectric/com.example.previewsourceshared.SharedSourcePreviewsKt.SharedSourceGreenBoxPreview": {
+    "captureLabel": "",
+    "functionName": "SharedSourceGreenBoxPreview",
+    "module": "samples:cmp-android-robolectric",
+    "renderBasename": "SharedSourceGreenBoxPreview-7a08db87.png",
+    "sha256": "a2c7647c90d7c5a14e32c97eb036817328ededf5814ffdc9a221bf0ac8af9557",
+    "sourceFile": "../preview-source-shared/src/commonMain/kotlin/com/example/previewsourceshared/SharedSourcePreviews.kt"
+  },
+  "samples:cmp-android-robolectric/com.example.previewsourceshared.SharedSourcePreviewsKt.SharedSourceMagentaBoxPreview_Magenta": {
+    "captureLabel": "",
+    "functionName": "SharedSourceMagentaBoxPreview",
+    "module": "samples:cmp-android-robolectric",
+    "renderBasename": "SharedSourceMagentaBoxPreview_Magenta-1ff13d35.png",
+    "sha256": "6fa09f2e60c9f852758c165e7340d63ea7289d30b9c8a25cbc23615b309c5430",
+    "sourceFile": "../preview-source-shared/src/commonMain/kotlin/com/example/previewsourceshared/SharedSourcePreviews.kt"
+  },
   "samples:cmp-shared/com.example.cmpshared.SharedPreviewsKt.SharedBlueBoxPreview_Blue": {
     "captureLabel": "",
     "functionName": "SharedBlueBoxPreview",
