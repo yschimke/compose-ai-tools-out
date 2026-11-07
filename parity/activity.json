@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-06T23:50:21.280Z",
+  "generatedAt": "2026-11-07T02:17:13.663Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "a688f480814136c283976ae052521739c404c52c",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.26.0 (#6484)",
+        "at": "2026-11-07T02:08:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a2f347592cf4be740e3c61c7d95d8cecefef2d06",
+        "subject": "fix(ci): install MetalToolchain in build-angle.sh when missing (#6481)",
+        "at": "2026-11-06T23:36:17Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "48df4b1d26eaccd78fefe1a8e3a97ed397443ccb",
         "subject": "fix(deps): update ktfmt to v0.28.0 (#6480)",
@@ -467,22 +483,6 @@
         "subject": "chore: add new host-natives releases to the index (#6416)",
         "at": "2026-11-03T23:43:04Z",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cda46133f9e6da7b915a8c71fcf4b493b7ef5dec",
-        "subject": "fix: load JNA and graphics-path in the simulator, with a sample app exercising every host native (#6422)",
-        "at": "2026-11-03T23:39:09Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "70221c6373577d6564eed5d976d2651cf0094b20",
-        "subject": "feat: serve zstd-jni, JNA, Conscrypt and libsignal host libraries, matched by build ID (#6415)",
-        "at": "2026-11-03T22:42:20Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
