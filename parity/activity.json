@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T13:37:56.176Z",
+  "generatedAt": "2026-11-07T14:21:29.764Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "c8d9c7a87f64e43c9d0d936013f0846b2ff7d43b",
+        "subject": "ci: bump the design-artifacts export driver to 1.18.0 (#6490)",
+        "at": "2026-11-07T14:08:54Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f0a9e468b9497804e94cf62e62911b5fc7c9cbec",
+        "subject": "chore(main): release 2.88.0 (#6483)",
+        "at": "2026-11-07T13:46:58Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0d89293d3592f8eb3cb5ab99d660cfa256d6d228",
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.27.0 (#6488)",
@@ -466,22 +482,6 @@
         "sha": "da5382521f0a6f62e0b2a3cbbbc6144563cd5c06",
         "subject": "fix: report a startup native-library failure on the control channel (#6427)",
         "at": "2026-11-04T07:13:55Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f428d5a4e832b6da428fd180d0831405342bfcb8",
-        "subject": "ci: skip the nightly drift jobs on the host-natives index PRs' dispatched CI (#6426)",
-        "at": "2026-11-04T00:19:36Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6ee09c922214256713754cf4c96cc91c569e397c",
-        "subject": "docs: survey native libraries in the simulator and record the host-natives status (#6410)",
-        "at": "2026-11-04T00:14:43Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
