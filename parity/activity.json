@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T14:39:59.169Z",
+  "generatedAt": "2026-11-07T17:04:24.316Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "3e3225134cd4823aa86d62bfec6180e75aaabf9b",
+        "subject": "chore(main): release 2.89.0 (#6491)",
+        "at": "2026-11-07T16:06:43Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0b70bd4fa5f71c88ff8e0e23e4274817a88a9058",
+        "subject": "feat: let consumers exclude activities from activity previews (#6494)",
+        "at": "2026-11-07T15:39:29Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fc76fe0cd87d99a1fbcf8c3acc2d896318dfbe09",
+        "subject": "ci(a11y): brief PR report with links, folding findings already reported (#6493)",
+        "at": "2026-11-07T14:54:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8a67c8f8a60886cc64c7ab35e722ef50a598d522",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.88.0 (#6492)",
+        "at": "2026-11-07T14:24:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "aa5c29e01359e75429453a23c6cb723639936659",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.41.0 (#6489)",
@@ -450,38 +482,6 @@
         "sha": "532127fe62842c9b2f2efa34b677719a542759a2",
         "subject": "perf: update the screen for a SurfaceView frame without redrawing its window (#6433)",
         "at": "2026-11-04T09:54:49Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5c8f573212967a8403496eae14bba7178be26fed",
-        "subject": "fix(deps): update dependency com.github.luben:zstd-jni to v1.5.7-25 (#6432)",
-        "at": "2026-11-04T09:41:25Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "72d80415b3f6d8a18e0f33d0d0c86ab8b5c4a5da",
-        "subject": "test: run the simulator's SurfaceView shadow in a Robolectric sandbox (#6431)",
-        "at": "2026-11-04T09:33:14Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ad8faa69ee0caf1e2c70c80357fac5d81d5f0e6a",
-        "subject": "fix: composite SurfaceView frames through the view's full transform (#6430)",
-        "at": "2026-11-04T09:10:26Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "27967aa8a9858abd2990b2fe4e0832d950b24a86",
-        "subject": "feat: give a SurfaceView a surface in the simulator (#6429)",
-        "at": "2026-11-04T09:05:41Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
