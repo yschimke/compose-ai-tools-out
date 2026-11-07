@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T14:21:29.764Z",
+  "generatedAt": "2026-11-07T14:39:59.169Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "aa5c29e01359e75429453a23c6cb723639936659",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.41.0 (#6489)",
+        "at": "2026-11-07T14:09:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c8d9c7a87f64e43c9d0d936013f0846b2ff7d43b",
         "subject": "ci: bump the design-artifacts export driver to 1.18.0 (#6490)",
@@ -474,14 +482,6 @@
         "sha": "27967aa8a9858abd2990b2fe4e0832d950b24a86",
         "subject": "feat: give a SurfaceView a surface in the simulator (#6429)",
         "at": "2026-11-04T09:05:41Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "da5382521f0a6f62e0b2a3cbbbc6144563cd5c06",
-        "subject": "fix: report a startup native-library failure on the control channel (#6427)",
-        "at": "2026-11-04T07:13:55Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
