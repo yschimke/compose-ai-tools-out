@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T02:17:13.663Z",
+  "generatedAt": "2026-11-07T13:03:08.893Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "b67e46bb51daea8aeda66aee58c80263de7616e2",
+        "subject": "feat: publish a catalog's new-design device (#6485)",
+        "at": "2026-11-07T12:52:10Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c77a08d6539188ba2ef26647352f35fabd33dcf9",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.27.0 (#6486)",
+        "at": "2026-11-07T12:50:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a688f480814136c283976ae052521739c404c52c",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.26.0 (#6484)",
@@ -467,22 +483,6 @@
         "subject": "fix(deps): update dependency androidx.sqlite:sqlite-bundled to v2.7.1 (#6423)",
         "at": "2026-11-03T23:49:15Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2f150740797849a630edbd7f84c159c978eda33c",
-        "subject": "fix(deps): update dependency net.java.dev.jna:jna to v5.19.1 (#6424)",
-        "at": "2026-11-03T23:48:58Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "158e0e144a8d325fe3b82958e89690a244a031f8",
-        "subject": "chore: add new host-natives releases to the index (#6416)",
-        "at": "2026-11-03T23:43:04Z",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
