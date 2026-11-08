@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T17:04:24.316Z",
+  "generatedAt": "2026-11-08T02:02:00.296Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "85b77073b3c4eebd12ae08bc48eb9724126203c1",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.29.0 (#6500)",
+        "at": "2026-11-08T01:54:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2a398d671affc34840afc88ca5084c602b22bf56",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.42.0 (#6499)",
+        "at": "2026-11-08T01:53:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "227285a4e5507bbb9a5ccb202c8df5ba95aa4caa",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.28.0 (#6498)",
+        "at": "2026-11-07T21:33:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4ae1795cca7e5c1e67a344575822349c97023b8e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.3 (#6495)",
+        "at": "2026-11-07T18:23:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6cf2a03083dbd50d5a7130d6699785f0c12db0bb",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.89.0 (#6496)",
+        "at": "2026-11-07T18:10:27Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3e3225134cd4823aa86d62bfec6180e75aaabf9b",
         "subject": "chore(main): release 2.89.0 (#6491)",
@@ -442,46 +482,6 @@
         "sha": "6cc5a2d8c81318c07b0a1d7d782ca84c7ffc3b57",
         "subject": "fix: send filament-jni's native log to logcat, not the control channel (#6438)",
         "at": "2026-11-04T15:21:53Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "030c6d44022787a00f98939f806981dd797437d3",
-        "subject": "fix: render Filament's sRGB swap chains in the simulator (#6436)",
-        "at": "2026-11-04T13:52:25Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b8b5082148f163285be11f269ca79914269cc194",
-        "subject": "fix(deps): update dependency org.robolectric:android-all to v17 (#6409)",
-        "at": "2026-11-04T13:34:04Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f2b32d029934bb62ebe0a024a7df3ec42c79ae59",
-        "subject": "chore(deps): bump the actions-minor group across 1 directory with 2 updates (#6435)",
-        "at": "2026-11-04T13:33:04Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "05db9bd86eb242f969717001e13f1cee88af3a33",
-        "subject": "feat: add a host-natives recipe for Filament's filament-jni (#6434)",
-        "at": "2026-11-04T13:26:13Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "532127fe62842c9b2f2efa34b677719a542759a2",
-        "subject": "perf: update the screen for a SurfaceView frame without redrawing its window (#6433)",
-        "at": "2026-11-04T09:54:49Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
