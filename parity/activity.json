@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-08T02:02:00.296Z",
+  "generatedAt": "2026-11-09T11:05:40.838Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "dfe2d09eda246dbc6c3355699e8e55c37eb13f24",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.31.0 (#6502)",
+        "at": "2026-11-09T10:58:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "85b77073b3c4eebd12ae08bc48eb9724126203c1",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.29.0 (#6500)",
@@ -475,14 +483,6 @@
         "subject": "chore: add new host-natives releases to the index (#6441)",
         "at": "2026-11-04T18:08:03Z",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6cc5a2d8c81318c07b0a1d7d782ca84c7ffc3b57",
-        "subject": "fix: send filament-jni's native log to logcat, not the control channel (#6438)",
-        "at": "2026-11-04T15:21:53Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
