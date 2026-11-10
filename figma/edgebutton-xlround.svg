@@ -9,26 +9,30 @@
         <g id="ReusableComposeNode">
           <g id="ReusableComposeNode">
             <g id="LayoutNodeSubcompositionsState">
-              <g id="Column">
-                <rect x="20" y="-110" width="344" height="128" rx="52" ry="52" fill="#332E3C"/>
-                <g id="Empty">
-                  <text x="44" y="-56.23" font-size="32" font-family="Roboto Flex" font-weight="550" letter-spacing="0.8" style="font-variation-settings:&apos;wdth&apos; 110.0,&apos;wght&apos; 550.0" fill="#F6EDFF">Yoga</text>
-                </g>
-                <g id="Spacer">
-                </g>
-                <g id="Empty">
-                  <text x="44" y="-15.64" font-size="30" font-family="Roboto Flex" font-weight="500" letter-spacing="0.8" style="font-variation-settings:&apos;wdth&apos; 110.0,&apos;wght&apos; 500.0" fill="#FFDCC2">30 min</text>
+              <g id="Column" opacity="0.52">
+                <rect x="70" y="-74" width="244" height="91" rx="37.02" ry="37.02" fill="#332E3C"/>
+                <g opacity="0.52">
+                  <g id="Empty">
+                    <text x="87" y="-35.81" font-size="22.78" font-family="Roboto Flex" font-weight="550" letter-spacing="0.56" style="font-variation-settings:&apos;wdth&apos; 110.0,&apos;wght&apos; 550.0" fill="#F6EDFF">Yoga</text>
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                  <g id="Empty">
+                    <text x="87" y="-6.81" font-size="21.36" font-family="Roboto Flex" font-weight="500" letter-spacing="0.56" style="font-variation-settings:&apos;wdth&apos; 110.0,&apos;wght&apos; 500.0" fill="#FFDCC2">30 min</text>
+                  </g>
                 </g>
               </g>
-              <g id="Column">
-                <rect x="20" y="26" width="344" height="128" rx="52" ry="52" fill="#332E3C"/>
-                <g id="Empty">
-                  <text x="44" y="79.76" font-size="32" font-family="Roboto Flex" font-weight="550" letter-spacing="0.8" style="font-variation-settings:&apos;wdth&apos; 110.0,&apos;wght&apos; 550.0" fill="#F6EDFF">Row</text>
-                </g>
-                <g id="Spacer">
-                </g>
-                <g id="Empty">
-                  <text x="44" y="120.35" font-size="30" font-family="Roboto Flex" font-weight="500" letter-spacing="0.8" style="font-variation-settings:&apos;wdth&apos; 110.0,&apos;wght&apos; 500.0" fill="#FFDCC2">2.0 km · 9 min</text>
+              <g id="Column" opacity="0.99">
+                <rect x="20" y="26" width="344" height="128" rx="51.92" ry="51.92" fill="#332E3C"/>
+                <g opacity="0.99">
+                  <g id="Empty">
+                    <text x="44" y="79.71" font-size="31.95" font-family="Roboto Flex" font-weight="550" letter-spacing="0.79" style="font-variation-settings:&apos;wdth&apos; 110.0,&apos;wght&apos; 550.0" fill="#F6EDFF">Row</text>
+                  </g>
+                  <g id="Spacer">
+                  </g>
+                  <g id="Empty">
+                    <text x="44" y="120.3" font-size="29.95" font-family="Roboto Flex" font-weight="500" letter-spacing="0.79" style="font-variation-settings:&apos;wdth&apos; 110.0,&apos;wght&apos; 500.0" fill="#FFDCC2">2.0 km · 9 min</text>
+                  </g>
                 </g>
               </g>
             </g>
@@ -38,9 +42,9 @@
           </g>
           <g id="ReusableComposeNode">
             <g transform="translate(363 137) scale(1 1)">
-              <path d="M5.41,6.33 A183,183 0 0 1 11.39,69.92" fill="none" stroke="#2F3131" stroke-width="10" stroke-linecap="round"/>
-              <path d="M9.46,85.38 A183,183 0 0 1 5.43,103.58" fill="none" stroke="#C6C6C7" stroke-width="10" stroke-linecap="round"/>
-              <path d="M3.16,111.09 A0.03,0.03 0 1 0 3.22,111.09 A0.03,0.03 0 1 0 3.16,111.09 Z" fill="#2F3131" fill-opacity="0.0"/>
+              <path d="M5.41,6.33 A183,183 0 0 1 11.38,70.01" fill="none" stroke="#2F3131" stroke-width="10" stroke-linecap="round"/>
+              <path d="M9.45,85.47 A183,183 0 0 1 5.41,103.67" fill="none" stroke="#C6C6C7" stroke-width="10" stroke-linecap="round"/>
+              <path d="M3.18,111.13 A0,0 0 1 0 3.18,111.13 A0,0 0 1 0 3.18,111.13 Z" fill="none"/>
             </g>
           </g>
         </g>
