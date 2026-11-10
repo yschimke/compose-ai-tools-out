@@ -3100,7 +3100,7 @@
     "functionName": "EdgeButtonSticker",
     "module": "samples:design-catalog-wear-m3",
     "renderBasename": "EdgeButtonSticker_Extra_Large_Round-0cc500d4.png",
-    "sha256": "0a8528c03ab86741b8aca7f35a3e220bded5547cf5a9cd570d3dada83f0b26ad",
+    "sha256": "e86b8baeb79cac5f05cb0f81f62aac139896b2ddb4cfcb37841eaac7570daf82",
     "sourceFile": "src/main/kotlin/com/example/designcatalogwearm3/CatalogPreviews.kt"
   },
   "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.EdgeButtonSticker_Large Round": {
@@ -3108,7 +3108,7 @@
     "functionName": "EdgeButtonSticker",
     "module": "samples:design-catalog-wear-m3",
     "renderBasename": "EdgeButtonSticker_Large_Round-811eb1e3.png",
-    "sha256": "28a48a776959c5b7b170b089aaf71455cc715b980bb82a32de7b045321a1bac9",
+    "sha256": "c7109821fc9b2954813624552f6bb87abdd6ca95f76a0a3054d6b56380d6ed3b",
     "sourceFile": "src/main/kotlin/com/example/designcatalogwearm3/CatalogPreviews.kt"
   },
   "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.EdgeButtonSticker_Small Round": {
@@ -3116,7 +3116,7 @@
     "functionName": "EdgeButtonSticker",
     "module": "samples:design-catalog-wear-m3",
     "renderBasename": "EdgeButtonSticker_Small_Round-be61bfd8.png",
-    "sha256": "533879f677fb819263ea6af06626c05912698ab5c7596c7fc49318540c5677a6",
+    "sha256": "64cfb4cf6fecd1295799328a3d5d483623e8e452b56652257df6e49cf6bce875",
     "sourceFile": "src/main/kotlin/com/example/designcatalogwearm3/CatalogPreviews.kt"
   },
   "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.FilledButton": {
@@ -4028,7 +4028,7 @@
     "functionName": "ActivityListGifPreview",
     "module": "samples:wear",
     "renderBasename": "ActivityListGifPreview_Devices_Large_Round-3c100452.gif",
-    "sha256": "afc4a83b517bc2c714d6c1956581346968589b3f9bd37a7dbafa10d3111e6399",
+    "sha256": "a0944321a173de9ab0b904e822e2fdf5cf2174cadd176a63155b052e0d45686e",
     "sourceFile": "src/main/kotlin/com/example/samplewear/Previews.kt"
   },
   "samples:wear/com.example.samplewear.PreviewsKt.ActivityListLongPreview_Devices - Large Round": {
