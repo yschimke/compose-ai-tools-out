@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
+    "generatedFrom": "39259a5c18e3111e8092daac0e5912c13101b6f5",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -5796,6 +5796,13 @@
             "path": "renders/samples:design-catalog-wear-m3/EdgeButtonSticker_Extra_Large_Round-0cc500d4.png",
             "versions": [
                 {
+                    "blob": "d4799ffe025d277b79ffe3c85df70ea460bb6a67",
+                    "commit": "39259a5c18e3111e8092daac0e5912c13101b6f5",
+                    "date": "2026-11-10T01:33:25Z",
+                    "sourceSha": "cf1b7e0a",
+                    "commits": 1
+                },
+                {
                     "blob": "3a43f8ddc595780e59b2118333ef0b0d2892511a",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
                     "date": "2026-11-06T23:54:13Z",
@@ -5803,13 +5810,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.EdgeButtonSticker_Large Round": {
             "path": "renders/samples:design-catalog-wear-m3/EdgeButtonSticker_Large_Round-811eb1e3.png",
             "versions": [
+                {
+                    "blob": "0671e005e3b014d942f542568bf4c6614ba2efa4",
+                    "commit": "39259a5c18e3111e8092daac0e5912c13101b6f5",
+                    "date": "2026-11-10T01:33:25Z",
+                    "sourceSha": "cf1b7e0a",
+                    "commits": 1
+                },
                 {
                     "blob": "74b81de7a7106619fe0d20bb678e6109dca7481f",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
@@ -5818,13 +5832,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.EdgeButtonSticker_Small Round": {
             "path": "renders/samples:design-catalog-wear-m3/EdgeButtonSticker_Small_Round-be61bfd8.png",
             "versions": [
+                {
+                    "blob": "f6bba826e320683aa3bebfc92b89161b098cfcb8",
+                    "commit": "39259a5c18e3111e8092daac0e5912c13101b6f5",
+                    "date": "2026-11-10T01:33:25Z",
+                    "sourceSha": "cf1b7e0a",
+                    "commits": 1
+                },
                 {
                     "blob": "43ec3151f3e93e078b7c3b227dff1f7e62b608c1",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
@@ -5833,7 +5854,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -7536,6 +7557,13 @@
             "path": "renders/samples:wear/ActivityListGifPreview_Devices_Large_Round-3c100452.gif",
             "versions": [
                 {
+                    "blob": "7224078245a651011cc1c7a67f9ce8e4a66d6996",
+                    "commit": "39259a5c18e3111e8092daac0e5912c13101b6f5",
+                    "date": "2026-11-10T01:33:25Z",
+                    "sourceSha": "cf1b7e0a",
+                    "commits": 1
+                },
+                {
                     "blob": "e3a9e0884db8246c0f3de17baa606c575ea32645",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
                     "date": "2026-11-06T23:54:13Z",
@@ -7543,7 +7571,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
