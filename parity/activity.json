@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-11T01:10:40.471Z",
+  "generatedAt": "2026-11-11T11:03:50.165Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "1b69cd17c5c3703d4f1e8c5bffd5f462d03e8426",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.33.0 (#6510)",
+        "at": "2026-11-11T10:57:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d685c865d3c373adbd346233e84c8878ef246ced",
+        "subject": "chore(deps): bump the actions-minor group with 3 updates (#6506)",
+        "at": "2026-11-11T03:02:06Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "490a8b035e51724e83853bb039a48655bd299049",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.32.1 (#6508)",
@@ -466,22 +482,6 @@
         "sha": "998e8acef59983c7c501df24febb0bb7c18bc020",
         "subject": "feat: build filament-jni for macOS on ANGLE (#6448)",
         "at": "2026-11-04T21:53:41Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "feced4bf4d120284b869b66871ac028c25e6b394",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.85.0 (#6447)",
-        "at": "2026-11-04T21:32:14Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3891669527f76fc85d023c6d01d35dad152b076d",
-        "subject": "fix: refetch the host-natives index after an hour, not a day (#6445)",
-        "at": "2026-11-04T21:25:05Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
