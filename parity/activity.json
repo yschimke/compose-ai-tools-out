@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-10T11:10:36.513Z",
+  "generatedAt": "2026-11-11T01:10:40.471Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "490a8b035e51724e83853bb039a48655bd299049",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.32.1 (#6508)",
+        "at": "2026-11-11T01:03:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7f8cc6834c54d90563eb858543587720353ce269",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.32.0 (#6507)",
@@ -475,14 +483,6 @@
         "subject": "fix: refetch the host-natives index after an hour, not a day (#6445)",
         "at": "2026-11-04T21:25:05Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1b80c03710bf2494e1e0d9693278615c92bfe6a6",
-        "subject": "chore(main): release 2.85.0 (#6403)",
-        "at": "2026-11-04T20:44:30Z",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
