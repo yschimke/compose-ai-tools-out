@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-12T03:41:51.250Z",
+  "generatedAt": "2026-11-12T09:39:35.632Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "2b29812b4927de4e2a052b5d00838a89b19e8731",
+        "subject": "chore(main): release 2.90.1 (#6516)",
+        "at": "2026-11-12T09:11:32Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9c8aa86ff6e75ece4d54e3c0460af2ea42f4b227",
+        "subject": "refactor(cli): render-cases decodes compose-preview-contracts' RemoteDocumentCasesV1 (#6522)",
+        "at": "2026-11-12T08:57:58Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6c77421e48a41c9a667a0c7d06a979ecd990d8fd",
+        "subject": "fix(deps): update compose-preview-daemon to 3.27.7, and gate the warm edit loop (#6521)",
+        "at": "2026-11-12T08:55:45Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0b7707eeec2ae4664798a6bfadfbddf1e64ad574",
+        "subject": "chore: update the host-natives index and AndroidX survey (#6517)",
+        "at": "2026-11-12T08:53:52Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "96ff32acbc2e34b1ac8c47e7bdadcee7d7bcd1b9",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.0 (#6519)",
+        "at": "2026-11-12T07:40:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ae50e01d77378fbdb040959ecdae64be8c388f07",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.6 (#6518)",
+        "at": "2026-11-12T07:26:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "730720f8a1216f5e3db126b4d82819cfc55ba3fd",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3 (#6513)",
@@ -435,54 +483,6 @@
         "subject": "feat(design-artifacts): add an allow-lost-font-families input (#6462)",
         "at": "2026-11-06T21:03:03Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9d27563c029a6b435287531718991b2727d84731",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.25.0 (#6463)",
-        "at": "2026-11-06T20:29:17Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c04a2cf7d5c66d7a37244e04f766fea90fed832f",
-        "subject": "fix(deps): update dependency com.android.tools.screenshot:screenshot-validation-api to v0.0.1-alpha17 (#6458)",
-        "at": "2026-11-06T16:35:18Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "14e917e49b5433b51a1dcccc21ab9cbc824bccd2",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.24.0 (#6459)",
-        "at": "2026-11-06T16:22:45Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4ae3b1da96e8692db08b660a0c443a5fde9814e6",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.86.0 (#6456)",
-        "at": "2026-11-06T04:54:53Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9c51e74f80074630df6e3273e75d7fff54d1a3ab",
-        "subject": "chore(main): release 2.86.0 (#6446)",
-        "at": "2026-11-05T22:40:12Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "af47b4dc0729f3fe97d1b6002c3321f95c64a105",
-        "subject": "chore(deps): bump actions/setup-java from 5.2.0 to 6.1.0 (#6452)",
-        "at": "2026-11-05T22:39:16Z",
-        "author": "dependabot[bot]",
         "previewIds": [],
         "components": []
       }
