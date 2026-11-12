@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-12T00:00:15.497Z",
+  "generatedAt": "2026-11-12T03:41:51.250Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "730720f8a1216f5e3db126b4d82819cfc55ba3fd",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3 (#6513)",
+        "at": "2026-11-12T03:03:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3a1a3dce70d3f1007a0bc6b304340ce05fff393d",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.90.0 (#6515)",
+        "at": "2026-11-12T00:16:06Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "348787d36ff495e9ed6fb73f354f3a0c3c3a6ad1",
         "subject": "chore(main): release 2.90.0 (#6497)",
@@ -467,22 +483,6 @@
         "subject": "chore(deps): bump actions/setup-java from 5.2.0 to 6.1.0 (#6452)",
         "at": "2026-11-05T22:39:16Z",
         "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d4a2dfb4a1560e601852df26906423802c8a63ac",
-        "subject": "chore(deps): update agp to v9.5.0 (#6439)",
-        "at": "2026-11-05T22:14:40Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f44b63fd33c4a257bc7bb113114c1aa916f5021f",
-        "subject": "fix(deps): update dependency com.android.tools.build:gradle to v9.5.0 (#6440)",
-        "at": "2026-11-05T22:14:37Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
