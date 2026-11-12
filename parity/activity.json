@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-11T11:03:50.165Z",
+  "generatedAt": "2026-11-12T00:00:15.497Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "348787d36ff495e9ed6fb73f354f3a0c3c3a6ad1",
+        "subject": "chore(main): release 2.90.0 (#6497)",
+        "at": "2026-11-11T23:30:35Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ed9840930569bd7fdd50e542ac7a7c53ab953d87",
+        "subject": "fix(deps): update compose-preview-daemon to 3.27.5 (#6514)",
+        "at": "2026-11-11T23:23:53Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5c7c5c22371bf0d5b85f68c256613d02ee699bb2",
+        "subject": "chore(deps): bump the actions-minor group with 4 updates (#6509)",
+        "at": "2026-11-11T20:31:08Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "637d02d0f2f3e5719da6594f5f339691b9cc2928",
+        "subject": "fix(action): warn instead of failing when the fallback fonts can't be installed (#6512)",
+        "at": "2026-11-11T19:49:04Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "21cfe876a220238046549855665930a8d3dfcdc9",
+        "subject": "feat(cli): render-cases draws Remote Compose documents with their data on the Android lane (#6511)",
+        "at": "2026-11-11T19:48:54Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1b69cd17c5c3703d4f1e8c5bffd5f462d03e8426",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.33.0 (#6510)",
@@ -443,46 +483,6 @@
         "subject": "fix(deps): update dependency com.android.tools.build:gradle to v9.5.0 (#6440)",
         "at": "2026-11-05T22:14:37Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5e7f2ec1bf51a63d9614219474ed6f8ffd4074fa",
-        "subject": "fix(deps): update ktor to v3.6.1 (#6453)",
-        "at": "2026-11-05T22:12:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b641732239a4bf5bea179859886d829a2056aa7d",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.23.0 (#6455)",
-        "at": "2026-11-05T21:56:39Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2c625f694cd554592579fb44fcbbcfde9a791de4",
-        "subject": "fix(deps): update metro to v1.5.1 (#6454)",
-        "at": "2026-11-05T21:54:49Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3ae2edd8b2ca201448a5aea1d5617e027493c8c2",
-        "subject": "chore: update the host-natives index and AndroidX survey (#6449)",
-        "at": "2026-11-05T06:57:14Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "998e8acef59983c7c501df24febb0bb7c18bc020",
-        "subject": "feat: build filament-jni for macOS on ANGLE (#6448)",
-        "at": "2026-11-04T21:53:41Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
