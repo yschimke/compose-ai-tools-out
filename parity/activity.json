@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-12T16:54:22.966Z",
+  "generatedAt": "2026-11-12T21:23:29.299Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "848adcfb8902a6cd55e47eedc434d278e09d213f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.2 (#6532)",
+        "at": "2026-11-12T21:07:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5f8b106a4642631483422b0868f1c9ff8eb9f342",
+        "subject": "chore(deps): bump amannn/action-semantic-pull-request from 6.1.1 to 6.1.2 in the actions-minor group (#6523)",
+        "at": "2026-11-12T20:38:01Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5a45c8b973fd82e768f40d7bebc0aa33cce7dd0e",
+        "subject": "feat(dwf): support Declarative Watch Face previews, fake complications, and simulator launch (#6520)",
+        "at": "2026-11-12T17:57:24Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "309c7bc3a6a2d9e9bbf88378f6764347b0581fbc",
+        "subject": "fix(plugin): let Kotlin/JVM modules compile in process (#6528)",
+        "at": "2026-11-12T17:44:42Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b723f0831473ad4922ed03572e0c7622bf8a785d",
+        "subject": "feat(cli): report modules whose edits cannot compile in process (#6527)",
+        "at": "2026-11-12T17:44:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "366daa4c4856fa627f03b9178e9bbc913bf12e61",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.1 (#6529)",
@@ -442,46 +482,6 @@
         "sha": "f92c9d4bd1f3af3fab86e6d8acaf1ac6bdbcaf32",
         "subject": "chore(deps): update agp to v9.5.1 (#6466)",
         "at": "2026-11-06T22:08:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "847f4a28975096ce4757a3c5c313fd853586454d",
-        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-rc01 (#6469)",
-        "at": "2026-11-06T22:05:29Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "de761d7b9691b34eb50303b8b9607645c6ac9d72",
-        "subject": "chore(deps): update dependency yschimke/compose-preview-xr to v2.0.4 (#6467)",
-        "at": "2026-11-06T22:03:52Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "39e3069a007174af990f8d7152d45816c6faf2c6",
-        "subject": "fix(ci): bootstrap depot_tools in build-angle.sh and tune renovate rules (#6464)",
-        "at": "2026-11-06T21:38:09Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dbdb45b5e0baf8e6d11bb18b8fdb893833aaad86",
-        "subject": "chore(deps): bump actions/cache from 5.0.5 to 6.1.0 (#6451)",
-        "at": "2026-11-06T21:30:43Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6799c09135fcd6ca1c4e94b66e28ea910e5c3efb",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.87.0 (#6465)",
-        "at": "2026-11-06T21:28:04Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
