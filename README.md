@@ -600,6 +600,7 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `WearRealDeviceMatrixPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:wear/WearRealDeviceMatrixPreview_Galaxy_Watch_7_44mm_480px_340dpi_225dp-27ae9843.png" width="150" /> |
 | `WearRealDeviceMatrixPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:wear/WearRealDeviceMatrixPreview_Pixel_Watch_3_45mm_456px_320dpi_228dp-751d2caf.png" width="150" /> |
 | `WearRealDeviceMatrixPreview` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:wear/WearRealDeviceMatrixPreview_Pixel_Watch_450px_320dpi_225dp-925b1f5e.png" width="150" /> |
+| `sample_dwf_watchface` | <img src="https://raw.githubusercontent.com/yschimke/compose-ai-tools-out/compose-preview/main/renders/samples:wear/dwf__raw_sample_dwf_watchface.png" width="150" /> |
 
 ## samples:wear-widget
 

@@ -4247,6 +4247,14 @@
     "sha256": "ced75b3fe0ab7125bd5b9933db0aea9de04fac5e5c0626f46d1fd1782b850aa9",
     "sourceFile": "src/main/kotlin/com/example/samplewear/WearRealDevicePreviews.kt"
   },
+  "samples:wear/dwf__raw_sample_dwf_watchface": {
+    "captureLabel": "",
+    "functionName": "sample_dwf_watchface",
+    "module": "samples:wear",
+    "renderBasename": "dwf__raw_sample_dwf_watchface.png",
+    "sha256": "1516af49262c7962034e52c26490b301902b659c1367977367e5e1f5a19f7f74",
+    "sourceFile": "src/main/res/raw/sample_dwf_watchface.xml"
+  },
   "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerFocusStatePreviewsKt.GlimmerListItemDefault_Glimmer \u00b7 Default": {
     "captureLabel": "",
     "functionName": "GlimmerListItemDefault",
