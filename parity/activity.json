@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-12T11:00:22.708Z",
+  "generatedAt": "2026-11-12T16:54:22.966Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "366daa4c4856fa627f03b9178e9bbc913bf12e61",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.1 (#6529)",
+        "at": "2026-11-12T16:46:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "653e5b3e1765cfe4f59227aa30435576c7ff3f80",
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.0 (#6525)",
@@ -475,14 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.87.0 (#6465)",
         "at": "2026-11-06T21:28:04Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "298c6b2a73e5c418184dd981ff0eb53b0f9dbf0f",
-        "subject": "chore(deps): bump the actions-minor group across 1 directory with 3 updates (#6457)",
-        "at": "2026-11-06T21:19:25Z",
-        "author": "dependabot[bot]",
         "previewIds": [],
         "components": []
       }
