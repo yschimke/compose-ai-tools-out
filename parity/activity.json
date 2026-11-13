@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-13T10:27:40.665Z",
+  "generatedAt": "2026-11-13T11:50:15.451Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "f35a08696ac994bdabee30c2b407a95ddf6ee1d3",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.3 (#6538)",
+        "at": "2026-11-13T11:42:12Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "06254904bdef93a9833332c1b35877c35aef73aa",
+        "subject": "chore(deps): bump the actions-minor group with 2 updates (#6536)",
+        "at": "2026-11-13T11:32:38Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fc7b16e2ce9ae3ba3e3e7a2efa5d3705519f26a3",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.91.0 (#6537)",
+        "at": "2026-11-13T10:51:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "aea10882b19601a5cf26e797a74320fa04bc0669",
         "subject": "chore(main): release 2.91.0 (#6530)",
@@ -458,30 +482,6 @@
         "sha": "cd5817e56a9e33c45df5753d1cb528951c6a2162",
         "subject": "fix(deps): update dependency org.jetbrains.skiko:skiko-awt to v0.156.1 (#6473)",
         "at": "2026-11-06T22:22:27Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f514c4b46e5bb1707de95dc441434c165306ba1e",
-        "subject": "fix(deps): update dependency io.github.classgraph:classgraph to v5.0.2 (#6472)",
-        "at": "2026-11-06T22:22:17Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eeefe2f3b7f76cf6c44ef1a9be10a29fc4e92505",
-        "subject": "fix(deps): update metro to v1.5.2 (#6476)",
-        "at": "2026-11-06T22:21:19Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2be8af28aa126ded1065a550328e51960421d329",
-        "subject": "fix(deps): update dependency org.robolectric:android-all to v17-robolectric-16653203 (#6475)",
-        "at": "2026-11-06T22:18:21Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
