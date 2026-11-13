@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-12T21:23:29.299Z",
+  "generatedAt": "2026-11-13T10:27:40.665Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "aea10882b19601a5cf26e797a74320fa04bc0669",
+        "subject": "chore(main): release 2.91.0 (#6530)",
+        "at": "2026-11-13T10:00:36Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0219185b293e821cc7bba3a7507ad1799924e3b0",
+        "subject": "fix: support Gradle Isolated Projects when a subproject applies the plugin (#6535)",
+        "at": "2026-11-13T10:00:16Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6961d3e842e61abb689400facea7bfd0bb6d880b",
+        "subject": "feat(simulator): launch Watch Face Format APKs with cached DWF runtime (#6531)",
+        "at": "2026-11-13T09:59:29Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "af5442f60ace9824e94762e2f354c896e58c35ce",
+        "subject": "docs: add Compose Preview benchmark comparison against android preview and Studio (#6534)",
+        "at": "2026-11-13T08:16:16Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "848adcfb8902a6cd55e47eedc434d278e09d213f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.2 (#6532)",
@@ -450,38 +482,6 @@
         "sha": "2be8af28aa126ded1065a550328e51960421d329",
         "subject": "fix(deps): update dependency org.robolectric:android-all to v17-robolectric-16653203 (#6475)",
         "at": "2026-11-06T22:18:21Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "76b114e3153c5bc9808da93ef3676f7ccc25024c",
-        "subject": "chore(deps): update eclipse-temurin docker tag to v17.0.21_9-jdk (#6468)",
-        "at": "2026-11-06T22:12:45Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ef9a8c8fe990802e6da7c1f5610c7e820cf72bba",
-        "subject": "fix(deps): update dependency com.android.tools.emulator:proto to v32.5.1 (#6471)",
-        "at": "2026-11-06T22:11:57Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "90d2944a3d49bf4d8d4885c138c86df0b74d22a1",
-        "subject": "fix(deps): update dependency org.conscrypt:conscrypt-android to v2.9.0 (#6478)",
-        "at": "2026-11-06T22:08:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f92c9d4bd1f3af3fab86e6d8acaf1ac6bdbcaf32",
-        "subject": "chore(deps): update agp to v9.5.1 (#6466)",
-        "at": "2026-11-06T22:08:42Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
