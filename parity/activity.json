@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-14T10:14:07.569Z",
+  "generatedAt": "2026-11-14T11:12:53.317Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "7c31556090369c1297dbf633a2d842ad752a1b7b",
+        "subject": "chore(main): release 2.92.0 (#6539)",
+        "at": "2026-11-14T10:36:11Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "016ece98196ff610e89a40a14866c01b3f0a3315",
+        "subject": "feat(simulator): support Wear watch face, Watch Face Push and complication scenarios (#6544)",
+        "at": "2026-11-14T10:21:50Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bb414aa620289c2638e8b32b94385a9b66438998",
+        "subject": "fix: translate portable overrides in static DWF fallback and keep unbridged APK lane unavailable (#6546)",
+        "at": "2026-11-14T10:20:05Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "94fc8f6de3c387bf34e1dbae5bdf9c65ba3d212e",
         "subject": "feat: support DWF watch face bundles and renderer-neutral serve overrides (#6545)",
@@ -459,30 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.26.0 (#6484)",
         "at": "2026-11-07T02:08:21Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a2f347592cf4be740e3c61c7d95d8cecefef2d06",
-        "subject": "fix(ci): install MetalToolchain in build-angle.sh when missing (#6481)",
-        "at": "2026-11-06T23:36:17Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "48df4b1d26eaccd78fefe1a8e3a97ed397443ccb",
-        "subject": "fix(deps): update ktfmt to v0.28.0 (#6480)",
-        "at": "2026-11-06T23:34:25Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c4a8cd288143145c0ba451032d6ae61923d38ccd",
-        "subject": "chore(samples): port the remotecompose sample buttons to wear-compose-remote alpha15 (#6482)",
-        "at": "2026-11-06T22:42:59Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
