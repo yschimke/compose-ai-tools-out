@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-14T13:04:11.854Z",
+  "generatedAt": "2026-11-14T19:41:13.616Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "16f4ee7e5c1eba6feaa13adbeeb366ea6aabf7e2",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.5.1 (#6550)",
+        "at": "2026-11-14T19:34:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "89265db8a55fe52e54cdff4f195562a100d3bc5f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.3.1 (#6548)",
@@ -474,14 +482,6 @@
         "sha": "038a401f9096a0ccb2aea3e09cf3647f5903a83c",
         "subject": "chore: restore the policy schema to the export driver's copy (#6487)",
         "at": "2026-11-07T13:20:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b67e46bb51daea8aeda66aee58c80263de7616e2",
-        "subject": "feat: publish a catalog's new-design device (#6485)",
-        "at": "2026-11-07T12:52:10Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
