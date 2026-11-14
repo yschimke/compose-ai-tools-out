@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-14T06:03:00.007Z",
+  "generatedAt": "2026-11-14T10:14:07.569Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "94fc8f6de3c387bf34e1dbae5bdf9c65ba3d212e",
+        "subject": "feat: support DWF watch face bundles and renderer-neutral serve overrides (#6545)",
+        "at": "2026-11-14T10:05:28Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "487ddd1b6cc500dbd7c4e5ba7dc8e56d1f5e5c25",
+        "subject": "feat: add DWF watch face preview daemon and dynamic complication overrides (#6542)",
+        "at": "2026-11-14T07:11:57Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0d343fdb9b50cd20a0a1c88273505cb3737ead65",
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.2.0 (#6543)",
@@ -467,22 +483,6 @@
         "subject": "chore(samples): port the remotecompose sample buttons to wear-compose-remote alpha15 (#6482)",
         "at": "2026-11-06T22:42:59Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d3a3144292dd0fb29ccb4df4154211275e892a01",
-        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.9.0 (#6479)",
-        "at": "2026-11-06T22:27:45Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9bfbeea3f6208fcc02c38ec3b3fc039beecd6b79",
-        "subject": "fix(deps): update dependency org.jmdns:jmdns to v3.6.5 (#6474)",
-        "at": "2026-11-06T22:25:26Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
