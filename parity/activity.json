@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-14T11:12:53.317Z",
+  "generatedAt": "2026-11-14T13:04:11.854Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "89265db8a55fe52e54cdff4f195562a100d3bc5f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.3.1 (#6548)",
+        "at": "2026-11-14T12:36:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7427827dde4c9d1a9eacca3722b419fe293e8d15",
+        "subject": "chore(ci): bump design-artifacts driver pin to v2.92.0 (#6547)",
+        "at": "2026-11-14T11:41:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7c31556090369c1297dbf633a2d842ad752a1b7b",
         "subject": "chore(main): release 2.92.0 (#6539)",
@@ -467,22 +483,6 @@
         "subject": "feat: publish a catalog's new-design device (#6485)",
         "at": "2026-11-07T12:52:10Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c77a08d6539188ba2ef26647352f35fabd33dcf9",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.27.0 (#6486)",
-        "at": "2026-11-07T12:50:45Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a688f480814136c283976ae052521739c404c52c",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.26.0 (#6484)",
-        "at": "2026-11-07T02:08:21Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
