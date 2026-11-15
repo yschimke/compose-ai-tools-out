@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-15T13:21:06.669Z",
+  "generatedAt": "2026-11-15T18:48:01.032Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "dd35c65c207ccd3bfc492e9b106f74bee4e73985",
+        "subject": "fix(deps): update rc-players (#6565)",
+        "at": "2026-11-15T18:39:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "502ab2243146fab1fa21364ee49968715435ff55",
+        "subject": "fix(deps): update dependency com.github.luben:zstd-jni to v1.5.7-26 (#6564)",
+        "at": "2026-11-15T18:37:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "370c920be6f6c6170801d3e84881364ac9791ed7",
+        "subject": "fix: fix DWF ColorConfiguration tinting and NamedVariable registration (#6563)",
+        "at": "2026-11-15T18:17:59Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e602ea4975cb6941225d890a0e78d1555da6bc80",
+        "subject": "docs: add dwf-apk vs dwf-rc baseline evidence and diff tool (#6562)",
+        "at": "2026-11-15T15:15:05Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6c1d74b66522851c5bd62e2c75438f7edf05ea82",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.94.0 (#6561)",
+        "at": "2026-11-15T13:15:05Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "97e3cde2a410bff1bf48d2598c64f070ee7951d7",
+        "subject": "fix(watchface): clear stale slots before flavor config and refresh flavor complications (#6559)",
+        "at": "2026-11-15T13:13:06Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4da7d291557143acd2cb51ee3e0eefa2e98999ad",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.0 (#6558)",
@@ -435,54 +483,6 @@
         "subject": "fix(discovery): default @ScrollingPreview reduceMotion to false (#6504)",
         "at": "2026-11-10T00:52:10Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dfe2d09eda246dbc6c3355699e8e55c37eb13f24",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.31.0 (#6502)",
-        "at": "2026-11-09T10:58:22Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "85b77073b3c4eebd12ae08bc48eb9724126203c1",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.29.0 (#6500)",
-        "at": "2026-11-08T01:54:56Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2a398d671affc34840afc88ca5084c602b22bf56",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.42.0 (#6499)",
-        "at": "2026-11-08T01:53:31Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "227285a4e5507bbb9a5ccb202c8df5ba95aa4caa",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.28.0 (#6498)",
-        "at": "2026-11-07T21:33:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4ae1795cca7e5c1e67a344575822349c97023b8e",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.3 (#6495)",
-        "at": "2026-11-07T18:23:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6cf2a03083dbd50d5a7130d6699785f0c12db0bb",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.89.0 (#6496)",
-        "at": "2026-11-07T18:10:27Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
