@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-15T09:40:31.796Z",
+  "generatedAt": "2026-11-15T13:21:06.669Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "4da7d291557143acd2cb51ee3e0eefa2e98999ad",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.0 (#6558)",
+        "at": "2026-11-15T13:05:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b2c6a83449e4dff41b9fb910739f493f411a9849",
+        "subject": "chore(main): release 2.94.0 (#6555)",
+        "at": "2026-11-15T12:40:44Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "36a21e6b9f9d2ffcb38f832abdf71bb156a551e3",
+        "subject": "fix(watchface): support flavor config on APK host and reset complication colors (#6557)",
+        "at": "2026-11-15T11:57:38Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "09f845d50fa131956592168a35d5b1ee50f7d404",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.93.0 (#6556)",
+        "at": "2026-11-15T11:13:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1d164a1e641e4f818c9473ca7719bc25d8c9b99b",
+        "subject": "feat: default watch-face previews to dwf-apk and support URL images (#6554)",
+        "at": "2026-11-15T11:10:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5f0cf11d7e84836f93bcbb4c5ef88c55fd83a2bb",
         "subject": "chore(main): release 2.93.0 (#6549)",
@@ -442,46 +482,6 @@
         "sha": "6cf2a03083dbd50d5a7130d6699785f0c12db0bb",
         "subject": "chore(ci): update the design-artifacts export driver to v2.89.0 (#6496)",
         "at": "2026-11-07T18:10:27Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3e3225134cd4823aa86d62bfec6180e75aaabf9b",
-        "subject": "chore(main): release 2.89.0 (#6491)",
-        "at": "2026-11-07T16:06:43Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0b70bd4fa5f71c88ff8e0e23e4274817a88a9058",
-        "subject": "feat: let consumers exclude activities from activity previews (#6494)",
-        "at": "2026-11-07T15:39:29Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fc76fe0cd87d99a1fbcf8c3acc2d896318dfbe09",
-        "subject": "ci(a11y): brief PR report with links, folding findings already reported (#6493)",
-        "at": "2026-11-07T14:54:34Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8a67c8f8a60886cc64c7ab35e722ef50a598d522",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.88.0 (#6492)",
-        "at": "2026-11-07T14:24:57Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "aa5c29e01359e75429453a23c6cb723639936659",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.41.0 (#6489)",
-        "at": "2026-11-07T14:09:47Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
