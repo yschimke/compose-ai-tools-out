@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "227f8d3de73812e1e81cd637045dcb12d3ecac6f",
+    "generatedFrom": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
     "previews": {
         "samples:android-alpha/com.example.samplealpha.FocusRingPreviewsKt.FocusOverlayPreview_Focus Overlay": {
             "path": "renders/samples:android-alpha/FocusOverlayPreview_Focus_Overlay-30b93fa8.png",
@@ -6556,6 +6556,831 @@
             "unstable": false,
             "flapCount": 0
         },
+        "samples:design-catalog-wear-m3/colorcatalog__Wear_palette": {
+            "path": "renders/samples:design-catalog-wear-m3/colorcatalog__Wear_palette.png",
+            "versions": [
+                {
+                    "blob": "d0f8768c7fd724714f291694fb87d459feee3686",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CardScalingPreviewKt.CardScalingScrollGif_Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/CardScalingScrollGif_Large_Round-caf8b1ab.gif",
+            "versions": [
+                {
+                    "blob": "b2ba447dbcc1219fad9d4700d51d72fb9e038aab",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CardScalingPreviewKt.CardScaling_Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/CardScaling_Large_Round-7a6816c2_SCROLL_top.png",
+            "versions": [
+                {
+                    "blob": "d7684945840fef77149c5529454e680aa3cd8d63",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CardScalingPreviewKt.CardScaling_Large Round#1": {
+            "path": "renders/samples:design-catalog-wear-m3/CardScaling_Large_Round-7a6816c2_SCROLL_end.png",
+            "versions": [
+                {
+                    "blob": "19d445dce3dcf8dc96508da4a6f2570b4f584809",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.AppCardSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/AppCardSticker-0511a664.png",
+            "versions": [
+                {
+                    "blob": "5d56a1772a510640a0fb3ce5411beda88f160b67",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.ButtonFocused": {
+            "path": "renders/samples:design-catalog-wear-m3/ButtonFocused-88f5fd11.png",
+            "versions": [
+                {
+                    "blob": "6f4a2b951e9668838eb843d6cffffd8f97b1eb4a",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.ButtonGroupSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/ButtonGroupSticker-01a92ed4.png",
+            "versions": [
+                {
+                    "blob": "86d6fb60e5708a2fb7fad70641da1165ca7389ec",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.ButtonPressed": {
+            "path": "renders/samples:design-catalog-wear-m3/ButtonPressed-2ae1b0cc.png",
+            "versions": [
+                {
+                    "blob": "2586595cd361053d4704600a707fd445e73d9f78",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.CardSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/CardSticker-969b9614.png",
+            "versions": [
+                {
+                    "blob": "be20a76da83b4b6bf56b22b3e67fdb27f4bad1f8",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.ChildButtonSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/ChildButtonSticker-3f85a48b.png",
+            "versions": [
+                {
+                    "blob": "bf147d5f46b33836a83ee48d5a0f78f5426db4e1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.CircularProgressSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/CircularProgressSticker-7c820266.png",
+            "versions": [
+                {
+                    "blob": "791aa103b71b5f7720f8cea6490a0bf5806452ca",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.ColorSchemeSpecimen": {
+            "path": "renders/samples:design-catalog-wear-m3/ColorSchemeSpecimen-396e8c6b.png",
+            "versions": [
+                {
+                    "blob": "e1dbc7f1762522169374a95ac6d88eea7e059930",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.CompactButtonSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/CompactButtonSticker-5e2b504a.png",
+            "versions": [
+                {
+                    "blob": "854a0e10791e5fb64785c7aaf576f6ba85038d09",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.EdgeButtonSticker_Extra Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/EdgeButtonSticker_Extra_Large_Round-0cc500d4.png",
+            "versions": [
+                {
+                    "blob": "d4799ffe025d277b79ffe3c85df70ea460bb6a67",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.EdgeButtonSticker_Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/EdgeButtonSticker_Large_Round-811eb1e3.png",
+            "versions": [
+                {
+                    "blob": "0671e005e3b014d942f542568bf4c6614ba2efa4",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.EdgeButtonSticker_Small Round": {
+            "path": "renders/samples:design-catalog-wear-m3/EdgeButtonSticker_Small_Round-be61bfd8.png",
+            "versions": [
+                {
+                    "blob": "f6bba826e320683aa3bebfc92b89161b098cfcb8",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.FilledButton": {
+            "path": "renders/samples:design-catalog-wear-m3/FilledButton-f83b812e.png",
+            "versions": [
+                {
+                    "blob": "9e46e20666cfc45f73121e2a87139de8ba16d4b5",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.FilledButton_VARIANT_disabled": {
+            "path": "renders/samples:design-catalog-wear-m3/FilledButton_VARIANT_disabled-2e4c3508.png",
+            "versions": [
+                {
+                    "blob": "098d990b7c15dce906f3e87642e2c6497ba1caa8",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.FilledTonalButtonSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/FilledTonalButtonSticker-4a48fe41.png",
+            "versions": [
+                {
+                    "blob": "edfce12eb990900b8f4020ade8214e9107ab0de1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.IconButtonSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/IconButtonSticker-6670ead5.png",
+            "versions": [
+                {
+                    "blob": "38ca11a9bb8f5aa7fcb84c5ee63138ff0f2cd620",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.IconSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/IconSticker-41c04e35.png",
+            "versions": [
+                {
+                    "blob": "58a20d44a548d09ab559aa4340cd6259cbd11450",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.IndeterminateCircularProgressGif": {
+            "path": "renders/samples:design-catalog-wear-m3/IndeterminateCircularProgressGif-9750d5f5.gif",
+            "versions": [
+                {
+                    "blob": "1398e166393bae10bff9a9e83c573d97dc2cb981",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.IndeterminateCircularProgressSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/IndeterminateCircularProgressSticker-08fc79fa.png",
+            "versions": [
+                {
+                    "blob": "93a20109c1e6da12c463b4326515323e8a19a712",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.OutlinedButtonSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/OutlinedButtonSticker-8d071c35.png",
+            "versions": [
+                {
+                    "blob": "da60d3c6bd648800d10c49620855a027f28b319b",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.OutlinedCardSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/OutlinedCardSticker-83b90f11.png",
+            "versions": [
+                {
+                    "blob": "03a1dcaef3b8145ca1a712269f4464c25b5c0f5f",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.PageIndicatorScaffoldTemplate_Extra Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/PageIndicatorScaffoldTemplate_Extra_Large_Round-56328830.png",
+            "versions": [
+                {
+                    "blob": "bf6369b683e10135f9d1cae59261347d1c49e42c",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.PageIndicatorScaffoldTemplate_Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/PageIndicatorScaffoldTemplate_Large_Round-809d5058.png",
+            "versions": [
+                {
+                    "blob": "598ac60e7664d1f12082d1602e9d40503ec464c2",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.PageIndicatorScaffoldTemplate_Small Round": {
+            "path": "renders/samples:design-catalog-wear-m3/PageIndicatorScaffoldTemplate_Small_Round-8ba94a31.png",
+            "versions": [
+                {
+                    "blob": "41964a9d729304268e412597a4b59507dc383b4f",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.ScalingListSticker_Extra Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/ScalingListSticker_Extra_Large_Round-a552f068.png",
+            "versions": [
+                {
+                    "blob": "0937c552417a3be68d098309df4c9ac4eb645081",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.ScalingListSticker_Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/ScalingListSticker_Large_Round-58cc4bcc.png",
+            "versions": [
+                {
+                    "blob": "2a9f127094df4ecdd51ea7222e8a000748a8dcc0",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.ScalingListSticker_Small Round": {
+            "path": "renders/samples:design-catalog-wear-m3/ScalingListSticker_Small_Round-4e49f384.png",
+            "versions": [
+                {
+                    "blob": "81759b8ec4ab1c9527ab4a9918517e6cb304225d",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.SwitchButtonOn": {
+            "path": "renders/samples:design-catalog-wear-m3/SwitchButtonOn-3f3536cc.png",
+            "versions": [
+                {
+                    "blob": "530d57c899cf7fab8a7ca790c5741846e2177439",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.SwitchButtonOn#1": {
+            "path": "renders/samples:design-catalog-wear-m3/SwitchButtonOn-3f3536cc.apng",
+            "versions": [
+                {
+                    "blob": "2a11308132d12e6f12708db59b552e071cfd2ba5",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.SwitchButtonOn_VARIANT_off": {
+            "path": "renders/samples:design-catalog-wear-m3/SwitchButtonOn_VARIANT_off-218d1a68.png",
+            "versions": [
+                {
+                    "blob": "12fef3f661e15f45e4359e12a9e6ddb8acd30c7c",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.TextMaxLinesTruncated": {
+            "path": "renders/samples:design-catalog-wear-m3/TextMaxLinesTruncated-7f494e93.png",
+            "versions": [
+                {
+                    "blob": "3cd7da990022d8fd0261fe0a24a030c296301efe",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.TimeTextScaffoldTemplate_Extra Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/TimeTextScaffoldTemplate_Extra_Large_Round-7a8d053e.png",
+            "versions": [
+                {
+                    "blob": "2b2e289e86722b4e717b5770d9e779b4ba78267b",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.TimeTextScaffoldTemplate_Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/TimeTextScaffoldTemplate_Large_Round-954aa5b2.png",
+            "versions": [
+                {
+                    "blob": "ddaa6dd8cafef7fd48611e65c618df829c515c90",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.TimeTextScaffoldTemplate_Small Round": {
+            "path": "renders/samples:design-catalog-wear-m3/TimeTextScaffoldTemplate_Small_Round-d20653fc.png",
+            "versions": [
+                {
+                    "blob": "a5306ae12a8735e876078712ecda230b910db726",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.TitleCardSticker": {
+            "path": "renders/samples:design-catalog-wear-m3/TitleCardSticker-cbc914a7.png",
+            "versions": [
+                {
+                    "blob": "1b39fd0ba4158fbd16dd2624a942b940028068a3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.CatalogPreviewsKt.TypographySpecimen": {
+            "path": "renders/samples:design-catalog-wear-m3/TypographySpecimen-51bfdfc6.png",
+            "versions": [
+                {
+                    "blob": "b81e260d53bc429e5462bd6196a09af8aeb11558",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.UiBuilderGeneratedScreenKt.ActivityScreenLongPreview_wearos_small_round": {
+            "path": "renders/samples:design-catalog-wear-m3/ActivityScreenLongPreview_wearos_small_round-e3820901.png",
+            "versions": [
+                {
+                    "blob": "e98910ee925ce391320eada6f3789634517912c1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.UiBuilderGeneratedScreenKt.ActivityScreenPreview_Devices - Large Round": {
+            "path": "renders/samples:design-catalog-wear-m3/ActivityScreenPreview_Devices_Large_Round-07b3e1dc.png",
+            "versions": [
+                {
+                    "blob": "917b538f9bc5d9a77c70505a88c6aeff2553a0ed",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/com.example.designcatalogwearm3.UiBuilderGeneratedScreenKt.ActivityScreenPreview_Devices - Small Round": {
+            "path": "renders/samples:design-catalog-wear-m3/ActivityScreenPreview_Devices_Small_Round-acd68959.png",
+            "versions": [
+                {
+                    "blob": "683dca13937b698d90b4a853c2706291fc7bdb22",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/shapecatalog__Wear_shapes": {
+            "path": "renders/samples:design-catalog-wear-m3/shapecatalog__Wear_shapes.png",
+            "versions": [
+                {
+                    "blob": "0eea915643b257af46f5cca3bc2a09136d6de658",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/typographycatalog__Google_Sans_Flex": {
+            "path": "renders/samples:design-catalog-wear-m3/typographycatalog__Google_Sans_Flex.png",
+            "versions": [
+                {
+                    "blob": "d7a72c57f293f659c7138acbacc3a7b9788798bd",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/typographycatalog__Inter": {
+            "path": "renders/samples:design-catalog-wear-m3/typographycatalog__Inter.png",
+            "versions": [
+                {
+                    "blob": "d8afd30c774c92f59eaf2ad24ad3914422d0decc",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/typographycatalog__JetBrains_Mono": {
+            "path": "renders/samples:design-catalog-wear-m3/typographycatalog__JetBrains_Mono.png",
+            "versions": [
+                {
+                    "blob": "6bc85ac64037b7bc8e686e88687f2ed5512a93f1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/typographycatalog__Lobster_Two": {
+            "path": "renders/samples:design-catalog-wear-m3/typographycatalog__Lobster_Two.png",
+            "versions": [
+                {
+                    "blob": "b88ebd5f41bec066b3686a86bf133a7e6ebd02ce",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/typographycatalog__Roboto_Flex": {
+            "path": "renders/samples:design-catalog-wear-m3/typographycatalog__Roboto_Flex.png",
+            "versions": [
+                {
+                    "blob": "b825a9e7b83229fe8915c3f1bed42828a4218bf1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/typographycatalog__all": {
+            "path": "renders/samples:design-catalog-wear-m3/typographycatalog__all.png",
+            "versions": [
+                {
+                    "blob": "5ff478dc12e8067ccd685b4346fd5440ffa3c74c",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/wearthemecatalog__Coral": {
+            "path": "renders/samples:design-catalog-wear-m3/wearthemecatalog__Coral.png",
+            "versions": [
+                {
+                    "blob": "bc23e45f045446620c6793feda54fa4713849ce5",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/wearthemecatalog__Google_Sans_Flex": {
+            "path": "renders/samples:design-catalog-wear-m3/wearthemecatalog__Google_Sans_Flex.png",
+            "versions": [
+                {
+                    "blob": "0349413afab2bbf3ae854e343274117259878d89",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/wearthemecatalog__KotlinConf": {
+            "path": "renders/samples:design-catalog-wear-m3/wearthemecatalog__KotlinConf.png",
+            "versions": [
+                {
+                    "blob": "8ed4e3e3f78f32d80d124cc6afc389b8430f61c6",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/wearthemecatalog__M3": {
+            "path": "renders/samples:design-catalog-wear-m3/wearthemecatalog__M3.png",
+            "versions": [
+                {
+                    "blob": "05360b9e83366e5446fb80da449a8f56c8e64b04",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:design-catalog-wear-m3/wearthemecatalog__Teal": {
+            "path": "renders/samples:design-catalog-wear-m3/wearthemecatalog__Teal.png",
+            "versions": [
+                {
+                    "blob": "536ff08f57a6dcbd4766f071dcf2ba0ef079dd31",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
         "samples:desktop-daemon-bench/com.example.desktopdaemonbench.BenchPreviewsKt.BlueLabelPreview_BlueLabel": {
             "path": "renders/samples:desktop-daemon-bench/BlueLabelPreview_BlueLabel-46b6b7b2.png",
             "versions": [
@@ -6679,20 +7504,12 @@
             "path": "renders/samples:remotecompose/RemoteAnimatedCircularProgressIndicatorEmbeddedPreview-b1500f26.png",
             "versions": [
                 {
-                    "blob": "4fb79c67f2d8e0f47ac583b17aa9f3dcce04e1da",
-                    "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
-                    "date": "2026-11-06T23:54:13Z",
-                    "sourceSha": "48df4b1d",
+                    "blob": "73b7b420de15f46769d7cb8299f5aef86ad71543",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
                     "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteAnimatedCircularProgressIndicatorStandardPreview": {
-            "path": "renders/samples:remotecompose/RemoteAnimatedCircularProgressIndicatorStandardPreview-012dea9c.png",
-            "versions": [
+                },
                 {
                     "blob": "4fb79c67f2d8e0f47ac583b17aa9f3dcce04e1da",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
@@ -6701,7 +7518,29 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteAnimatedCircularProgressIndicatorStandardPreview": {
+            "path": "renders/samples:remotecompose/RemoteAnimatedCircularProgressIndicatorStandardPreview-012dea9c.png",
+            "versions": [
+                {
+                    "blob": "73b7b420de15f46769d7cb8299f5aef86ad71543",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                },
+                {
+                    "blob": "4fb79c67f2d8e0f47ac583b17aa9f3dcce04e1da",
+                    "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
+                    "date": "2026-11-06T23:54:13Z",
+                    "sourceSha": "48df4b1d",
+                    "commits": 1
+                }
+            ],
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -6731,6 +7570,13 @@
             "path": "renders/samples:remotecompose/RemoteButtonWithBorderPreview-298b3408.png",
             "versions": [
                 {
+                    "blob": "debb794fd235e8d50ac2cd1cb50dc686beee4d7b",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                },
+                {
                     "blob": "757e6ffb1bf7a5a9b52aab46caf4113f6a0a3ef1",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
                     "date": "2026-11-06T23:54:13Z",
@@ -6738,13 +7584,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteButtonWithNamedLabelPreview": {
             "path": "renders/samples:remotecompose/RemoteButtonWithNamedLabelPreview-f3014b8f.png",
             "versions": [
+                {
+                    "blob": "0e7564f649f865aacf30b18ef2be8c608ff9476f",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                },
                 {
                     "blob": "2c4b2d2e2c18c26e287fc20bbdf57a0bd0ab89b3",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
@@ -6753,7 +7606,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -6828,20 +7681,12 @@
             "path": "renders/samples:remotecompose/RemoteIndeterminateCircularProgressIndicatorEmbeddedPreview-53123345.gif",
             "versions": [
                 {
-                    "blob": "41945abc7ab5d7d0509f3b0c6314cbaf72fa03e5",
-                    "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
-                    "date": "2026-11-06T23:54:13Z",
-                    "sourceSha": "48df4b1d",
+                    "blob": "76cad038e2ad617ff982363b70aa7fc7da0438f5",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
                     "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteIndeterminateCircularProgressIndicatorStandardPreview": {
-            "path": "renders/samples:remotecompose/RemoteIndeterminateCircularProgressIndicatorStandardPreview-ce0e723c.gif",
-            "versions": [
+                },
                 {
                     "blob": "41945abc7ab5d7d0509f3b0c6314cbaf72fa03e5",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
@@ -6850,13 +7695,42 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteIndeterminateCircularProgressIndicatorStandardPreview": {
+            "path": "renders/samples:remotecompose/RemoteIndeterminateCircularProgressIndicatorStandardPreview-ce0e723c.gif",
+            "versions": [
+                {
+                    "blob": "76cad038e2ad617ff982363b70aa7fc7da0438f5",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                },
+                {
+                    "blob": "41945abc7ab5d7d0509f3b0c6314cbaf72fa03e5",
+                    "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
+                    "date": "2026-11-06T23:54:13Z",
+                    "sourceSha": "48df4b1d",
+                    "commits": 1
+                }
+            ],
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "samples:remotecompose/com.example.sampleremotecompose.PreviewsKt.RemoteShaderGradientPreview": {
             "path": "renders/samples:remotecompose/RemoteShaderGradientPreview-6739688f.png",
             "versions": [
+                {
+                    "blob": "e73e9e82a88dffbbf839e5d168c2a10f2cc6b565",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                },
                 {
                     "blob": "3975e51bfc739718374edb886569bc4c074f74fe",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
@@ -6865,7 +7739,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -6933,6 +7807,13 @@
             "path": "renders/samples:remotecompose/RemoteWidgetSquirclePreview_Remote_Widget_Squircle-2f39ed33.png",
             "versions": [
                 {
+                    "blob": "e59540563eb0eb5773242704d6dbae31af53d894",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                },
+                {
                     "blob": "923c12ca12c7d6edfae1cdf2b63750b87bab2c09",
                     "commit": "31b0279b67d3ec6fc8ed6a1559f5b83ad13eba57",
                     "date": "2026-11-06T23:54:13Z",
@@ -6940,7 +7821,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -7085,6 +7966,1326 @@
                     "commit": "227f8d3de73812e1e81cd637045dcb12d3ecac6f",
                     "date": "2026-11-15T13:39:47Z",
                     "sourceSha": "6c1d74b6",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.ActivitySummaryWidgetKt.ActivitySummaryWidgetRectangularPreview_Rectangular Preview": {
+            "path": "renders/samples:wear-widget/ActivitySummaryWidgetRectangularPreview_Rectangular_Preview-860a1011.png",
+            "versions": [
+                {
+                    "blob": "e66b7fdff435645535330a8fabb409fab87c6d6d",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.ActivitySummaryWidgetKt.ActivitySummaryWidgetRoundPreview_Round Preview": {
+            "path": "renders/samples:wear-widget/ActivitySummaryWidgetRoundPreview_Round_Preview-55cf0f7d.png",
+            "versions": [
+                {
+                    "blob": "8f9a3f69ce8a252d1308bf894fc313f613812ea6",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.ActivitySummaryWidgetKt.ActivitySummaryWidgetSquirclePreview_Squircle Preview": {
+            "path": "renders/samples:wear-widget/ActivitySummaryWidgetSquirclePreview_Squircle_Preview-a0071b12.png",
+            "versions": [
+                {
+                    "blob": "e4505e7747359c40afee6b957688403befbe0eaf",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetDeviceSpecPreview_Image Widget Device Spec": {
+            "path": "renders/samples:wear-widget/ImageWidgetDeviceSpecPreview_Image_Widget_Device_Spec-f47b26ee_PARAM_0.png",
+            "versions": [
+                {
+                    "blob": "182fd9091439da969a5c05376424ddaf97fa2fb9",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetDeviceSpecPreview_Image Widget Device Spec#1": {
+            "path": "renders/samples:wear-widget/ImageWidgetDeviceSpecPreview_Image_Widget_Device_Spec-f47b26ee_PARAM_1.png",
+            "versions": [
+                {
+                    "blob": "edb0c8549591763fbb482186f210f726e5e7ecd1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetFixedPreview_Image Widget Fixed": {
+            "path": "renders/samples:wear-widget/ImageWidgetFixedPreview_Image_Widget_Fixed-a795d081.png",
+            "versions": [
+                {
+                    "blob": "ed9210ee575bdd556bc6ec2eb70ac5bdf9bf7d22",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquircleLargePreview_Image Widget Squircle Large": {
+            "path": "renders/samples:wear-widget/ImageWidgetSquircleLargePreview_Image_Widget_Squircle_Large-3af652d3_PARAM_0.png",
+            "versions": [
+                {
+                    "blob": "182fd9091439da969a5c05376424ddaf97fa2fb9",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquircleLargePreview_Image Widget Squircle Large#1": {
+            "path": "renders/samples:wear-widget/ImageWidgetSquircleLargePreview_Image_Widget_Squircle_Large-3af652d3_PARAM_1.png",
+            "versions": [
+                {
+                    "blob": "edb0c8549591763fbb482186f210f726e5e7ecd1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquirclePreview_Image Widget Squircle": {
+            "path": "renders/samples:wear-widget/ImageWidgetSquirclePreview_Image_Widget_Squircle-a5e42be2_PARAM_0.png",
+            "versions": [
+                {
+                    "blob": "86fc8cb11c69bc4c99280a1d3cdfc7f2f7e40e05",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquirclePreview_Image Widget Squircle#1": {
+            "path": "renders/samples:wear-widget/ImageWidgetSquirclePreview_Image_Widget_Squircle-a5e42be2_PARAM_1.png",
+            "versions": [
+                {
+                    "blob": "fac93998ac5d721e8858885599a2fd3fc45f0901",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquirclePreview_Image Widget Squircle#2": {
+            "path": "renders/samples:wear-widget/ImageWidgetSquirclePreview_Image_Widget_Squircle-a5e42be2_PARAM_2.png",
+            "versions": [
+                {
+                    "blob": "182fd9091439da969a5c05376424ddaf97fa2fb9",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear-widget/com.example.wearwidget.WearWidgetPreviewsKt.ImageWidgetSquirclePreview_Image Widget Squircle#3": {
+            "path": "renders/samples:wear-widget/ImageWidgetSquirclePreview_Image_Widget_Squircle-a5e42be2_PARAM_3.png",
+            "versions": [
+                {
+                    "blob": "edb0c8549591763fbb482186f210f726e5e7ecd1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/activity__MainActivity": {
+            "path": "renders/samples:wear/activity__MainActivity.png",
+            "versions": [
+                {
+                    "blob": "97ba50e21b0fdaa0c48c1db644578b59d66e4c9c",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.AmbientPreviewsKt.AmbientStatusAmbientPreview_Ambient body — ambient": {
+            "path": "renders/samples:wear/AmbientStatusAmbientPreview_Ambient_body_ambient-47248174.png",
+            "versions": [
+                {
+                    "blob": "fa095546eb6415f72f4bd75b46b46e4e34fbd28e",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.AmbientPreviewsKt.AmbientStatusInteractivePreview_Ambient body — interactive": {
+            "path": "renders/samples:wear/AmbientStatusInteractivePreview_Ambient_body_interactive-e608dece.png",
+            "versions": [
+                {
+                    "blob": "b780c800522e5d4aceebe84e2db816572a954c0b",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.DeviceSpecPreviewsKt.ActivityListDeviceMatrixPreview_Activity list · Custom Round 385dp 2.25x": {
+            "path": "renders/samples:wear/ActivityListDeviceMatrixPreview_Activity_list_Custom_Round_385dp_2_25x-56fd4ccb.png",
+            "versions": [
+                {
+                    "blob": "34a4a5cf9650c80c408a1fa5479c0f141ecb1dc5",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.DeviceSpecPreviewsKt.ActivityListDeviceMatrixPreview_Activity list · XL Round 240dp": {
+            "path": "renders/samples:wear/ActivityListDeviceMatrixPreview_Activity_list_XL_Round_240dp-f001d04a.png",
+            "versions": [
+                {
+                    "blob": "03a05de751158ce26fc87fd95f84c8c8741face3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.DeviceSpecPreviewsKt.WearDeviceMatrixPreview_Custom Round 385dp 2.25x": {
+            "path": "renders/samples:wear/WearDeviceMatrixPreview_Custom_Round_385dp_2_25x-86a9e950.png",
+            "versions": [
+                {
+                    "blob": "3092c16fd02f388d41a6498385147fd053a9c7b2",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.DeviceSpecPreviewsKt.WearDeviceMatrixPreview_Large Round 227dp": {
+            "path": "renders/samples:wear/WearDeviceMatrixPreview_Large_Round_227dp-6e431ca7.png",
+            "versions": [
+                {
+                    "blob": "dab816d58ff74dfe44a849f10d682db65eae507f",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.DeviceSpecPreviewsKt.WearDeviceMatrixPreview_Small Round 192dp": {
+            "path": "renders/samples:wear/WearDeviceMatrixPreview_Small_Round_192dp-ca22fc06.png",
+            "versions": [
+                {
+                    "blob": "79ffe303702ff37ab66e26dc23295a0b2fbaeeeb",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.DeviceSpecPreviewsKt.WearDeviceMatrixPreview_XL Round 240dp": {
+            "path": "renders/samples:wear/WearDeviceMatrixPreview_XL_Round_240dp-1f5c776d.png",
+            "versions": [
+                {
+                    "blob": "58dd7fd05d74e63b891037e056984ecbd665f843",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GestureHintPreviewsKt.MediaGestureScreenHintPreview_Media — hints on": {
+            "path": "renders/samples:wear/MediaGestureScreenHintPreview_Media_hints_on-35de4e0d_TIME_800ms.png",
+            "versions": [
+                {
+                    "blob": "5af2dbab3690e8dc4cf8fbda3de2f22597eb4d8d",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GestureHintPreviewsKt.MediaGestureScreenPreview_Media — hints off": {
+            "path": "renders/samples:wear/MediaGestureScreenPreview_Media_hints_off-e089b6a3.png",
+            "versions": [
+                {
+                    "blob": "ff390f134a39ccd1d05a8c7aed80fbee2c57b122",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.ButtonHintScreenPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/ButtonHintScreenPreview_Devices_Large_Round-760620e6_TIME_800ms.png",
+            "versions": [
+                {
+                    "blob": "dd063a20e7e0eb356bf77dc3a0f456614301ddae",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.DisabledGestureScreenPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/DisabledGestureScreenPreview_Devices_Large_Round-0db487e4.png",
+            "versions": [
+                {
+                    "blob": "d69c171127f8d5b0efb3c66e36f7d3782dbcfe0b",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.DismissActionScreenPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/DismissActionScreenPreview_Devices_Large_Round-288e3df3_TIME_800ms.png",
+            "versions": [
+                {
+                    "blob": "1f6dc97610110543fa3177461b465f10207bb3c9",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.GestureGalleryPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/GestureGalleryPreview_Devices_Large_Round-67656b37.png",
+            "versions": [
+                {
+                    "blob": "ac297831335401020cc53d4281f0b17a45d4c5ae",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.PageGestureScreenPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/PageGestureScreenPreview_Devices_Large_Round-c9dbc2c3.png",
+            "versions": [
+                {
+                    "blob": "62ff2b8063be45a7e2f6914846cd655304c3b7cd",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.PageIndicatorStickerPreview": {
+            "path": "renders/samples:wear/PageIndicatorStickerPreview-77a9301c.png",
+            "versions": [
+                {
+                    "blob": "e18880c7658a6d20322d1bfc3a7090a5dd3de852",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.PrimaryActionScreenPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/PrimaryActionScreenPreview_Devices_Large_Round-454385ac_TIME_800ms.png",
+            "versions": [
+                {
+                    "blob": "d2b23196f98128f6065b28390ce6d8945bff62e7",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.PrimaryActionStickerPreview": {
+            "path": "renders/samples:wear/PrimaryActionStickerPreview-bde44328_TIME_800ms.png",
+            "versions": [
+                {
+                    "blob": "b1a061f7ddffc3a8121de4b893c3ca15a5445ed2",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.ScrollGestureScreenPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/ScrollGestureScreenPreview_Devices_Large_Round-940cb46d.png",
+            "versions": [
+                {
+                    "blob": "21bde59ac47864b8dcb62c920b9930114b6b330f",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.GesturesKt.ScrollIndicatorStickerPreview": {
+            "path": "renders/samples:wear/ScrollIndicatorStickerPreview-836176d6.png",
+            "versions": [
+                {
+                    "blob": "723ed90a9595750734200b443090efae77e24192",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PlaceholderPreviewsKt.PlaceholderCardLoaded_wearos_small_round": {
+            "path": "renders/samples:wear/PlaceholderCardLoaded_wearos_small_round-19b1296d.png",
+            "versions": [
+                {
+                    "blob": "50c08227628a5da3a83e2b8a430ef1f229814a5f",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PlaceholderPreviewsKt.PlaceholderCardLoading_wearos_small_round": {
+            "path": "renders/samples:wear/PlaceholderCardLoading_wearos_small_round-636c01fa.png",
+            "versions": [
+                {
+                    "blob": "96c67893fc039c941f8af30db6d4de8602f57ec8",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PlaceholderPreviewsKt.PlaceholderCardOverrideDriven_wearos_small_round": {
+            "path": "renders/samples:wear/PlaceholderCardOverrideDriven_wearos_small_round-c95be631.png",
+            "versions": [
+                {
+                    "blob": "50c08227628a5da3a83e2b8a430ef1f229814a5f",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListFontScalesPreview_Fonts - Large": {
+            "path": "renders/samples:wear/ActivityListFontScalesPreview_Fonts_Large-11543d6b.png",
+            "versions": [
+                {
+                    "blob": "dcfa9e904fba33c5f24e0a97969b171c43bf7dad",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListFontScalesPreview_Fonts - Larger": {
+            "path": "renders/samples:wear/ActivityListFontScalesPreview_Fonts_Larger-ce47033b.png",
+            "versions": [
+                {
+                    "blob": "4ce778ad4dc84dd19eb68cf3868b88e981d13ee9",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListFontScalesPreview_Fonts - Largest": {
+            "path": "renders/samples:wear/ActivityListFontScalesPreview_Fonts_Largest-5951aa63.png",
+            "versions": [
+                {
+                    "blob": "7bf56c7a655b76d7e39e79bebc0e089712ee4dd1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListFontScalesPreview_Fonts - Medium": {
+            "path": "renders/samples:wear/ActivityListFontScalesPreview_Fonts_Medium-fc79daec.png",
+            "versions": [
+                {
+                    "blob": "6db6d1aba9e793b7b533a0fdc7240dfc1ff41aec",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListFontScalesPreview_Fonts - Normal": {
+            "path": "renders/samples:wear/ActivityListFontScalesPreview_Fonts_Normal-e724390d.png",
+            "versions": [
+                {
+                    "blob": "cc708f11f74dc2f42b67088077dc18415e2689f4",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListFontScalesPreview_Fonts - Small": {
+            "path": "renders/samples:wear/ActivityListFontScalesPreview_Fonts_Small-7c0b58ce.png",
+            "versions": [
+                {
+                    "blob": "169c23ec3a2dbac94e2cb3911ec1a935bc7926e5",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListGifPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/ActivityListGifPreview_Devices_Large_Round-3c100452.gif",
+            "versions": [
+                {
+                    "blob": "7224078245a651011cc1c7a67f9ce8e4a66d6996",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListLongPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/ActivityListLongPreview_Devices_Large_Round-5304b86a.png",
+            "versions": [
+                {
+                    "blob": "80d7425d744f76887bf07390a2f115fec70e6eb4",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListMotionLongPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/ActivityListMotionLongPreview_Devices_Large_Round-238953ff_SCROLL_long.png",
+            "versions": [
+                {
+                    "blob": "2eb6ffca0613b20314af8349535b969274a5c54c",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListMotionLongPreview_Devices - Large Round#1": {
+            "path": "renders/samples:wear/ActivityListMotionLongPreview_Devices_Large_Round-238953ff_SCROLL_gif.gif",
+            "versions": [
+                {
+                    "blob": "7fdb4891cc3dd69c230396abcf7916fd5bab5350",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/ActivityListPreview_Devices_Large_Round-e1600e4b.png",
+            "versions": [
+                {
+                    "blob": "29f7db90365977091ebf73f67c3add1c3926ff48",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ActivityListPreview_Devices - Small Round": {
+            "path": "renders/samples:wear/ActivityListPreview_Devices_Small_Round-c156fceb.png",
+            "versions": [
+                {
+                    "blob": "7b3f2d4973c688f554726eddd3aa8fbe9741b222",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.BadWearButtonPreview_Devices - Small Round": {
+            "path": "renders/samples:wear/BadWearButtonPreview_Devices_Small_Round-f602a4bd.png",
+            "versions": [
+                {
+                    "blob": "8e4dcddf0ba58c1932e7999cad271c4e99273a7f",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ButtonPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/ButtonPreview_Devices_Large_Round-d94d0c3c.png",
+            "versions": [
+                {
+                    "blob": "069d528eeb9e9bf03c6172fc3b9e71cb840d3bb8",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.ButtonPreview_Devices - Small Round": {
+            "path": "renders/samples:wear/ButtonPreview_Devices_Small_Round-5977caf7.png",
+            "versions": [
+                {
+                    "blob": "d85c148ddd1cfa3180fc4f0218430a339853e020",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.CircularProgressIndicatorPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/CircularProgressIndicatorPreview_Devices_Large_Round-7c93b36b.png",
+            "versions": [
+                {
+                    "blob": "ab02e2985a70f2297ea191eefa8271d95f846b4b",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.CircularProgressIndicatorPreview_Devices - Small Round": {
+            "path": "renders/samples:wear/CircularProgressIndicatorPreview_Devices_Small_Round-39c1ab95.png",
+            "versions": [
+                {
+                    "blob": "15deba4b9f52464b547f9d9ae837873f263addd1",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.PreviewsKt.SettingsMainScreenLongPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/SettingsMainScreenLongPreview_Devices_Large_Round-36703d30.png",
+            "versions": [
+                {
+                    "blob": "bbdb080c48c5e79cbe480f6a5226f5ee82fee68d",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.SystemClockPreviewsKt.WearAppSystemClockPreview_Devices - Large Round": {
+            "path": "renders/samples:wear/WearAppSystemClockPreview_Devices_Large_Round-ec8363cf.png",
+            "versions": [
+                {
+                    "blob": "84fbee93d53ceddeec3d9ed596e49bf1b54377d3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.TileImagePreviewsKt.DrawableImageTilePreview_Drawable Image": {
+            "path": "renders/samples:wear/DrawableImageTilePreview_Drawable_Image-811d1710.png",
+            "versions": [
+                {
+                    "blob": "7bf7d8b62caa41892703eacf088f66d4e95ecd9a",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.TileImagePreviewsKt.InlineImageTilePreview_Inline Image": {
+            "path": "renders/samples:wear/InlineImageTilePreview_Inline_Image-72f0dbc2.png",
+            "versions": [
+                {
+                    "blob": "f6f9bc8446dc66ff369691895a8d48fca3292873",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.TileImagePreviewsKt.ScopeImageTilePreview_Scope Image": {
+            "path": "renders/samples:wear/ScopeImageTilePreview_Scope_Image-e768729d.png",
+            "versions": [
+                {
+                    "blob": "6c3c5dd1d500a1580ff13d26d84b9ac9d4488c52",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.TilePreviewsKt.HelloTilePreview_Large Round": {
+            "path": "renders/samples:wear/HelloTilePreview_Large_Round-2069f80f.png",
+            "versions": [
+                {
+                    "blob": "8f2ce8346575f63045413122f36250a4884ddba7",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.TilePreviewsKt.HelloTilePreview_Small Round": {
+            "path": "renders/samples:wear/HelloTilePreview_Small_Round-0d9ba862.png",
+            "versions": [
+                {
+                    "blob": "d99d8cd2ff6a7c3c4c23c48517e818dfbdca60a3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.TilePreviewsKt.StepsTilePreview_Large Round": {
+            "path": "renders/samples:wear/StepsTilePreview_Large_Round-c4b69bba.png",
+            "versions": [
+                {
+                    "blob": "b4e9cd877d9932c6717b8cc836ddf93b154309e9",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.TilePreviewsKt.StepsTilePreview_Small Round": {
+            "path": "renders/samples:wear/StepsTilePreview_Small_Round-72b09514.png",
+            "versions": [
+                {
+                    "blob": "328ee95b3a0930a47b9a7bfcbe8e50e0f00c1d8b",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.WearRealDevicePreviewsKt.ActivityListRealDeviceMatrixPreview_Galaxy Watch 5 44mm · 450px @340dpi · 211dp": {
+            "path": "renders/samples:wear/ActivityListRealDeviceMatrixPreview_Galaxy_Watch_5_44mm_450px_340dpi_211dp-934d83d6.png",
+            "versions": [
+                {
+                    "blob": "1c78bc54668b0fafaa8a512464a2022bbad9a8ac",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.WearRealDevicePreviewsKt.ActivityListRealDeviceMatrixPreview_Galaxy Watch 7 44mm · 480px @340dpi · 225dp": {
+            "path": "renders/samples:wear/ActivityListRealDeviceMatrixPreview_Galaxy_Watch_7_44mm_480px_340dpi_225dp-2cd4c861.png",
+            "versions": [
+                {
+                    "blob": "57e4275c0cd82e8c21cea5eac35e443b0384a62e",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.WearRealDevicePreviewsKt.ActivityListRealDeviceMatrixPreview_Pixel Watch 3 45mm · 456px @320dpi · 228dp": {
+            "path": "renders/samples:wear/ActivityListRealDeviceMatrixPreview_Pixel_Watch_3_45mm_456px_320dpi_228dp-7763fc86.png",
+            "versions": [
+                {
+                    "blob": "78dd3c80557e1d88f25b1c7bdec16fb56f610be0",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.WearRealDevicePreviewsKt.ActivityListRealDeviceMatrixPreview_Pixel Watch · 450px @320dpi · 225dp": {
+            "path": "renders/samples:wear/ActivityListRealDeviceMatrixPreview_Pixel_Watch_450px_320dpi_225dp-9ca08611.png",
+            "versions": [
+                {
+                    "blob": "26fd35fcc09eced30a07fc8d8207db43539d8c2a",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.WearRealDevicePreviewsKt.WearRealDeviceMatrixPreview_Galaxy Watch 5 44mm · 450px @340dpi · 211dp": {
+            "path": "renders/samples:wear/WearRealDeviceMatrixPreview_Galaxy_Watch_5_44mm_450px_340dpi_211dp-c506752b.png",
+            "versions": [
+                {
+                    "blob": "9f02cc94ec2d0a06cb2925ed9f3bdda0918c3dbd",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.WearRealDevicePreviewsKt.WearRealDeviceMatrixPreview_Galaxy Watch 7 44mm · 480px @340dpi · 225dp": {
+            "path": "renders/samples:wear/WearRealDeviceMatrixPreview_Galaxy_Watch_7_44mm_480px_340dpi_225dp-27ae9843.png",
+            "versions": [
+                {
+                    "blob": "d4ff0ce62c2966da97088507c39f7d75690e06a3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.WearRealDevicePreviewsKt.WearRealDeviceMatrixPreview_Pixel Watch 3 45mm · 456px @320dpi · 228dp": {
+            "path": "renders/samples:wear/WearRealDeviceMatrixPreview_Pixel_Watch_3_45mm_456px_320dpi_228dp-751d2caf.png",
+            "versions": [
+                {
+                    "blob": "32fbc27d93964d73f0f5bcb9c150d303cf286fa3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/com.example.samplewear.WearRealDevicePreviewsKt.WearRealDeviceMatrixPreview_Pixel Watch · 450px @320dpi · 225dp": {
+            "path": "renders/samples:wear/WearRealDeviceMatrixPreview_Pixel_Watch_450px_320dpi_225dp-925b1f5e.png",
+            "versions": [
+                {
+                    "blob": "190a03095d2ecb383fa33a81c89846ece4667bb0",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:wear/dwf__raw_sample_dwf_watchface": {
+            "path": "renders/samples:wear/dwf__raw_sample_dwf_watchface.png",
+            "versions": [
+                {
+                    "blob": "217e6a5c4835f6d6abd6e9e08ac7f5468f76f543",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerFocusStatePreviewsKt.GlimmerListItemDefault_Glimmer · Default": {
+            "path": "renders/samples:xr-glimmer/GlimmerListItemDefault_Glimmer_Default-15e249f5.png",
+            "versions": [
+                {
+                    "blob": "96102ee7306c5272acb994e2117d631218334d5d",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerFocusStatePreviewsKt.GlimmerListItemFocused_Glimmer · Focused": {
+            "path": "renders/samples:xr-glimmer/GlimmerListItemFocused_Glimmer_Focused-0677c8d3.png",
+            "versions": [
+                {
+                    "blob": "ba7260de0d18be46eaeb4cce6ee7543ba2d77b4a",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerFocusStatePreviewsKt.GlimmerListItemPressed_Glimmer · Pressed": {
+            "path": "renders/samples:xr-glimmer/GlimmerListItemPressed_Glimmer_Pressed-2221a813.png",
+            "versions": [
+                {
+                    "blob": "263bb73ad95646ab1158a08bf795d42734f9388c",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerFocusStatePreviewsKt.GlimmerListPressedWalk_Glimmer · Pressed Walk": {
+            "path": "renders/samples:xr-glimmer/GlimmerListPressedWalk_Glimmer_Pressed_Walk-9c7abcd2.png",
+            "versions": [
+                {
+                    "blob": "32dc60e9fae0ecf98a4378511680997ab7d24d57",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerFocusStatePreviewsKt.GlimmerListPressedWalk_Glimmer · Pressed Walk#1": {
+            "path": "renders/samples:xr-glimmer/GlimmerListPressedWalk_Glimmer_Pressed_Walk-9c7abcd2_FOCUS_0.png",
+            "versions": [
+                {
+                    "blob": "84b32f2c99237e3cb7b6d2ce63b1ecb127b706e0",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerFocusStatePreviewsKt.GlimmerListPressedWalk_Glimmer · Pressed Walk#2": {
+            "path": "renders/samples:xr-glimmer/GlimmerListPressedWalk_Glimmer_Pressed_Walk-9c7abcd2_FOCUS_1.png",
+            "versions": [
+                {
+                    "blob": "129958bb716bb45b4407bb6096d5c87848cb9721",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerInteractiveMenuPreviewsKt.GlimmerXrMenuAnimated_Animated Light": {
+            "path": "renders/samples:xr-glimmer/GlimmerXrMenuAnimated_Animated_Light-cd194fc2.gif",
+            "versions": [
+                {
+                    "blob": "af02f29b12b32d4f53764c221db70d351ea3ae78",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerInteractiveMenuPreviewsKt.GlimmerXrMenuBusy_Busy": {
+            "path": "renders/samples:xr-glimmer/GlimmerXrMenuBusy_Busy-67a81f39.gif",
+            "versions": [
+                {
+                    "blob": "cc20557f269bcce95960cb100d3d1b2806d5d18c",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerInteractiveMenuPreviewsKt.GlimmerXrMenuDark_Dark": {
+            "path": "renders/samples:xr-glimmer/GlimmerXrMenuDark_Dark-3cf9c01e.gif",
+            "versions": [
+                {
+                    "blob": "8f393e47e2ceca5da60e498a86906ef343053b23",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerInteractiveMenuPreviewsKt.GlimmerXrMenuLight_Light": {
+            "path": "renders/samples:xr-glimmer/GlimmerXrMenuLight_Light-da3d4601.gif",
+            "versions": [
+                {
+                    "blob": "b37decbf7e72c93aa197b4848bba347cb3e2c9ec",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerInteractiveMenuPreviewsKt.GlimmerXrMenuOverlay_Overlay Light": {
+            "path": "renders/samples:xr-glimmer/GlimmerXrMenuOverlay_Overlay_Light-60fc9d78.png",
+            "versions": [
+                {
+                    "blob": "3cde63528d2cc05e535c3f0948fd927b10ff3cf6",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerInteractiveMenuPreviewsKt.GlimmerXrMenuVeniceCanalCats_VeniceCanalCats": {
+            "path": "renders/samples:xr-glimmer/GlimmerXrMenuVeniceCanalCats_VeniceCanalCats-5c5dccdc.gif",
+            "versions": [
+                {
+                    "blob": "d7ed3a20d87b885f7a629a9602258b88039dd069",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerPreviewsKt.FocusableMenu_Glimmer · Input": {
+            "path": "renders/samples:xr-glimmer/FocusableMenu_Glimmer_Input-255da5a0.png",
+            "versions": [
+                {
+                    "blob": "06028bf5ae2b03b1adbf73c2fa1e441f81c36e4a",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerPreviewsKt.NowPlayingCard_Glimmer · Busy": {
+            "path": "renders/samples:xr-glimmer/NowPlayingCard_Glimmer_Busy-46226e1d.png",
+            "versions": [
+                {
+                    "blob": "b0b6ec0fe23fe0e0b42fb9ffb5bb8d6cd71503b3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerPreviewsKt.NowPlayingCard_Glimmer · Dark": {
+            "path": "renders/samples:xr-glimmer/NowPlayingCard_Glimmer_Dark-b6e222ed.png",
+            "versions": [
+                {
+                    "blob": "b0b6ec0fe23fe0e0b42fb9ffb5bb8d6cd71503b3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerPreviewsKt.NowPlayingCard_Glimmer · Light": {
+            "path": "renders/samples:xr-glimmer/NowPlayingCard_Glimmer_Light-3471cfb3.png",
+            "versions": [
+                {
+                    "blob": "b0b6ec0fe23fe0e0b42fb9ffb5bb8d6cd71503b3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples:xr-glimmer/com.example.samplexrglimmer.GlimmerPreviewsKt.NowPlayingCard_Glimmer · VeniceCanalCats": {
+            "path": "renders/samples:xr-glimmer/NowPlayingCard_Glimmer_VeniceCanalCats-5fc45449.png",
+            "versions": [
+                {
+                    "blob": "b0b6ec0fe23fe0e0b42fb9ffb5bb8d6cd71503b3",
+                    "commit": "f1d5c48d9b283bf5409064e5dc9cb18e907ebed0",
+                    "date": "2026-11-15T21:32:22Z",
+                    "sourceSha": "82cb5995",
                     "commits": 1
                 }
             ],
