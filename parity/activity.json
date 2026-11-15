@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-14T19:41:13.616Z",
+  "generatedAt": "2026-11-15T05:00:15.405Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5b0b78963fdb82b1e667f94cffefd87539cd873c",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.5.2 (#6551)",
+        "at": "2026-11-15T04:51:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "16f4ee7e5c1eba6feaa13adbeeb366ea6aabf7e2",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.5.1 (#6550)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.27.0 (#6488)",
         "at": "2026-11-07T13:24:45Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "038a401f9096a0ccb2aea3e09cf3647f5903a83c",
-        "subject": "chore: restore the policy schema to the export driver's copy (#6487)",
-        "at": "2026-11-07T13:20:56Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
