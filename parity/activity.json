@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-16T20:02:57.885Z",
+  "generatedAt": "2026-11-16T21:14:54.849Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "5b251e17f74f58a9465a3d05d155b3552ba28d35",
+        "subject": "chore(main): release 2.95.1 (#6582)",
+        "at": "2026-11-16T20:39:19Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "61d72d733a2c371d757a634e8fd30cd3a5ef396f",
+        "subject": "fix(dwf): clip ComplicationSlot BoundingRoundBox with cornerRadius (#6584)",
+        "at": "2026-11-16T20:38:21Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c2ca4a0f659f2526826936e9d455ac5e68ff7ac0",
+        "subject": "fix(dwf): apply ambient dim scrim matching Wear OS DWF runtime (#6586)",
+        "at": "2026-11-16T20:31:26Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "381a00a4659cd43c7bbf05412c1e33a9657efeca",
+        "subject": "build(remote): port the snapshot lane to androidx.dev 16942710 (alpha24 prep) (#6585)",
+        "at": "2026-11-16T20:30:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "99822bd4afd56766af1ac7a138fba26ab68370e5",
+        "subject": "fix(dwf): default TimeText align to CENTER (#6583)",
+        "at": "2026-11-16T20:29:55Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f95821db71e46d07e81a1156d36e2558cf463e95",
         "subject": "fix(dwf-apk): include android daemon jars in ApkClassConverter and align multi-module split paths (#6581)",
@@ -443,46 +483,6 @@
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.0 (#6525)",
         "at": "2026-11-12T10:51:28Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b571ad859c05a572fe11120dc1749e050c3cd09e",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.90.1 (#6524)",
-        "at": "2026-11-12T10:51:08Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2b29812b4927de4e2a052b5d00838a89b19e8731",
-        "subject": "chore(main): release 2.90.1 (#6516)",
-        "at": "2026-11-12T09:11:32Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9c8aa86ff6e75ece4d54e3c0460af2ea42f4b227",
-        "subject": "refactor(cli): render-cases decodes compose-preview-contracts' RemoteDocumentCasesV1 (#6522)",
-        "at": "2026-11-12T08:57:58Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c77421e48a41c9a667a0c7d06a979ecd990d8fd",
-        "subject": "fix(deps): update compose-preview-daemon to 3.27.7, and gate the warm edit loop (#6521)",
-        "at": "2026-11-12T08:55:45Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0b7707eeec2ae4664798a6bfadfbddf1e64ad574",
-        "subject": "chore: update the host-natives index and AndroidX survey (#6517)",
-        "at": "2026-11-12T08:53:52Z",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
