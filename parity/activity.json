@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-16T11:42:48.535Z",
+  "generatedAt": "2026-11-16T20:02:57.885Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "f95821db71e46d07e81a1156d36e2558cf463e95",
+        "subject": "fix(dwf-apk): include android daemon jars in ApkClassConverter and align multi-module split paths (#6581)",
+        "at": "2026-11-16T19:49:23Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "499872261c8b908f037c8b9be846f6a0b717b607",
+        "subject": "fix(dwf): center custom-font and tabular-digit text by advance width and font metrics (#6580)",
+        "at": "2026-11-16T19:48:26Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b215405bf5a45ecb1fb35ce3fbdabd612c7c8142",
+        "subject": "ci(pages): publish the built docs site to a site branch (#6578)",
+        "at": "2026-11-16T15:19:24Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "44fd3605918a67cf93a8410bd5c3831d57be97e9",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.95.0 (#6579)",
+        "at": "2026-11-16T12:59:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "31034a674b4db96a0a67c0e87fd6c8b27481f5bc",
         "subject": "chore(main): release 2.95.0 (#6570)",
@@ -451,38 +483,6 @@
         "subject": "chore: update the host-natives index and AndroidX survey (#6517)",
         "at": "2026-11-12T08:53:52Z",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "96ff32acbc2e34b1ac8c47e7bdadcee7d7bcd1b9",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.1.0 (#6519)",
-        "at": "2026-11-12T07:40:11Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ae50e01d77378fbdb040959ecdae64be8c388f07",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.6 (#6518)",
-        "at": "2026-11-12T07:26:17Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "730720f8a1216f5e3db126b4d82819cfc55ba3fd",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3 (#6513)",
-        "at": "2026-11-12T03:03:22Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3a1a3dce70d3f1007a0bc6b304340ce05fff393d",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.90.0 (#6515)",
-        "at": "2026-11-12T00:16:06Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
