@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":samples:design-catalog-m3"
   },
-  "generatedAt": "2026-11-16T20:03:53.326Z",
+  "generatedAt": "2026-11-16T21:15:24.416Z",
   "mappings": [
     {
       "componentId": "Button/Filled",
