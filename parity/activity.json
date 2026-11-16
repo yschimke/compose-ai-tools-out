@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-16T06:28:18.218Z",
+  "generatedAt": "2026-11-16T07:17:11.971Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "3b0720ff1bedc4972f899e8307047c15b2d31171",
+        "subject": "chore(main): release 2.94.1 (#6560)",
+        "at": "2026-11-16T06:42:24Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0c1e017914510183684f9c132658fd81ef066646",
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.6.0 (#6568)",
@@ -474,14 +482,6 @@
         "sha": "490a8b035e51724e83853bb039a48655bd299049",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.32.1 (#6508)",
         "at": "2026-11-11T01:03:55Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7f8cc6834c54d90563eb858543587720353ce269",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.32.0 (#6507)",
-        "at": "2026-11-10T11:04:02Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
