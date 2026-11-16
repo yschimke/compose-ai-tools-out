@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-15T18:48:01.032Z",
+  "generatedAt": "2026-11-16T01:18:55.736Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "0c1e017914510183684f9c132658fd81ef066646",
+        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.6.0 (#6568)",
+        "at": "2026-11-16T01:10:58Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0ff45c648429583047348ae1addd9e38f567ae28",
+        "subject": "fix(dwf): clip ComplicationSlot to its bounding shape (#6567)",
+        "at": "2026-11-15T23:02:12Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "82cb59956d0a77e5f2b70b3b43fb2ddc76b1a9d4",
+        "subject": "fix(gradle-plugin): floor kotlinx-coroutines to 1.11.0 on Android render graph (#6566)",
+        "at": "2026-11-15T21:19:16Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "dd35c65c207ccd3bfc492e9b106f74bee4e73985",
         "subject": "fix(deps): update rc-players (#6565)",
@@ -459,30 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v2.32.0 (#6507)",
         "at": "2026-11-10T11:04:02Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cf1b7e0a201076a8762ce2b17dc2fbfed4fddc9f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.4 (#6505)",
-        "at": "2026-11-10T01:08:12Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2919e77024350b560edbb5d08e068c1d98380743",
-        "subject": "chore(deps): bump the actions-minor group with 2 updates (#6501)",
-        "at": "2026-11-10T00:52:30Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "31848e7fcf294b8918846067dc343d5032aef40b",
-        "subject": "fix(discovery): default @ScrollingPreview reduceMotion to false (#6504)",
-        "at": "2026-11-10T00:52:10Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
