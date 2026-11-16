@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-16T08:50:34.103Z",
+  "generatedAt": "2026-11-16T10:04:16.961Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "f1810d400e63b032e5c15bbc0a73aa2bd2222713",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.7.0 (#6575)",
+        "at": "2026-11-16T09:55:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fe2f761e633e8f49821d3e8b5fcf135c0a1358d6",
+        "subject": "feat(dwf): support real-world complication defaults, editor highlights, and clock modes (#6573)",
+        "at": "2026-11-16T09:44:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "72bc008266a47f87c91b060211c01e380067846e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.6.1 (#6572)",
@@ -467,22 +483,6 @@
         "subject": "chore(deps): bump the actions-minor group with 4 updates (#6509)",
         "at": "2026-11-11T20:31:08Z",
         "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "637d02d0f2f3e5719da6594f5f339691b9cc2928",
-        "subject": "fix(action): warn instead of failing when the fallback fonts can't be installed (#6512)",
-        "at": "2026-11-11T19:49:04Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "21cfe876a220238046549855665930a8d3dfcdc9",
-        "subject": "feat(cli): render-cases draws Remote Compose documents with their data on the Android lane (#6511)",
-        "at": "2026-11-11T19:48:54Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
