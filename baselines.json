@@ -12,7 +12,7 @@
     "functionName": "MainActivity",
     "module": "jetstream",
     "renderBasename": "activity__MainActivity.png",
-    "sha256": "32dbb985bbd7d3ba8513c968a6f9a20cd02d027c495531dedfe86d67ec09061f",
+    "sha256": "52496e2a0c7b13473b9cd2e58003925d1311efd2141ea47faee641ea22fe53a9",
     "sourceFile": null
   },
   "jetstream/com.google.jetstream.presentation.components.ComponentScreenshotTestsKt.BackButtonScreenshot": {
@@ -84,7 +84,7 @@
     "functionName": "CategoriesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoriesScreenScreenshot_Auto-c1c781eb.png",
-    "sha256": "d412da364f3ce33f04a6480dada18b66ec4cb97caedf7d48a1e40b4997077b87",
+    "sha256": "7e8cb6b6117c328c475aac51aff321845f1de61787912bdeb18ea79028f31c8a",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoriesScreenScreenshot_Desktop": {
@@ -92,7 +92,7 @@
     "functionName": "CategoriesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoriesScreenScreenshot_Desktop-bf4ac5c7.png",
-    "sha256": "a7d9ea141e50a815e40f2da9aaf50b23a6736b109fa2e34d67bd59b2553e32c1",
+    "sha256": "588e02729bdff599e50990e38ad9f21b2a904a87c785ac178693eb0e0bade42d",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoriesScreenScreenshot_Foldable": {
@@ -100,7 +100,7 @@
     "functionName": "CategoriesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoriesScreenScreenshot_Foldable-16956b60.png",
-    "sha256": "edaf9c6d4f9e66453343eb765570684de216ba09a8f6c8ec0c0fcc0014985a50",
+    "sha256": "cf2ab846baf73414fd2ac16c83a7f43541867e6051a6fe1e081f401a70892136",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoriesScreenScreenshot_Phone": {
@@ -108,7 +108,7 @@
     "functionName": "CategoriesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoriesScreenScreenshot_Phone-85149f4c.png",
-    "sha256": "902c445b0b57c52c023ea62bb0c996ef2b8b52f058878d008cc07c771e1d55bc",
+    "sha256": "bd67cee619c855d697968177f162168b41d5ca3920af5e8a37d4c9ee0f892a3c",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoriesScreenScreenshot_TV": {
@@ -116,7 +116,7 @@
     "functionName": "CategoriesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoriesScreenScreenshot_TV-adf23bbc.png",
-    "sha256": "17777fd2dad9a3351440078c2193e597dd04c5ee5de5b44d3d7d9638612eb6ad",
+    "sha256": "d5dbf7a771576db93bfd7f0de97abf0495c8b87ffc2fab2541f520a7ca7f3b06",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoriesScreenScreenshot_Tablet": {
@@ -124,7 +124,7 @@
     "functionName": "CategoriesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoriesScreenScreenshot_Tablet-67b90a48.png",
-    "sha256": "e223794e0c7c98323a495db0fadd0f6525243a46da120c215079cb4f08466e8b",
+    "sha256": "bacbd01cf4ad8080c3b6749745e893376c161d2ea20c8493a95fee28921fddd0",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoryMovieListScreenScreenshot_Auto": {
@@ -132,7 +132,7 @@
     "functionName": "CategoryMovieListScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoryMovieListScreenScreenshot_Auto-96cdf6ba.png",
-    "sha256": "f488297266150b1f71ab3dc0dbc5f822edb469a0e8f5b676e227f7d1e36f2808",
+    "sha256": "155aecf3d57452c00e4e295280634b58334c6b899c14cb4668b9591790feb8d3",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoryMovieListScreenScreenshot_Desktop": {
@@ -140,7 +140,7 @@
     "functionName": "CategoryMovieListScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoryMovieListScreenScreenshot_Desktop-7dc73a15.png",
-    "sha256": "89e0caa0ec901d9326a045e7c357f01da281c54d8ed2e7a93894f54ac435f8e1",
+    "sha256": "f1157fdcdfd6f317397ba5a4ef80cc48b17589ff48201ad9038b346328a1a562",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoryMovieListScreenScreenshot_Foldable": {
@@ -148,7 +148,7 @@
     "functionName": "CategoryMovieListScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoryMovieListScreenScreenshot_Foldable-14419fc9.png",
-    "sha256": "45a1934b8b43e729f3b2a1d7b9c3e1646c4809c55149881c402995d111f4ade5",
+    "sha256": "864c74d7afe682eb12796224adff9885799b255366248dd5092c6300a96e7406",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoryMovieListScreenScreenshot_Phone": {
@@ -156,7 +156,7 @@
     "functionName": "CategoryMovieListScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoryMovieListScreenScreenshot_Phone-7702053c.png",
-    "sha256": "0c57f3285f5dba128a53fd18a23f1b9a253b635d20577c0ca50de7baf9bf832d",
+    "sha256": "320788ab9acd5a1ac5524b15b07422d8dea47e1fddd579b5f33c444ca52221ae",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoryMovieListScreenScreenshot_TV": {
@@ -164,7 +164,7 @@
     "functionName": "CategoryMovieListScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoryMovieListScreenScreenshot_TV-b653c66f.png",
-    "sha256": "72793272effcef740337ece18a8c7b07161d987f84dc37edbbc620de8fd9edae",
+    "sha256": "bb896f5f675ae85d35f94a08b3cd0f1716abbbc459d58725c8e589179188fa1a",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.CategoryMovieListScreenScreenshot_Tablet": {
@@ -172,7 +172,7 @@
     "functionName": "CategoryMovieListScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "CategoryMovieListScreenScreenshot_Tablet-fff5e27e.png",
-    "sha256": "34f2c93befe767e28a9b8676c06f854e77fe7337a982ae40370c2443c3d0a032",
+    "sha256": "d7a1f9cf50b213d992c8803a9312b02f352fb65fb36c4cbeb6d0bafd5130e9f0",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.FavouritesScreenScreenshot_Auto": {
@@ -180,7 +180,7 @@
     "functionName": "FavouritesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "FavouritesScreenScreenshot_Auto-3d2edf18.png",
-    "sha256": "d9ec20ff2526124705d951e402ff815368249faf7556cf13800dddbe7fe6045f",
+    "sha256": "0c2d1c33732dd1dd1bbd5df20539948d459e568df29423548934ec51f20a332f",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.FavouritesScreenScreenshot_Desktop": {
@@ -188,7 +188,7 @@
     "functionName": "FavouritesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "FavouritesScreenScreenshot_Desktop-5e4692a8.png",
-    "sha256": "13caf6e7bd25479438ad547d9542e6d8102248a7461bd4acc198b69a22c60d13",
+    "sha256": "805fb767f49e5a8ea729d590b0158a7bfba55a130dac49443d3a4a5f7c387cc4",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.FavouritesScreenScreenshot_Foldable": {
@@ -196,7 +196,7 @@
     "functionName": "FavouritesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "FavouritesScreenScreenshot_Foldable-1e55c263.png",
-    "sha256": "7a8c7fe02c34b97663716c17ae21a3fe3b354bb2f4022c40830bbed79c02777e",
+    "sha256": "24d66cac1fad221ec44766d3fa05d3c9cc90ef32ddaa45ff2c8d34c7d32fedcf",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.FavouritesScreenScreenshot_Phone": {
@@ -204,7 +204,7 @@
     "functionName": "FavouritesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "FavouritesScreenScreenshot_Phone-cfa9c024.png",
-    "sha256": "440924788e500ecb0d9a0f46e405fa836181c7810f3378369306468bcd00fd67",
+    "sha256": "efd4dba7571d584577d1fe1b6a9b75672feed84dc5cb9765bfc0d0b6e148fc71",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.FavouritesScreenScreenshot_TV": {
@@ -212,7 +212,7 @@
     "functionName": "FavouritesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "FavouritesScreenScreenshot_TV-aad4d9e5.png",
-    "sha256": "8c4ce4a5f219fab3466d724c7d026f13a36ce5dd489d86753d6fd1931218f2c8",
+    "sha256": "83c5b6ea1a81e92729bc165bd5567116aba18e3fafe9198c587e7cef80fd83ca",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.FavouritesScreenScreenshot_Tablet": {
@@ -220,7 +220,7 @@
     "functionName": "FavouritesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "FavouritesScreenScreenshot_Tablet-e81aae1c.png",
-    "sha256": "ad000b29eebdcba4a29a81090770922767d6e8758bf7150e77a0e7ef949ce102",
+    "sha256": "e9d3fcd0b639806232953c90627cb539e00b4b005bfe53a7184b8c443458531f",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.HomeScreenScreenshot_Auto": {
@@ -228,7 +228,7 @@
     "functionName": "HomeScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "HomeScreenScreenshot_Auto-1b3116dc.png",
-    "sha256": "3e51d1c1d7d14f0d3ac6548d9598e0aaba860cba446607a9f837f89c794a8ace",
+    "sha256": "fcfcc762d5095b99f6087e6e0199d0c37595706933b567e2c6f69623519031dc",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.HomeScreenScreenshot_Desktop": {
@@ -236,7 +236,7 @@
     "functionName": "HomeScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "HomeScreenScreenshot_Desktop-5030e881.png",
-    "sha256": "76b84cf6a347de22cfc29c76290c246058426523fd78cc5bdaa151129d929cbe",
+    "sha256": "4204cdc42ac3b12c8ca924dfa95d3f6ed69ec2a93affc92264dddddde3ad1417",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.HomeScreenScreenshot_Foldable": {
@@ -244,7 +244,7 @@
     "functionName": "HomeScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "HomeScreenScreenshot_Foldable-cc0d286c.png",
-    "sha256": "58c09986fd0b03c8542f2edc73d6b304ddc221eac0b942eb576e47020b33a343",
+    "sha256": "ec2f2d8e89ce26c9eec7e64ad08d035bfa16d8873e06dcb1743c0302299adc1d",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.HomeScreenScreenshot_Phone": {
@@ -252,7 +252,7 @@
     "functionName": "HomeScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "HomeScreenScreenshot_Phone-7680605f.png",
-    "sha256": "c08c9ad571a0b18a4595793d6af82d2de24dec81d59cfe699e360c5b227de65a",
+    "sha256": "85ad854cec8db92a41272f95766252a733d65ab3c67ef48cd852d20bdbf7233e",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.HomeScreenScreenshot_TV": {
@@ -260,7 +260,7 @@
     "functionName": "HomeScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "HomeScreenScreenshot_TV-a79ff167.png",
-    "sha256": "0367ce97bffc7d7845bc08885243afed562ecc23e60a6e66ac3361d28a579151",
+    "sha256": "cf191d1725dd6b6aaedb438d7f21f5d9f3b98622fa7878e35fb6e90c14462511",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.HomeScreenScreenshot_Tablet": {
@@ -268,7 +268,7 @@
     "functionName": "HomeScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "HomeScreenScreenshot_Tablet-524b492e.png",
-    "sha256": "a3380ac8e7d4ae193ab73ab71a095cf39e25d5d3c7d2918ba1f8f07958e5a420",
+    "sha256": "bdde5d5ec80fe64de12d17656fcc51b67c78c379fcd9b0e9ee20f3ce9f0b99b8",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MovieDetailsScreenScreenshot_Auto": {
@@ -276,7 +276,7 @@
     "functionName": "MovieDetailsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MovieDetailsScreenScreenshot_Auto-7ec0963d.png",
-    "sha256": "92fd6e14f65bff71be3d6e8688e51ae3078bbe61e051eb5ced4de2d299142c2c",
+    "sha256": "5123bfceb7296a40618c263e511a6ea5dc7187cfc98ae22fa8654aa4261d3747",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MovieDetailsScreenScreenshot_Desktop": {
@@ -284,7 +284,7 @@
     "functionName": "MovieDetailsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MovieDetailsScreenScreenshot_Desktop-d1aea646.png",
-    "sha256": "f97da7e87b1a9c33e40fe7a4f552918051b4c05dc52e500a912202485349e642",
+    "sha256": "cd8e1ef62b1e4d6edf89441553249d87913e515e21dc45d5beed010a2be9675c",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MovieDetailsScreenScreenshot_Foldable": {
@@ -292,7 +292,7 @@
     "functionName": "MovieDetailsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MovieDetailsScreenScreenshot_Foldable-0ce63c91.png",
-    "sha256": "529e2fffa50d72e1ddaad89f0fdd18b4454a1ddc545b28fcc7d5097c2d516271",
+    "sha256": "ad272e346eed325281f4f45fc289d6efa5c33acc0e03a5a64e56d10582f39384",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MovieDetailsScreenScreenshot_Phone": {
@@ -300,7 +300,7 @@
     "functionName": "MovieDetailsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MovieDetailsScreenScreenshot_Phone-f8626a69.png",
-    "sha256": "14cc0dac86b9271b89e8627e71903a00a32bb74c2ea6ce0d6b36d7167edf6617",
+    "sha256": "138b3a76f03af68dba35b1ad75cc87545f8e33289a35f7a83b0f8fe71a0baf51",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MovieDetailsScreenScreenshot_TV": {
@@ -308,7 +308,7 @@
     "functionName": "MovieDetailsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MovieDetailsScreenScreenshot_TV-1c90edf4.png",
-    "sha256": "307e0637cca9fb773c1016298b4c080c8b8881381e992d889177ee3df2e6f998",
+    "sha256": "9781d80b714b8266b63336c2ba24afa0de48d1ae9e146d5483972ce0ecaf315e",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MovieDetailsScreenScreenshot_Tablet": {
@@ -316,7 +316,7 @@
     "functionName": "MovieDetailsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MovieDetailsScreenScreenshot_Tablet-af82042c.png",
-    "sha256": "c45d59c5ae2a2f6325ec22fdb8d5a7e377b6faefdbb4de72cfad97a21d9a77f4",
+    "sha256": "40dd5891bdf165adbfeb4d64b215e84ef62aaf285e3ec7fd907030cc99b736c7",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MoviesScreenScreenshot_Auto": {
@@ -324,7 +324,7 @@
     "functionName": "MoviesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MoviesScreenScreenshot_Auto-f77a139f.png",
-    "sha256": "7bf5726d48c26463f7f9dacea5eefecc185fd88c9d611a71c31b4c8918acc81f",
+    "sha256": "1730333a04e57379dcf5485d8a25a34bf578b0e2f592ab76f4fb0f9f2c4ad0a1",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MoviesScreenScreenshot_Desktop": {
@@ -332,7 +332,7 @@
     "functionName": "MoviesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MoviesScreenScreenshot_Desktop-4a709725.png",
-    "sha256": "a7760a5c6359e1f8ad5c9e8b84566c3f43c0deacecd5a6a6805c19acf0b62ac8",
+    "sha256": "08679b2d26dfec540d5e9decdd128c5f7d37e2ec95c09c1041756bcbfdae95a6",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MoviesScreenScreenshot_Foldable": {
@@ -340,7 +340,7 @@
     "functionName": "MoviesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MoviesScreenScreenshot_Foldable-bd01533a.png",
-    "sha256": "4fbe05a0cab88a19dbbde8aeb27db5fb8f89947193a61c6e67ec9044f370d273",
+    "sha256": "5a5459367e43558edb909d18bb7f7da7a97a75236c884f0aabdd2c887ab95e23",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MoviesScreenScreenshot_Phone": {
@@ -348,7 +348,7 @@
     "functionName": "MoviesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MoviesScreenScreenshot_Phone-f756178e.png",
-    "sha256": "7c7426f9465e2d6441405d0a26db31cfe0b4b3f9e15f040610ef7f631aeeff38",
+    "sha256": "03a71151df82ea47fe4da8c6d2ec166748c77ce8ab2c222a89cfeca3329370e9",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MoviesScreenScreenshot_TV": {
@@ -356,7 +356,7 @@
     "functionName": "MoviesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MoviesScreenScreenshot_TV-4ee05bf3.png",
-    "sha256": "3f6011694585081ac7214481c9ece4f9598e73c12c6500d9ca01d5a613e29d7b",
+    "sha256": "6709ac8a763ed560e7feefc8975fcf184f186726cb849f914384aa315b20bf9f",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.MoviesScreenScreenshot_Tablet": {
@@ -364,7 +364,7 @@
     "functionName": "MoviesScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "MoviesScreenScreenshot_Tablet-5e2ecc61.png",
-    "sha256": "115e59bacde127505b88c5e7ebb422e533352552f2cf689b61ec0b155f08d414",
+    "sha256": "fc0cd3aa704ef91aabd39c89e0a4a763890673c9201be6b325f7fb528f9c38d2",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.NavigationSuiteScaffoldLayoutPreview_Foldable": {
@@ -372,7 +372,7 @@
     "functionName": "NavigationSuiteScaffoldLayoutPreview",
     "module": "jetstream",
     "renderBasename": "NavigationSuiteScaffoldLayoutPreview_Foldable-1d72fd86.png",
-    "sha256": "88e42ab664920c5ba76c955901c7924aa6b8732541d78bce038f50badd4e103a",
+    "sha256": "de2da2f46f286f3130f312f879f736b952411781b5efb280518cc3027fcf3442",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.NavigationSuiteScaffoldLayoutPreview_Phone": {
@@ -380,7 +380,7 @@
     "functionName": "NavigationSuiteScaffoldLayoutPreview",
     "module": "jetstream",
     "renderBasename": "NavigationSuiteScaffoldLayoutPreview_Phone-e8707a21.png",
-    "sha256": "ccee575b619d50a18aae0c6bf92c59e3edb6198aea980e9e86a276b2aedd51db",
+    "sha256": "cda5d040211f0aaf2d02faa014d494b018e402129a4eb29f7bcfcf2de6eaff97",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.NavigationSuiteScaffoldLayoutPreview_Tablet": {
@@ -388,7 +388,7 @@
     "functionName": "NavigationSuiteScaffoldLayoutPreview",
     "module": "jetstream",
     "renderBasename": "NavigationSuiteScaffoldLayoutPreview_Tablet-c620628c.png",
-    "sha256": "098033bd53b1782632f1ee41165d8d980d91a3a7a8abf24bc3d237031d9f2457",
+    "sha256": "80ff6cf16b454a092073e621dcb83e5493a9b5509b0795af5e050f5a4316222e",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.SearchScreenScreenshot_Auto": {
@@ -396,7 +396,7 @@
     "functionName": "SearchScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchScreenScreenshot_Auto-73e3d0a3.png",
-    "sha256": "042cb2e4d39b76d62fa27eb5b8b88e1ae47d64704012105ca59b3994cde8db44",
+    "sha256": "97e36130e6f210993de3cd285e4f02ca41da52605de1e1b6cff1261ed39c0327",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.SearchScreenScreenshot_Desktop": {
@@ -404,7 +404,7 @@
     "functionName": "SearchScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchScreenScreenshot_Desktop-eb50d5fc.png",
-    "sha256": "b3fb0de51b79e091b6957f12dacc1c3e49faa80adbeeaad5939eff4a2611b6d8",
+    "sha256": "e6253841f04544f7b418a8b747f8a19ade9214941939b313efc091cb95ae2b35",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.SearchScreenScreenshot_Foldable": {
@@ -412,7 +412,7 @@
     "functionName": "SearchScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchScreenScreenshot_Foldable-deb22cab.png",
-    "sha256": "49b4ead29c43ec413e3ec8061e7ee3f2101fef22f7f786e22b16fb8b0d8b9b4a",
+    "sha256": "1300affd21cb7237e534d1ce0eb627b818d005c6e1f2434f0ea54a6d6bcc8a40",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.SearchScreenScreenshot_Phone": {
@@ -420,7 +420,7 @@
     "functionName": "SearchScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchScreenScreenshot_Phone-c0d9968e.png",
-    "sha256": "fb739368e113d7fe2dc0423f2da63eb06170097774fbddd22aa1ce7b8d469e17",
+    "sha256": "91fc396aab1ce2b8ff3255a79d6725cd3ea84e2bd92326b9c21bc8ade8973c13",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.SearchScreenScreenshot_TV": {
@@ -428,7 +428,7 @@
     "functionName": "SearchScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchScreenScreenshot_TV-5d03a024.png",
-    "sha256": "30ab71d1b305bcbc45c746a5e8056fa45e5a75d424a0a5b2df4bf3eef0a4b995",
+    "sha256": "13f47646799a386932fe13f8f5aa08aae2f39cfe91872e13c50ee5141abde1cc",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.SearchScreenScreenshot_Tablet": {
@@ -436,7 +436,7 @@
     "functionName": "SearchScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchScreenScreenshot_Tablet-a654bca6.png",
-    "sha256": "e76f34aced56c5bac36f6f6c642be87d37e24754f8e77abb5cad5133f90b5a20",
+    "sha256": "483a362b82cbba704a88dc0483eaf01a120150c39ce7e1af6316cbc82d54c3ea",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.ShowsScreenScreenshot_Auto": {
@@ -444,7 +444,7 @@
     "functionName": "ShowsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "ShowsScreenScreenshot_Auto-eb75eef6.png",
-    "sha256": "9e00bf39e9e67e3b6c4f7f4ba3dbbc45947bdf4e1e01cea0e1759583bbd31ecb",
+    "sha256": "e708f87c3e979a40937feefe0022ddca923fdaad4ba74a83f1e672321b5470c9",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.ShowsScreenScreenshot_Desktop": {
@@ -452,7 +452,7 @@
     "functionName": "ShowsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "ShowsScreenScreenshot_Desktop-bacb0b1a.png",
-    "sha256": "4e84bd977ed09753924e5c9c6702a34037562caa8004ffabd9d832da4705debd",
+    "sha256": "a57eeaf7ef813450e2ddf31791a8af164e46298ca38fbff397e3c57924a786d7",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.ShowsScreenScreenshot_Foldable": {
@@ -460,7 +460,7 @@
     "functionName": "ShowsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "ShowsScreenScreenshot_Foldable-826736e2.png",
-    "sha256": "9a4ce31b76f35c1e2944a255d6ac0a50ee283527d165bc802535881d2d15b8b1",
+    "sha256": "abd89a4fbf684f1871964b26994ea9873dd0b53d073a6de67fa06ca1f4c61896",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.ShowsScreenScreenshot_Phone": {
@@ -468,7 +468,7 @@
     "functionName": "ShowsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "ShowsScreenScreenshot_Phone-891381ff.png",
-    "sha256": "b215e8f3ae77264ddc0c3882f0798c6d94ec22e6e52cbc069d1c051a1630f848",
+    "sha256": "b1ca81cd797ae0a0377bc1cf1421a1ef507793090a23cf0f8e081b977e051247",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.ShowsScreenScreenshot_TV": {
@@ -476,7 +476,7 @@
     "functionName": "ShowsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "ShowsScreenScreenshot_TV-1d0ecfb4.png",
-    "sha256": "927b0e67f0bffd53463283a10a8115644dc825e400e596a987d2bc18d5425a46",
+    "sha256": "c6a421212b9f9877679f353d57b6b8d8a3f633deba4525889de7a5190e3a91bf",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.ShowsScreenScreenshot_Tablet": {
@@ -484,7 +484,7 @@
     "functionName": "ShowsScreenScreenshot",
     "module": "jetstream",
     "renderBasename": "ShowsScreenScreenshot_Tablet-308844b0.png",
-    "sha256": "e929b27c9ff6c45bb6e4d7425c5e66e0cac56dfd40590692f72aa96ac7a2559e",
+    "sha256": "5d4037858c1efcdc97f26fa1ce81bc4a4f172c78d6c8b6167abeaea6a44269b8",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.TopBarWithNavigationLayoutPreview_Auto": {
@@ -492,7 +492,7 @@
     "functionName": "TopBarWithNavigationLayoutPreview",
     "module": "jetstream",
     "renderBasename": "TopBarWithNavigationLayoutPreview_Auto-78b3e0ec.png",
-    "sha256": "4bd5567047aa4f1dbc39b1c5d431844438ed633da04a1db229a204ec9a6823c6",
+    "sha256": "30f1015afc9af3cd7c1e24d7261b1e906ce542f2f046584f3d115420ce2950cc",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.TopBarWithNavigationLayoutPreview_Desktop": {
@@ -500,7 +500,7 @@
     "functionName": "TopBarWithNavigationLayoutPreview",
     "module": "jetstream",
     "renderBasename": "TopBarWithNavigationLayoutPreview_Desktop-506e9307.png",
-    "sha256": "f8b0a21e3ceb5ebfcf471aa29911c696e9664f448b223dade9bfa32efdd6af5c",
+    "sha256": "d718a9ca43ba72815c9df03724081b15f3f8ed1a1d7ed746273d85acded3ced9",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.ScreenScreenshotTestsKt.TopBarWithNavigationLayoutPreview_TV": {
@@ -508,7 +508,7 @@
     "functionName": "TopBarWithNavigationLayoutPreview",
     "module": "jetstream",
     "renderBasename": "TopBarWithNavigationLayoutPreview_TV-eb045659.png",
-    "sha256": "124243e01348a0046d0872781540651695996872bceeeff52c66e20431e10d20",
+    "sha256": "d18c56592ac88bc9ede6fb82be5fdb78f3525bdeec00ed5a171a54430023997a",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/ScreenScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.categories.CategoriesScreenKt.CategoriesScreenFoldablePreview_Foldable": {
@@ -540,7 +540,7 @@
     "functionName": "ProfileScreenFoldablePreview",
     "module": "jetstream",
     "renderBasename": "ProfileScreenFoldablePreview_Foldable-1b668cbc.png",
-    "sha256": "78fcf2cee4b2a65e21d6f94ddd675822f0724a4c066c7b21cb1a6a28135b82b3",
+    "sha256": "6749115dbd2a0af7ace87e69d534bd981086a27a2d3825e5310802023b468bad",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/ProfileScreen.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenKt.ProfileScreenPhonePreview_Phone": {
@@ -548,7 +548,7 @@
     "functionName": "ProfileScreenPhonePreview",
     "module": "jetstream",
     "renderBasename": "ProfileScreenPhonePreview_Phone-ecab9bc7.png",
-    "sha256": "b009573c9489b191396369f309ff8bf21180805a4536d127fdf903740453181a",
+    "sha256": "f86fd0bbb150fb8625f89e5daf0b3cbe4b6d4d58c7f308bb166854988a164808",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/ProfileScreen.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenKt.ProfileScreenTvPreview_TV": {
@@ -556,7 +556,7 @@
     "functionName": "ProfileScreenTvPreview",
     "module": "jetstream",
     "renderBasename": "ProfileScreenTvPreview_TV-9f946396.png",
-    "sha256": "98ad2b4eb43ed57e00250172e347f186f463cbeae3dacec099eab80be8542c59",
+    "sha256": "e4e75d3b454f84b59f7d3a9c66a0d383bae6d50a269b718ffdd2f3e526269d34",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/ProfileScreen.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AboutSectionScreenshot_Auto": {
@@ -564,7 +564,7 @@
     "functionName": "AboutSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AboutSectionScreenshot_Auto-8085a02d.png",
-    "sha256": "100efa3ed2f6543dc82b6d656d67a5dec394f12000017accc42c94dd380e80b8",
+    "sha256": "b547e0a74a5c4960858a672168813febfc12b6678a70de30eb2b3f9ebd2645d3",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AboutSectionScreenshot_Desktop": {
@@ -572,7 +572,7 @@
     "functionName": "AboutSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AboutSectionScreenshot_Desktop-b478acfc.png",
-    "sha256": "93bd916e7ba693858869212aa9ff86cc0d18764cbda221e007e5b02d27bfaeca",
+    "sha256": "dcc6c377ca36e94c0f14b6491426d8b34e6292a2803baae97b265e3be008a3ba",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AboutSectionScreenshot_Foldable": {
@@ -580,7 +580,7 @@
     "functionName": "AboutSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AboutSectionScreenshot_Foldable-eb451c56.png",
-    "sha256": "f05ff9b9cbb917b086ad1e80a8a8addde2087101eaf6613629af922ab063f336",
+    "sha256": "c237656db80685f8df149005f039dd473e472d0f2ef1a5c5a829a334e29a00fb",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AboutSectionScreenshot_Phone": {
@@ -588,7 +588,7 @@
     "functionName": "AboutSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AboutSectionScreenshot_Phone-3fac345a.png",
-    "sha256": "d7f60792a68356a528cc7634c795926d20588e71bfdc37d80d8de4f4b2cbab63",
+    "sha256": "46f5985d69ce83f15dbd4c419bda0f3a647a202287bc6e768057389d69b81b34",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AboutSectionScreenshot_TV": {
@@ -596,7 +596,7 @@
     "functionName": "AboutSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AboutSectionScreenshot_TV-eeadf8a3.png",
-    "sha256": "2a4706846169327b2f67e66dc3887a436cbd56a43783af886e6151d0677d253d",
+    "sha256": "ff2369682b73b02efb34764de1da4bd90fd0d8e778677fff6c4b0ca764b57875",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AboutSectionScreenshot_Tablet": {
@@ -604,7 +604,7 @@
     "functionName": "AboutSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AboutSectionScreenshot_Tablet-5fe61213.png",
-    "sha256": "177e6b7977ade5380a7e5cbf6a389a8119c111149a1debebfae2d5588141e329",
+    "sha256": "964352ca35e69de074f36a911494d0eb377ec5ef25c6c47e44355acfe0049cf8",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AccountsSectionScreenshot_Auto": {
@@ -612,7 +612,7 @@
     "functionName": "AccountsSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AccountsSectionScreenshot_Auto-91748d5e.png",
-    "sha256": "1f8307438464296ac47a515bc9c2bfdfc51f2259c567b3cf2221529e969b8ddb",
+    "sha256": "f4bc9cc06c71de82d03b3ca5f55ac7bd867130c0369ddc22a0073fc70b099f8c",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AccountsSectionScreenshot_Desktop": {
@@ -620,7 +620,7 @@
     "functionName": "AccountsSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AccountsSectionScreenshot_Desktop-38f1824b.png",
-    "sha256": "2ea9ab2f81b2b3faa7260d3ab321e87c63007e2f8a95d5f451823b5d6afaffc8",
+    "sha256": "84f874c2f623e61265386a1e2f757efda205582ee196dd95783d4a5ffaaf8d66",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AccountsSectionScreenshot_Foldable": {
@@ -628,7 +628,7 @@
     "functionName": "AccountsSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AccountsSectionScreenshot_Foldable-998cdc72.png",
-    "sha256": "55e6a35f2027ea237d3fa50579cdf476f2d396dba53a550c3e81de59e70a2f67",
+    "sha256": "e5fcdad977132e63c49462d49bc2622205f68cc21fe7b3f7e4e1f11586b7562b",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AccountsSectionScreenshot_Phone": {
@@ -636,7 +636,7 @@
     "functionName": "AccountsSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AccountsSectionScreenshot_Phone-29953bcc.png",
-    "sha256": "dc624faf87b7378860d5a69b30c1e8c7ff79020ec896bca12efa427017192e97",
+    "sha256": "360cafe1808f2bc42b9881d98dbaa85743df20eceba108d16ba9750549accb5d",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AccountsSectionScreenshot_TV": {
@@ -644,7 +644,7 @@
     "functionName": "AccountsSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AccountsSectionScreenshot_TV-89956f49.png",
-    "sha256": "218a8654436d2956dc191da947b3c1b93f5d6feb5dac2ec79982093c11b79c29",
+    "sha256": "e69d1a116b915e883a313514450d083835fd38758272071d3af8fd203ef9b258",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.AccountsSectionScreenshot_Tablet": {
@@ -652,7 +652,7 @@
     "functionName": "AccountsSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "AccountsSectionScreenshot_Tablet-d803b39c.png",
-    "sha256": "ea3e286585719a3a05c7c2584adaf5c5d6df824bc242d63fc74b56ee5e432d44",
+    "sha256": "64265cbc1917e24c4fe03240820984b3f341112ec816f8682ae4e485a4a1c585",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.HelpAndSupportSectionScreenshot_Auto": {
@@ -660,7 +660,7 @@
     "functionName": "HelpAndSupportSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "HelpAndSupportSectionScreenshot_Auto-1790df0d.png",
-    "sha256": "dc2b64e180a314e9d12ca89c08825d1e31e71d7fabd46623eb4ae2bb2f8d4724",
+    "sha256": "81be45e8bbf85133e6daf06b9d684229a4f51287e9051b842614484657077226",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.HelpAndSupportSectionScreenshot_Desktop": {
@@ -668,7 +668,7 @@
     "functionName": "HelpAndSupportSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "HelpAndSupportSectionScreenshot_Desktop-e74230b9.png",
-    "sha256": "9d3753935cb206d82e6ce50467cf76b1768452090cbef0303db39398a07c2e59",
+    "sha256": "2e4e34e2477c0a3ddd9b03306c4b04752e1722e677e5f9b22799919a62e0945e",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.HelpAndSupportSectionScreenshot_Foldable": {
@@ -676,7 +676,7 @@
     "functionName": "HelpAndSupportSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "HelpAndSupportSectionScreenshot_Foldable-66ea4d6e.png",
-    "sha256": "1860cace9be92553d86f12ff6212dc35fff9907e41569bbf5c81ad670c4f50c1",
+    "sha256": "d78a03d30508d9e9dfda9b26fb4e9b49b39a0fed223ead038d736120e707b4a6",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.HelpAndSupportSectionScreenshot_Phone": {
@@ -684,7 +684,7 @@
     "functionName": "HelpAndSupportSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "HelpAndSupportSectionScreenshot_Phone-1b982e96.png",
-    "sha256": "b9496bbe183953048f25303c89d416c125cc05e2dc844fff25182eb9517f8a15",
+    "sha256": "92be29bd8dd6f6d2b7990a101102353dd4c06f4f739d4b6703c34e10574c4f35",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.HelpAndSupportSectionScreenshot_TV": {
@@ -692,7 +692,7 @@
     "functionName": "HelpAndSupportSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "HelpAndSupportSectionScreenshot_TV-c931b2f2.png",
-    "sha256": "003199622be53dcf32ea6c7e39a10b5201d1a884d7edafb0d72aedb08a1f0b6d",
+    "sha256": "42cb086458e19dc63adef4680c2dae612fed3460ecfc899788595cdab116b829",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.HelpAndSupportSectionScreenshot_Tablet": {
@@ -700,7 +700,7 @@
     "functionName": "HelpAndSupportSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "HelpAndSupportSectionScreenshot_Tablet-0db6663d.png",
-    "sha256": "43d30952dcf59a4d438db8008661bdf7f7f751e6e80590acbedb163cec725376",
+    "sha256": "1c2774c9a6c1050be299e239a6c2a305db3cb1c4358c65f26aa00dc53cc239ca",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.LanguageSectionScreenshot_Auto": {
@@ -708,7 +708,7 @@
     "functionName": "LanguageSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "LanguageSectionScreenshot_Auto-a351bd7e.png",
-    "sha256": "fbdbc53f5a5abc76019f699b7b387b839c7f52489b9a8b10dab00ffbae4d32f7",
+    "sha256": "d25f31575ffec8fd4f75c713200681c57d68a48b42c2ccd999376e8821d42646",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.LanguageSectionScreenshot_Desktop": {
@@ -716,7 +716,7 @@
     "functionName": "LanguageSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "LanguageSectionScreenshot_Desktop-4f9d32f3.png",
-    "sha256": "a0d1a2d647dd4daf04d3ccf5933539dd0ee27ab0f06e16949451e2fcaa71a83a",
+    "sha256": "9b9836a14486a6d6fa8dc01d5fbd18c8a1492649ddd22480dc231e3d53dd94ff",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.LanguageSectionScreenshot_Foldable": {
@@ -724,7 +724,7 @@
     "functionName": "LanguageSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "LanguageSectionScreenshot_Foldable-c9643036.png",
-    "sha256": "8c7b82ae74a5f0bc2a654ebdd69dbfc20b97c01df4db311242710724e5ec6f2b",
+    "sha256": "d04e10633ec26400d6983c8030cc45e9d44b20022b47ea9447b56fa1144d0f0d",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.LanguageSectionScreenshot_Phone": {
@@ -732,7 +732,7 @@
     "functionName": "LanguageSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "LanguageSectionScreenshot_Phone-cfaf9b5a.png",
-    "sha256": "c92f008d2dcdec347cf3eeedd3abc7f0f0a253bc6748e023e3fe77b06d001662",
+    "sha256": "4dd80a1e437c0c3d774c96dfc87453540b9655b738356391a8dcab966e65adad",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.LanguageSectionScreenshot_TV": {
@@ -740,7 +740,7 @@
     "functionName": "LanguageSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "LanguageSectionScreenshot_TV-0c52f92f.png",
-    "sha256": "02b27525162e0ba00d2a17e2add58086294506ff68d8a31033031bc7150da8a2",
+    "sha256": "43aaffe6f793b51d75e52d03d773fcc9a0537b5842899772e0ed2412f38d553b",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.LanguageSectionScreenshot_Tablet": {
@@ -748,7 +748,7 @@
     "functionName": "LanguageSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "LanguageSectionScreenshot_Tablet-04649749.png",
-    "sha256": "acc90f4fe50938cdddb5d69d688be19405f897fcf40e076610423286a027ba1c",
+    "sha256": "f0c5ce171a7189ac71048b3df4b93581bf5a2fd3ac9a159d3ce2073214c5f502",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SearchHistorySectionScreenshot_Auto": {
@@ -756,7 +756,7 @@
     "functionName": "SearchHistorySectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionScreenshot_Auto-cd602f36.png",
-    "sha256": "c22a366e88a42fffb126562f6d255d0d8482e20153440c2ac7460e737302eac1",
+    "sha256": "2190d3e9b8ca13ad9ec99f70b511bf3ad4211079ec5dedfd98ba33a80c5fde81",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SearchHistorySectionScreenshot_Desktop": {
@@ -764,7 +764,7 @@
     "functionName": "SearchHistorySectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionScreenshot_Desktop-0bbf8425.png",
-    "sha256": "de3e6fc6c4e478b6f53d3d18276a89732b7e787e8cc60e8dfa4eae1e1f03e4f5",
+    "sha256": "5c47dd5f9b750d93d46b70fc36cf4b274393dd8065b3faf2ae384b605e760344",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SearchHistorySectionScreenshot_Foldable": {
@@ -772,7 +772,7 @@
     "functionName": "SearchHistorySectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionScreenshot_Foldable-52951d1d.png",
-    "sha256": "391b3a855a97ff026018dbb95951a7c1bcb9a9a99dab51d79a474e6cba21e696",
+    "sha256": "2a3c8cd91635ec91dfa3cc40c9a397b3cc47c03bc97e4e6bbcb8e2df5690136d",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SearchHistorySectionScreenshot_Phone": {
@@ -780,7 +780,7 @@
     "functionName": "SearchHistorySectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionScreenshot_Phone-23f2ca3a.png",
-    "sha256": "64c6412e086e725279fb4adcf3d02116d761e2852c5ea2110ee824efb371d2ba",
+    "sha256": "4071636fa2c7e3677cb9c40e31669a0f737e0274c322f29a87afdb279effa87c",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SearchHistorySectionScreenshot_TV": {
@@ -788,7 +788,7 @@
     "functionName": "SearchHistorySectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionScreenshot_TV-e3576900.png",
-    "sha256": "5bf776e3ea380d09913c780e43740657bd2bc5684c5d02400125918c77d53440",
+    "sha256": "5a43a91c72397bacd577dfaf7992ca0401ca4fdb1cf7071cedcb179c5ec54a48",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SearchHistorySectionScreenshot_Tablet": {
@@ -796,7 +796,7 @@
     "functionName": "SearchHistorySectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionScreenshot_Tablet-f3129b70.png",
-    "sha256": "55ebbf4f0055400626aa9bcfb9e1d01269784406646120b4a0a65976a8a8ae33",
+    "sha256": "be3c91b46b76f11993fd5e4edb1b078fdbf83df650ddfe7bdf1a9eda69ae8321",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SubtitlesSectionScreenshot_Auto": {
@@ -804,7 +804,7 @@
     "functionName": "SubtitlesSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionScreenshot_Auto-47bc5f5b.png",
-    "sha256": "7b8abb40ee34841ea4f867dfff79bb4fc2b348e39788d1ddedaa50ba72082e19",
+    "sha256": "131c03d8d42a144a4564ca21cec95f95631967b9fa5d0c837ba70f6dd1b16096",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SubtitlesSectionScreenshot_Desktop": {
@@ -812,7 +812,7 @@
     "functionName": "SubtitlesSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionScreenshot_Desktop-eb9664c7.png",
-    "sha256": "fb781e8505e1e67ae2e77a8e82845a28d8af6323c03f580ab41e694b76440cf5",
+    "sha256": "813fc46e3d73644e04963151782d7337095fc847864ca6b5f3e6e0cf7c8b68f3",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SubtitlesSectionScreenshot_Foldable": {
@@ -820,7 +820,7 @@
     "functionName": "SubtitlesSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionScreenshot_Foldable-514cd8f6.png",
-    "sha256": "6a4b2574f2645dfffc3e5e492492bc7a25771da92e073c34449c8002e281f0f8",
+    "sha256": "8d69cf6fc211bcaf3813afcb2c8b5974ed0bf872c43c879ecc55ffbf7083ddb4",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SubtitlesSectionScreenshot_Phone": {
@@ -828,7 +828,7 @@
     "functionName": "SubtitlesSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionScreenshot_Phone-bf66006e.png",
-    "sha256": "47d523d25872cd345a615e8a06e61303a9d910584e343c4f10ffc93b8d52bc2f",
+    "sha256": "42bf5ac71a540fb8c248239ca7054775d04b63ceaa8811f2a44303649d03b254",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SubtitlesSectionScreenshot_TV": {
@@ -836,7 +836,7 @@
     "functionName": "SubtitlesSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionScreenshot_TV-22bd417f.png",
-    "sha256": "8e16412bdb243694cfa2ec576895a8f0eed364a2ec90d860339c673552c922d5",
+    "sha256": "29d79403a2f36efadae4c75cb9d21186a25cc6db83d75767d2391e33cc4957e3",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.ProfileScreenshotTestsKt.SubtitlesSectionScreenshot_Tablet": {
@@ -844,7 +844,7 @@
     "functionName": "SubtitlesSectionScreenshot",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionScreenshot_Tablet-5eee8b52.png",
-    "sha256": "4f08b17d1aa3982b617851067df39bcfa65e01c57bd9888c9bc490190ed491e8",
+    "sha256": "42d1443e777cae2a6a0d2eea51f7eb8419ec0c404a5236d7492d890e7d6e7f78",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/profile/ProfileScreenshotTests.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.AboutSectionKt.AboutSectionCompactPreview_Foldable": {
@@ -852,7 +852,7 @@
     "functionName": "AboutSectionCompactPreview",
     "module": "jetstream",
     "renderBasename": "AboutSectionCompactPreview_Foldable-44cd8761.png",
-    "sha256": "324382ae908e8a483125397635bcc3f4bdba8ef3113636f906f0fc9c66bb28c0",
+    "sha256": "bb97d6927faffd5b3db25fea60c5e002058fc6adecdb8bb9a251e87e600607b2",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/AboutSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.AboutSectionKt.AboutSectionCompactPreview_Phone": {
@@ -860,7 +860,7 @@
     "functionName": "AboutSectionCompactPreview",
     "module": "jetstream",
     "renderBasename": "AboutSectionCompactPreview_Phone-05dbe7d6.png",
-    "sha256": "f4cbc0f624ceac353f8abd22253232c5eaea0d2ef1fc35de388c2a870550137e",
+    "sha256": "abfee5a7a82e12e8cc3a22f7d75efe8fbde8ad301ce0b3dfd4f3101f36526091",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/AboutSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.AboutSectionKt.AboutSectionExpandedPreview_TV": {
@@ -868,7 +868,7 @@
     "functionName": "AboutSectionExpandedPreview",
     "module": "jetstream",
     "renderBasename": "AboutSectionExpandedPreview_TV-d03533f7.png",
-    "sha256": "5ea7937feac0a234117e3b0e974c9a731000b9df2efaa3bd89ace625e3816b06",
+    "sha256": "5aa12dc9f25bfce1848bb66b3381773c4b754126c0592624d25abd400987648d",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/AboutSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.AccountsSectionKt.AccountsSection_TV": {
@@ -884,7 +884,7 @@
     "functionName": "SingleColumnAccountPreview",
     "module": "jetstream",
     "renderBasename": "SingleColumnAccountPreview_Foldable-357c1aa7.png",
-    "sha256": "f843e6679ee18441dbe9b4190b3939d9a583cbe8c6ca7885776e7f1c4bd2691e",
+    "sha256": "4df149fb0b4cdd28d3026e2945ad2ad9ca77041543f7d2a73df9a549c924e58c",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/AccountsSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.AccountsSectionKt.SingleColumnAccountPreview_Phone": {
@@ -892,7 +892,7 @@
     "functionName": "SingleColumnAccountPreview",
     "module": "jetstream",
     "renderBasename": "SingleColumnAccountPreview_Phone-7dc1a239.png",
-    "sha256": "69b91fe2db550a7444f9aadbcb376a344f9f50d823558623322ebc22c8d9df8a",
+    "sha256": "e40f889b66829be8e815abd2b431f069c9064436f740e74e3f65155411373427",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/AccountsSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.AccountsSelectionItemKt.AccountSelectionItemPreview_Foldable": {
@@ -900,7 +900,7 @@
     "functionName": "AccountSelectionItemPreview",
     "module": "jetstream",
     "renderBasename": "AccountSelectionItemPreview_Foldable-f422a80a.png",
-    "sha256": "1a6abde253b0f6d3f8969a6b350d7245ae858cbb7c5be8a5313734dec092d542",
+    "sha256": "fd5bfccfc4ccacac53d29fd33b1a4a0292a14cac04f126adce436f661b021d51",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/AccountsSelectionItem.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.AccountsSelectionItemKt.AccountSelectionItemPreview_Phone": {
@@ -908,7 +908,7 @@
     "functionName": "AccountSelectionItemPreview",
     "module": "jetstream",
     "renderBasename": "AccountSelectionItemPreview_Phone-8904fa7d.png",
-    "sha256": "2d9874850e2de3f46575f75d972fbd7de760e3a0caf9e09d50eabc712438c265",
+    "sha256": "0cb23e501d6dcf207658943a961618381ecc16517b7ebfc92c44e71fe688c393",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/AccountsSelectionItem.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.AccountsSelectionItemKt.AccountSelectionItemTvPreview_TV": {
@@ -916,7 +916,7 @@
     "functionName": "AccountSelectionItemTvPreview",
     "module": "jetstream",
     "renderBasename": "AccountSelectionItemTvPreview_TV-c66788eb.png",
-    "sha256": "52ba11884dc65638f0620b179544e4e59a11e16edefff30bcddcb24e213c35c3",
+    "sha256": "b59c2cda4805a758ab89791ed2344916c9e9ee9214b9c0dcf6ae64bdd6306f3a",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/AccountsSelectionItem.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.HelpAndSupportSectionKt.HelpSectionCompactPreview_Foldable": {
@@ -924,7 +924,7 @@
     "functionName": "HelpSectionCompactPreview",
     "module": "jetstream",
     "renderBasename": "HelpSectionCompactPreview_Foldable-ea3841f4.png",
-    "sha256": "eff6b05e04ec4ffe5f86ced8944c5f8c9a40e4992eb9da8b30d000a3457045e5",
+    "sha256": "4fe49782dead0297d31a0bc3c2b088dd3bba1745b79b844cf2edb50973a82285",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/HelpAndSupportSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.HelpAndSupportSectionKt.HelpSectionCompactPreview_Phone": {
@@ -932,7 +932,7 @@
     "functionName": "HelpSectionCompactPreview",
     "module": "jetstream",
     "renderBasename": "HelpSectionCompactPreview_Phone-1c92dec2.png",
-    "sha256": "1c8a80ac2da32635dbe4a7082af26d2a567fc7dd86ca21e65024091ed22c0733",
+    "sha256": "ffb97c23be4f158794cb7ffff08981225391c1d3097203b9438d4d4557d5c71a",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/HelpAndSupportSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.HelpAndSupportSectionKt.HelpSectionExpandedPreview_TV": {
@@ -940,7 +940,7 @@
     "functionName": "HelpSectionExpandedPreview",
     "module": "jetstream",
     "renderBasename": "HelpSectionExpandedPreview_TV-614bbb87.png",
-    "sha256": "62700bd900af5da9274533d8e123f2ff22dda30a94b3accb2fe0fa8ef0d4418d",
+    "sha256": "cfcad02949a6337440f7629e13bf56e117190f9de9eea4fb23300295f80f1825",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/HelpAndSupportSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.LanguageSectionKt.LanguageScreenCompactPreview_Foldable": {
@@ -948,7 +948,7 @@
     "functionName": "LanguageScreenCompactPreview",
     "module": "jetstream",
     "renderBasename": "LanguageScreenCompactPreview_Foldable-2a35fbb6.png",
-    "sha256": "206666618396b22fb00eae7a41c2ae825df032492c13cfad1990873e23117eff",
+    "sha256": "72a3452a5141ea3a73fc6a4b4675deeeb5b6dc477abe8329ef3c54d89f568380",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/LanguageSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.LanguageSectionKt.LanguageScreenCompactPreview_Phone": {
@@ -956,7 +956,7 @@
     "functionName": "LanguageScreenCompactPreview",
     "module": "jetstream",
     "renderBasename": "LanguageScreenCompactPreview_Phone-b72b6dc7.png",
-    "sha256": "1e08621d028ac27183cc5ad45951bb62343604c5d902fd353f824918ebd757fc",
+    "sha256": "7648ba11732c3df1e10ac573f6b413750a4a4f29734006c5d4a3efc8212295c2",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/LanguageSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.LanguageSectionKt.LanguageScreenExpandedPreview_TV": {
@@ -964,7 +964,7 @@
     "functionName": "LanguageScreenExpandedPreview",
     "module": "jetstream",
     "renderBasename": "LanguageScreenExpandedPreview_TV-08d19ee3.png",
-    "sha256": "c97fe3ad414be9da91dd89fb6da896d4f7653c08a578bfc7cc7ee621dca50642",
+    "sha256": "383be42075d1ea656e38dec7763849a5497bd2866070a6187ef57750d98390ed",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/LanguageSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.SearchHistorySectionKt.SearchHistorySectionCompactPreview_Foldable": {
@@ -972,7 +972,7 @@
     "functionName": "SearchHistorySectionCompactPreview",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionCompactPreview_Foldable-48a60e1f.png",
-    "sha256": "a09a956efa2b8b18b29b041fb318eddfb70601c1999dc3b37f6b004ee23ea664",
+    "sha256": "e0e1f4620db57b298c4e89b11679a4a94c4cabb53ae737cf96cd5ea7930784c4",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/SearchHistorySection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.SearchHistorySectionKt.SearchHistorySectionCompactPreview_Phone": {
@@ -980,7 +980,7 @@
     "functionName": "SearchHistorySectionCompactPreview",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionCompactPreview_Phone-7a88e8f6.png",
-    "sha256": "282fac3051ed79ec58e14f41aa6ade8b9c47c6d31f0dc8d8b38fbe120f8dd774",
+    "sha256": "7c947873d0a4cb68d8ec75fb66c379f5fa7e9843bce1b219299f29b700d0ec7f",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/SearchHistorySection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.SearchHistorySectionKt.SearchHistorySectionExpandedPreview_TV": {
@@ -988,7 +988,7 @@
     "functionName": "SearchHistorySectionExpandedPreview",
     "module": "jetstream",
     "renderBasename": "SearchHistorySectionExpandedPreview_TV-aa0311b7.png",
-    "sha256": "40026d21d9a9fd1ddca5d0d52126d325d9353b9e1cd2ba7bfb2c07aec1705f2f",
+    "sha256": "7b67e2b6b7e6ecfc58e5becdc1194d4f185abc62612b7b18835f18a87026fa51",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/SearchHistorySection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.SubtitlesSectionKt.SubtitlesSectionCompactPreview_Foldable": {
@@ -996,7 +996,7 @@
     "functionName": "SubtitlesSectionCompactPreview",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionCompactPreview_Foldable-e0452ab9.png",
-    "sha256": "c538ec7f7ef457175867e3c8b201cb7e20471b341f0dd00830968fa04122f022",
+    "sha256": "e7c381f76f3661b59d3f265fccaaca349a298793dac090cfaf6d3d21ff4adf1f",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/SubtitlesSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.SubtitlesSectionKt.SubtitlesSectionCompactPreview_Phone": {
@@ -1004,7 +1004,7 @@
     "functionName": "SubtitlesSectionCompactPreview",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionCompactPreview_Phone-c2428713.png",
-    "sha256": "17fecb75472b30339bfaa886bb356c7e1583a7208e2178c8d03769e79df8a932",
+    "sha256": "0bd6a528a69a691afe754d5727a4169f1c1aed7d377ca6854b7063ee85f27352",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/SubtitlesSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.profile.compoents.SubtitlesSectionKt.SubtitlesSectionExpandedPreview_TV": {
@@ -1012,7 +1012,7 @@
     "functionName": "SubtitlesSectionExpandedPreview",
     "module": "jetstream",
     "renderBasename": "SubtitlesSectionExpandedPreview_TV-7244c800.png",
-    "sha256": "1a20435ae82273bef18e152145611b56d86b35197ecb1d57ef790ce08b8b15f2",
+    "sha256": "81876a4bfeaaf1f339947180674bfe007de3284356ac76cfa7921ad64879602e",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/profile/compoents/SubtitlesSection.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.videoPlayer.components.VideoPlayerMainFrameKt.MediaPlayerMainFramePreviewLayoutOnPhone_Phone": {
@@ -1044,7 +1044,7 @@
     "functionName": "VideoPlayerMediaTitlePreviewAd",
     "module": "jetstream",
     "renderBasename": "VideoPlayerMediaTitlePreviewAd_Ads-307a7545.png",
-    "sha256": "aed2fbc5d1b6ec90c086ab00e259a4103c58a323ecd65c93994dd22a8a8a38db",
+    "sha256": "985906873c98ef97a5511d36cbf047b6ce71154b2a868af7fc0f04f9d4395708",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/videoPlayer/components/VideoPlayerMediaTitle.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.videoPlayer.components.VideoPlayerMediaTitleKt.VideoPlayerMediaTitlePreviewLive_Live": {
@@ -1052,7 +1052,7 @@
     "functionName": "VideoPlayerMediaTitlePreviewLive",
     "module": "jetstream",
     "renderBasename": "VideoPlayerMediaTitlePreviewLive_Live-e2b08a18.png",
-    "sha256": "7fe7f1b81f42a2cd7b3efa6fae12f25c609b17e5f02a905bdaf8e76a07899968",
+    "sha256": "c669b078d4a8e63f97ce829e0f8c6fa6ce91b890f952ad6a4c25657d387d8e25",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/videoPlayer/components/VideoPlayerMediaTitle.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.videoPlayer.components.VideoPlayerMediaTitleKt.VideoPlayerMediaTitlePreviewSeries_TV Series": {
@@ -1060,7 +1060,7 @@
     "functionName": "VideoPlayerMediaTitlePreviewSeries",
     "module": "jetstream",
     "renderBasename": "VideoPlayerMediaTitlePreviewSeries_TV_Series-98732e61.png",
-    "sha256": "39c57e5bd62b645673c010bea154986da0c977846f7d2b0ff22146b946f14636",
+    "sha256": "1b71d0f10687aedb4ea0cf31b44759df784649662ee795ae7c2e30bd776107ca",
     "sourceFile": "src/main/java/com/google/jetstream/presentation/screens/videoPlayer/components/VideoPlayerMediaTitle.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.videoPlayer.components.VideoPlayerMediaTitleScreenshotTestKt.VideoPlayerMediaTitlePreviewAdScreenshot_Ads": {
@@ -1068,7 +1068,7 @@
     "functionName": "VideoPlayerMediaTitlePreviewAdScreenshot",
     "module": "jetstream",
     "renderBasename": "VideoPlayerMediaTitlePreviewAdScreenshot_Ads-aa97c67d.png",
-    "sha256": "aed2fbc5d1b6ec90c086ab00e259a4103c58a323ecd65c93994dd22a8a8a38db",
+    "sha256": "985906873c98ef97a5511d36cbf047b6ce71154b2a868af7fc0f04f9d4395708",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/videoPlayer/components/VideoPlayerMediaTitleScreenshotTest.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.videoPlayer.components.VideoPlayerMediaTitleScreenshotTestKt.VideoPlayerMediaTitlePreviewLiveScreenshot_Live": {
@@ -1076,7 +1076,7 @@
     "functionName": "VideoPlayerMediaTitlePreviewLiveScreenshot",
     "module": "jetstream",
     "renderBasename": "VideoPlayerMediaTitlePreviewLiveScreenshot_Live-1ebf14b8.png",
-    "sha256": "7fe7f1b81f42a2cd7b3efa6fae12f25c609b17e5f02a905bdaf8e76a07899968",
+    "sha256": "c669b078d4a8e63f97ce829e0f8c6fa6ce91b890f952ad6a4c25657d387d8e25",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/videoPlayer/components/VideoPlayerMediaTitleScreenshotTest.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.videoPlayer.components.VideoPlayerMediaTitleScreenshotTestKt.VideoPlayerMediaTitlePreviewSeriesScreenshot_TV Series": {
@@ -1084,7 +1084,7 @@
     "functionName": "VideoPlayerMediaTitlePreviewSeriesScreenshot",
     "module": "jetstream",
     "renderBasename": "VideoPlayerMediaTitlePreviewSeriesScreenshot_TV_Series-4a8a639f.png",
-    "sha256": "39c57e5bd62b645673c010bea154986da0c977846f7d2b0ff22146b946f14636",
+    "sha256": "1b71d0f10687aedb4ea0cf31b44759df784649662ee795ae7c2e30bd776107ca",
     "sourceFile": "src/screenshotTest/kotlin/com/google/jetstream/presentation/screens/videoPlayer/components/VideoPlayerMediaTitleScreenshotTest.kt"
   },
   "jetstream/com.google.jetstream.presentation.screens.videoPlayer.components.VideoPlayerOverlayKt.VideoPlayerOverlayPreviewForPhone_Phone": {
