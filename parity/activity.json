@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-17T21:23:47.276Z",
+  "generatedAt": "2026-11-17T21:36:42.114Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "147c81d88402e3fc1d6638b0cba1954f3205f4fb",
+        "subject": "fix(deps): update dependency de.femtopedia.dex2jar:dex-tools to v2.4.39 (#6610)",
+        "at": "2026-11-17T21:19:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "59990eca3f652f417813fdf4eb7cf8bb0908e041",
         "subject": "ci: move the design-artifacts install action pin to v2.97.0 (#6611)",
@@ -474,14 +482,6 @@
         "sha": "8969a66e8097b6a5743a045cc3169bd819e55c91",
         "subject": "fix(deps): update roborazzi to v1.78.0 (#6552)",
         "at": "2026-11-15T08:44:13Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5b0b78963fdb82b1e667f94cffefd87539cd873c",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.5.2 (#6551)",
-        "at": "2026-11-15T04:51:37Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
