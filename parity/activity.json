@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T19:27:57.530Z",
+  "generatedAt": "2026-11-18T21:34:07.990Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8fdbf5b20fcd4051ac72bd6fa85c9aea3c2dc432",
+        "subject": "chore(main): release 2.100.0 (#6646)",
+        "at": "2026-11-18T21:03:11Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aec3ae04b4b28d0a108fa2c6157896637db6f581",
+        "subject": "feat(render-host): export the DWF simulator launcher (#6643)",
+        "at": "2026-11-18T20:22:14Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "42b6b4623c38f2e7b898062ad44757992986dcb3",
+        "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.13.0 (#6645)",
+        "at": "2026-11-18T20:16:23Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "42cad46fef3aff5f67c9288bd84e969528a44502",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.99.3 (#6644)",
+        "at": "2026-11-18T19:56:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e5992cd143eb8ebc43390a611c174181e62b8c48",
         "subject": "chore(main): release 2.99.3",
@@ -450,38 +482,6 @@
         "sha": "181d048e3922fdb1dbb2bff07df384ff672f1ded",
         "subject": "fix(simulator): default weatherLastUpdated to empty so icuText formats clock time (#6587)",
         "at": "2026-11-16T22:08:03Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5b251e17f74f58a9465a3d05d155b3552ba28d35",
-        "subject": "chore(main): release 2.95.1 (#6582)",
-        "at": "2026-11-16T20:39:19Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "61d72d733a2c371d757a634e8fd30cd3a5ef396f",
-        "subject": "fix(dwf): clip ComplicationSlot BoundingRoundBox with cornerRadius (#6584)",
-        "at": "2026-11-16T20:38:21Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c2ca4a0f659f2526826936e9d455ac5e68ff7ac0",
-        "subject": "fix(dwf): apply ambient dim scrim matching Wear OS DWF runtime (#6586)",
-        "at": "2026-11-16T20:31:26Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "381a00a4659cd43c7bbf05412c1e33a9657efeca",
-        "subject": "build(remote): port the snapshot lane to androidx.dev 16942710 (alpha24 prep) (#6585)",
-        "at": "2026-11-16T20:30:56Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
