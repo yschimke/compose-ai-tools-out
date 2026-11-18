@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T15:00:31.626Z",
+  "generatedAt": "2026-11-18T16:11:44.938Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e2661244fd9ba5f455e17d7f96c903167c0343ab",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.99.1 (#6634)",
+        "at": "2026-11-18T15:09:24Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ef6fc3613c826a84fa7d53f42c062196895843cf",
+        "subject": "chore(main): release 2.99.1 (#6633)",
+        "at": "2026-11-18T15:06:57Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "46d37037659ada50c588993d5f406606a7c9626e",
         "subject": "fix: make compiled watch faces playable in the browser CMP player (#6632)",
@@ -466,22 +482,6 @@
         "sha": "e186aa156ad6fd5ef04488fdd7fb08180cbf8cc7",
         "subject": "feat(cli): split the simulator out into an android-simulator command (#6574)",
         "at": "2026-11-16T09:57:23Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f1810d400e63b032e5c15bbc0a73aa2bd2222713",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.7.0 (#6575)",
-        "at": "2026-11-16T09:55:47Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fe2f761e633e8f49821d3e8b5fcf135c0a1358d6",
-        "subject": "feat(dwf): support real-world complication defaults, editor highlights, and clock modes (#6573)",
-        "at": "2026-11-16T09:44:56Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
