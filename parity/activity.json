@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T16:28:13.712Z",
+  "generatedAt": "2026-11-18T19:27:57.530Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e5992cd143eb8ebc43390a611c174181e62b8c48",
+        "subject": "chore(main): release 2.99.3",
+        "at": "2026-11-18T18:21:52Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e35b77f5452b3fff9e76a976e99b3732461899de",
+        "subject": "fix(dwf-apk): bridge requests name their whole state and wait for their frame (#6642)",
+        "at": "2026-11-18T18:21:01Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c2ee4e1f061c0ff7f25ea0953407f7e9876a6488",
+        "subject": "fix(dwf-apk): create runtime instances one at a time and keep the runtime's services bound (#6641)",
+        "at": "2026-11-18T18:16:44Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e376c9bbab99d198dec157da7a2fe6883df4ccae",
+        "subject": "fix(dwf-apk): release an instance the runtime hands back after its client was released (#6640)",
+        "at": "2026-11-18T17:45:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2df11c01d35f015c3ee2b380854e7fbf4aa1ced1",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.99.2 (#6639)",
+        "at": "2026-11-18T17:31:09Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f636397b42039f44b38998135541746fb87d682e",
+        "subject": "fix(dwf-rc): apply a requested watch-face flavor (#6637)",
+        "at": "2026-11-18T17:29:24Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e3b07e32d913840fa6065708c5621fc1c604a76b",
         "subject": "chore(main): release 2.99.2",
@@ -435,54 +483,6 @@
         "subject": "build(remote): port the snapshot lane to androidx.dev 16942710 (alpha24 prep) (#6585)",
         "at": "2026-11-16T20:30:56Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "99822bd4afd56766af1ac7a138fba26ab68370e5",
-        "subject": "fix(dwf): default TimeText align to CENTER (#6583)",
-        "at": "2026-11-16T20:29:55Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f95821db71e46d07e81a1156d36e2558cf463e95",
-        "subject": "fix(dwf-apk): include android daemon jars in ApkClassConverter and align multi-module split paths (#6581)",
-        "at": "2026-11-16T19:49:23Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "499872261c8b908f037c8b9be846f6a0b717b607",
-        "subject": "fix(dwf): center custom-font and tabular-digit text by advance width and font metrics (#6580)",
-        "at": "2026-11-16T19:48:26Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b215405bf5a45ecb1fb35ce3fbdabd612c7c8142",
-        "subject": "ci(pages): publish the built docs site to a site branch (#6578)",
-        "at": "2026-11-16T15:19:24Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "44fd3605918a67cf93a8410bd5c3831d57be97e9",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.95.0 (#6579)",
-        "at": "2026-11-16T12:59:02Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "31034a674b4db96a0a67c0e87fd6c8b27481f5bc",
-        "subject": "chore(main): release 2.95.0 (#6570)",
-        "at": "2026-11-16T11:23:36Z",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
