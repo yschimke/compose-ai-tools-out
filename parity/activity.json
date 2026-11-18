@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T07:10:45.760Z",
+  "generatedAt": "2026-11-18T10:17:01.480Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e7136d368b16da759d97142c1c3b89f049c742da",
+        "subject": "chore(main): release 2.98.2 (#6621)",
+        "at": "2026-11-18T09:58:48Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2c0b3774f0cf84ce03f3acf53b9eeba16e2c8a9e",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.98.1 (#6622)",
+        "at": "2026-11-18T09:51:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3eca8527d379a7c6a328586118f7321bd2057550",
+        "subject": "fix(dwf-apk): draw the runtime's render-node layers onto software canvases (#6620)",
+        "at": "2026-11-18T09:49:29Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "463dcc7010702f2d1ac22a39640225804b75b512",
         "subject": "chore(main): release 2.98.1 (#6619)",
@@ -458,30 +482,6 @@
         "sha": "370c920be6f6c6170801d3e84881364ac9791ed7",
         "subject": "fix: fix DWF ColorConfiguration tinting and NamedVariable registration (#6563)",
         "at": "2026-11-15T18:17:59Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e602ea4975cb6941225d890a0e78d1555da6bc80",
-        "subject": "docs: add dwf-apk vs dwf-rc baseline evidence and diff tool (#6562)",
-        "at": "2026-11-15T15:15:05Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c1d74b66522851c5bd62e2c75438f7edf05ea82",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.94.0 (#6561)",
-        "at": "2026-11-15T13:15:05Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "97e3cde2a410bff1bf48d2598c64f070ee7951d7",
-        "subject": "fix(watchface): clear stale slots before flavor config and refresh flavor complications (#6559)",
-        "at": "2026-11-15T13:13:06Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
