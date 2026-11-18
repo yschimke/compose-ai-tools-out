@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-17T21:36:42.114Z",
+  "generatedAt": "2026-11-18T00:32:18.607Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "fdcef219ab721a39e850868935a73e48c4adffac",
+        "subject": "chore(main): release 2.98.0 (#6612)",
+        "at": "2026-11-17T23:58:28Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0d761d5a04411af19598f4ddd5cb774aca655bf9",
+        "subject": "ci: republish the Gradle plugin when a sibling it bakes the version of publishes (#6616)",
+        "at": "2026-11-17T23:50:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "970e5a2685776f68d0f46ef7849f649ae6a69726",
+        "subject": "fix(dwf-apk): set ambient and clock explicitly and wait for the face's first frame (#6615)",
+        "at": "2026-11-17T23:49:42Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e14120bd3005292c3781c5fc1d1b481ec3851b4b",
+        "subject": "feat: publish the WFF to Remote Compose translator as dwf-remote-compose (#6614)",
+        "at": "2026-11-17T22:37:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2270905f1afdbba9d3652195ce83875a7aba326c",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.97.0 (#6613)",
+        "at": "2026-11-17T21:34:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "147c81d88402e3fc1d6638b0cba1954f3205f4fb",
         "subject": "fix(deps): update dependency de.femtopedia.dex2jar:dex-tools to v2.4.39 (#6610)",
@@ -443,46 +483,6 @@
         "subject": "fix(watchface): support flavor config on APK host and reset complication colors (#6557)",
         "at": "2026-11-15T11:57:38Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "09f845d50fa131956592168a35d5b1ee50f7d404",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.93.0 (#6556)",
-        "at": "2026-11-15T11:13:01Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1d164a1e641e4f818c9473ca7719bc25d8c9b99b",
-        "subject": "feat: default watch-face previews to dwf-apk and support URL images (#6554)",
-        "at": "2026-11-15T11:10:02Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5f0cf11d7e84836f93bcbb4c5ef88c55fd83a2bb",
-        "subject": "chore(main): release 2.93.0 (#6549)",
-        "at": "2026-11-15T09:22:17Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "471630f6cd2c1529248afdf19f4be95d556fdb40",
-        "subject": "feat(render-host): back dwf-apk renderer with :simulator-host daemon bridge (#6553)",
-        "at": "2026-11-15T09:18:19Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8969a66e8097b6a5743a045cc3169bd819e55c91",
-        "subject": "fix(deps): update roborazzi to v1.78.0 (#6552)",
-        "at": "2026-11-15T08:44:13Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
