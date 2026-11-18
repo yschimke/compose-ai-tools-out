@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T00:32:18.607Z",
+  "generatedAt": "2026-11-18T07:10:45.760Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "463dcc7010702f2d1ac22a39640225804b75b512",
+        "subject": "chore(main): release 2.98.1 (#6619)",
+        "at": "2026-11-18T06:51:34Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "04587fa920f449ce2a0aa46dcc0eb80bd8bfa458",
+        "subject": "fix(dwf-apk): revert the explicit ambient/clock commands and first-frame wait (#6617)",
+        "at": "2026-11-18T06:49:30Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "86c513ef03fe47c5c82e77d9720efc819e89a283",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.98.0 (#6618)",
+        "at": "2026-11-18T04:31:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "fdcef219ab721a39e850868935a73e48c4adffac",
         "subject": "chore(main): release 2.98.0 (#6612)",
@@ -458,30 +482,6 @@
         "sha": "97e3cde2a410bff1bf48d2598c64f070ee7951d7",
         "subject": "fix(watchface): clear stale slots before flavor config and refresh flavor complications (#6559)",
         "at": "2026-11-15T13:13:06Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4da7d291557143acd2cb51ee3e0eefa2e98999ad",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.0 (#6558)",
-        "at": "2026-11-15T13:05:41Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b2c6a83449e4dff41b9fb910739f493f411a9849",
-        "subject": "chore(main): release 2.94.0 (#6555)",
-        "at": "2026-11-15T12:40:44Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "36a21e6b9f9d2ffcb38f832abdf71bb156a551e3",
-        "subject": "fix(watchface): support flavor config on APK host and reset complication colors (#6557)",
-        "at": "2026-11-15T11:57:38Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
