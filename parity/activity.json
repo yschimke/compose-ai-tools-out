@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T10:17:01.480Z",
+  "generatedAt": "2026-11-18T12:23:54.881Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "6c87a5ae9dd46f9ad687318a592b641382c82573",
+        "subject": "chore(main): release 2.98.3 (#6625)",
+        "at": "2026-11-18T11:39:07Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d4e9da74ac3ed903e65299a41176ca4def2af563",
+        "subject": "fix(dwf-apk): ambient command no longer toggles; failed faces fail; wait for first frame (#6623)",
+        "at": "2026-11-18T11:33:40Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "715248efc56c65f4bb5aabb6ae065d738ec1ef1e",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.98.2 (#6626)",
+        "at": "2026-11-18T11:22:06Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0472ba02a26c0323dfe888d5f8f73191de9c41cd",
+        "subject": "fix(dwf-remote-compose): ambient variants no longer blank unrelated draws, report bad expressions (#6624)",
+        "at": "2026-11-18T11:19:16Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e7136d368b16da759d97142c1c3b89f049c742da",
         "subject": "chore(main): release 2.98.2 (#6621)",
@@ -450,38 +482,6 @@
         "sha": "0ff45c648429583047348ae1addd9e38f567ae28",
         "subject": "fix(dwf): clip ComplicationSlot to its bounding shape (#6567)",
         "at": "2026-11-15T23:02:12Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "82cb59956d0a77e5f2b70b3b43fb2ddc76b1a9d4",
-        "subject": "fix(gradle-plugin): floor kotlinx-coroutines to 1.11.0 on Android render graph (#6566)",
-        "at": "2026-11-15T21:19:16Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dd35c65c207ccd3bfc492e9b106f74bee4e73985",
-        "subject": "fix(deps): update rc-players (#6565)",
-        "at": "2026-11-15T18:39:47Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "502ab2243146fab1fa21364ee49968715435ff55",
-        "subject": "fix(deps): update dependency com.github.luben:zstd-jni to v1.5.7-26 (#6564)",
-        "at": "2026-11-15T18:37:44Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "370c920be6f6c6170801d3e84881364ac9791ed7",
-        "subject": "fix: fix DWF ColorConfiguration tinting and NamedVariable registration (#6563)",
-        "at": "2026-11-15T18:17:59Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
