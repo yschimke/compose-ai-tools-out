@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T16:11:44.938Z",
+  "generatedAt": "2026-11-18T16:28:13.712Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e3b07e32d913840fa6065708c5621fc1c604a76b",
+        "subject": "chore(main): release 2.99.2",
+        "at": "2026-11-18T16:10:11Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "99fff5bf81521ddd3b606ca0c47da6222a44e8a0",
+        "subject": "fix(dwf-apk): wait for the wallpaper engine so a pushed face gets live frames (#6635)",
+        "at": "2026-11-18T16:08:25Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e2661244fd9ba5f455e17d7f96c903167c0343ab",
         "subject": "chore(ci): update the design-artifacts export driver to v2.99.1 (#6634)",
@@ -467,22 +483,6 @@
         "subject": "chore(main): release 2.95.0 (#6570)",
         "at": "2026-11-16T11:23:36Z",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6fa6ed51aa493a51a4a3ddafac1aa88ff89ca6b6",
-        "subject": "fix(simulator): wire scene DefaultProviderPolicy defaults into WatchFaceClient (#6576)",
-        "at": "2026-11-16T11:23:13Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e186aa156ad6fd5ef04488fdd7fb08180cbf8cc7",
-        "subject": "feat(cli): split the simulator out into an android-simulator command (#6574)",
-        "at": "2026-11-16T09:57:23Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
