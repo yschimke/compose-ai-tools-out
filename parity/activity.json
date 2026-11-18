@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T12:23:54.881Z",
+  "generatedAt": "2026-11-18T15:00:31.626Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "46d37037659ada50c588993d5f406606a7c9626e",
+        "subject": "fix: make compiled watch faces playable in the browser CMP player (#6632)",
+        "at": "2026-11-18T14:53:16Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "549e3a0c007ccf2fd4aa6df3d9a9f06ab2633765",
+        "subject": "chore(main): release 2.99.0",
+        "at": "2026-11-18T14:32:21Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "af52a3c874d265f7e74fb5602de1439482e88967",
+        "subject": "fix(dwf-apk): release the live frame reader when attaching fails (#6631)",
+        "at": "2026-11-18T14:28:43Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8ed6c971c630d29fd9dcaa2242bf00fa31d8a2d3",
+        "subject": "fix(dwf-apk): take frames from the live engine draw so the date is the real (or pinned) one (#6628)",
+        "at": "2026-11-18T14:24:15Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d426176ee0eaa1d4087bfd3370f5d05ab3b3d494",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.98.3 (#6630)",
+        "at": "2026-11-18T13:57:18Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5e57018b5591e530f11345ea4a6655ed5a27cd6d",
+        "subject": "feat: WFF to Remote Compose group alpha layers, v4 Reference and real moon phase (#6627)",
+        "at": "2026-11-18T13:54:28Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6c87a5ae9dd46f9ad687318a592b641382c82573",
         "subject": "chore(main): release 2.98.3 (#6625)",
@@ -434,54 +482,6 @@
         "sha": "fe2f761e633e8f49821d3e8b5fcf135c0a1358d6",
         "subject": "feat(dwf): support real-world complication defaults, editor highlights, and clock modes (#6573)",
         "at": "2026-11-16T09:44:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "72bc008266a47f87c91b060211c01e380067846e",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.6.1 (#6572)",
-        "at": "2026-11-16T08:43:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f38d8d77052e666b32dfc306cb131c43dda9e020",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.94.1 (#6571)",
-        "at": "2026-11-16T08:35:40Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "89e7defba5cc2f2ce34da056c8f47bfaca00bc1d",
-        "subject": "fix(dwf): honor watch_face_shapes.xml when ordering APK watch faces (#6569)",
-        "at": "2026-11-16T08:33:02Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3b0720ff1bedc4972f899e8307047c15b2d31171",
-        "subject": "chore(main): release 2.94.1 (#6560)",
-        "at": "2026-11-16T06:42:24Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0c1e017914510183684f9c132658fd81ef066646",
-        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.6.0 (#6568)",
-        "at": "2026-11-16T01:10:58Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0ff45c648429583047348ae1addd9e38f567ae28",
-        "subject": "fix(dwf): clip ComplicationSlot to its bounding shape (#6567)",
-        "at": "2026-11-15T23:02:12Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
