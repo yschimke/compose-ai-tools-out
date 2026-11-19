@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T21:34:07.990Z",
+  "generatedAt": "2026-11-19T01:47:08.148Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "e84355a48d27d8ee21a6eedd425560fd9b2889cb",
+        "subject": "chore(main): release 2.101.0 (#6648)",
+        "at": "2026-11-19T01:05:47Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "86fadda957ed9fe942dc0afe0448b3aa72565fb1",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.100.0 (#6649)",
+        "at": "2026-11-18T23:59:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "abda973f9557c220e348b90d8e2e45898543eb0a",
+        "subject": "feat(bundle): carry each watch face's WFF source bundle and licence (#6647)",
+        "at": "2026-11-18T23:52:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8fdbf5b20fcd4051ac72bd6fa85c9aea3c2dc432",
         "subject": "chore(main): release 2.100.0 (#6646)",
@@ -458,30 +482,6 @@
         "sha": "4ad967e44947bf68e4f92b1f5248f7f6026cf4c2",
         "subject": "fix(simulator): map WFF DefaultProviderPolicy slot order to runtime wire slot IDs (#6591)",
         "at": "2026-11-16T22:55:32Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1e4f689aa3095a3d46011594aeab139398216e25",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.8.0 (#6590)",
-        "at": "2026-11-16T22:23:43Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6f5735d4ffc7ac3c872e70186d98a7e56db76744",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.95.1 (#6589)",
-        "at": "2026-11-16T22:16:52Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "181d048e3922fdb1dbb2bff07df384ff672f1ded",
-        "subject": "fix(simulator): default weatherLastUpdated to empty so icuText formats clock time (#6587)",
-        "at": "2026-11-16T22:08:03Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
