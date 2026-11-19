@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-19T01:47:08.148Z",
+  "generatedAt": "2026-11-19T23:08:09.641Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "92a05af09992b501578b17a4501507f3923c84ba",
+        "subject": "chore(main): release 2.101.1 (#6654)",
+        "at": "2026-11-19T22:43:11Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bcf7f51b7e0d0cea3968526b9dfdc1943b522c68",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.44.0 (#6657)",
+        "at": "2026-11-19T22:38:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "03206538da0b5afb554b4e6634a5881cbcbd682a",
+        "subject": "fix(render-host): report the DWF APK daemon's exit status and stderr, and cap its heap (#6656)",
+        "at": "2026-11-19T22:27:09Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dccd003aada603bb3a46c9d6e18a7110006795bf",
+        "subject": "fix(deps): update roborazzi to v1.79.0 (#6653)",
+        "at": "2026-11-19T09:27:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "14202ec4a0cbf6ffbb03931c2938c7996cfbc726",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.101.0 (#6651)",
+        "at": "2026-11-19T01:24:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e84355a48d27d8ee21a6eedd425560fd9b2889cb",
         "subject": "chore(main): release 2.101.0 (#6648)",
@@ -442,46 +482,6 @@
         "sha": "2a8e8a1c16eddaa7f842f9677ef092a645470ca0",
         "subject": "fix(simulator): shadow DisplayOffloadManager and DisplayControlLock stubs (#6597)",
         "at": "2026-11-17T13:39:02Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "85998e6c2be8981fe2141dad04d96fefbcadfbbc",
-        "subject": "fix(render-host): add java.io and jdk.internal.access add-opens for DWF APK simulator (#6595)",
-        "at": "2026-11-17T13:30:40Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2248986f0f399371c8eee0d6c654d37a8b7cf474",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.95.2 (#6593)",
-        "at": "2026-11-17T00:14:45Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4141406aeac251d96659d61780ef62c4925cd655",
-        "subject": "chore(main): release 2.95.2 (#6588)",
-        "at": "2026-11-17T00:12:06Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1d3b098e414ddc0a030691f65512ab14a60099af",
-        "subject": "fix(dwf): render default monochromatic bullseye icon for system provider complications (#6592)",
-        "at": "2026-11-16T22:56:55Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4ad967e44947bf68e4f92b1f5248f7f6026cf4c2",
-        "subject": "fix(simulator): map WFF DefaultProviderPolicy slot order to runtime wire slot IDs (#6591)",
-        "at": "2026-11-16T22:55:32Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
