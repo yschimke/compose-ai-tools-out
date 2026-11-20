@@ -1,11 +1,75 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-19T23:08:09.641Z",
+  "generatedAt": "2026-11-20T04:41:28.525Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "2f76f51758a9fc50ca97afa02c2c403b418b9528",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.9.0 (#6662)",
+        "at": "2026-11-20T04:18:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4c0e469ecdf908baef616b957978f3af75e0c103",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.1 (#6664)",
+        "at": "2026-11-20T03:42:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fa76179e632a3fa78799cdc5f13ad7c635529380",
+        "subject": "fix(simulator): harden CLI/ADB concurrency, host lifecycle, platform emulation, and Wear state (#6663)",
+        "at": "2026-11-20T01:05:23Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "719900d99a9ccc6aa00affec92425ea9d64b20ab",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.101.1 (#6661)",
+        "at": "2026-11-20T00:19:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ca1b3ef98272036447efc953893b07d1c62e60ea",
+        "subject": "fix(simulator): measure live-frame allocations on the main drawing thread (#6660)",
+        "at": "2026-11-20T00:18:04Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "200973f777b9ea9671b16985037786dc173b7b6d",
+        "subject": "chore: update the host-natives index and AndroidX survey (#6652)",
+        "at": "2026-11-20T00:00:18Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ee7bf768d01f1d313125ed5791ff747e5de5f644",
+        "subject": "fix(dwf-remote-compose): support the WFF v2 hour, minute and second digit sources (#6655)",
+        "at": "2026-11-19T23:56:46Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ff1aea7c299103dc458481006e697921f6a6cf15",
+        "subject": "feat(simulator): add WatchFaceFrameCostProfiler for per-frame draw, animation churn, and ambient OPR/burn-in profiling (#6658)",
+        "at": "2026-11-19T23:55:11Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "92a05af09992b501578b17a4501507f3923c84ba",
         "subject": "chore(main): release 2.101.1 (#6654)",
@@ -418,70 +482,6 @@
         "sha": "feb40c0a7277fd2cbac85cff50d612a77dd7621f",
         "subject": "fix(dwf-apk): fail the render instead of serving the simulator's built-in face (#6604)",
         "at": "2026-11-17T19:39:55Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "41776b5bb5771feecee396aee1c2dc6e9cc69ded",
-        "subject": "fix(install): wait for the plugin version the CLI uses, not the release's (#6603)",
-        "at": "2026-11-17T19:39:40Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cf18236d060653ccacf20bf4e0cb22f5bd796e99",
-        "subject": "feat(simulator): host interactive watch faces and Wear platform services (#6600)",
-        "at": "2026-11-17T18:00:21Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "83c3501868874d3ab5f69566baddfa295e02f5fd",
-        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.9.1 (#6602)",
-        "at": "2026-11-17T17:20:09Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a7cd1f239ef9cf6bbd805a3dce20b72009c5cd61",
-        "subject": "fix(dwf): serve default monochromatic bullseye through the URL image loader (#6599)",
-        "at": "2026-11-17T17:10:26Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0241521313cbcae0a2c0d6bcd2a70d2d32e05cd0",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.95.3 (#6598)",
-        "at": "2026-11-17T14:54:59Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "88291386c5b9f60e9d5f19e62a751f5dc3707cf0",
-        "subject": "chore(main): release 2.95.3 (#6596)",
-        "at": "2026-11-17T14:45:19Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "456a91cfbd6b1c52a9a4b030b4deebf95773f028",
-        "subject": "chore(deps): bump the actions-minor group with 2 updates (#6594)",
-        "at": "2026-11-17T14:44:58Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2a8e8a1c16eddaa7f842f9677ef092a645470ca0",
-        "subject": "fix(simulator): shadow DisplayOffloadManager and DisplayControlLock stubs (#6597)",
-        "at": "2026-11-17T13:39:02Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
