@@ -3161,7 +3161,7 @@
       "cleanBasename": "ActivitySummaryWidgetSquirclePreview_Squircle_Preview-a0071b12.png",
       "findings": [
         {
-          "boundsInScreen": "0,0,432,248",
+          "boundsInScreen": "0,0,430,248",
           "level": "ERROR",
           "message": "This item may not have a label readable by screen readers.",
           "type": "SpeakableTextPresentCheck",
