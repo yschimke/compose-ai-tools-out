@@ -1,11 +1,155 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-20T04:41:28.525Z",
+  "generatedAt": "2026-11-22T05:19:44.315Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "0a2a2fa1841618c04d1a78085924242779ec0131",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.12.0 (#6684)",
+        "at": "2026-11-22T05:11:10Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "755c55a2f5aab244c42136d67727223158c8c8a2",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.11.0 (#6682)",
+        "at": "2026-11-21T22:36:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6afe54c1fef1186ca0c148ee7fbf5ed759c64f8d",
+        "subject": "chore(renovate): allow Robolectric 4.18 again (#6681)",
+        "at": "2026-11-21T18:11:53Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b2e8b2df0a61c968f2f067806401bbc6ffd39d81",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.103.0 (#6680)",
+        "at": "2026-11-21T17:20:10Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "88e12c7e3661022d26d50a94e10d97bbaaee785f",
+        "subject": "chore(main): release 2.103.0 (#6672)",
+        "at": "2026-11-21T17:18:10Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ccc39702e1c1313d33b113f4fa06af5fae9b2df3",
+        "subject": "fix(deps): bump Remote Compose trio to alpha24 to match rc-players 3.10.0 (#6678)",
+        "at": "2026-11-21T17:17:55Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a5280d749dba6d3a22570edc74e0376dcef41a05",
+        "subject": "chore(deps): update dependency yschimke/compose-preview-xr to v2.0.5 (#6679)",
+        "at": "2026-11-21T16:43:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "28f5c565b27ac9b62f087ff69fc8c42c8d9899b1",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.2 (#6676)",
+        "at": "2026-11-21T13:59:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2f91b8e3b158d70919e9926ce46f26fd348c1319",
+        "subject": "feat: add reusable compose-preview workflows and speed up apply (#6677)",
+        "at": "2026-11-21T13:16:26Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3278efa94bbdd0a069e4eb979e65a32395fcfe7a",
+        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.10.0 (#6675)",
+        "at": "2026-11-21T10:42:23Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "625bbbb49c11c81e8a2f4fe4ab18a7c89dd87df3",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.10.0 (#6674)",
+        "at": "2026-11-21T10:33:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "545af1bc96352a7cc79b1c98c7425b1c82f73760",
+        "subject": "chore(renovate): skip org.robolectric:robolectric 4.18 (#6673)",
+        "at": "2026-11-21T10:04:14Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "92d830c024caaaeb1f5884d9fd334d373495287f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.45.0 (#6671)",
+        "at": "2026-11-21T03:37:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "11ec6b10ab3ae4eabb19aa9c5b873f4e1b7b7e39",
+        "subject": "fix(deps): update dependency com.github.luben:zstd-jni to v1.5.7-28 (#6670)",
+        "at": "2026-11-21T03:35:06Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2d1cd9f59d6c03ea7d71fc38aee3916f1723e9f1",
+        "subject": "chore(deps): bump anthropics/claude-code-action from 1.0.271 to 1.0.275 in the actions-minor group (#6666)",
+        "at": "2026-11-21T03:06:11Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2b86dcbc50b7660bf457acf689e44adb3a84e2d8",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.102.0 (#6667)",
+        "at": "2026-11-20T10:51:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8ff15a271fddedc1223398f9928d9c338e324f97",
+        "subject": "chore(deps): update docker/dockerfile docker tag to v1.29 (#6650)",
+        "at": "2026-11-20T06:50:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ba02c5a4b521a092bd242895a078fdd844560bd0",
+        "subject": "chore(main): release 2.102.0 (#6659)",
+        "at": "2026-11-20T06:22:18Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2f76f51758a9fc50ca97afa02c2c403b418b9528",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.9.0 (#6662)",
@@ -339,150 +483,6 @@
         "subject": "chore(ci): update the design-artifacts export driver to v2.98.1 (#6622)",
         "at": "2026-11-18T09:51:28Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3eca8527d379a7c6a328586118f7321bd2057550",
-        "subject": "fix(dwf-apk): draw the runtime's render-node layers onto software canvases (#6620)",
-        "at": "2026-11-18T09:49:29Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "463dcc7010702f2d1ac22a39640225804b75b512",
-        "subject": "chore(main): release 2.98.1 (#6619)",
-        "at": "2026-11-18T06:51:34Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "04587fa920f449ce2a0aa46dcc0eb80bd8bfa458",
-        "subject": "fix(dwf-apk): revert the explicit ambient/clock commands and first-frame wait (#6617)",
-        "at": "2026-11-18T06:49:30Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "86c513ef03fe47c5c82e77d9720efc819e89a283",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.98.0 (#6618)",
-        "at": "2026-11-18T04:31:52Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fdcef219ab721a39e850868935a73e48c4adffac",
-        "subject": "chore(main): release 2.98.0 (#6612)",
-        "at": "2026-11-17T23:58:28Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0d761d5a04411af19598f4ddd5cb774aca655bf9",
-        "subject": "ci: republish the Gradle plugin when a sibling it bakes the version of publishes (#6616)",
-        "at": "2026-11-17T23:50:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "970e5a2685776f68d0f46ef7849f649ae6a69726",
-        "subject": "fix(dwf-apk): set ambient and clock explicitly and wait for the face's first frame (#6615)",
-        "at": "2026-11-17T23:49:42Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e14120bd3005292c3781c5fc1d1b481ec3851b4b",
-        "subject": "feat: publish the WFF to Remote Compose translator as dwf-remote-compose (#6614)",
-        "at": "2026-11-17T22:37:34Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2270905f1afdbba9d3652195ce83875a7aba326c",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.97.0 (#6613)",
-        "at": "2026-11-17T21:34:40Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "147c81d88402e3fc1d6638b0cba1954f3205f4fb",
-        "subject": "fix(deps): update dependency de.femtopedia.dex2jar:dex-tools to v2.4.39 (#6610)",
-        "at": "2026-11-17T21:19:15Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "59990eca3f652f417813fdf4eb7cf8bb0908e041",
-        "subject": "ci: move the design-artifacts install action pin to v2.97.0 (#6611)",
-        "at": "2026-11-17T21:09:37Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7758d2e24029d93d5ab6c47fe0189a0390949e95",
-        "subject": "chore(main): release 2.97.0 (#6609)",
-        "at": "2026-11-17T21:01:21Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ddb243c06c74d318d87bace98dfd2a370aa4dba0",
-        "subject": "fix(dwf): draw a watch face's own fonts instead of the system face (#6608)",
-        "at": "2026-11-17T20:51:56Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c3df26faf12b7ffbf4bbb778ca31fcfd6537dbf",
-        "subject": "feat(render-host): render a local module's watch faces in the DWF daemon from source (#6607)",
-        "at": "2026-11-17T20:51:34Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7281e0623d82ecc762eeec309e9262def750beac",
-        "subject": "fix(dwf): report DWF render failures as RenderFailedParams.error (#6606)",
-        "at": "2026-11-17T20:50:07Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b2d92543f9c5485bc0f0cce0ffe994e474493673",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.96.0 (#6605)",
-        "at": "2026-11-17T19:42:19Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1892e75cb65246d1bc3bd594128f560315833a7b",
-        "subject": "chore(main): release 2.96.0 (#6601)",
-        "at": "2026-11-17T19:40:28Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "feb40c0a7277fd2cbac85cff50d612a77dd7621f",
-        "subject": "fix(dwf-apk): fail the render instead of serving the simulator's built-in face (#6604)",
-        "at": "2026-11-17T19:39:55Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
