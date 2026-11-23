@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-22T05:19:44.315Z",
+  "generatedAt": "2026-11-23T06:25:24.980Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "26a4f97bfa86283812e2d1cf1fbc24da9f1c85ab",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.46.0 (#6686)",
+        "at": "2026-11-23T03:11:43Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "62e9554cfc0b74455e0b5efff84dd112a48758b3",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.29.0 (#6685)",
+        "at": "2026-11-22T14:35:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0a2a2fa1841618c04d1a78085924242779ec0131",
         "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.12.0 (#6684)",
@@ -467,22 +483,6 @@
         "subject": "fix(dwf-remote-compose): ambient variants no longer blank unrelated draws, report bad expressions (#6624)",
         "at": "2026-11-18T11:19:16Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e7136d368b16da759d97142c1c3b89f049c742da",
-        "subject": "chore(main): release 2.98.2 (#6621)",
-        "at": "2026-11-18T09:58:48Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2c0b3774f0cf84ce03f3acf53b9eeba16e2c8a9e",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.98.1 (#6622)",
-        "at": "2026-11-18T09:51:28Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
