@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T06:25:24.980Z",
+  "generatedAt": "2026-11-23T20:07:14.010Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "dece93e53566ad8c99b7e8372ed53391a5f5b009",
+        "subject": "chore(deps): bump the actions-minor group with 2 updates (#6687)",
+        "at": "2026-11-23T20:00:41Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aa0be891454e2c8ba80b3eaaa9def1c3db33bbd7",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.12.1 (#6688)",
+        "at": "2026-11-23T11:02:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "26a4f97bfa86283812e2d1cf1fbc24da9f1c85ab",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.46.0 (#6686)",
@@ -466,22 +482,6 @@
         "sha": "d4e9da74ac3ed903e65299a41176ca4def2af563",
         "subject": "fix(dwf-apk): ambient command no longer toggles; failed faces fail; wait for first frame (#6623)",
         "at": "2026-11-18T11:33:40Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "715248efc56c65f4bb5aabb6ae065d738ec1ef1e",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.98.2 (#6626)",
-        "at": "2026-11-18T11:22:06Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0472ba02a26c0323dfe888d5f8f73191de9c41cd",
-        "subject": "fix(dwf-remote-compose): ambient variants no longer blank unrelated draws, report bad expressions (#6624)",
-        "at": "2026-11-18T11:19:16Z",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
