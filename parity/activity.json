@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T20:07:14.010Z",
+  "generatedAt": "2026-11-23T20:21:51.743Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "f58533a652f0f53540b2661272c1be0a3ede5727",
+        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.12.1 (#6689)",
+        "at": "2026-11-23T20:02:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "dece93e53566ad8c99b7e8372ed53391a5f5b009",
         "subject": "chore(deps): bump the actions-minor group with 2 updates (#6687)",
@@ -475,14 +483,6 @@
         "subject": "chore(main): release 2.98.3 (#6625)",
         "at": "2026-11-18T11:39:07Z",
         "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d4e9da74ac3ed903e65299a41176ca4def2af563",
-        "subject": "fix(dwf-apk): ambient command no longer toggles; failed faces fail; wait for first frame (#6623)",
-        "at": "2026-11-18T11:33:40Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
