@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T20:21:51.743Z",
+  "generatedAt": "2026-11-24T13:58:05.165Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "8911ffd9bc1b03dfcf478b90dd56a4818232c968",
+        "subject": "chore(deps): update dependency yschimke/compose-preview-xr to v2.0.6 (#6695)",
+        "at": "2026-11-24T13:35:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "514330c6c615904a679d62562f62d5c29f3df5ed",
+        "subject": "chore(main): release 2.103.1 (#6683)",
+        "at": "2026-11-24T13:12:52Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a58a3347ec6d4049aaa3c9921c13b132846c3aad",
+        "subject": "chore: clean up post-split leftovers and stale docs (#6692)",
+        "at": "2026-11-24T10:17:18Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "072d0a7b05dd43a0824d059c69b549ea80c8a40b",
+        "subject": "fix(deps): update metro to v1.6.0 (#6690)",
+        "at": "2026-11-24T03:06:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f58533a652f0f53540b2661272c1be0a3ede5727",
         "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.12.1 (#6689)",
@@ -451,38 +483,6 @@
         "subject": "fix(dwf-apk): release the live frame reader when attaching fails (#6631)",
         "at": "2026-11-18T14:28:43Z",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8ed6c971c630d29fd9dcaa2242bf00fa31d8a2d3",
-        "subject": "fix(dwf-apk): take frames from the live engine draw so the date is the real (or pinned) one (#6628)",
-        "at": "2026-11-18T14:24:15Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d426176ee0eaa1d4087bfd3370f5d05ab3b3d494",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.98.3 (#6630)",
-        "at": "2026-11-18T13:57:18Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5e57018b5591e530f11345ea4a6655ed5a27cd6d",
-        "subject": "feat: WFF to Remote Compose group alpha layers, v4 Reference and real moon phase (#6627)",
-        "at": "2026-11-18T13:54:28Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c87a5ae9dd46f9ad687318a592b641382c82573",
-        "subject": "chore(main): release 2.98.3 (#6625)",
-        "at": "2026-11-18T11:39:07Z",
-        "author": "github-actions[bot]",
         "previewIds": [],
         "components": []
       }
