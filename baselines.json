@@ -1948,7 +1948,7 @@
     "functionName": "ExpandableMenuInteractionPreview",
     "module": "samples:cmp",
     "renderBasename": "ExpandableMenuInteractionPreview_Interaction_Expandable_Menu-5a286a51.apng",
-    "sha256": "4838620e0090b2ce1a974813d2afeef99f4ff15ac4871e63ccffa8119866cdb9",
+    "sha256": "fc7cfd9bf88a68c9407de712085815cbc78569a70767b8c2db5ef88efce0d827",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/InteractionPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.KeyboardDemoPreviewKt.KeyboardDemoPreview_Keyboard Demo": {
@@ -1964,7 +1964,7 @@
     "functionName": "LottieSpinQuarterPreview",
     "module": "samples:cmp",
     "renderBasename": "LottieSpinQuarterPreview-d4eed04d.png",
-    "sha256": "8207b14377a0b0bf54dd98cf788d574ca0198be329c4d4f634df7b2eaea04b76",
+    "sha256": "b952083a033a5d99c65a125276ee9f48a9d70be9d53b1d4a6b7c5c2fdd4863df",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/LottiePreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.LottiePreviewsKt.LottieSpinStartPreview": {
@@ -1972,7 +1972,7 @@
     "functionName": "LottieSpinStartPreview",
     "module": "samples:cmp",
     "renderBasename": "LottieSpinStartPreview-5e829e09.png",
-    "sha256": "29148d553cc7831a6441fd2216dadf892e857a86e03067d90113161896275a8d",
+    "sha256": "b952083a033a5d99c65a125276ee9f48a9d70be9d53b1d4a6b7c5c2fdd4863df",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/LottiePreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.MultiTouchDrawingPreviewKt.MultiTouchDrawingPreview_Multi-Touch Drawing": {
@@ -1980,7 +1980,7 @@
     "functionName": "MultiTouchDrawingPreview",
     "module": "samples:cmp",
     "renderBasename": "MultiTouchDrawingPreview_Multi_Touch_Drawing-8e0044b7.png",
-    "sha256": "62f24aecf1c45872195250dd6479af73c51c10abc55be955695a7a8e4b6e8b74",
+    "sha256": "8c6761b6bccf44c31308a317baa82d0862fc63353b8cad6a23275e6359a08416",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/MultiTouchDrawingPreview.kt"
   },
   "samples:cmp/com.example.samplecmp.MultiTouchDrawingPreviewKt.MultiTouchDrawingSeededPreview_Multi-Touch Drawing \u2014 seeded": {
@@ -1988,7 +1988,7 @@
     "functionName": "MultiTouchDrawingSeededPreview",
     "module": "samples:cmp",
     "renderBasename": "MultiTouchDrawingSeededPreview_Multi_Touch_Drawing_seeded-232bb583.png",
-    "sha256": "06c6659b530f0b64cbdedba15904bfd53b7de6251ff7fe2c980309be307f7653",
+    "sha256": "5c1c262c90836b2299190c50235e1601f952db66fed6ecf0854d39cc472e177a",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/MultiTouchDrawingPreview.kt"
   },
   "samples:cmp/com.example.samplecmp.OverridablePreviewsKt.OverridableListPreview_Overridable List": {
@@ -2020,7 +2020,7 @@
     "functionName": "PinchToZoomPreview",
     "module": "samples:cmp",
     "renderBasename": "PinchToZoomPreview_Pinch_To_Zoom-89759e96.png",
-    "sha256": "19cb3d976741ca4eac79b3d54fa796f2e36bfbe6ecbca17c8eccac082e6f1a0a",
+    "sha256": "2bfc18e3a75a2240ea51eb2e27dde80d9b495beb63dbc196e81168e71d4b102a",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PinchToZoomPreview.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixBackgroundColorPreview_Background colour": {
@@ -2028,7 +2028,7 @@
     "functionName": "MatrixBackgroundColorPreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixBackgroundColorPreview_Background_colour-679eb30e.png",
-    "sha256": "b10b84d19e5211e0bdebc652c7620cd78283cb2804a89ffe0e79e148a2490eab",
+    "sha256": "3284a3e7f794de3820713d33410bdc7dd87c8085cb3759256cbc298cf8d7f7dc",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixComponentWrapPreview_Component wrap": {
@@ -2044,7 +2044,7 @@
     "functionName": "MatrixDeviceSpecPreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixDeviceSpecPreview_Device_spec-d35abb50.png",
-    "sha256": "241c34a77bc1b3155596623a0e59991099477b0b178fbb6911fb4d4f95eafad2",
+    "sha256": "b6b21b363715fa99d9fc3bfa7600c1c67ba5eef9a0adbe5011b7680b22cdeea9",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixFixedBothAxesPreview_Fixed both axes": {
@@ -2052,7 +2052,7 @@
     "functionName": "MatrixFixedBothAxesPreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixFixedBothAxesPreview_Fixed_both_axes-b86c4b8b.png",
-    "sha256": "ac4aabcc24c9e5edf58b6b523bf4d74039ed1ad8c22bbef2d03b24fb41e1b01f",
+    "sha256": "79ad55bb05eb882ae4ee8b4f9286c74a25b0cdf7361f120005ceef0889ed5af3",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixFixedWidthOnlyPreview_Fixed width only": {
@@ -2068,7 +2068,7 @@
     "functionName": "MatrixFoldableDevicePreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixFoldableDevicePreview_Foldable-0f53b96f.png",
-    "sha256": "1edeca0145d300d0c18417f091e0ab52d0e01465b01ecc920407937973e55c10",
+    "sha256": "0041dd3acfcf5caa5659781e169ac751bff0c8f9b98e810b084a494ddc7671a0",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixFontScaleMultiPreview_100%": {
@@ -2132,7 +2132,7 @@
     "functionName": "MatrixFontScalePreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixFontScalePreview_Font_scale_2x-4b1e4685.png",
-    "sha256": "04b8c434172f6d37cbf3e9234e1e65b3042db1bf42cd743ad23e69715e8d1a89",
+    "sha256": "ac26e70de9aece13f280686214303947f9655c6bc11d26bcadec51295fe9e1da",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixLightDarkMultiPreview_Dark": {
@@ -2156,7 +2156,7 @@
     "functionName": "MatrixLightPreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixLightPreview_Day-d3a8124b.png",
-    "sha256": "da0e1b63a1dd024a939092b12bc3ac5a2da04cd3b4a40fce448bfff784a3f731",
+    "sha256": "845d12f29aa2bfd2fbc7c970a757807d71d26cee0e60c7f3dac1154d70efbfa6",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixLocalePreview_German": {
@@ -2164,7 +2164,7 @@
     "functionName": "MatrixLocalePreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixLocalePreview_German-ed4f8c8c.png",
-    "sha256": "57dd1c0155e08486e30dc4aad745865b8d29549b40b4c7422f6119c7e1177958",
+    "sha256": "d2799801f8a71c4b68307d894c844e6bdf0bae951a0a8f00ef81f13522fd9629",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixMetaAnnotationMultiPreview_Meta phone": {
@@ -2172,7 +2172,7 @@
     "functionName": "MatrixMetaAnnotationMultiPreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixMetaAnnotationMultiPreview_Meta_phone-a6665ab6.png",
-    "sha256": "776c97a276d3c1f247e758f20b2902acb3a7c103fc79c18fa458076a6c121eb6",
+    "sha256": "27a8f027f693da06a895dc8b12b62ac46d4f1c182c56452d20f34e9e8141df90",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixMetaAnnotationMultiPreview_Meta watch": {
@@ -2188,7 +2188,7 @@
     "functionName": "MatrixNightPreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixNightPreview_Night-27201657.png",
-    "sha256": "499ada85362be72ec6e0cc1100735c29396498e8b095e352aee3456a87f0a02a",
+    "sha256": "ba72941cee496c3ed95f9d0cae9cdaa548c518eb72b6f2f812871831ac5f07d6",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixParentDeviceSpecPreview_Parent device spec": {
@@ -2196,7 +2196,7 @@
     "functionName": "MatrixParentDeviceSpecPreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixParentDeviceSpecPreview_Parent_device_spec-061402ff.png",
-    "sha256": "0eb8bd6481e1dc21697ba1a82b27e23d98a6b5865717d4ed833e43fc72159e36",
+    "sha256": "2abd5f5a1f6dd12c34294009a29c8dc9c48686f42a8270ca0d9ef226add95b84",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixPhoneDevicePreview_Phone": {
@@ -2204,7 +2204,7 @@
     "functionName": "MatrixPhoneDevicePreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixPhoneDevicePreview_Phone-ccabbf0f.png",
-    "sha256": "15acf841776ea73fb3e7847a4bc6581a1e0025a6930d0ec05a4372211751fab5",
+    "sha256": "512dff21f231d8e1350103b6db900b73815d6430ebd21092a10b4336aeda5a61",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixRotatedDeviceSpecPreview_Rotated device spec": {
@@ -2212,7 +2212,7 @@
     "functionName": "MatrixRotatedDeviceSpecPreview",
     "module": "samples:cmp",
     "renderBasename": "MatrixRotatedDeviceSpecPreview_Rotated_device_spec-b8796029.png",
-    "sha256": "7e6aefa658563c991d9041a74881493688f10872553ac0ea424cedf8930c8ed7",
+    "sha256": "900df802ef4ffe0d86a4f5e65bd76719538c356a6481e3c9ad2d27d5385015a6",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PreviewModeMatrix.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewModeMatrixKt.MatrixWearDevicePreview_Wear": {
@@ -2276,7 +2276,7 @@
     "functionName": "Pixel8SystemUiPreview",
     "module": "samples:cmp",
     "renderBasename": "Pixel8SystemUiPreview_Pixel_8-67f4e782.png",
-    "sha256": "dba51851539d2afb2b813a58943390c9e8410e183d98030085f0090fe1080219",
+    "sha256": "05f03976e1ecd9150745f211a46925dc0bfb28372b3e2d57ee85bab17cdac006",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/Previews.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewsKt.Pixel8SystemUiPreview_Pixel 8 - Night": {
@@ -2284,7 +2284,7 @@
     "functionName": "Pixel8SystemUiPreview",
     "module": "samples:cmp",
     "renderBasename": "Pixel8SystemUiPreview_Pixel_8_Night-750cb3e0.png",
-    "sha256": "7f7c3c2017993fa24436433668c41a8d957f17b0d345f08dce0c711337a57cca",
+    "sha256": "7ec34225ad9f2dba19f07f477e6d1c5ca8d01651ce0b8b2ca7924c811d8ec334",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/Previews.kt"
   },
   "samples:cmp/com.example.samplecmp.PreviewsKt.RedBoxPreview_Red Box": {
@@ -2332,7 +2332,7 @@
     "functionName": "CmpPseudoBidi",
     "module": "samples:cmp",
     "renderBasename": "CmpPseudoBidi_bidi-80c4c080.png",
-    "sha256": "29d40340200354b434110b2e553a6774afa5c62e142937ed4e6fc417a3d6eb50",
+    "sha256": "ba00498456c9024f0a0d587bab59683fda35014f31cbfc9827310760747d4d39",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PseudolocalePreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.PseudolocalePreviewsKt.CmpPseudoDefault_default": {
@@ -2340,7 +2340,7 @@
     "functionName": "CmpPseudoDefault",
     "module": "samples:cmp",
     "renderBasename": "CmpPseudoDefault_default-f4d924f2.png",
-    "sha256": "70f05e2849dcf14fcb19afaf23a17a645dd9b4dcdf81f99361c531fbb5d5679e",
+    "sha256": "da773c6812f5b4bd6b567e1d6b9c07fc14f02d2f50ea09b9061fec539612ae08",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/PseudolocalePreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ScrollingPreviewsKt.ScrollToEndPreview_Scroll To End": {
@@ -2348,7 +2348,7 @@
     "functionName": "ScrollToEndPreview",
     "module": "samples:cmp",
     "renderBasename": "ScrollToEndPreview_Scroll_To_End-cdcf3e68_SCROLL_top.png",
-    "sha256": "ba0d37a28579c23bcbe7668441cc464a3cb374993441e9bb70cfd041739606e6",
+    "sha256": "6ba7c61cbd9af5d57e66bf91017f8801fdb58c385bfe7d375b369fd6d9d0c22b",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ScrollingPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ScrollingPreviewsKt.ScrollToEndPreview_Scroll To End#1": {
@@ -2356,7 +2356,7 @@
     "functionName": "ScrollToEndPreview",
     "module": "samples:cmp",
     "renderBasename": "ScrollToEndPreview_Scroll_To_End-cdcf3e68_SCROLL_end.png",
-    "sha256": "dffebb86ff4fab153ae7d79b8df7850e6ae78212d8ed8a6390b7c767329e3894",
+    "sha256": "ab043670f20ee697eea855d209226583f062ae5cf32e63bb2c8a2a256bfa94db",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ScrollingPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ScrollingPreviewsKt.ScrollToEndThemedPreview_Scroll To End Day": {
@@ -2364,7 +2364,7 @@
     "functionName": "ScrollToEndThemedPreview",
     "module": "samples:cmp",
     "renderBasename": "ScrollToEndThemedPreview_Scroll_To_End_Day-983c16cd.png",
-    "sha256": "3374efb0f80309ac911df0bc1990ce95b00de977488d1561c2dfe9bf727ed640",
+    "sha256": "228855db0c9390e2fa8d7e17eb3f84932915dc30de8a70150114c47e2e72a510",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ScrollingPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ScrollingPreviewsKt.ScrollToEndThemedPreview_Scroll To End Night": {
@@ -2372,7 +2372,7 @@
     "functionName": "ScrollToEndThemedPreview",
     "module": "samples:cmp",
     "renderBasename": "ScrollToEndThemedPreview_Scroll_To_End_Night-7f819083.png",
-    "sha256": "d77264b454271e4596195f34490d71e95ca89daa685269f149b6081cf8411940",
+    "sha256": "d5f223f8ac012ddac1a5e2ba05dd523c262f50cdb887516b884d9bc40769095b",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ScrollingPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ScrollingPreviewsKt.ScrollingListPreview_Scrolling List": {
@@ -2484,7 +2484,7 @@
     "functionName": "ShowBackgroundNoSurfacePreview",
     "module": "samples:cmp",
     "renderBasename": "ShowBackgroundNoSurfacePreview_Day-94854e14.png",
-    "sha256": "101c3cfbea73d2c3337203e6d09af4d1e559db70cbdca1992a8a873e5e72560a",
+    "sha256": "186c40b2efd69b5a749e7afd151b69f87feaf5420c73e008a501d3b98727b9ee",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShowBackgroundNightPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.ShowBackgroundNightPreviewsKt.ShowBackgroundNoSurfacePreview_Night": {
@@ -2492,7 +2492,7 @@
     "functionName": "ShowBackgroundNoSurfacePreview",
     "module": "samples:cmp",
     "renderBasename": "ShowBackgroundNoSurfacePreview_Night-9334846c.png",
-    "sha256": "d8a6575265701cc186d8bf1eeb5f32be6e9d4e80a68c65465ec480c2bc6316c7",
+    "sha256": "b5a95b2683c5c1a580e8e9518604c1b9df641a6bcae9e1a205ab3b69801b13f5",
     "sourceFile": "src/main/kotlin/com/example/samplecmp/ShowBackgroundNightPreviews.kt"
   },
   "samples:cmp/com.example.samplecmp.SvgPreviewsKt.SvgBadgePreview": {
@@ -2516,7 +2516,7 @@
     "functionName": "lottie/spin.json",
     "module": "samples:cmp",
     "renderBasename": "lottie__lottie_spin.png",
-    "sha256": "854c8ead2f4c35f34b9f3f00c0a62888f70a44dea360fa10717fc4f94bf16a5b",
+    "sha256": "b9495f9d5f359472fbabbffab6c329fdd063cf3c370313573baab28836295ce9",
     "sourceFile": null
   },
   "samples:cmp/lottie__lottie_spin#1": {
@@ -2524,7 +2524,7 @@
     "functionName": "lottie/spin.json",
     "module": "samples:cmp",
     "renderBasename": "lottie__lottie_spin_animated.png",
-    "sha256": "459bd52a6b917978f12c365b8540ca45c5028c373f17a77fc48e6a3863ebb1e1",
+    "sha256": "bdb33c85f42e2d3b7bbdddec8b76c0c3de282c1599b230ee40a6cd8ae54d1820",
     "sourceFile": null
   },
   "samples:cmp/svg__svg_badge": {
@@ -2532,7 +2532,7 @@
     "functionName": "svg/badge.svg",
     "module": "samples:cmp",
     "renderBasename": "svg__svg_badge.png",
-    "sha256": "3cb163e79ad2cbd3bf6b38bc1b6c256374d426a498d61c91e32e63c3f1513fe5",
+    "sha256": "677cdc4d79d7f9a9fde10dc285f012b6827b0199eb2501d1c7ee1464fb0fa57b",
     "sourceFile": null
   },
   "samples:cmp/svg__svg_star": {
@@ -2540,7 +2540,7 @@
     "functionName": "svg/star.svg",
     "module": "samples:cmp",
     "renderBasename": "svg__svg_star.png",
-    "sha256": "1f8da3a55c1d8f8347176d755e4505d857a5d6e20a1b11be161bb892f86e2d3d",
+    "sha256": "78e816c31bd835b8e4841cb2ce1e73d3534bb9f406e0009c467f9ab236746c6e",
     "sourceFile": null
   },
   "samples:design-catalog-m3-android/com.example.designcatalogm3android.FocusRingKt.FilledButtonFocused_Dark": {
@@ -2796,7 +2796,7 @@
     "functionName": "SwitchOn",
     "module": "samples:design-catalog-m3",
     "renderBasename": "SwitchOn_Dark-d0f22b72.apng",
-    "sha256": "39109796a1495428bdb3334df7baaf542aafc03c10e162539465a44c9d766265",
+    "sha256": "910a95b4a5d66aa7c84aa2cafda4f4102282f3b2af0061d0c710c955c13282d9",
     "sourceFile": "src/main/kotlin/com/example/designcatalogm3/CatalogSelection.kt"
   },
   "samples:design-catalog-m3/com.example.designcatalogm3.CatalogSelectionKt.SwitchOn_Dark_VARIANT_off": {
@@ -2820,7 +2820,7 @@
     "functionName": "SwitchOn",
     "module": "samples:design-catalog-m3",
     "renderBasename": "SwitchOn_Light-c16813d5.apng",
-    "sha256": "51733ae6ff3794bc02c88393a26b1a574be97719e6fcc08b6df251623e3aa404",
+    "sha256": "4c99a2002d18f3870541af089bd71e8b02f69926b01080e80787cad8b6c45900",
     "sourceFile": "src/main/kotlin/com/example/designcatalogm3/CatalogSelection.kt"
   },
   "samples:design-catalog-m3/com.example.designcatalogm3.CatalogSelectionKt.SwitchOn_Light_VARIANT_off": {
@@ -2900,7 +2900,7 @@
     "functionName": "AppScaffoldTemplate",
     "module": "samples:design-catalog-m3",
     "renderBasename": "AppScaffoldTemplate_Dark-620c9d61.png",
-    "sha256": "698c4f98400f19c14c5346f57a79881b1cd8ece4053a8f667ee86080421ceb10",
+    "sha256": "31d29b18085a659fcb844907b5d73e1e2dedc049617328f930a22098e729f448",
     "sourceFile": "src/main/kotlin/com/example/designcatalogm3/CatalogTemplates.kt"
   },
   "samples:design-catalog-m3/com.example.designcatalogm3.CatalogTemplatesKt.AppScaffoldTemplate_Light": {
@@ -2908,7 +2908,7 @@
     "functionName": "AppScaffoldTemplate",
     "module": "samples:design-catalog-m3",
     "renderBasename": "AppScaffoldTemplate_Light-8f254cf4.png",
-    "sha256": "b9f8afc77008c07f0dd2f9ed2a7b539a1b506c4de69b446f4228b56ec356651a",
+    "sha256": "14a82d7db39f8b026774faef1e17adcaf5ef3c0d8ddaf05f44061b0ecc0e60bd",
     "sourceFile": "src/main/kotlin/com/example/designcatalogm3/CatalogTemplates.kt"
   },
   "samples:design-catalog-m3/com.example.designcatalogm3.CatalogTextFieldsKt.TextFieldSticker_Dark": {
