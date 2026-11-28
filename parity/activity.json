@@ -1,11 +1,363 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-24T13:58:05.165Z",
+  "generatedAt": "2026-11-28T03:16:35.528Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ai-tools",
     "ref": "main",
     "events": [
+      {
+        "sha": "a110c0a3443bb0efcfe4ed8b394bb0676847872d",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v4 (#6732)",
+        "at": "2026-11-28T03:09:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8ab731cadc7288d7055a1585b6ea1bc22c38c304",
+        "subject": "chore(deps): bump the actions-minor group with 4 updates (#6733)",
+        "at": "2026-11-28T03:02:26Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ae16a7189ebc69718e945340467d0d6879d16cfa",
+        "subject": "feat(simulator): curve Wear GSB along 12 o'clock arc with cached Google Sans Flex (#6740)",
+        "at": "2026-11-27T23:08:18Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bf829144b3437d0ec709db6839b8abfb2734c86a",
+        "subject": "refactor(simulator): split simulator-host into core, wearable, mobile, and wear modules (#6743)",
+        "at": "2026-11-27T23:01:01Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3aef2b1ae5dc3ea06a402924fe13877416b567b5",
+        "subject": "feat(simulator): add comprehensive Wear Health Services support (#6742)",
+        "at": "2026-11-27T22:56:26Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d75e9c70519121278052a17049e350c918e33498",
+        "subject": "chore(deps): update eclipse-temurin docker tag to v17.0.21.1_2-jdk (#6739)",
+        "at": "2026-11-27T21:19:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "77ff794a44db84f62a3a6b8864d85ecd9d4932dd",
+        "subject": "feat: add Wear OS global status bar support to simulator (#6738)",
+        "at": "2026-11-27T21:14:26Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a0a611e4b66a1ef675d578a58df931fb47cf05e4",
+        "subject": "fix(deps): update dependency com.android.tools.build:gradle to v9.5.2 (#6735)",
+        "at": "2026-11-27T16:47:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "80efe63f08933c834cffd5bab335bd170c7d628c",
+        "subject": "fix(deps): update dependency com.android.tools.emulator:proto to v32.5.2 (#6736)",
+        "at": "2026-11-27T16:46:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "04ebbcb72b9642d28dc9cb9266882f99490ca55d",
+        "subject": "chore(deps): update agp to v9.5.2 (#6734)",
+        "at": "2026-11-27T16:41:58Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "171b7ff78eaa13111c1da5894aa3c02ff9d8450b",
+        "subject": "fix(deps): update androidx-compose (#6724)",
+        "at": "2026-11-27T03:36:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2bccb0a0edb328382018be5181f006d635518da7",
+        "subject": "chore(renovate): skip compose-bom 2026.11 and compose 1.13 (#6728)",
+        "at": "2026-11-27T03:30:03Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3f35651bfff52f9129fab519eb0da3365bcb7710",
+        "subject": "chore(deps): update gradle to v9.9.2 (#6725)",
+        "at": "2026-11-27T03:18:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aa9810027161254ef7b5323679d38f4d08a5480e",
+        "subject": "fix(deps): update dependency com.google.android.gms:play-services-basement to v18.12.1 (#6726)",
+        "at": "2026-11-27T03:08:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "67f362c89e791508124c1a88e841b7b5bbf789bb",
+        "subject": "chore(deps): bump the actions-minor group with 2 updates (#6721)",
+        "at": "2026-11-27T03:02:56Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7cc06f604c25d4791d542688a1fd4820363bae84",
+        "subject": "fix(deps): update dependency org.gradle:gradle-tooling-api to v9.9.2 (#6727)",
+        "at": "2026-11-26T21:54:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f2c307e58c09468ba03a9dcfeee3e90a6e076a49",
+        "subject": "ci: add twice-daily external PR and issue watcher (#6722)",
+        "at": "2026-11-26T21:41:15Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1082de564f9da82d74fe05ad9721f20f28d1ea22",
+        "subject": "feat(gradle-plugin): emit module jvmTarget in btaCompile and daemon sysprops (#6720)",
+        "at": "2026-11-26T21:30:21Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fd0e1f4e46c69a8b1257abd986c4f3a55833ee6c",
+        "subject": "fix(gradle-plugin): include buildSrc and included builds in sourceWatch.buildFiles (#6718)",
+        "at": "2026-11-26T21:30:15Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c8cdbc0c06b3ab755811036c8d9a86527760ad29",
+        "subject": "fix(deps): update androidx-wear to v1.7.2 (#6723)",
+        "at": "2026-11-26T20:16:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "19eac4b1aaae8f4de621819976ed98c70706c1ae",
+        "subject": "chore: update the host-natives index and AndroidX survey (#6716)",
+        "at": "2026-11-26T09:30:17Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1d69477fe34f2f74d47522c080cee78404fa8d8a",
+        "subject": "ci: move the AdaptiveJetStream XR patch to androidx.xr.compose 1.0.0-rc01 (#6719)",
+        "at": "2026-11-26T09:15:30Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9b9b1689dfce53ce18137ed20b30a9a30c096a11",
+        "subject": "feat: simulator instrumentation runs honour the test runner's application, start at API 33, and find Google samples' tests (#6717)",
+        "at": "2026-11-26T08:37:47Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2939867e2428036da2e7d8e57b4787866b3c5c2f",
+        "subject": "feat: app-hosted widgets, frame-commit callbacks and am wait-for-broadcast-idle in the simulator (#6715)",
+        "at": "2026-11-26T06:52:29Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9e34a8d802f3557852e6e109027a8b4519b26e2a",
+        "subject": "fix(deps): update robolectric to v4.18.1 (#6707)",
+        "at": "2026-11-26T03:28:27Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "16d56e1df90e7e35fe8f1adaf4c59fc913f1ec66",
+        "subject": "chore(deps): bump the actions-minor group with 3 updates (#6711)",
+        "at": "2026-11-26T03:02:27Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9eaca9ab0738f7886328c27aed9006c4a5d917e4",
+        "subject": "fix(deps): update androidx to v1.0.0-rc01 (#6714)",
+        "at": "2026-11-25T20:45:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "780e6c39d2bc0bfc4da27ab3b95d2218ee29199e",
+        "subject": "ci: plan the release PR head, not FETCH_HEAD after the tag fetch (#6712)",
+        "at": "2026-11-25T20:35:00Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a03c9d3a8a5fc9a76c4d71230f0a1ea526beed79",
+        "subject": "feat: honour @SdkSuppress in simulator instrumentation runs; fix enum InnerClasses flags; optional XR stays a phone (#6713)",
+        "at": "2026-11-25T20:22:01Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c6ab7a06fdfddd074fe66d9b02807a68ee62ff42",
+        "subject": "feat: UiAutomator and PixelCopy in simulator instrumentation runs; the simulated clock keeps up with real time (#6710)",
+        "at": "2026-11-25T09:33:14Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "197831f48960fbc0b71784c951f811afbe249613",
+        "subject": "build: unpin CMP 1.12 / Gradle 9.9.1 and enforce client compatibility floors (#6709)",
+        "at": "2026-11-25T07:44:53Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b5637cc4c2713cceade842d39cb83ee43af0f52e",
+        "subject": "feat: faster simulator instrumentation runs: remembered setup, --shards, --pool (#6708)",
+        "at": "2026-11-25T07:24:14Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6e258d4e022b72e489564bc1276e0181cdd8f787",
+        "subject": "refactor: simulator shadows and media in their own packages; host codec and seek fixes (#6706)",
+        "at": "2026-11-25T05:15:30Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b438de14121296577c4fc77fa1a35f9efc2b2a39",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.47.0 (#6698)",
+        "at": "2026-11-25T03:17:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d1477dbb34a9603dd22fb00751d4e6e42113f868",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.104.0 (#6705)",
+        "at": "2026-11-24T22:58:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0f67022152b54c196c8f1b8070ac590d26042bc3",
+        "subject": "feat: audio files and codecs in the simulator, test-APK context and assets (#6703)",
+        "at": "2026-11-24T22:51:22Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6b6fe42c97f447fa846e5a0114083819165b2fa6",
+        "subject": "chore(main): release 2.104.0 (#6699)",
+        "at": "2026-11-24T22:15:52Z",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1e302832b783bfbf8788dc69a62cc6f83a250824",
+        "subject": "chore(deps): bump the actions-minor group with 2 updates (#6694)",
+        "at": "2026-11-24T22:15:39Z",
+        "author": "dependabot[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "460c32512a8e072def077aa98aef9a0ce98e2f10",
+        "subject": "feat: simulatorDebugAndroidTest runs androidTest suites in the simulator from Gradle (#6702)",
+        "at": "2026-11-24T21:40:06Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1fc9933f8547f473e2231deaf32961ccb9aa8678",
+        "subject": "fix(discovery): keep a container sticker's target when its name singles the container out (#6701)",
+        "at": "2026-11-24T17:25:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5bd2a7dac4c2910d7b0d0a1436f3c00f728fe60b",
+        "subject": "feat: run androidTest APKs in the simulator (prototype) (#6700)",
+        "at": "2026-11-24T17:10:46Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "facc27919004be7345d9ae09f9bc7f023b45ccc9",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.29.1 (#6697)",
+        "at": "2026-11-24T14:32:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c4a961f82e0e8d827cacdf86e1a3305c4e4bef3c",
+        "subject": "chore(ci): update the design-artifacts export driver to v2.103.1 (#6696)",
+        "at": "2026-11-24T14:03:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d6abda896f84faa8f1c50510b6545c05a76950cd",
+        "subject": "chore: remove usage-source-psi module and stale spatial-scene schema (#6693)",
+        "at": "2026-11-24T13:54:08Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8911ffd9bc1b03dfcf478b90dd56a4818232c968",
         "subject": "chore(deps): update dependency yschimke/compose-preview-xr to v2.0.6 (#6695)",
@@ -131,358 +483,6 @@
         "subject": "chore(deps): update dependency yschimke/compose-preview-xr to v2.0.5 (#6679)",
         "at": "2026-11-21T16:43:36Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "28f5c565b27ac9b62f087ff69fc8c42c8d9899b1",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.2 (#6676)",
-        "at": "2026-11-21T13:59:48Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2f91b8e3b158d70919e9926ce46f26fd348c1319",
-        "subject": "feat: add reusable compose-preview workflows and speed up apply (#6677)",
-        "at": "2026-11-21T13:16:26Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3278efa94bbdd0a069e4eb979e65a32395fcfe7a",
-        "subject": "chore(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.10.0 (#6675)",
-        "at": "2026-11-21T10:42:23Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "625bbbb49c11c81e8a2f4fe4ab18a7c89dd87df3",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.10.0 (#6674)",
-        "at": "2026-11-21T10:33:00Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "545af1bc96352a7cc79b1c98c7425b1c82f73760",
-        "subject": "chore(renovate): skip org.robolectric:robolectric 4.18 (#6673)",
-        "at": "2026-11-21T10:04:14Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "92d830c024caaaeb1f5884d9fd334d373495287f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.45.0 (#6671)",
-        "at": "2026-11-21T03:37:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "11ec6b10ab3ae4eabb19aa9c5b873f4e1b7b7e39",
-        "subject": "fix(deps): update dependency com.github.luben:zstd-jni to v1.5.7-28 (#6670)",
-        "at": "2026-11-21T03:35:06Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2d1cd9f59d6c03ea7d71fc38aee3916f1723e9f1",
-        "subject": "chore(deps): bump anthropics/claude-code-action from 1.0.271 to 1.0.275 in the actions-minor group (#6666)",
-        "at": "2026-11-21T03:06:11Z",
-        "author": "dependabot[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2b86dcbc50b7660bf457acf689e44adb3a84e2d8",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.102.0 (#6667)",
-        "at": "2026-11-20T10:51:00Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8ff15a271fddedc1223398f9928d9c338e324f97",
-        "subject": "chore(deps): update docker/dockerfile docker tag to v1.29 (#6650)",
-        "at": "2026-11-20T06:50:40Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ba02c5a4b521a092bd242895a078fdd844560bd0",
-        "subject": "chore(main): release 2.102.0 (#6659)",
-        "at": "2026-11-20T06:22:18Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2f76f51758a9fc50ca97afa02c2c403b418b9528",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:rc-players-bom to v3.9.0 (#6662)",
-        "at": "2026-11-20T04:18:48Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4c0e469ecdf908baef616b957978f3af75e0c103",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.1 (#6664)",
-        "at": "2026-11-20T03:42:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fa76179e632a3fa78799cdc5f13ad7c635529380",
-        "subject": "fix(simulator): harden CLI/ADB concurrency, host lifecycle, platform emulation, and Wear state (#6663)",
-        "at": "2026-11-20T01:05:23Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "719900d99a9ccc6aa00affec92425ea9d64b20ab",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.101.1 (#6661)",
-        "at": "2026-11-20T00:19:32Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ca1b3ef98272036447efc953893b07d1c62e60ea",
-        "subject": "fix(simulator): measure live-frame allocations on the main drawing thread (#6660)",
-        "at": "2026-11-20T00:18:04Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "200973f777b9ea9671b16985037786dc173b7b6d",
-        "subject": "chore: update the host-natives index and AndroidX survey (#6652)",
-        "at": "2026-11-20T00:00:18Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ee7bf768d01f1d313125ed5791ff747e5de5f644",
-        "subject": "fix(dwf-remote-compose): support the WFF v2 hour, minute and second digit sources (#6655)",
-        "at": "2026-11-19T23:56:46Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ff1aea7c299103dc458481006e697921f6a6cf15",
-        "subject": "feat(simulator): add WatchFaceFrameCostProfiler for per-frame draw, animation churn, and ambient OPR/burn-in profiling (#6658)",
-        "at": "2026-11-19T23:55:11Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "92a05af09992b501578b17a4501507f3923c84ba",
-        "subject": "chore(main): release 2.101.1 (#6654)",
-        "at": "2026-11-19T22:43:11Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bcf7f51b7e0d0cea3968526b9dfdc1943b522c68",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.44.0 (#6657)",
-        "at": "2026-11-19T22:38:49Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "03206538da0b5afb554b4e6634a5881cbcbd682a",
-        "subject": "fix(render-host): report the DWF APK daemon's exit status and stderr, and cap its heap (#6656)",
-        "at": "2026-11-19T22:27:09Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dccd003aada603bb3a46c9d6e18a7110006795bf",
-        "subject": "fix(deps): update roborazzi to v1.79.0 (#6653)",
-        "at": "2026-11-19T09:27:00Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "14202ec4a0cbf6ffbb03931c2938c7996cfbc726",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.101.0 (#6651)",
-        "at": "2026-11-19T01:24:56Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e84355a48d27d8ee21a6eedd425560fd9b2889cb",
-        "subject": "chore(main): release 2.101.0 (#6648)",
-        "at": "2026-11-19T01:05:47Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "86fadda957ed9fe942dc0afe0448b3aa72565fb1",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.100.0 (#6649)",
-        "at": "2026-11-18T23:59:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "abda973f9557c220e348b90d8e2e45898543eb0a",
-        "subject": "feat(bundle): carry each watch face's WFF source bundle and licence (#6647)",
-        "at": "2026-11-18T23:52:34Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8fdbf5b20fcd4051ac72bd6fa85c9aea3c2dc432",
-        "subject": "chore(main): release 2.100.0 (#6646)",
-        "at": "2026-11-18T21:03:11Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "aec3ae04b4b28d0a108fa2c6157896637db6f581",
-        "subject": "feat(render-host): export the DWF simulator launcher (#6643)",
-        "at": "2026-11-18T20:22:14Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "42b6b4623c38f2e7b898062ad44757992986dcb3",
-        "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.13.0 (#6645)",
-        "at": "2026-11-18T20:16:23Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "42cad46fef3aff5f67c9288bd84e969528a44502",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.99.3 (#6644)",
-        "at": "2026-11-18T19:56:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e5992cd143eb8ebc43390a611c174181e62b8c48",
-        "subject": "chore(main): release 2.99.3",
-        "at": "2026-11-18T18:21:52Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e35b77f5452b3fff9e76a976e99b3732461899de",
-        "subject": "fix(dwf-apk): bridge requests name their whole state and wait for their frame (#6642)",
-        "at": "2026-11-18T18:21:01Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c2ee4e1f061c0ff7f25ea0953407f7e9876a6488",
-        "subject": "fix(dwf-apk): create runtime instances one at a time and keep the runtime's services bound (#6641)",
-        "at": "2026-11-18T18:16:44Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e376c9bbab99d198dec157da7a2fe6883df4ccae",
-        "subject": "fix(dwf-apk): release an instance the runtime hands back after its client was released (#6640)",
-        "at": "2026-11-18T17:45:02Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2df11c01d35f015c3ee2b380854e7fbf4aa1ced1",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.99.2 (#6639)",
-        "at": "2026-11-18T17:31:09Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f636397b42039f44b38998135541746fb87d682e",
-        "subject": "fix(dwf-rc): apply a requested watch-face flavor (#6637)",
-        "at": "2026-11-18T17:29:24Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e3b07e32d913840fa6065708c5621fc1c604a76b",
-        "subject": "chore(main): release 2.99.2",
-        "at": "2026-11-18T16:10:11Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "99fff5bf81521ddd3b606ca0c47da6222a44e8a0",
-        "subject": "fix(dwf-apk): wait for the wallpaper engine so a pushed face gets live frames (#6635)",
-        "at": "2026-11-18T16:08:25Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e2661244fd9ba5f455e17d7f96c903167c0343ab",
-        "subject": "chore(ci): update the design-artifacts export driver to v2.99.1 (#6634)",
-        "at": "2026-11-18T15:09:24Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ef6fc3613c826a84fa7d53f42c062196895843cf",
-        "subject": "chore(main): release 2.99.1 (#6633)",
-        "at": "2026-11-18T15:06:57Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "46d37037659ada50c588993d5f406606a7c9626e",
-        "subject": "fix: make compiled watch faces playable in the browser CMP player (#6632)",
-        "at": "2026-11-18T14:53:16Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "549e3a0c007ccf2fd4aa6df3d9a9f06ab2633765",
-        "subject": "chore(main): release 2.99.0",
-        "at": "2026-11-18T14:32:21Z",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "af52a3c874d265f7e74fb5602de1439482e88967",
-        "subject": "fix(dwf-apk): release the live frame reader when attaching fails (#6631)",
-        "at": "2026-11-18T14:28:43Z",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
