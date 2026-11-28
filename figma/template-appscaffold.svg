@@ -91,7 +91,7 @@
               </g>
             </g>
             <g id="Box">
-              <image href="template-appscaffold.figma-raster/342.png" x="0" y="0" width="1078" height="231"/>
+              <image href="template-appscaffold.figma-raster/345.png" x="0" y="0" width="1078" height="231"/>
               <g id="TopAppBar">
                 <g id="Box">
                 </g>
@@ -101,10 +101,6 @@
                 <g id="Row">
                 </g>
               </g>
-            </g>
-            <g id="Box">
-            </g>
-            <g id="Box">
             </g>
             <g id="Box" filter="url(#shadow-16)">
               <rect x="889" y="2147" width="147" height="147" rx="42" ry="42" fill="#EADDFF"/>

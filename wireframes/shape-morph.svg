@@ -32,7 +32,10 @@
     <rect x="409" y="520" width="11" height="116" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M414.5,520 H414.5 A5.5,5.5 0 0 1 420,525.5 V630.5 A5.5,5.5 0 0 1 414.5,636 H414.5 A5.5,5.5 0 0 1 409,630.5 V525.5 A5.5,5.5 0 0 1 414.5,520 Z" fill="#6750A4" fill-opacity="1" stroke="#7A7A33" stroke-width="1.5" stroke-opacity="1"/>
+    <rect x="409" y="520" width="11" height="116" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M414.5,520 H414.5 A5.5,5.5 0 0 1 420,525.5 V630.5 A5.5,5.5 0 0 1 414.5,636 H414.5 A5.5,5.5 0 0 1 409,630.5 V525.5 A5.5,5.5 0 0 1 414.5,520 Z" fill="#6750A4" fill-opacity="1" stroke="#5B6470" stroke-width="1.5" stroke-opacity="1"/>
   </g>
   <g>
     <rect x="42" y="641" width="743" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
